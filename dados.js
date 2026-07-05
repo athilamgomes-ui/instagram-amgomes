@@ -1,7 +1,7 @@
 // Gerado automaticamente por coleta_instagram.mjs — NÃO EDITAR NA MÃO
 const DADOS_IG = {
- "coletadoEm": "2026-07-05T17:07:26.417Z",
- "coletadoEmBR": "05/07/2026, 14:07:26",
+ "coletadoEm": "2026-07-05T17:15:08.339Z",
+ "coletadoEmBR": "05/07/2026, 14:15:08",
  "lojas": [
   {
    "codigo": "L5",
@@ -6248,5 +6248,46 @@ const DADOS_IG = {
    "seguidores": 8545,
    "posts": 616
   }
- ]
+ ],
+ "metas": {
+  "definidoEm": "2026-07-05",
+  "observacao": "Metas iniciais de reativação — editar conforme evolução. Baseline: 8.545 seguidores em 05/07/2026.",
+  "porLoja": {
+   "L5": {
+    "seguidores": {
+     "baseline": 8545,
+     "meta30d": 8700,
+     "meta90d": 9200
+    },
+    "postsPorSemana": {
+     "meta": 3
+    },
+    "storiesPorSemana": {
+     "meta": 10
+    },
+    "engajamentoMedio": {
+     "baselinePct": 0.49,
+     "metaPct": 1.5
+    },
+    "dmsRespondidas": {
+     "metaHoras": 24
+    }
+   }
+  }
+ },
+ "concorrentes": {
+  "atualizadoEm": "2026-07-05",
+  "observacao": "Monitoramento manual/via Claude (Instagram não tem API pública de concorrentes). Atualizar quinzenalmente pedindo ao Claude: 'atualize o monitoramento de concorrentes do dashboard Instagram'.",
+  "santarem": [
+   {
+    "perfil": "(preencher — ex.: perfumaria/cosméticos concorrente em Santarém)",
+    "seguidores": null,
+    "postsUltimos30d": null,
+    "formatoDominante": "",
+    "observacoes": "Aguardando primeiro levantamento"
+   }
+  ],
+  "altamira": [],
+  "itaituba": []
+ }
 };
