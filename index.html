@@ -64,6 +64,17 @@ h3.sub { font-size: .9rem; margin-bottom: 10px; color: var(--muted); font-weight
 .dia-plano.forte { border-top-color: var(--accent); }
 .dia-plano .dia { font-weight: 700; font-size: .85rem; }
 .dia-plano .sug { font-size: .78rem; color: var(--muted); margin-top: 6px; line-height: 1.45; }
+.plano-header { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
+.btn-agendar { display: inline-block; background: #1877f2; color: #fff; font-weight: 700; font-size: .82rem;
+  padding: 9px 14px; border-radius: 9px; text-decoration: none; white-space: nowrap; }
+.btn-agendar:hover { filter: brightness(1.12); }
+.legendas { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; margin-top: 10px; }
+.legenda-card { background: var(--card2); border-radius: 10px; padding: 12px; border: 1px solid var(--border); display: flex; flex-direction: column; }
+.legenda-card .lc-titulo { font-weight: 700; font-size: .82rem; margin-bottom: 8px; }
+.legenda-card pre { font-family: inherit; font-size: .78rem; color: var(--muted); white-space: pre-wrap; line-height: 1.5; flex: 1; margin: 0 0 10px; }
+.btn-copiar { align-self: flex-start; background: transparent; border: 1px solid var(--accent); color: var(--accent);
+  font-size: .75rem; font-weight: 700; padding: 6px 12px; border-radius: 8px; cursor: pointer; }
+.btn-copiar:hover { background: var(--accent); color: #fff; }
 .badge { display: inline-block; padding: 2px 8px; border-radius: 6px; font-size: .7rem; font-weight: 700; margin-top: 6px; }
 .badge.reels { background: rgba(225,48,108,.2); color: #ff6b9d; }
 .badge.feed { background: rgba(52,152,219,.2); color: #6bb9f0; }
@@ -145,6 +156,9 @@ function classificarTema(legenda) {
   for (const t of TEMAS) if (t.regex.test(legenda || '')) return t;
   return { chave: 'outro', nome: '📌 Outros' };
 }
+// IDs públicos das Páginas FB (abre o Planner do Business Suite da loja certa)
+const PAGE_IDS = { L1: '271167596379346', L4: '2152437001676475', L5: '432919069914495' };
+const CIDADES = { L1: 'Altamira', L3: 'Itaituba', L4: 'Altamira', L5: 'Santarém' };
 // Engajamento ponderado: comentário > salvo > compartilhamento > curtida (intenção crescente)
 function engaj(p) {
   return (p.curtidas || 0) + (p.comentarios || 0) * 3 +
@@ -407,15 +421,29 @@ function renderLoja(loja) {
   }
 
   // Plano de postagem
+  const pageId = PAGE_IDS[loja.codigo];
   html += `<section><h2>📅 Plano de postagem da semana</h2><div class="card">
-    <p style="font-size:.83rem;color:var(--muted);margin-bottom:12px">Gerado a partir do desempenho histórico da conta: melhores dias são <b>${melhoresDias.map(i => DIAS_PT[i]).join(', ')}</b>. Dias com borda rosa = prioridade.</p>
+    <div class="plano-header">
+      <p style="font-size:.83rem;color:var(--muted);margin:0">Gerado a partir do desempenho histórico da conta: melhores dias são <b>${melhoresDias.map(i => DIAS_PT[i]).join(', ')}</b>. Dias com borda rosa = prioridade.</p>
+      ${pageId ? `<a class="btn-agendar" href="https://business.facebook.com/latest/planner?asset_id=${pageId}" target="_blank" rel="noopener">🗓️ Agendar no Business Suite</a>` : ''}
+    </div>
     <div class="plano">${plano.map(d => `
       <div class="dia-plano ${d.forte ? 'forte' : ''}">
         <div class="dia">${d.dia}</div>
         <div class="sug">${d.sugestao}</div>
         ${d.badges.map(b => `<span class="badge ${b.toLowerCase()}">${b}</span>`).join(' ')}
       </div>`).join('')}
-    </div></div></section>`;
+    </div>
+    <h3 class="sub" style="margin-top:18px">✍️ LEGENDAS PRONTAS — copiar, trocar os [CAMPOS] e agendar</h3>
+    <div class="legendas">${legendasSugeridas(loja, temasTop.map(t => t[0])).map(l => `
+      <div class="legenda-card">
+        <div class="lc-titulo">${l.titulo}</div>
+        <pre>${l.texto}</pre>
+        <button class="btn-copiar" onclick="copiarLegenda(this)">📋 Copiar legenda</button>
+      </div>`).join('')}
+    </div>
+    <p class="nota">Fluxo: copiar a legenda → criar a arte no Canva → colar tudo no Planner do Business Suite (botão azul acima) e escolher data/hora. O post sai sozinho no Instagram e no Facebook.</p>
+    </div></section>`;
 
   // O que funcionou
   html += `<section><h2>🏆 O que funcionou nesta conta</h2><div class="duas-colunas">
@@ -544,6 +572,80 @@ function gerarPlano(melhoresDias, temasTop, metas) {
     plano.push({ dia: DIAS_PT[d].charAt(0).toUpperCase() + DIAS_PT[d].slice(1), forte, sugestao, badges });
   }
   return plano;
+}
+
+// ─── Legendas prontas por tema (alinhadas às sugestões do plano) ─────────────
+function legendasSugeridas(loja, temaNomes) {
+  const cidade = CIDADES[loja.codigo] || '';
+  const tag = cidade.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  const arroba = '@' + loja.perfil.username;
+  const cards = [];
+
+  if (temaNomes.includes('🎁 Sorteio')) {
+    cards.push({ titulo: '🎁 Sorteio (conteúdo nº1 desta conta)', texto:
+`🎁 SORTEIO NO AR! Quer ganhar [PRODUTO]?
+
+Pra participar é fácil:
+1️⃣ Siga ${arroba}
+2️⃣ Curta este post
+3️⃣ Marque 2 amigas nos comentários (quanto mais comentários, mais chances!)
+
+Resultado dia [DATA] aqui nos stories. Boa sorte! 🍀
+
+#sorteio #${tag} #cosmeticos` });
+  } else {
+    cards.push({ titulo: '🏷️ Produto em oferta', texto:
+`🏷️ SÓ ESSA SEMANA: [PRODUTO] por apenas R$ [PREÇO]!
+
+Corre que é por tempo limitado — o estoque tá voando 🏃‍♀️💨
+
+💬 Chama no direct pra reservar o seu
+📍 ${loja.nome} · ${cidade}
+
+#promocao #${tag} #beleza` });
+  }
+
+  cards.push({ titulo: '✨ Reels "chegou na loja"', texto:
+`✨ CHEGOU NA LOJA! 😍
+
+Acabou de desembarcar: [PRODUTO/MARCA]. A gente mal recebeu e já quer levar tudo pra casa 🤭
+
+Vem conferir de pertinho ou chama no direct que a gente separa o seu 💕
+
+📍 ${loja.nome} · ${cidade}
+#novidade #${tag} #cosmeticos` });
+
+  cards.push({ titulo: '💡 Dica/Tutorial (gera salvamentos 🔖)', texto:
+`💡 DICA DE ESPECIALISTA — salva esse post! 🔖
+
+Você sabia que [DICA — ex.: água muito quente resseca os fios]?
+
+✅ O jeito certo: [PASSO A PASSO CURTO]
+
+Ficou com dúvida? Comenta aqui que a gente responde 👇
+
+#dicadebeleza #${tag}` });
+
+  cards.push({ titulo: '🛍️ Kit/combo da semana', texto:
+`🛍️ COMBO DA SEMANA: [PRODUTO 1] + [PRODUTO 2] com preço especial!
+
+A dupla perfeita pra [BENEFÍCIO — ex.: hidratação profunda] 💕
+
+💬 Chama no direct e garanta o seu antes que acabe!
+📍 ${loja.nome} · ${cidade}
+
+#combo #${tag} #beleza` });
+
+  return cards;
+}
+
+function copiarLegenda(btn) {
+  const txt = btn.closest('.legenda-card').querySelector('pre').innerText;
+  navigator.clipboard.writeText(txt).then(() => {
+    const original = btn.textContent;
+    btn.textContent = '✅ Copiada!';
+    setTimeout(() => { btn.textContent = original; }, 1800);
+  });
 }
 
 // ─── Inicialização ────────────────────────────────────────────────────────────

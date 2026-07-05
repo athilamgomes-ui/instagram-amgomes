@@ -76,6 +76,16 @@ Para a L3: criar Página FB + IG business da loja (ou obter admin da existente) 
 - `historico_seguidores.json` — série temporal própria (1 ponto por coleta/dia; API não dá histórico)
 - `dados.js` — gerado; nunca editar na mão
 
+## Fluxo de execução da Ana Lídia (definido 05/07/2026)
+
+Dashboard = estratégia · **Canva** = arte · **Meta Business Suite (Planner)** = agendamento automático.
+No plano de postagem de cada loja há: botão **"🗓️ Agendar no Business Suite"** (abre o Planner
+da Página certa via `PAGE_IDS` hardcoded no index.html — IDs públicos, ok em repo público) e
+**legendas prontas por tema** (botão copiar; campos [PRODUTO]/[PREÇO] a preencher). Legendas se
+adaptam: se "🎁 Sorteio" está nos temas top da conta, o 1º card é sorteio, senão oferta.
+L3 sem Página → sem botão. Lovable NÃO gera imagens (é builder de apps) — explicado ao Athila 05/07.
+Fase 2 possível: publicar direto pelo painel via `instagram_content_publish` (não implementado).
+
 ## Regras herdadas do padrão da casa
 
 - Timestamp exibido = o da coleta, estático, escrito pelo pipeline (regra do "timestamp mentiroso").
