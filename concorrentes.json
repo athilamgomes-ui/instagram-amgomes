@@ -1,0 +1,15 @@
+{
+  "atualizadoEm": "2026-07-05",
+  "observacao": "Monitoramento manual/via Claude (Instagram não tem API pública de concorrentes). Atualizar quinzenalmente pedindo ao Claude: 'atualize o monitoramento de concorrentes do dashboard Instagram'.",
+  "santarem": [
+    {
+      "perfil": "(preencher — ex.: perfumaria/cosméticos concorrente em Santarém)",
+      "seguidores": null,
+      "postsUltimos30d": null,
+      "formatoDominante": "",
+      "observacoes": "Aguardando primeiro levantamento"
+    }
+  ],
+  "altamira": [],
+  "itaituba": []
+}
