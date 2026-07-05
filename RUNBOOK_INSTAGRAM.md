@@ -32,8 +32,18 @@ Fluxo: `coleta_instagram.mjs` (Graph API → dados.js com timestamp REAL) → gi
   Se o token morrer (senha do FB trocada, permissões revogadas): repetir o fluxo no Explorer
   (permissões: instagram_basic, instagram_manage_comments, instagram_manage_messages,
   pages_show_list, pages_read_engagement, business_management) e refazer o exchange.
-- **Insights de alcance/impressões indisponíveis** (permissão `instagram_manage_insights` exige
-  revisão da Meta). Engajamento é medido por curtidas+comentários. Não "corrigir" isso sem revisão aprovada.
+- **Insights FUNCIONAM desde 05/07 (token v2)**: `instagram_manage_insights` adicionada ao caso de
+  uso do app (não aparecia no dropdown do Explorer — foi adicionada em Casos de uso → Permissões e
+  recursos) e re-OAuth. Métricas por mídia: saved, shares, reach, views, total_interactions.
+  Cache incremental em `insights_cache.json` (posts >90d são imutáveis; teto 300 chamadas/loja/run).
+- **Stories**: API só expõe stories ATIVOS (24h). `coleta_stories.mjs` roda 2×/dia (launchd
+  `com.amgomes.instagram.stories`, 12h/20h) acumulando em `historico_stories.json` (com insights:
+  alcance, respostas, interações). O dashboard analisa esse histórico automaticamente.
+- **Direct/conversas: BLOQUEADO em acesso standard.** `/{page-id}/conversations` estoura Timeout
+  (subcode 2534084 — "muitas conversas com usuários sem função no app") para qualquer página além
+  da 1ª (`limit=1` sem fields lê SÓ a conversa mais recente). Ler o inbox completo (e automatizar
+  atendimento/Helena IA) exige **Acesso Avançado** a `instagram_manage_messages` via App Review +
+  verificação de negócio. `coleta_direct.mjs` existe e funciona no que o acesso permite.
 - `/{ig-id}/media` **não aceita `since`** — coleta tudo paginado e filtra localmente.
 
 ## Lojas
