@@ -54,6 +54,46 @@ async function apiGet(pathOrUrl, params = {}, token) {
   return data;
 }
 
+// Cache incremental de insights por mídia (posts antigos são imutáveis)
+const CACHE_PATH = join(__dir, 'insights_cache.json');
+let insightsCache = {};
+if (existsSync(CACHE_PATH)) {
+  try { insightsCache = JSON.parse(readFileSync(CACHE_PATH, 'utf8')); } catch { insightsCache = {}; }
+}
+
+async function insightsMidia(mediaId, token) {
+  try {
+    const data = await apiGet(`${mediaId}/insights`, {
+      metric: 'saved,shares,reach,views,total_interactions'
+    }, token);
+    const out = {};
+    for (const m of (data.data || [])) out[m.name] = m.values?.[0]?.value ?? 0;
+    return out;
+  } catch { return null; }
+}
+
+async function enriquecerComInsights(posts, token) {
+  const agora = Date.now();
+  const NOVENTA_DIAS = 90 * 864e5;
+  let chamadas = 0;
+  for (const p of posts) {
+    const idade = agora - new Date(p.timestamp).getTime();
+    const cacheado = insightsCache[p.id];
+    // Post >90d com cache = imutável, usa cache; post recente sempre atualiza
+    if (cacheado && idade > NOVENTA_DIAS) { Object.assign(p, cacheado); continue; }
+    if (chamadas >= 300) { if (cacheado) Object.assign(p, cacheado); continue; } // teto por execução
+    const ins = await insightsMidia(p.id, token);
+    chamadas++;
+    if (ins) {
+      const dados = { salvos: ins.saved ?? 0, compartilhamentos: ins.shares ?? 0,
+                      alcance: ins.reach ?? 0, views: ins.views ?? 0 };
+      Object.assign(p, dados);
+      insightsCache[p.id] = dados;
+    } else if (cacheado) Object.assign(p, cacheado);
+  }
+  process.stdout.write(`   insights: ${chamadas} chamadas novas\n`);
+}
+
 async function coletarLoja(loja) {
   if (!loja.igId || !loja.token) {
     return { codigo: loja.codigo, nome: loja.nome, conectada: false };
@@ -85,13 +125,22 @@ async function coletarLoja(loja) {
   } while (url && page < 20);
   console.log(`   posts coletados: ${posts.length}`);
 
-  // Stories ativos
+  // Insights por post (salvos, compartilhamentos, alcance, views) — cache incremental
+  await enriquecerComInsights(posts, loja.token);
+
+  // Stories ativos (com insights)
   let stories = [];
   try {
     const st = await apiGet(`${loja.igId}/stories`, {
       fields: 'id,caption,media_type,timestamp'
     }, loja.token);
     stories = st.data || [];
+    for (const s of stories) {
+      try {
+        const ins = await apiGet(`${s.id}/insights`, { metric: 'reach,views,replies,total_interactions,navigation' }, loja.token);
+        for (const m of (ins.data || [])) s[m.name] = m.values?.[0]?.value ?? 0;
+      } catch { /* insight de story pode não estar disponível */ }
+    }
   } catch { /* sem permissão ou sem stories */ }
 
   // Conversas (DMs)
@@ -126,9 +175,15 @@ async function coletarLoja(loja) {
       data: p.timestamp,
       curtidas: p.like_count ?? 0,
       comentarios: p.comments_count ?? 0,
+      salvos: p.salvos ?? null,
+      compartilhamentos: p.compartilhamentos ?? null,
+      alcance: p.alcance ?? null,
+      views: p.views ?? null,
       link: p.permalink
     })),
-    stories: stories.map(s => ({ id: s.id, tipo: s.media_type, data: s.timestamp })),
+    stories: stories.map(s => ({ id: s.id, tipo: s.media_type, data: s.timestamp,
+      alcance: s.reach ?? null, views: s.views ?? null, respostas: s.replies ?? null,
+      interacoes: s.total_interactions ?? null })),
     dms: {
       totalConversas: conversas.length,
       naoLidas: conversas.filter(c => c.unread_count > 0).length
@@ -188,6 +243,25 @@ async function main() {
   if (existsSync(concPath)) {
     try { resultado.concorrentes = JSON.parse(readFileSync(concPath, 'utf8')); } catch { /* ignora */ }
   }
+
+  // Persistir cache de insights
+  writeFileSync(CACHE_PATH, JSON.stringify(insightsCache));
+
+  // Histórico acumulativo de stories (API só expõe os ativos das últimas 24h)
+  const histStPath = join(__dir, 'historico_stories.json');
+  let histStories = [];
+  if (existsSync(histStPath)) {
+    try { histStories = JSON.parse(readFileSync(histStPath, 'utf8')); } catch { histStories = []; }
+  }
+  for (const l of resultado.lojas) {
+    if (!l.conectada) continue;
+    for (const s of (l.stories || [])) {
+      if (!histStories.find(h => h.id === s.id)) histStories.push({ ...s, loja: l.codigo });
+      else Object.assign(histStories.find(h => h.id === s.id), s); // atualiza métricas
+    }
+  }
+  writeFileSync(histStPath, JSON.stringify(histStories, null, 1));
+  resultado.historicoStories = histStories;
 
   // Gravar dados.js
   const js = '// Gerado automaticamente por coleta_instagram.mjs — NÃO EDITAR NA MÃO\n' +

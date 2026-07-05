@@ -2,3 +2,5 @@
 _preview_server.cjs
 ultima_execucao.log
 .claude/
+direct_*.json
+insights_cache.json

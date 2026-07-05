@@ -145,7 +145,11 @@ function classificarTema(legenda) {
   for (const t of TEMAS) if (t.regex.test(legenda || '')) return t;
   return { chave: 'outro', nome: '📌 Outros' };
 }
-function engaj(p) { return (p.curtidas || 0) + (p.comentarios || 0) * 3; }
+// Engajamento ponderado: comentário > salvo > compartilhamento > curtida (intenção crescente)
+function engaj(p) {
+  return (p.curtidas || 0) + (p.comentarios || 0) * 3 +
+         (p.salvos || 0) * 4 + (p.compartilhamentos || 0) * 5;
+}
 
 // Estatísticas de uma loja (compartilhado entre Visão Geral e aba da loja)
 function calcularStats(loja) {
@@ -436,16 +440,23 @@ function renderLoja(loja) {
     </div>
   </div></section>`;
 
-  // Top posts
-  const tabelaPosts = lista => `<table><thead><tr><th>Data</th><th>Tema</th><th>Legenda</th><th class="num">❤️</th><th class="num">💬</th><th></th></tr></thead><tbody>
+  // Top posts — com salvos, compartilhamentos e alcance quando disponíveis
+  const temInsights = posts.some(p => p.salvos !== null && p.salvos !== undefined);
+  const colIns = temInsights ? '<th class="num">🔖</th><th class="num">🔁</th><th class="num">👁️</th>' : '';
+  const celIns = p => temInsights
+    ? `<td class="num">${p.salvos ?? '—'}</td><td class="num">${p.compartilhamentos ?? '—'}</td><td class="num">${p.alcance !== null && p.alcance !== undefined ? fmt(p.alcance) : '—'}</td>`
+    : '';
+  const tabelaPosts = lista => `<table><thead><tr><th>Data</th><th>Tema</th><th>Legenda</th><th class="num">❤️</th><th class="num">💬</th>${colIns}<th></th></tr></thead><tbody>
     ${lista.map(p => `<tr>
       <td>${fmtData(p.data)}</td>
       <td>${classificarTema(p.legenda).nome}</td>
-      <td>${(p.legenda || '(sem legenda)').replace(/\n/g,' ').slice(0, 55)}${(p.legenda||'').length > 55 ? '…' : ''}</td>
+      <td>${(p.legenda || '(sem legenda)').replace(/\n/g,' ').slice(0, 45)}${(p.legenda||'').length > 45 ? '…' : ''}</td>
       <td class="num"><b>${fmt(p.curtidas)}</b></td>
       <td class="num">${fmt(p.comentarios)}</td>
+      ${celIns(p)}
       <td><a href="${p.link}" target="_blank">ver ↗</a></td>
-    </tr>`).join('')}</tbody></table>`;
+    </tr>`).join('')}</tbody></table>` +
+    (temInsights ? '<p class="nota">🔖 salvos · 🔁 compartilhamentos · 👁️ alcance — o ranking pondera: curtida ×1, comentário ×3, salvo ×4, compartilhamento ×5 (quanto mais intenção, maior o peso).</p>' : '');
 
   html += `<section><h2>⭐ Top posts</h2><div class="duas-colunas">
     <div class="card"><h3 class="sub">ÚLTIMOS 12 MESES</h3>${top12m.length ? tabelaPosts(top12m) : '<p class="vazio">Nenhum post no período</p>'}</div>
@@ -453,6 +464,37 @@ function renderLoja(loja) {
   </div></section>`;
 
   html += `<section><h2>🕓 Últimos posts publicados</h2><div class="card">${posts.length ? tabelaPosts(posts.slice(0, 15)) : '<p class="vazio">Nenhum post</p>'}</div></section>`;
+
+  // Stories — histórico acumulado pela coleta diária (API só expõe stories por 24h)
+  const histSt = (DADOS_IG.historicoStories || []).filter(h => h.loja === loja.codigo)
+    .sort((a,b) => b.data.localeCompare(a.data));
+  html += `<section><h2>📖 Stories — análise do histórico</h2><div class="card">`;
+  if (histSt.length === 0) {
+    html += `<p class="vazio">Ainda sem stories no histórico. A coleta automática roda 2×/dia (12h e 20h) e vai
+      acumulando cada story publicado com alcance, respostas e interações — a análise aparece aqui sozinha.
+      <b>Publique stories que a régua começa a medir.</b></p>`;
+  } else {
+    const comAlcance = histSt.filter(s => s.alcance);
+    const mediaAlc = comAlcance.length ? comAlcance.reduce((x,s) => x + s.alcance, 0) / comAlcance.length : 0;
+    const totalResp = histSt.reduce((x,s) => x + (s.respostas || 0), 0);
+    const porTipoSt = {};
+    histSt.forEach(s => { const k = s.tipo === 'VIDEO' ? 'Vídeo' : 'Imagem'; porTipoSt[k] = porTipoSt[k] || {n:0, alc:0, resp:0};
+      porTipoSt[k].n++; porTipoSt[k].alc += s.alcance || 0; porTipoSt[k].resp += s.respostas || 0; });
+    html += `<div class="kpis" style="margin-bottom:14px">
+      <div class="kpi"><div class="valor">${histSt.length}</div><div class="rotulo">Stories registrados</div></div>
+      <div class="kpi"><div class="valor">${mediaAlc.toFixed(0)}</div><div class="rotulo">Alcance médio/story</div></div>
+      <div class="kpi"><div class="valor">${totalResp}</div><div class="rotulo">Respostas recebidas</div></div>
+    </div>
+    <h3 class="sub">POR FORMATO</h3>
+    ${Object.entries(porTipoSt).map(([k,v]) => `<div class="stat-linha"><span>${k} (${v.n})</span><span class="v">${(v.alc/v.n).toFixed(0)} alcance · ${v.resp} respostas</span></div>`).join('')}
+    <h3 class="sub" style="margin-top:14px">ÚLTIMOS STORIES</h3>
+    <table><thead><tr><th>Data</th><th>Tipo</th><th class="num">👁️ Alcance</th><th class="num">💬 Respostas</th><th class="num">Interações</th></tr></thead><tbody>
+      ${histSt.slice(0, 12).map(s => `<tr><td>${new Date(s.data).toLocaleString('pt-BR', {day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'})}</td>
+        <td>${s.tipo === 'VIDEO' ? '🎬 Vídeo' : '📷 Imagem'}</td>
+        <td class="num">${s.alcance ?? '—'}</td><td class="num">${s.respostas ?? '—'}</td><td class="num">${s.interacoes ?? '—'}</td></tr>`).join('')}
+    </tbody></table>`;
+  }
+  html += `<p class="nota">Coleta 2×/dia (12h/20h) — stories somem da API em 24h, por isso o histórico é acumulado localmente desde 05/07/2026.</p></div></section>`;
 
   // Concorrentes
   const conc = DADOS_IG.concorrentes;

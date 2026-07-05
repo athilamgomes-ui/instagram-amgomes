@@ -1,15 +1,44 @@
 {
   "atualizadoEm": "2026-07-05",
-  "observacao": "Monitoramento manual/via Claude (Instagram não tem API pública de concorrentes). Atualizar quinzenalmente pedindo ao Claude: 'atualize o monitoramento de concorrentes do dashboard Instagram'.",
+  "observacao": "Levantamento via pesquisa web (Instagram não expõe dados de terceiros via API). Atualizar quinzenalmente pedindo ao Claude: 'atualize o monitoramento de concorrentes do dashboard Instagram'.",
   "santarem": [
     {
-      "perfil": "(preencher — ex.: perfumaria/cosméticos concorrente em Santarém)",
+      "perfil": "@lovemake.stm",
+      "seguidores": 20000,
+      "postsUltimos30d": null,
+      "formatoDominante": "Feed de produto com preço",
+      "observacoes": "Maior audiência da praça (20k, 1.196 posts). Posicionamento agressivo de preço: 'TUDO ATÉ R$ 10,00'. Duas lojas em Santarém. Compete no público de maquiagem barata."
+    },
+    {
+      "perfil": "@mundodabeleza_stm",
+      "seguidores": 12400,
+      "postsUltimos30d": null,
+      "formatoDominante": "Carrossel + Reels",
+      "observacoes": "Concorrente mais parecido com a Miss Beleza (cosméticos + atendimento personalizado). Destaques organizados por MARCA (Impala, Borabella, Lola, Fox for Men) — boa prática a copiar. Ativo em reels."
+    },
+    {
+      "perfil": "@casadabeleza_stm",
+      "seguidores": 6341,
+      "postsUltimos30d": null,
+      "formatoDominante": "",
+      "observacoes": "Atenção: usa nome 'Casa da Beleza' igual à nossa marca de Altamira/Itaituba, mas é concorrente de Santarém. Menor que a Miss Beleza STM."
+    },
+    {
+      "perfil": "@emporio_da_beleza_stm",
+      "seguidores": null,
+      "postsUltimos30d": null,
+      "formatoDominante": "Reels de perfume",
+      "observacoes": "Foco em perfumaria. Números não públicos via busca — verificar manualmente no app."
+    },
+    {
+      "perfil": "@distribuidoradoscosmeticosstm",
       "seguidores": null,
       "postsUltimos30d": null,
       "formatoDominante": "",
-      "observacoes": "Aguardando primeiro levantamento"
+      "observacoes": "Distribuidora (atacado) — compete no B2B/revenda. Números não públicos via busca."
     }
   ],
+  "resumo_competitivo_santarem": "A @missbelezastm (13,6k) é a 2ª maior audiência da praça, atrás só da @lovemake.stm (20k, nicho preço-baixo). O concorrente direto em proposta é o @mundodabeleza_stm (12,4k) — está a menos de 1,2k seguidores de nós e posta ativamente enquanto estamos parados. Diferenciais a explorar: variedade de marcas premium (Wella, Kérastase) que o público de R$10 não encontra, e atendimento no direct.",
   "altamira": [],
   "itaituba": []
 }

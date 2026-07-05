@@ -1,7 +1,7 @@
 // Gerado automaticamente por coleta_instagram.mjs — NÃO EDITAR NA MÃO
 const DADOS_IG = {
- "coletadoEm": "2026-07-05T17:54:50.022Z",
- "coletadoEmBR": "05/07/2026, 14:54:50",
+ "coletadoEm": "2026-07-05T18:22:11.692Z",
+ "coletadoEmBR": "05/07/2026, 15:22:11",
  "lojas": [
   {
    "codigo": "L1",
@@ -15,7 +15,7 @@ const DADOS_IG = {
     "totalPosts": 794,
     "bio": "✨Facilitando sua conexão com marcas  \n⚜️Somos líderes em cosméticos, maquiagens e produtos para salão. \n💡Novidade nos Stories \n📱WhatsApp no Link 👇🏽",
     "website": "http://wa.me/5593991550606",
-    "foto": "https://scontent.fatm1-1.fna.fbcdn.net/v/t51.2885-15/323793468_5633950376700244_8818905859412746088_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7d201b&_nc_ohc=ord3MuNy4VsQ7kNvwHO95pV&_nc_oc=Adq8j65-rovMAr4gHzOLpSs93gQU465fAqacquw11siZ95-47MyBCV8So1vd27UF1NNOvvYdS7zvMJowG9eX8nB_&_nc_zt=23&_nc_ht=scontent.fatm1-1.fna&edm=AL-3X8kEAAAA&oh=00_AQAHR38T5qGEQq6H9GNQvqNxTgAcFDmV1CCTaKObRjjuMw&oe=6A505140"
+    "foto": "https://scontent.fatm1-1.fna.fbcdn.net/v/t51.2885-15/323793468_5633950376700244_8818905859412746088_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7d201b&_nc_ohc=ord3MuNy4VsQ7kNvwHO95pV&_nc_oc=Adq8j65-rovMAr4gHzOLpSs93gQU465fAqacquw11siZ95-47MyBCV8So1vd27UF1NNOvvYdS7zvMJowG9eX8nB_&_nc_zt=23&_nc_ht=scontent.fatm1-1.fna&edm=AL-3X8kEAAAA&oh=00_AQBICGVUqQRTKj0W-8UYDpCHUUqMHrvzXQ0v9YXa4D0WUQ&oe=6A508980"
    },
    "posts": [
     {
@@ -26,6 +26,10 @@ const DADOS_IG = {
      "data": "2026-06-15T14:31:18+0000",
      "curtidas": 24,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1374,
+     "views": 2016,
      "link": "https://www.instagram.com/reel/DZnCWlXR406/"
     },
     {
@@ -36,6 +40,10 @@ const DADOS_IG = {
      "data": "2026-06-12T16:17:15+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 825,
+     "views": 1120,
      "link": "https://www.instagram.com/reel/DZfgKMvERSQ/"
     },
     {
@@ -46,6 +54,10 @@ const DADOS_IG = {
      "data": "2026-06-10T00:44:46+0000",
      "curtidas": 44,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 4,
+     "alcance": 1184,
+     "views": 1633,
      "link": "https://www.instagram.com/reel/DZYND8nvhtj/"
     },
     {
@@ -56,6 +68,10 @@ const DADOS_IG = {
      "data": "2026-06-02T20:36:30+0000",
      "curtidas": 49,
      "comentarios": 12,
+     "salvos": 0,
+     "compartilhamentos": 179,
+     "alcance": 1362,
+     "views": 2359,
      "link": "https://www.instagram.com/reel/DZGNkZfPdf0/"
     },
     {
@@ -66,6 +82,10 @@ const DADOS_IG = {
      "data": "2026-06-02T19:21:15+0000",
      "curtidas": 1,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 103,
+     "views": 119,
      "link": "https://www.instagram.com/reel/DZGFMhePzSw/"
     },
     {
@@ -76,6 +96,10 @@ const DADOS_IG = {
      "data": "2026-06-01T19:35:11+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 645,
+     "views": 911,
      "link": "https://www.instagram.com/reel/DZDiELcj6Bz/"
     },
     {
@@ -86,6 +110,10 @@ const DADOS_IG = {
      "data": "2026-05-29T18:40:42+0000",
      "curtidas": 33,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 4,
+     "alcance": 1749,
+     "views": 2882,
      "link": "https://www.instagram.com/reel/DY7tPIeRiPP/"
     },
     {
@@ -96,6 +124,10 @@ const DADOS_IG = {
      "data": "2026-03-18T19:55:04+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 1,
+     "alcance": 391,
+     "views": 755,
      "link": "https://www.instagram.com/p/DWCcv-eEZfI/"
     },
     {
@@ -106,6 +138,10 @@ const DADOS_IG = {
      "data": "2026-03-06T14:52:27+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 917,
+     "views": 1591,
      "link": "https://www.instagram.com/p/DVjAlEIkd1k/"
     },
     {
@@ -116,6 +152,10 @@ const DADOS_IG = {
      "data": "2026-02-09T14:52:04+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 350,
+     "views": 389,
      "link": "https://www.instagram.com/reel/DUioGJxEdLZ/"
     },
     {
@@ -126,6 +166,10 @@ const DADOS_IG = {
      "data": "2026-02-06T15:55:06+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 6,
+     "alcance": 814,
+     "views": 1083,
      "link": "https://www.instagram.com/reel/DUbBauNkWLC/"
     },
     {
@@ -136,6 +180,10 @@ const DADOS_IG = {
      "data": "2025-11-11T10:44:31+0000",
      "curtidas": 13,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 1095,
+     "views": 1502,
      "link": "https://www.instagram.com/reel/DQ6cmG5EbnB/"
     },
     {
@@ -146,6 +194,10 @@ const DADOS_IG = {
      "data": "2025-11-11T08:22:35+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1133,
+     "views": 1439,
      "link": "https://www.instagram.com/reel/DQ6MgHJDnUf/"
     },
     {
@@ -156,6 +208,10 @@ const DADOS_IG = {
      "data": "2025-10-07T20:49:39+0000",
      "curtidas": 35,
      "comentarios": 2,
+     "salvos": 3,
+     "compartilhamentos": 3,
+     "alcance": 2612,
+     "views": 3345,
      "link": "https://www.instagram.com/reel/DPhXoi0EeIt/"
     },
     {
@@ -166,6 +222,10 @@ const DADOS_IG = {
      "data": "2025-10-07T20:48:16+0000",
      "curtidas": 18,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 13,
+     "alcance": 1036,
+     "views": 1334,
      "link": "https://www.instagram.com/reel/DPhWKphkUMq/"
     },
     {
@@ -176,6 +236,10 @@ const DADOS_IG = {
      "data": "2025-10-07T20:05:24+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 4,
+     "alcance": 731,
+     "views": 978,
      "link": "https://www.instagram.com/reel/DPhU_LDkZCS/"
     },
     {
@@ -186,6 +250,10 @@ const DADOS_IG = {
      "data": "2025-10-05T04:48:48+0000",
      "curtidas": 24,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1114,
+     "views": 1399,
      "link": "https://www.instagram.com/reel/DPaOKQxkcC4/"
     },
     {
@@ -196,6 +264,10 @@ const DADOS_IG = {
      "data": "2025-09-18T12:04:00+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 1880,
+     "views": 29284,
      "link": "https://www.instagram.com/p/DOvi9c0kZab/"
     },
     {
@@ -206,6 +278,10 @@ const DADOS_IG = {
      "data": "2025-09-08T08:52:12+0000",
      "curtidas": 12,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 679,
+     "views": 951,
      "link": "https://www.instagram.com/reel/DOVbwK8jnsP/"
     },
     {
@@ -216,6 +292,10 @@ const DADOS_IG = {
      "data": "2025-08-08T12:00:00+0000",
      "curtidas": 1,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 607,
+     "views": 8889,
      "link": "https://www.instagram.com/p/DNF-AdHRYju/"
     },
     {
@@ -226,6 +306,10 @@ const DADOS_IG = {
      "data": "2025-08-08T11:45:00+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 857,
+     "views": 1113,
      "link": "https://www.instagram.com/reel/DNF8SjERSZc/"
     },
     {
@@ -236,6 +320,10 @@ const DADOS_IG = {
      "data": "2025-08-07T14:27:09+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 439,
+     "views": 4187,
      "link": "https://www.instagram.com/p/DNDp9FxRGrz/"
     },
     {
@@ -246,6 +334,10 @@ const DADOS_IG = {
      "data": "2025-08-05T20:10:16+0000",
      "curtidas": 39,
      "comentarios": 11,
+     "salvos": 0,
+     "compartilhamentos": 68,
+     "alcance": 2803,
+     "views": 4175,
      "link": "https://www.instagram.com/reel/DM_Hhh2x4vy/"
     },
     {
@@ -256,6 +348,10 @@ const DADOS_IG = {
      "data": "2025-07-28T20:25:22+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 980,
+     "views": 1276,
      "link": "https://www.instagram.com/reel/DMqiyUCRcEH/"
     },
     {
@@ -266,6 +362,10 @@ const DADOS_IG = {
      "data": "2025-07-25T17:08:16+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 426,
+     "views": 526,
      "link": "https://www.instagram.com/reel/DMidvrMR9sf/"
     },
     {
@@ -276,6 +376,10 @@ const DADOS_IG = {
      "data": "2025-07-18T21:34:46+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 966,
+     "views": 6788,
      "link": "https://www.instagram.com/p/DMQ6_n1SAQW/"
     },
     {
@@ -286,6 +390,10 @@ const DADOS_IG = {
      "data": "2025-07-02T14:11:09+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 685,
+     "views": 4154,
      "link": "https://www.instagram.com/p/DLm7gadRnmO/"
     },
     {
@@ -296,6 +404,10 @@ const DADOS_IG = {
      "data": "2025-06-23T20:32:56+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 1001,
+     "views": 1234,
      "link": "https://www.instagram.com/reel/DLQb7quRwRH/"
     },
     {
@@ -306,6 +418,10 @@ const DADOS_IG = {
      "data": "2025-06-23T14:06:59+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 520,
+     "views": 734,
      "link": "https://www.instagram.com/reel/DLPv2byO7XN/"
     },
     {
@@ -316,6 +432,10 @@ const DADOS_IG = {
      "data": "2025-06-17T13:32:19+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 781,
+     "views": 1237,
      "link": "https://www.instagram.com/reel/DLAN9OTRtkY/"
     },
     {
@@ -326,6 +446,10 @@ const DADOS_IG = {
      "data": "2025-06-13T14:02:18+0000",
      "curtidas": 55,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 3309,
+     "views": 4733,
      "link": "https://www.instagram.com/reel/DK1_JErxr-U/"
     },
     {
@@ -336,6 +460,10 @@ const DADOS_IG = {
      "data": "2025-06-11T20:25:17+0000",
      "curtidas": 13,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 832,
+     "views": 1349,
      "link": "https://www.instagram.com/reel/DKxg4QxRi67/"
     },
     {
@@ -346,6 +474,10 @@ const DADOS_IG = {
      "data": "2025-06-09T18:56:25+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 964,
+     "views": 1603,
      "link": "https://www.instagram.com/reel/DKsMzL1RQm_/"
     },
     {
@@ -356,6 +488,10 @@ const DADOS_IG = {
      "data": "2025-06-06T13:15:44+0000",
      "curtidas": 43,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 5,
+     "alcance": 1187,
+     "views": 1896,
      "link": "https://www.instagram.com/reel/DKj4MQYxywn/"
     },
     {
@@ -366,6 +502,10 @@ const DADOS_IG = {
      "data": "2025-06-05T13:56:39+0000",
      "curtidas": 28,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 4,
+     "alcance": 872,
+     "views": 1536,
      "link": "https://www.instagram.com/reel/DKhYMSKxQi4/"
     },
     {
@@ -376,6 +516,10 @@ const DADOS_IG = {
      "data": "2025-06-04T14:03:45+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 599,
+     "views": 885,
      "link": "https://www.instagram.com/reel/DKey5IfRZs0/"
     },
     {
@@ -386,6 +530,10 @@ const DADOS_IG = {
      "data": "2025-05-30T13:56:07+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 3,
+     "alcance": 740,
+     "views": 846,
      "link": "https://www.instagram.com/reel/DKR7PYvM3ef/"
     },
     {
@@ -396,6 +544,10 @@ const DADOS_IG = {
      "data": "2025-05-29T17:21:46+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 460,
+     "views": 2916,
      "link": "https://www.instagram.com/p/DKPuS2dxKRq/"
     },
     {
@@ -406,6 +558,10 @@ const DADOS_IG = {
      "data": "2025-05-29T17:20:05+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 584,
+     "views": 2911,
      "link": "https://www.instagram.com/p/DKPuGi7xgCP/"
     },
     {
@@ -416,6 +572,10 @@ const DADOS_IG = {
      "data": "2025-05-29T17:19:31+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 484,
+     "views": 2733,
      "link": "https://www.instagram.com/p/DKPuCSCR8A_/"
     },
     {
@@ -426,6 +586,10 @@ const DADOS_IG = {
      "data": "2025-05-28T19:21:01+0000",
      "curtidas": 22,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1380,
+     "views": 1792,
      "link": "https://www.instagram.com/reel/DKNXDM6x4w6/"
     },
     {
@@ -436,6 +600,10 @@ const DADOS_IG = {
      "data": "2025-05-28T18:47:47+0000",
      "curtidas": 89,
      "comentarios": 2,
+     "salvos": 4,
+     "compartilhamentos": 34,
+     "alcance": 7843,
+     "views": 10510,
      "link": "https://www.instagram.com/reel/DKNTPsYRtB3/"
     },
     {
@@ -446,6 +614,10 @@ const DADOS_IG = {
      "data": "2025-05-28T14:02:15+0000",
      "curtidas": 1,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 424,
+     "views": 2531,
      "link": "https://www.instagram.com/p/DKMyqpIORac/"
     },
     {
@@ -456,6 +628,10 @@ const DADOS_IG = {
      "data": "2025-05-28T14:01:29+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 450,
+     "views": 2575,
      "link": "https://www.instagram.com/p/DKMylEjOFjt/"
     },
     {
@@ -466,6 +642,10 @@ const DADOS_IG = {
      "data": "2025-05-28T14:00:44+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 390,
+     "views": 2468,
      "link": "https://www.instagram.com/p/DKMyflYOGeq/"
     },
     {
@@ -476,6 +656,10 @@ const DADOS_IG = {
      "data": "2025-05-28T13:59:37+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 429,
+     "views": 2407,
      "link": "https://www.instagram.com/p/DKMyXTqOmyn/"
     },
     {
@@ -486,6 +670,10 @@ const DADOS_IG = {
      "data": "2025-05-27T20:10:06+0000",
      "curtidas": 6,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 392,
+     "views": 478,
      "link": "https://www.instagram.com/reel/DKK3798x4R5/"
     },
     {
@@ -496,6 +684,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:06:44+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 466,
+     "views": 2322,
      "link": "https://www.instagram.com/p/DKKApvMxgga/"
     },
     {
@@ -506,6 +698,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:06:15+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 428,
+     "views": 2259,
      "link": "https://www.instagram.com/p/DKKAmHBRoNi/"
     },
     {
@@ -516,6 +712,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:05:50+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 409,
+     "views": 2210,
      "link": "https://www.instagram.com/p/DKKAjITRNiP/"
     },
     {
@@ -526,6 +726,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:05:20+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 1,
+     "alcance": 429,
+     "views": 2224,
      "link": "https://www.instagram.com/p/DKKAfaFRtim/"
     },
     {
@@ -536,6 +740,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:04:49+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 1,
+     "alcance": 492,
+     "views": 2317,
      "link": "https://www.instagram.com/p/DKKAbqkxpx-/"
     },
     {
@@ -546,6 +754,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:04:23+0000",
      "curtidas": 1,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 379,
+     "views": 2164,
      "link": "https://www.instagram.com/p/DKKAYfqxHQi/"
     },
     {
@@ -556,6 +768,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:03:59+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 357,
+     "views": 2016,
      "link": "https://www.instagram.com/p/DKKAVfgxDYG/"
     },
     {
@@ -566,6 +782,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:03:31+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 386,
+     "views": 2182,
      "link": "https://www.instagram.com/p/DKKASJ2x3Yp/"
     },
     {
@@ -576,6 +796,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:03:11+0000",
      "curtidas": 9,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 476,
+     "views": 2277,
      "link": "https://www.instagram.com/p/DKKAPpdRjoT/"
     },
     {
@@ -586,6 +810,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:02:36+0000",
      "curtidas": 1,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 384,
+     "views": 2080,
      "link": "https://www.instagram.com/p/DKKALasRMgq/"
     },
     {
@@ -596,6 +824,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:02:06+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 359,
+     "views": 2005,
      "link": "https://www.instagram.com/p/DKKAHubx8u8/"
     },
     {
@@ -606,6 +838,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:01:31+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 323,
+     "views": 1933,
      "link": "https://www.instagram.com/p/DKKADeRRf47/"
     },
     {
@@ -616,6 +852,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:00:54+0000",
      "curtidas": 3,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 356,
+     "views": 1950,
      "link": "https://www.instagram.com/p/DKJ__AgRAwS/"
     },
     {
@@ -626,6 +866,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:00:28+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 360,
+     "views": 1916,
      "link": "https://www.instagram.com/p/DKJ_7yaxYMZ/"
     },
     {
@@ -636,6 +880,10 @@ const DADOS_IG = {
      "data": "2025-05-27T12:00:10+0000",
      "curtidas": 0,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 348,
+     "views": 1878,
      "link": "https://www.instagram.com/p/DKJ_5kwRAT4/"
     },
     {
@@ -646,6 +894,10 @@ const DADOS_IG = {
      "data": "2025-05-22T14:17:22+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 4,
+     "alcance": 1234,
+     "views": 1667,
      "link": "https://www.instagram.com/reel/DJ9XPY8RGtd/"
     },
     {
@@ -656,6 +908,10 @@ const DADOS_IG = {
      "data": "2025-05-21T16:51:52+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 490,
+     "views": 700,
      "link": "https://www.instagram.com/reel/DJ7Ec9vRKmd/"
     },
     {
@@ -666,6 +922,10 @@ const DADOS_IG = {
      "data": "2025-05-21T15:39:47+0000",
      "curtidas": 8,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 934,
+     "views": 1193,
      "link": "https://www.instagram.com/reel/DJ68K-NxkW9/"
     },
     {
@@ -676,6 +936,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:36:35+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 366,
+     "views": 488,
      "link": "https://www.instagram.com/reel/DJ4rq9iRt3y/"
     },
     {
@@ -686,6 +950,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:34:13+0000",
      "curtidas": 0,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 537,
+     "views": 1989,
      "link": "https://www.instagram.com/p/DJ4rbl9x7XK/"
     },
     {
@@ -696,6 +964,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:33:59+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 373,
+     "views": 1742,
      "link": "https://www.instagram.com/p/DJ4rZ2QxN0Q/"
     },
     {
@@ -706,6 +978,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:33:43+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 380,
+     "views": 1721,
      "link": "https://www.instagram.com/p/DJ4rX5YRyEY/"
     },
     {
@@ -716,6 +992,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:33:26+0000",
      "curtidas": 0,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 392,
+     "views": 1747,
      "link": "https://www.instagram.com/p/DJ4rV5sRqF7/"
     },
     {
@@ -726,6 +1006,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:33:09+0000",
      "curtidas": 0,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 310,
+     "views": 1597,
      "link": "https://www.instagram.com/p/DJ4rTz1RDU1/"
     },
     {
@@ -736,6 +1020,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:32:54+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 350,
+     "views": 1603,
      "link": "https://www.instagram.com/p/DJ4rR8SRCcX/"
     },
     {
@@ -746,6 +1034,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:32:38+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 340,
+     "views": 1591,
      "link": "https://www.instagram.com/p/DJ4rP_Axz1i/"
     },
     {
@@ -756,6 +1048,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:32:09+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 363,
+     "views": 1624,
      "link": "https://www.instagram.com/p/DJ4rMezRb4W/"
     },
     {
@@ -766,6 +1062,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:27:02+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 385,
+     "views": 1618,
      "link": "https://www.instagram.com/p/DJ4qm8GxDDU/"
     },
     {
@@ -776,6 +1076,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:26:44+0000",
      "curtidas": 0,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 291,
+     "views": 1520,
      "link": "https://www.instagram.com/p/DJ4qkuJRHuR/"
     },
     {
@@ -786,6 +1090,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:26:23+0000",
      "curtidas": 1,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 288,
+     "views": 1499,
      "link": "https://www.instagram.com/p/DJ4qiP_xTsR/"
     },
     {
@@ -796,6 +1104,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:23:53+0000",
      "curtidas": 1,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 270,
+     "views": 348,
      "link": "https://www.instagram.com/reel/DJ4qOS7xa3l/"
     },
     {
@@ -806,6 +1118,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:22:37+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 283,
+     "views": 361,
      "link": "https://www.instagram.com/reel/DJ4qEf7ReYu/"
     },
     {
@@ -816,6 +1132,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:21:23+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 246,
+     "views": 1431,
      "link": "https://www.instagram.com/p/DJ4p9kSROqT/"
     },
     {
@@ -826,6 +1146,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:20:29+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 295,
+     "views": 1477,
      "link": "https://www.instagram.com/p/DJ4p3DARraM/"
     },
     {
@@ -836,6 +1160,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:18:21+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 4,
+     "alcance": 1053,
+     "views": 1857,
      "link": "https://www.instagram.com/reel/DJ4pag1xVBx/"
     },
     {
@@ -846,6 +1174,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:13:37+0000",
      "curtidas": 1,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 534,
+     "views": 1748,
      "link": "https://www.instagram.com/p/DJ4pEvVRgWp/"
     },
     {
@@ -856,6 +1188,10 @@ const DADOS_IG = {
      "data": "2025-05-20T18:13:20+0000",
      "curtidas": 0,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 436,
+     "views": 1612,
      "link": "https://www.instagram.com/p/DJ4pCnGxWDs/"
     },
     {
@@ -866,6 +1202,10 @@ const DADOS_IG = {
      "data": "2025-05-17T15:51:05+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 449,
+     "views": 1587,
      "link": "https://www.instagram.com/p/DJwqYJBx5cN/"
     },
     {
@@ -876,6 +1216,10 @@ const DADOS_IG = {
      "data": "2025-05-17T15:47:12+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 352,
+     "views": 1451,
      "link": "https://www.instagram.com/p/DJwp7thRMk7/"
     },
     {
@@ -886,6 +1230,10 @@ const DADOS_IG = {
      "data": "2025-05-17T15:44:19+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 465,
+     "views": 1573,
      "link": "https://www.instagram.com/p/DJwpmiVxjTo/"
     },
     {
@@ -896,6 +1244,10 @@ const DADOS_IG = {
      "data": "2025-05-17T15:41:16+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 348,
+     "views": 1425,
      "link": "https://www.instagram.com/p/DJwpQMARS8Z/"
     },
     {
@@ -906,6 +1258,10 @@ const DADOS_IG = {
      "data": "2025-05-17T15:37:27+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 409,
+     "views": 1500,
      "link": "https://www.instagram.com/p/DJwo0UvxfSf/"
     },
     {
@@ -916,6 +1272,10 @@ const DADOS_IG = {
      "data": "2025-05-17T15:34:10+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 350,
+     "views": 1408,
      "link": "https://www.instagram.com/p/DJwocQuR8gc/"
     },
     {
@@ -926,6 +1286,10 @@ const DADOS_IG = {
      "data": "2025-05-17T15:28:20+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 288,
+     "views": 1345,
      "link": "https://www.instagram.com/p/DJwnxjAx6Eg/"
     },
     {
@@ -936,6 +1300,10 @@ const DADOS_IG = {
      "data": "2025-05-16T12:59:26+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 389,
+     "views": 1416,
      "link": "https://www.instagram.com/p/DJtx8D_RAmS/"
     },
     {
@@ -946,6 +1314,10 @@ const DADOS_IG = {
      "data": "2025-05-16T12:57:13+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 413,
+     "views": 1485,
      "link": "https://www.instagram.com/p/DJtxr3VRtsK/"
     },
     {
@@ -956,6 +1328,10 @@ const DADOS_IG = {
      "data": "2025-05-16T12:55:34+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 344,
+     "views": 1371,
      "link": "https://www.instagram.com/p/DJtxfvoxmwv/"
     },
     {
@@ -966,6 +1342,10 @@ const DADOS_IG = {
      "data": "2025-05-16T12:54:49+0000",
      "curtidas": 1,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 249,
+     "views": 1270,
      "link": "https://www.instagram.com/p/DJtxaPVxD2-/"
     },
     {
@@ -976,6 +1356,10 @@ const DADOS_IG = {
      "data": "2025-05-16T12:52:23+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 473,
+     "views": 1581,
      "link": "https://www.instagram.com/p/DJtxIZuRLRp/"
     },
     {
@@ -986,6 +1370,10 @@ const DADOS_IG = {
      "data": "2025-05-16T12:50:45+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 349,
+     "views": 1414,
      "link": "https://www.instagram.com/p/DJtw8a1xdzZ/"
     },
     {
@@ -996,6 +1384,10 @@ const DADOS_IG = {
      "data": "2025-05-16T12:44:26+0000",
      "curtidas": 5,
      "comentarios": 2,
+     "salvos": 2,
+     "compartilhamentos": 3,
+     "alcance": 699,
+     "views": 850,
      "link": "https://www.instagram.com/reel/DJtuobIsEC6/"
     },
     {
@@ -1006,6 +1398,10 @@ const DADOS_IG = {
      "data": "2025-05-14T13:54:43+0000",
      "curtidas": 12,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 560,
+     "views": 863,
      "link": "https://www.instagram.com/reel/DJoumoCuLec/"
     },
     {
@@ -1016,6 +1412,10 @@ const DADOS_IG = {
      "data": "2025-05-12T17:55:56+0000",
      "curtidas": 51,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 1840,
+     "views": 2245,
      "link": "https://www.instagram.com/reel/DJkAmXQRw-T/"
     },
     {
@@ -1026,6 +1426,10 @@ const DADOS_IG = {
      "data": "2025-05-12T15:18:59+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 898,
+     "views": 1033,
      "link": "https://www.instagram.com/reel/DJjunhER1d5/"
     },
     {
@@ -1036,6 +1440,10 @@ const DADOS_IG = {
      "data": "2025-05-12T15:15:17+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 478,
+     "views": 1666,
      "link": "https://www.instagram.com/p/DJjuThHReEk/"
     },
     {
@@ -1046,6 +1454,10 @@ const DADOS_IG = {
      "data": "2025-05-07T21:54:09+0000",
      "curtidas": 18,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 5,
+     "alcance": 3982,
+     "views": 4108,
      "link": "https://www.instagram.com/reel/DJXjrqjRKcY/"
     },
     {
@@ -1056,6 +1468,10 @@ const DADOS_IG = {
      "data": "2025-05-07T15:10:10+0000",
      "curtidas": 14,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 6,
+     "alcance": 667,
+     "views": 836,
      "link": "https://www.instagram.com/reel/DJW1VVBxPba/"
     },
     {
@@ -1066,6 +1482,10 @@ const DADOS_IG = {
      "data": "2025-05-06T20:11:58+0000",
      "curtidas": 50,
      "comentarios": 4,
+     "salvos": 2,
+     "compartilhamentos": 19,
+     "alcance": 2896,
+     "views": 3868,
      "link": "https://www.instagram.com/reel/DJUyw_qxOs1/"
     },
     {
@@ -1076,6 +1496,10 @@ const DADOS_IG = {
      "data": "2025-05-03T12:33:25+0000",
      "curtidas": 9,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1056,
+     "views": 1451,
      "link": "https://www.instagram.com/reel/DJMQYpWRC-x/"
     },
     {
@@ -1086,6 +1510,10 @@ const DADOS_IG = {
      "data": "2025-05-02T15:50:00+0000",
      "curtidas": 39,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 1,
+     "alcance": 3795,
+     "views": 4545,
      "link": "https://www.instagram.com/reel/DJKBlpwxi7p/"
     },
     {
@@ -1096,6 +1524,10 @@ const DADOS_IG = {
      "data": "2025-04-30T18:41:02+0000",
      "curtidas": 5,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 890,
+     "views": 1131,
      "link": "https://www.instagram.com/reel/DJFLaLHRlnK/"
     },
     {
@@ -1106,6 +1538,10 @@ const DADOS_IG = {
      "data": "2025-04-30T18:16:36+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 538,
+     "views": 1820,
      "link": "https://www.instagram.com/p/DJFJhDBxtJU/"
     },
     {
@@ -1116,6 +1552,10 @@ const DADOS_IG = {
      "data": "2025-04-30T13:09:41+0000",
      "curtidas": 18,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 5,
+     "alcance": 1290,
+     "views": 1823,
      "link": "https://www.instagram.com/reel/DJEmDBDREPY/"
     },
     {
@@ -1126,6 +1566,10 @@ const DADOS_IG = {
      "data": "2025-04-30T12:35:29+0000",
      "curtidas": 11,
      "comentarios": 2,
+     "salvos": 3,
+     "compartilhamentos": 8,
+     "alcance": 1133,
+     "views": 2670,
      "link": "https://www.instagram.com/p/DJEiel3xtG-/"
     },
     {
@@ -1136,6 +1580,10 @@ const DADOS_IG = {
      "data": "2025-04-29T14:23:37+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 912,
+     "views": 2282,
      "link": "https://www.instagram.com/p/DJCKDxQRNHq/"
     },
     {
@@ -1146,6 +1594,10 @@ const DADOS_IG = {
      "data": "2025-04-28T18:56:34+0000",
      "curtidas": 27,
      "comentarios": 3,
+     "salvos": 2,
+     "compartilhamentos": 1,
+     "alcance": 2598,
+     "views": 3406,
      "link": "https://www.instagram.com/reel/DJADgPqxF9P/"
     },
     {
@@ -1156,6 +1608,10 @@ const DADOS_IG = {
      "data": "2025-03-07T14:31:51+0000",
      "curtidas": 23,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 5,
+     "alcance": 1225,
+     "views": 1808,
      "link": "https://www.instagram.com/reel/DG5s0FCuVEA/"
     },
     {
@@ -1166,6 +1622,10 @@ const DADOS_IG = {
      "data": "2025-02-12T19:21:36+0000",
      "curtidas": 34,
      "comentarios": 13,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 955,
+     "views": 1347,
      "link": "https://www.instagram.com/reel/DF-_rPAvG4Q/"
     },
     {
@@ -1176,6 +1636,10 @@ const DADOS_IG = {
      "data": "2025-01-29T18:37:05+0000",
      "curtidas": 7,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 611,
+     "views": 1598,
      "link": "https://www.instagram.com/p/DFa3hcSvKih/"
     },
     {
@@ -1186,6 +1650,10 @@ const DADOS_IG = {
      "data": "2025-01-29T18:36:30+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 564,
+     "views": 1539,
      "link": "https://www.instagram.com/p/DFa3dIrPYyq/"
     },
     {
@@ -1196,6 +1664,10 @@ const DADOS_IG = {
      "data": "2025-01-29T18:31:40+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 717,
+     "views": 1701,
      "link": "https://www.instagram.com/p/DFa25yive8y/"
     },
     {
@@ -1206,6 +1678,10 @@ const DADOS_IG = {
      "data": "2024-10-08T12:48:07+0000",
      "curtidas": 18,
      "comentarios": 3,
+     "salvos": 2,
+     "compartilhamentos": 2,
+     "alcance": 1036,
+     "views": 2146,
      "link": "https://www.instagram.com/p/DA3RwrrOzZ-/"
     },
     {
@@ -1216,6 +1692,10 @@ const DADOS_IG = {
      "data": "2024-10-08T12:29:49+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 1388,
+     "views": 2648,
      "link": "https://www.instagram.com/p/DA3PqpHOC74/"
     },
     {
@@ -1226,6 +1706,10 @@ const DADOS_IG = {
      "data": "2024-09-30T16:52:34+0000",
      "curtidas": 22,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 1749,
+     "views": 2270,
      "link": "https://www.instagram.com/reel/DAjHEgjOfWn/"
     },
     {
@@ -1236,6 +1720,10 @@ const DADOS_IG = {
      "data": "2024-09-25T11:55:00+0000",
      "curtidas": 26,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1266,
+     "views": 1677,
      "link": "https://www.instagram.com/reel/DAVtdaYuxfp/"
     },
     {
@@ -1246,6 +1734,10 @@ const DADOS_IG = {
      "data": "2024-09-21T12:30:46+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 939,
+     "views": 1313,
      "link": "https://www.instagram.com/reel/DALeDxEO8q_/"
     },
     {
@@ -1256,6 +1748,10 @@ const DADOS_IG = {
      "data": "2024-09-15T15:23:39+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 1011,
+     "views": 1999,
      "link": "https://www.instagram.com/p/C_8VRqWu-SR/"
     },
     {
@@ -1266,6 +1762,10 @@ const DADOS_IG = {
      "data": "2024-09-11T21:27:58+0000",
      "curtidas": 8,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1096,
+     "views": 1336,
      "link": "https://www.instagram.com/reel/C_yrZApP0Il/"
     },
     {
@@ -1276,6 +1776,10 @@ const DADOS_IG = {
      "data": "2024-09-06T14:06:19+0000",
      "curtidas": 67,
      "comentarios": 13,
+     "salvos": 1,
+     "compartilhamentos": 4,
+     "alcance": 2815,
+     "views": 4717,
      "link": "https://www.instagram.com/reel/C_lA8aaOYpw/"
     },
     {
@@ -1286,6 +1790,10 @@ const DADOS_IG = {
      "data": "2024-09-02T16:02:33+0000",
      "curtidas": 42,
      "comentarios": 9,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 2350,
+     "views": 3466,
      "link": "https://www.instagram.com/reel/C_a6dINux-N/"
     },
     {
@@ -1296,6 +1804,10 @@ const DADOS_IG = {
      "data": "2024-08-29T14:23:54+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 893,
+     "views": 1099,
      "link": "https://www.instagram.com/reel/C_Qc1jOum07/"
     },
     {
@@ -1306,6 +1818,10 @@ const DADOS_IG = {
      "data": "2024-08-28T20:55:00+0000",
      "curtidas": 39,
      "comentarios": 6,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 2912,
+     "views": 3842,
      "link": "https://www.instagram.com/reel/C_Ok8dgPDNR/"
     },
     {
@@ -1316,6 +1832,10 @@ const DADOS_IG = {
      "data": "2024-08-23T14:55:00+0000",
      "curtidas": 54,
      "comentarios": 8,
+     "salvos": 1,
+     "compartilhamentos": 4,
+     "alcance": 2598,
+     "views": 5480,
      "link": "https://www.instagram.com/reel/C_BDuXzO8RR/"
     },
     {
@@ -1326,6 +1846,10 @@ const DADOS_IG = {
      "data": "2024-08-19T11:55:00+0000",
      "curtidas": 34,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 9,
+     "alcance": 1597,
+     "views": 2561,
      "link": "https://www.instagram.com/reel/C-2cC8Auvm2/"
     },
     {
@@ -1336,6 +1860,10 @@ const DADOS_IG = {
      "data": "2024-08-16T11:18:02+0000",
      "curtidas": 24,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 1368,
+     "views": 2005,
      "link": "https://www.instagram.com/reel/C-uo9AFu6pQ/"
     },
     {
@@ -1346,6 +1874,10 @@ const DADOS_IG = {
      "data": "2024-08-11T13:13:19+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 628,
+     "views": 1409,
      "link": "https://www.instagram.com/p/C-h-iedOoHa/"
     },
     {
@@ -1356,6 +1888,10 @@ const DADOS_IG = {
      "data": "2024-08-10T19:57:51+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 672,
+     "views": 1462,
      "link": "https://www.instagram.com/p/C-gICcvPDvE/"
     },
     {
@@ -1366,6 +1902,10 @@ const DADOS_IG = {
      "data": "2024-08-08T19:14:04+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 754,
+     "views": 848,
      "link": "https://www.instagram.com/reel/C-a5RZ8PEuM/"
     },
     {
@@ -1376,6 +1916,10 @@ const DADOS_IG = {
      "data": "2024-07-31T11:59:50+0000",
      "curtidas": 34,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 909,
+     "views": 1926,
      "link": "https://www.instagram.com/reel/C-FhRF2OBOu/"
     },
     {
@@ -1386,6 +1930,10 @@ const DADOS_IG = {
      "data": "2024-07-30T13:39:14+0000",
      "curtidas": 24,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 630,
+     "views": 2389,
      "link": "https://www.instagram.com/reel/C-DHx3fubCd/"
     },
     {
@@ -1396,6 +1944,10 @@ const DADOS_IG = {
      "data": "2024-07-27T14:23:49+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 488,
+     "views": 1755,
      "link": "https://www.instagram.com/reel/C97eUb3u3XJ/"
     },
     {
@@ -1406,6 +1958,10 @@ const DADOS_IG = {
      "data": "2024-07-20T16:23:23+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 352,
+     "views": 1276,
      "link": "https://www.instagram.com/p/C9pqzWEOyfn/"
     },
     {
@@ -1416,6 +1972,10 @@ const DADOS_IG = {
      "data": "2024-07-19T19:38:56+0000",
      "curtidas": 54,
      "comentarios": 5,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 401,
+     "views": 3799,
      "link": "https://www.instagram.com/reel/C9ncWdoP_S0/"
     },
     {
@@ -1426,6 +1986,10 @@ const DADOS_IG = {
      "data": "2024-07-10T18:16:20+0000",
      "curtidas": 66,
      "comentarios": 12,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 424,
+     "views": 5072,
      "link": "https://www.instagram.com/reel/C9QHlWnuZ7v/"
     },
     {
@@ -1436,6 +2000,10 @@ const DADOS_IG = {
      "data": "2024-07-05T12:26:50+0000",
      "curtidas": 17,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 435,
+     "views": 1773,
      "link": "https://www.instagram.com/reel/C9CniAgObEH/"
     },
     {
@@ -1446,6 +2014,10 @@ const DADOS_IG = {
      "data": "2024-07-05T11:01:27+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 322,
+     "views": 1172,
      "link": "https://www.instagram.com/reel/C9Cd-40OTtO/"
     },
     {
@@ -1456,6 +2028,10 @@ const DADOS_IG = {
      "data": "2024-07-03T19:38:16+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 352,
+     "views": 1427,
      "link": "https://www.instagram.com/reel/C8-PU5YPYgO/"
     },
     {
@@ -1466,6 +2042,10 @@ const DADOS_IG = {
      "data": "2024-06-25T16:06:44+0000",
      "curtidas": 17,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 352,
+     "views": 1339,
      "link": "https://www.instagram.com/reel/C8pQx1LObqp/"
     },
     {
@@ -1476,6 +2056,10 @@ const DADOS_IG = {
      "data": "2024-06-07T15:43:51+0000",
      "curtidas": 18,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 296,
+     "views": 1308,
      "link": "https://www.instagram.com/reel/C763W5AuJfH/"
     },
     {
@@ -1486,6 +2070,10 @@ const DADOS_IG = {
      "data": "2024-06-06T11:17:48+0000",
      "curtidas": 18,
      "comentarios": 8,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 335,
+     "views": 2011,
      "link": "https://www.instagram.com/reel/C730x4PONdb/"
     },
     {
@@ -1496,6 +2084,10 @@ const DADOS_IG = {
      "data": "2024-06-04T20:55:00+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 293,
+     "views": 962,
      "link": "https://www.instagram.com/reel/C7ztZWPOftQ/"
     },
     {
@@ -1506,6 +2098,10 @@ const DADOS_IG = {
      "data": "2024-05-28T20:55:00+0000",
      "curtidas": 11,
      "comentarios": 5,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 268,
+     "views": 966,
      "link": "https://www.instagram.com/reel/C7hr2LlvNuB/"
     },
     {
@@ -1516,6 +2112,10 @@ const DADOS_IG = {
      "data": "2024-05-27T12:12:51+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 255,
+     "views": 0,
      "link": "https://www.instagram.com/p/C7eLNLEuux9/"
     },
     {
@@ -1526,6 +2126,10 @@ const DADOS_IG = {
      "data": "2024-05-27T12:05:14+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 264,
+     "views": 0,
      "link": "https://www.instagram.com/p/C7eKVVou7EP/"
     },
     {
@@ -1536,6 +2140,10 @@ const DADOS_IG = {
      "data": "2024-05-27T11:50:02+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 228,
+     "views": 0,
      "link": "https://www.instagram.com/p/C7eImCdOw7S/"
     },
     {
@@ -1546,6 +2154,10 @@ const DADOS_IG = {
      "data": "2024-05-20T21:04:03+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 207,
+     "views": 1053,
      "link": "https://www.instagram.com/reel/C7NF_MKPlnO/"
     },
     {
@@ -1556,6 +2168,10 @@ const DADOS_IG = {
      "data": "2024-05-12T01:28:47+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 176,
+     "views": 0,
      "link": "https://www.instagram.com/p/C62ZkuRt96r/"
     },
     {
@@ -1566,6 +2182,10 @@ const DADOS_IG = {
      "data": "2024-05-02T15:16:25+0000",
      "curtidas": 31,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 192,
+     "views": 1597,
      "link": "https://www.instagram.com/reel/C6eIAMeOceg/"
     },
     {
@@ -1576,6 +2196,10 @@ const DADOS_IG = {
      "data": "2024-04-24T20:48:09+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 160,
+     "views": 528,
      "link": "https://www.instagram.com/reel/C6KHsdDu45r/"
     },
     {
@@ -1586,6 +2210,10 @@ const DADOS_IG = {
      "data": "2024-04-20T17:43:28+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 125,
+     "views": 0,
      "link": "https://www.instagram.com/p/C5_foP5u9zs/"
     },
     {
@@ -1596,6 +2224,10 @@ const DADOS_IG = {
      "data": "2024-04-11T19:51:43+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 181,
+     "views": 949,
      "link": "https://www.instagram.com/reel/C5oitjROFHh/"
     },
     {
@@ -1606,6 +2238,10 @@ const DADOS_IG = {
      "data": "2024-04-10T19:49:02+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 213,
+     "views": 1055,
      "link": "https://www.instagram.com/reel/C5l9s0KO3JE/"
     },
     {
@@ -1616,6 +2252,10 @@ const DADOS_IG = {
      "data": "2024-04-09T11:00:00+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 164,
+     "views": 569,
      "link": "https://www.instagram.com/reel/C5iczbGOh5J/"
     },
     {
@@ -1626,6 +2266,10 @@ const DADOS_IG = {
      "data": "2024-04-05T20:58:28+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 142,
+     "views": 0,
      "link": "https://www.instagram.com/p/C5ZOBYcOafF/"
     },
     {
@@ -1636,6 +2280,10 @@ const DADOS_IG = {
      "data": "2024-04-05T02:00:41+0000",
      "curtidas": 9,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 211,
+     "views": 719,
      "link": "https://www.instagram.com/reel/C5XLmRRtlEZ/"
     },
     {
@@ -1646,6 +2294,10 @@ const DADOS_IG = {
      "data": "2024-04-03T23:00:00+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 251,
+     "views": 857,
      "link": "https://www.instagram.com/reel/C5UScwcued_/"
     },
     {
@@ -1656,6 +2308,10 @@ const DADOS_IG = {
      "data": "2024-04-02T11:55:00+0000",
      "curtidas": 17,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 238,
+     "views": 0,
      "link": "https://www.instagram.com/p/C5Qhc3qua7E/"
     },
     {
@@ -1666,6 +2322,10 @@ const DADOS_IG = {
      "data": "2024-04-01T10:55:00+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 223,
+     "views": 1000,
      "link": "https://www.instagram.com/reel/C5N1281u7Zj/"
     },
     {
@@ -1676,6 +2336,10 @@ const DADOS_IG = {
      "data": "2024-03-28T11:00:00+0000",
      "curtidas": 28,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 162,
+     "views": 967,
      "link": "https://www.instagram.com/reel/C5DjNv0uYmj/"
     },
     {
@@ -1686,6 +2350,10 @@ const DADOS_IG = {
      "data": "2024-03-27T19:36:18+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 200,
+     "views": 0,
      "link": "https://www.instagram.com/p/C5B5dqrO7tP/"
     },
     {
@@ -1696,6 +2364,10 @@ const DADOS_IG = {
      "data": "2024-03-21T21:18:16+0000",
      "curtidas": 17,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 275,
+     "views": 1045,
      "link": "https://www.instagram.com/reel/C4yoC-cOPLf/"
     },
     {
@@ -1706,6 +2378,10 @@ const DADOS_IG = {
      "data": "2024-03-18T19:53:50+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 157,
+     "views": 0,
      "link": "https://www.instagram.com/p/C4qwUN7uov-/"
     },
     {
@@ -1716,6 +2392,10 @@ const DADOS_IG = {
      "data": "2024-03-15T13:43:07+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 143,
+     "views": 0,
      "link": "https://www.instagram.com/p/C4iXgVTOgqP/"
     },
     {
@@ -1726,6 +2406,10 @@ const DADOS_IG = {
      "data": "2024-01-17T20:14:57+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 232,
+     "views": 1246,
      "link": "https://www.instagram.com/reel/C2NuBNCuPoa/"
     },
     {
@@ -1736,6 +2420,10 @@ const DADOS_IG = {
      "data": "2024-01-10T20:18:26+0000",
      "curtidas": 27,
      "comentarios": 2,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 254,
+     "views": 1705,
      "link": "https://www.instagram.com/reel/C17s1A6OZvF/"
     },
     {
@@ -1746,6 +2434,10 @@ const DADOS_IG = {
      "data": "2023-12-30T13:34:38+0000",
      "curtidas": 35,
      "comentarios": 6,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 177,
+     "views": 1966,
      "link": "https://www.instagram.com/reel/C1epwoIOiGK/"
     },
     {
@@ -1756,6 +2448,10 @@ const DADOS_IG = {
      "data": "2023-12-08T12:49:39+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 169,
+     "views": 1107,
      "link": "https://www.instagram.com/reel/C0l7KYeOouQ/"
     },
     {
@@ -1766,6 +2462,10 @@ const DADOS_IG = {
      "data": "2023-12-07T13:35:42+0000",
      "curtidas": 17,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 205,
+     "views": 1454,
      "link": "https://www.instagram.com/reel/C0jbo27uKwq/"
     },
     {
@@ -1776,6 +2476,10 @@ const DADOS_IG = {
      "data": "2023-12-05T16:50:09+0000",
      "curtidas": 23,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 2,
+     "alcance": 295,
+     "views": 1758,
      "link": "https://www.instagram.com/reel/C0eoQR7OrrN/"
     },
     {
@@ -1786,6 +2490,10 @@ const DADOS_IG = {
      "data": "2023-12-05T00:03:32+0000",
      "curtidas": 16,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 290,
+     "views": 1798,
      "link": "https://www.instagram.com/reel/C0c1DnEtMWx/"
     },
     {
@@ -1796,6 +2504,10 @@ const DADOS_IG = {
      "data": "2023-11-23T19:32:29+0000",
      "curtidas": 11,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 157,
+     "views": 1466,
      "link": "https://www.instagram.com/reel/C0ABO3gOXEz/"
     },
     {
@@ -1806,6 +2518,10 @@ const DADOS_IG = {
      "data": "2023-11-10T13:15:49+0000",
      "curtidas": 22,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 136,
+     "views": 1501,
      "link": "https://www.instagram.com/reel/Czd4JdGOtgR/"
     },
     {
@@ -1816,6 +2532,10 @@ const DADOS_IG = {
      "data": "2023-10-31T16:53:59+0000",
      "curtidas": 47,
      "comentarios": 19,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 200,
+     "views": 3915,
      "link": "https://www.instagram.com/reel/CzEhA5iOioW/"
     },
     {
@@ -1826,6 +2546,10 @@ const DADOS_IG = {
      "data": "2023-10-28T11:00:00+0000",
      "curtidas": 75,
      "comentarios": 16,
+     "salvos": 4,
+     "compartilhamentos": 0,
+     "alcance": 182,
+     "views": 3556,
      "link": "https://www.instagram.com/reel/Cy8KWNcuSSL/"
     },
     {
@@ -1836,6 +2560,10 @@ const DADOS_IG = {
      "data": "2023-10-27T20:04:22+0000",
      "curtidas": 48,
      "comentarios": 2,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 161,
+     "views": 2076,
      "link": "https://www.instagram.com/reel/Cy6jiMJOGSo/"
     },
     {
@@ -1846,6 +2574,10 @@ const DADOS_IG = {
      "data": "2023-10-20T19:07:16+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 186,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cyobv2TOwm1/"
     },
     {
@@ -1856,6 +2588,10 @@ const DADOS_IG = {
      "data": "2023-10-20T19:04:25+0000",
      "curtidas": 19,
      "comentarios": 2,
+     "salvos": 2,
+     "compartilhamentos": 1,
+     "alcance": 215,
+     "views": 0,
      "link": "https://www.instagram.com/p/CyobbAKOxce/"
     },
     {
@@ -1866,6 +2602,10 @@ const DADOS_IG = {
      "data": "2023-09-28T11:51:51+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 229,
+     "views": 1098,
      "link": "https://www.instagram.com/reel/Cxu-uP9OyyQ/"
     },
     {
@@ -1876,6 +2616,10 @@ const DADOS_IG = {
      "data": "2023-09-19T11:32:12+0000",
      "curtidas": 36,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 196,
+     "views": 1441,
      "link": "https://www.instagram.com/reel/CxXyzqCusl4/"
     },
     {
@@ -1886,6 +2630,10 @@ const DADOS_IG = {
      "data": "2023-09-18T17:59:31+0000",
      "curtidas": 120,
      "comentarios": 2,
+     "salvos": 8,
+     "compartilhamentos": 0,
+     "alcance": 187,
+     "views": 3962,
      "link": "https://www.instagram.com/reel/CxV6aroOqdG/"
     },
     {
@@ -1896,6 +2644,10 @@ const DADOS_IG = {
      "data": "2023-08-31T14:50:00+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 1,
+     "alcance": 191,
+     "views": 1400,
      "link": "https://www.instagram.com/reel/CwnOllduMWo/"
     },
     {
@@ -1906,6 +2658,10 @@ const DADOS_IG = {
      "data": "2023-08-28T14:19:44+0000",
      "curtidas": 15,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 203,
+     "views": 1092,
      "link": "https://www.instagram.com/reel/Cwfcljmg-0i/"
     },
     {
@@ -1916,6 +2672,10 @@ const DADOS_IG = {
      "data": "2023-08-25T14:55:00+0000",
      "curtidas": 5,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 153,
+     "views": 0,
      "link": "https://www.instagram.com/p/CwXyc2OOY-t/"
     },
     {
@@ -1926,6 +2686,10 @@ const DADOS_IG = {
      "data": "2023-08-25T12:16:05+0000",
      "curtidas": 16,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 160,
+     "views": 1164,
      "link": "https://www.instagram.com/reel/CwXf5nqAhyN/"
     },
     {
@@ -1936,6 +2700,10 @@ const DADOS_IG = {
      "data": "2023-08-23T14:55:00+0000",
      "curtidas": 13,
      "comentarios": 2,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 147,
+     "views": 900,
      "link": "https://www.instagram.com/reel/CwSoyk9ucKF/"
     },
     {
@@ -1946,6 +2714,10 @@ const DADOS_IG = {
      "data": "2023-08-22T11:53:21+0000",
      "curtidas": 42,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 200,
+     "views": 1383,
      "link": "https://www.instagram.com/reel/CwPu0XYAuR-/"
     },
     {
@@ -1956,6 +2728,10 @@ const DADOS_IG = {
      "data": "2023-08-21T11:42:56+0000",
      "curtidas": 28,
      "comentarios": 2,
+     "salvos": 4,
+     "compartilhamentos": 1,
+     "alcance": 193,
+     "views": 1110,
      "link": "https://www.instagram.com/reel/CwNJLeVAwaF/"
     },
     {
@@ -1966,6 +2742,10 @@ const DADOS_IG = {
      "data": "2023-08-19T11:54:38+0000",
      "curtidas": 23,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 163,
+     "views": 1201,
      "link": "https://www.instagram.com/reel/CwIAwwagtbC/"
     },
     {
@@ -1976,6 +2756,10 @@ const DADOS_IG = {
      "data": "2023-08-08T11:48:16+0000",
      "curtidas": 58,
      "comentarios": 6,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 139,
+     "views": 1516,
      "link": "https://www.instagram.com/reel/CvrrKllA7gV/"
     },
     {
@@ -1986,6 +2770,10 @@ const DADOS_IG = {
      "data": "2023-08-07T13:28:40+0000",
      "curtidas": 36,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 134,
+     "views": 1565,
      "link": "https://www.instagram.com/reel/CvpR3_yAb60/"
     },
     {
@@ -1996,6 +2784,10 @@ const DADOS_IG = {
      "data": "2023-07-26T18:37:11+0000",
      "curtidas": 173,
      "comentarios": 33,
+     "salvos": 3,
+     "compartilhamentos": 1,
+     "alcance": 161,
+     "views": 3313,
      "link": "https://www.instagram.com/reel/CvK72X-pYJh/"
     },
     {
@@ -2006,6 +2798,10 @@ const DADOS_IG = {
      "data": "2023-07-26T11:33:10+0000",
      "curtidas": 34,
      "comentarios": 4,
+     "salvos": 6,
+     "compartilhamentos": 3,
+     "alcance": 363,
+     "views": 0,
      "link": "https://www.instagram.com/p/CvKLaqWOzir/"
     },
     {
@@ -2016,6 +2812,10 @@ const DADOS_IG = {
      "data": "2023-07-26T11:29:01+0000",
      "curtidas": 19,
      "comentarios": 1,
+     "salvos": 3,
+     "compartilhamentos": 1,
+     "alcance": 330,
+     "views": 0,
      "link": "https://www.instagram.com/p/CvKK8ScuAmw/"
     },
     {
@@ -2026,6 +2826,10 @@ const DADOS_IG = {
      "data": "2023-07-26T11:25:26+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 206,
+     "views": 0,
      "link": "https://www.instagram.com/p/CvKKiEoOJUC/"
     },
     {
@@ -2036,6 +2840,10 @@ const DADOS_IG = {
      "data": "2023-07-22T12:11:17+0000",
      "curtidas": 49,
      "comentarios": 52,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 169,
+     "views": 1681,
      "link": "https://www.instagram.com/reel/Cu_8boEA_Eg/"
     },
     {
@@ -2046,6 +2854,10 @@ const DADOS_IG = {
      "data": "2023-07-21T17:34:04+0000",
      "curtidas": 14,
      "comentarios": 3,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 126,
+     "views": 961,
      "link": "https://www.instagram.com/reel/Cu98coigdPC/"
     },
     {
@@ -2056,6 +2868,10 @@ const DADOS_IG = {
      "data": "2023-07-19T14:07:05+0000",
      "curtidas": 10,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 114,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cu4bd3Pu6vT/"
     },
     {
@@ -2066,6 +2882,10 @@ const DADOS_IG = {
      "data": "2023-07-19T14:01:37+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 116,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cu4a16CuGwZ/"
     },
     {
@@ -2076,6 +2896,10 @@ const DADOS_IG = {
      "data": "2023-07-18T20:55:39+0000",
      "curtidas": 30,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 126,
+     "views": 1345,
      "link": "https://www.instagram.com/reel/Cu2lXQDv4e3/"
     },
     {
@@ -2086,6 +2910,10 @@ const DADOS_IG = {
      "data": "2023-07-17T21:04:14+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 109,
+     "views": 852,
      "link": "https://www.instagram.com/reel/Cu0BY1dgzXz/"
     },
     {
@@ -2096,6 +2924,10 @@ const DADOS_IG = {
      "data": "2023-06-29T11:30:18+0000",
      "curtidas": 22,
      "comentarios": 3,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 92,
+     "views": 1164,
      "link": "https://www.instagram.com/reel/CuEpk2wAm8C/"
     },
     {
@@ -2106,6 +2938,10 @@ const DADOS_IG = {
      "data": "2023-04-17T11:31:02+0000",
      "curtidas": 89,
      "comentarios": 2,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 97,
+     "views": 2560,
      "link": "https://www.instagram.com/reel/CrIrmSWAMZi/"
     },
     {
@@ -2116,6 +2952,10 @@ const DADOS_IG = {
      "data": "2023-04-13T20:45:24+0000",
      "curtidas": 30,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 89,
+     "views": 1474,
      "link": "https://www.instagram.com/reel/Cq_XxY0AKxP/"
     },
     {
@@ -2126,6 +2966,10 @@ const DADOS_IG = {
      "data": "2023-04-10T16:53:05+0000",
      "curtidas": 7,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 83,
+     "views": 1007,
      "link": "https://www.instagram.com/reel/Cq3O2BIATKl/"
     },
     {
@@ -2136,6 +2980,10 @@ const DADOS_IG = {
      "data": "2023-04-08T11:08:15+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 79,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cqxd65xO3nS/"
     },
     {
@@ -2146,6 +2994,10 @@ const DADOS_IG = {
      "data": "2023-03-15T12:34:45+0000",
      "curtidas": 4,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 73,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cpz0vaEuToZ/"
     },
     {
@@ -2156,6 +3008,10 @@ const DADOS_IG = {
      "data": "2023-03-09T18:02:17+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 81,
+     "views": 778,
      "link": "https://www.instagram.com/reel/Cpk9OgPgUxy/"
     },
     {
@@ -2166,6 +3022,10 @@ const DADOS_IG = {
      "data": "2023-03-08T11:08:36+0000",
      "curtidas": 47,
      "comentarios": 5,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 99,
+     "views": 2089,
      "link": "https://www.instagram.com/reel/CphpSgzg3Jx/"
     },
     {
@@ -2176,6 +3036,10 @@ const DADOS_IG = {
      "data": "2023-02-08T12:14:51+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 63,
+     "views": 0,
      "link": "https://www.instagram.com/p/CoZqpDTujOH/"
     },
     {
@@ -2186,6 +3050,10 @@ const DADOS_IG = {
      "data": "2023-02-02T12:57:05+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 58,
+     "views": 0,
      "link": "https://www.instagram.com/p/CoKStD0OFLC/"
     },
     {
@@ -2196,6 +3064,10 @@ const DADOS_IG = {
      "data": "2023-01-28T12:04:18+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 67,
+     "views": 1782,
      "link": "https://www.instagram.com/reel/Cn9UonmA1um/"
     },
     {
@@ -2206,6 +3078,10 @@ const DADOS_IG = {
      "data": "2023-01-24T11:24:32+0000",
      "curtidas": 4,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 52,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cny89X5uI7w/"
     },
     {
@@ -2216,6 +3092,10 @@ const DADOS_IG = {
      "data": "2023-01-24T02:33:02+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 57,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnyAIkxNTGz/"
     },
     {
@@ -2226,6 +3106,10 @@ const DADOS_IG = {
      "data": "2023-01-18T11:28:30+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 86,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnjgpLXOs7c/"
     },
     {
@@ -2236,6 +3120,10 @@ const DADOS_IG = {
      "data": "2023-01-14T12:48:22+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 117,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnZWmkTO1ja/"
     },
     {
@@ -2246,6 +3134,10 @@ const DADOS_IG = {
      "data": "2023-01-12T14:21:17+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 117,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnUXpbSucNA/"
     },
     {
@@ -2256,6 +3148,10 @@ const DADOS_IG = {
      "data": "2023-01-12T14:05:52+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 69,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnUV4eau_zw/"
     },
     {
@@ -2266,6 +3162,10 @@ const DADOS_IG = {
      "data": "2023-01-12T14:01:09+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 73,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnUVV9tOgdz/"
     },
     {
@@ -2276,6 +3176,10 @@ const DADOS_IG = {
      "data": "2023-01-11T11:17:14+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 90,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnRdygbuggD/"
     },
     {
@@ -2286,6 +3190,10 @@ const DADOS_IG = {
      "data": "2023-01-11T11:15:47+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 97,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnRdn77uSZg/"
     },
     {
@@ -2296,6 +3204,10 @@ const DADOS_IG = {
      "data": "2023-01-11T11:14:49+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 86,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnRdgyUuaVE/"
     },
     {
@@ -2306,6 +3218,10 @@ const DADOS_IG = {
      "data": "2023-01-04T17:51:09+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 61,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnAJTeIus3s/"
     },
     {
@@ -2316,6 +3232,10 @@ const DADOS_IG = {
      "data": "2023-01-04T12:33:14+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 57,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cm_k7EEuI2A/"
     },
     {
@@ -2326,6 +3246,10 @@ const DADOS_IG = {
      "data": "2022-12-31T20:00:01+0000",
      "curtidas": 51,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 65,
+     "views": 1907,
      "link": "https://www.instagram.com/reel/Cm2ExDsAI30/"
     },
     {
@@ -2336,6 +3260,10 @@ const DADOS_IG = {
      "data": "2022-12-31T17:15:45+0000",
      "curtidas": 49,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 59,
+     "views": 2302,
      "link": "https://www.instagram.com/reel/Cm1xubggIXh/"
     },
     {
@@ -2346,6 +3274,10 @@ const DADOS_IG = {
      "data": "2022-12-24T21:56:19+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 58,
+     "views": 1416,
      "link": "https://www.instagram.com/reel/CmkQeBOA5HB/"
     },
     {
@@ -2356,6 +3288,10 @@ const DADOS_IG = {
      "data": "2022-12-06T19:02:25+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 61,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cl1maKkOVNn/"
     },
     {
@@ -2366,6 +3302,10 @@ const DADOS_IG = {
      "data": "2022-12-06T18:58:57+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 51,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cl1mAriOwYQ/"
     },
     {
@@ -2376,6 +3316,10 @@ const DADOS_IG = {
      "data": "2022-12-06T18:56:36+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 43,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cl1lvgpuyqY/"
     },
     {
@@ -2386,6 +3330,10 @@ const DADOS_IG = {
      "data": "2022-11-15T18:40:39+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 35,
+     "views": 0,
      "link": "https://www.instagram.com/p/Ck_fOSMuPpm/"
     },
     {
@@ -2396,6 +3344,10 @@ const DADOS_IG = {
      "data": "2022-11-10T20:46:49+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 35,
+     "views": 960,
      "link": "https://www.instagram.com/reel/Cky1rIcgpUT/"
     },
     {
@@ -2406,6 +3358,10 @@ const DADOS_IG = {
      "data": "2022-10-26T22:06:10+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 36,
+     "views": 0,
      "link": "https://www.instagram.com/p/CkMW2DSuPUE/"
     },
     {
@@ -2416,6 +3372,10 @@ const DADOS_IG = {
      "data": "2022-08-09T16:52:51+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 42,
+     "views": 0,
      "link": "https://www.instagram.com/p/ChC8_ASukFR/"
     },
     {
@@ -2426,6 +3386,10 @@ const DADOS_IG = {
      "data": "2022-08-09T16:42:57+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 55,
+     "views": 0,
      "link": "https://www.instagram.com/p/ChC72fgOmCQ/"
     },
     {
@@ -2436,6 +3400,10 @@ const DADOS_IG = {
      "data": "2022-07-23T12:09:55+0000",
      "curtidas": 20,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 60,
+     "views": 0,
      "link": "https://www.instagram.com/p/CgWrF4mu0Hb/"
     },
     {
@@ -2446,6 +3414,10 @@ const DADOS_IG = {
      "data": "2022-07-23T12:09:00+0000",
      "curtidas": 40,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 69,
+     "views": 2827,
      "link": "https://www.instagram.com/reel/CgWq7utAMFI/"
     },
     {
@@ -2456,6 +3428,10 @@ const DADOS_IG = {
      "data": "2022-07-23T12:08:08+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 69,
+     "views": 0,
      "link": "https://www.instagram.com/p/CgWq43auXUv/"
     },
     {
@@ -2466,6 +3442,10 @@ const DADOS_IG = {
      "data": "2022-07-21T12:41:13+0000",
      "curtidas": 14,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 77,
+     "views": 0,
      "link": "https://www.instagram.com/p/CgRlFXSudHv/"
     },
     {
@@ -2476,6 +3456,10 @@ const DADOS_IG = {
      "data": "2022-07-13T14:05:45+0000",
      "curtidas": 5,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 85,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cf9IZhxFOTw/"
     },
     {
@@ -2486,6 +3470,10 @@ const DADOS_IG = {
      "data": "2022-07-13T14:04:36+0000",
      "curtidas": 18,
      "comentarios": 1,
+     "salvos": 3,
+     "compartilhamentos": 1,
+     "alcance": 76,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cf9IRIHFBYm/"
     },
     {
@@ -2496,6 +3484,10 @@ const DADOS_IG = {
      "data": "2022-07-13T14:03:53+0000",
      "curtidas": 6,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 83,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cf9IL3MlaD8/"
     },
     {
@@ -2506,6 +3498,10 @@ const DADOS_IG = {
      "data": "2022-07-06T16:52:01+0000",
      "curtidas": 8,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 53,
+     "views": 0,
      "link": "https://www.instagram.com/p/CfrZ3KjOrDL/"
     },
     {
@@ -2516,6 +3512,10 @@ const DADOS_IG = {
      "data": "2022-06-24T13:23:24+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 6,
+     "views": 470,
      "link": "https://www.instagram.com/reel/CfMFnVYghuD/"
     },
     {
@@ -2526,6 +3526,10 @@ const DADOS_IG = {
      "data": "2022-06-20T20:02:12+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 42,
+     "views": 0,
      "link": "https://www.instagram.com/p/CfCi6IpORCn/"
     },
     {
@@ -2536,6 +3540,10 @@ const DADOS_IG = {
      "data": "2022-06-03T11:35:05+0000",
      "curtidas": 24,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 125,
+     "views": 0,
      "link": "https://www.instagram.com/p/CeV3W_bOTng/"
     },
     {
@@ -2546,6 +3554,10 @@ const DADOS_IG = {
      "data": "2022-05-20T13:08:47+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 45,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cdx-9ADuKU6/"
     },
     {
@@ -2556,6 +3568,10 @@ const DADOS_IG = {
      "data": "2022-05-20T13:07:11+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 48,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cdx-xX8O9-X/"
     },
     {
@@ -2566,6 +3582,10 @@ const DADOS_IG = {
      "data": "2022-05-20T13:06:12+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 48,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cdx-qH4ugL6/"
     },
     {
@@ -2576,6 +3596,10 @@ const DADOS_IG = {
      "data": "2022-05-19T12:55:30+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 62,
+     "views": 0,
      "link": "https://www.instagram.com/p/CdvYo3NOsCJ/"
     },
     {
@@ -2586,6 +3610,10 @@ const DADOS_IG = {
      "data": "2022-05-19T12:50:32+0000",
      "curtidas": 10,
      "comentarios": 2,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 79,
+     "views": 0,
      "link": "https://www.instagram.com/p/CdvYEhZOmej/"
     },
     {
@@ -2596,6 +3624,10 @@ const DADOS_IG = {
      "data": "2022-05-19T12:45:36+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 76,
+     "views": 0,
      "link": "https://www.instagram.com/p/CdvXgWvOp89/"
     },
     {
@@ -2606,6 +3638,10 @@ const DADOS_IG = {
      "data": "2022-04-13T13:31:46+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 77,
+     "views": 0,
      "link": "https://www.instagram.com/p/CcSwLAHOF3o/"
     },
     {
@@ -2616,6 +3652,10 @@ const DADOS_IG = {
      "data": "2022-04-13T13:11:55+0000",
      "curtidas": 18,
      "comentarios": 4,
+     "salvos": 5,
+     "compartilhamentos": 0,
+     "alcance": 92,
+     "views": 0,
      "link": "https://www.instagram.com/p/CcSt5mkuOlU/"
     },
     {
@@ -2626,6 +3666,10 @@ const DADOS_IG = {
      "data": "2022-04-13T13:04:34+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 117,
+     "views": 0,
      "link": "https://www.instagram.com/p/CcStDy_u7Ng/"
     },
     {
@@ -2636,6 +3680,10 @@ const DADOS_IG = {
      "data": "2022-04-12T12:47:04+0000",
      "curtidas": 19,
      "comentarios": 1,
+     "salvos": 5,
+     "compartilhamentos": 2,
+     "alcance": 164,
+     "views": 0,
      "link": "https://www.instagram.com/p/CcQGQucuIQz/"
     },
     {
@@ -2646,6 +3694,10 @@ const DADOS_IG = {
      "data": "2022-04-12T12:45:38+0000",
      "curtidas": 33,
      "comentarios": 8,
+     "salvos": 8,
+     "compartilhamentos": 3,
+     "alcance": 164,
+     "views": 0,
      "link": "https://www.instagram.com/p/CcQGGMzO95X/"
     },
     {
@@ -2656,6 +3708,10 @@ const DADOS_IG = {
      "data": "2022-04-12T12:43:25+0000",
      "curtidas": 11,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 164,
+     "views": 0,
      "link": "https://www.instagram.com/p/CcQF2Avude8/"
     },
     {
@@ -2666,6 +3722,10 @@ const DADOS_IG = {
      "data": "2022-04-09T16:16:27+0000",
      "curtidas": 80,
      "comentarios": 1,
+     "salvos": 4,
+     "compartilhamentos": 0,
+     "alcance": 12,
+     "views": 2846,
      "link": "https://www.instagram.com/reel/CcIvun_gu1W/"
     },
     {
@@ -2676,6 +3736,10 @@ const DADOS_IG = {
      "data": "2022-04-06T20:40:03+0000",
      "curtidas": 99,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 109,
+     "views": 0,
      "link": "https://www.instagram.com/p/CcBfnupOao8/"
     },
     {
@@ -2686,6 +3750,10 @@ const DADOS_IG = {
      "data": "2022-03-31T12:02:54+0000",
      "curtidas": 11,
      "comentarios": 5,
+     "salvos": 4,
+     "compartilhamentos": 0,
+     "alcance": 96,
+     "views": 0,
      "link": "https://www.instagram.com/p/CbxHqtYucTj/"
     },
     {
@@ -2696,6 +3764,10 @@ const DADOS_IG = {
      "data": "2022-03-31T11:57:41+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 62,
+     "views": 0,
      "link": "https://www.instagram.com/p/CbxHEk0Oum7/"
     },
     {
@@ -2706,6 +3778,10 @@ const DADOS_IG = {
      "data": "2022-03-28T12:43:02+0000",
      "curtidas": 8,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/Cbpd2TvgOqx/"
     },
     {
@@ -2716,6 +3792,10 @@ const DADOS_IG = {
      "data": "2022-03-28T12:42:16+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 55,
+     "views": 1019,
      "link": "https://www.instagram.com/reel/CbpdvnCgcdN/"
     },
     {
@@ -2726,6 +3806,10 @@ const DADOS_IG = {
      "data": "2022-03-28T12:40:59+0000",
      "curtidas": 14,
      "comentarios": 7,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/Cbpdmfyg2BM/"
     },
     {
@@ -2736,6 +3820,10 @@ const DADOS_IG = {
      "data": "2022-03-23T12:46:13+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 4,
+     "compartilhamentos": 0,
+     "alcance": 78,
+     "views": 0,
      "link": "https://www.instagram.com/p/CbcmRBfux3a/"
     },
     {
@@ -2746,6 +3834,10 @@ const DADOS_IG = {
      "data": "2022-03-23T12:42:56+0000",
      "curtidas": 38,
      "comentarios": 9,
+     "salvos": 8,
+     "compartilhamentos": 0,
+     "alcance": 97,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cbcl46HuaxF/"
     },
     {
@@ -2756,6 +3848,10 @@ const DADOS_IG = {
      "data": "2022-03-23T12:41:08+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 88,
+     "views": 0,
      "link": "https://www.instagram.com/p/CbclrztuQ_2/"
     },
     {
@@ -2766,6 +3862,10 @@ const DADOS_IG = {
      "data": "2022-03-15T13:19:20+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 71,
+     "views": 0,
      "link": "https://www.instagram.com/p/CbIDsi5O4H8/"
     },
     {
@@ -2776,6 +3876,10 @@ const DADOS_IG = {
      "data": "2022-03-15T13:15:08+0000",
      "curtidas": 17,
      "comentarios": 1,
+     "salvos": 4,
+     "compartilhamentos": 0,
+     "alcance": 64,
+     "views": 0,
      "link": "https://www.instagram.com/p/CbIDNwHuc_G/"
     },
     {
@@ -2786,6 +3890,10 @@ const DADOS_IG = {
      "data": "2022-03-15T12:52:43+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 52,
+     "views": 0,
      "link": "https://www.instagram.com/p/CbIApoduEJW/"
     },
     {
@@ -2796,6 +3904,10 @@ const DADOS_IG = {
      "data": "2022-03-04T12:40:37+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 50,
+     "views": 0,
      "link": "https://www.instagram.com/p/CarqhbCOApc/"
     },
     {
@@ -2806,6 +3918,10 @@ const DADOS_IG = {
      "data": "2022-03-04T12:38:32+0000",
      "curtidas": 17,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 53,
+     "views": 0,
      "link": "https://www.instagram.com/p/CarqSJduDsA/"
     },
     {
@@ -2816,6 +3932,10 @@ const DADOS_IG = {
      "data": "2022-03-04T12:36:37+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 57,
+     "views": 0,
      "link": "https://www.instagram.com/p/CarqEC9u3xr/"
     },
     {
@@ -2826,6 +3946,10 @@ const DADOS_IG = {
      "data": "2022-03-02T19:11:05+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 66,
+     "views": 0,
      "link": "https://www.instagram.com/p/CanNncJuwNW/"
     },
     {
@@ -2836,6 +3960,10 @@ const DADOS_IG = {
      "data": "2022-03-02T19:08:44+0000",
      "curtidas": 32,
      "comentarios": 1,
+     "salvos": 9,
+     "compartilhamentos": 0,
+     "alcance": 69,
+     "views": 0,
      "link": "https://www.instagram.com/p/CanNWUpu-pO/"
     },
     {
@@ -2846,6 +3974,10 @@ const DADOS_IG = {
      "data": "2022-03-02T19:07:34+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 83,
+     "views": 0,
      "link": "https://www.instagram.com/p/CanNNwRuleq/"
     },
     {
@@ -2856,6 +3988,10 @@ const DADOS_IG = {
      "data": "2022-02-25T12:09:35+0000",
      "curtidas": 13,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 64,
+     "views": 0,
      "link": "https://www.instagram.com/p/CaZlZ-Jup8S/"
     },
     {
@@ -2866,6 +4002,10 @@ const DADOS_IG = {
      "data": "2022-02-25T12:08:19+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 57,
+     "views": 930,
      "link": "https://www.instagram.com/reel/CaZlMBpgQdx/"
     },
     {
@@ -2876,6 +4016,10 @@ const DADOS_IG = {
      "data": "2022-02-25T12:06:06+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 48,
+     "views": 0,
      "link": "https://www.instagram.com/p/CaZlAdSuRmJ/"
     },
     {
@@ -2886,6 +4030,10 @@ const DADOS_IG = {
      "data": "2022-02-22T11:37:18+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 55,
+     "views": 0,
      "link": "https://www.instagram.com/p/CaRzU1NuZvl/"
     },
     {
@@ -2896,6 +4044,10 @@ const DADOS_IG = {
      "data": "2022-02-22T11:36:00+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 47,
+     "views": 0,
      "link": "https://www.instagram.com/p/CaRzLT-uPcj/"
     },
     {
@@ -2906,6 +4058,10 @@ const DADOS_IG = {
      "data": "2022-02-22T11:32:59+0000",
      "curtidas": 7,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 104,
+     "views": 0,
      "link": "https://www.instagram.com/p/CaRy1MxOxlV/"
     },
     {
@@ -2916,6 +4072,10 @@ const DADOS_IG = {
      "data": "2022-02-18T12:42:49+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 41,
+     "views": 0,
      "link": "https://www.instagram.com/p/CaHnpRCuoHu/"
     },
     {
@@ -2926,6 +4086,10 @@ const DADOS_IG = {
      "data": "2022-02-17T11:54:06+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 44,
+     "views": 0,
      "link": "https://www.instagram.com/p/CaE9RhdORbP/"
     },
     {
@@ -2936,6 +4100,10 @@ const DADOS_IG = {
      "data": "2022-02-16T12:50:07+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 42,
+     "views": 0,
      "link": "https://www.instagram.com/p/CaCe47yOFTH/"
     },
     {
@@ -2946,6 +4114,10 @@ const DADOS_IG = {
      "data": "2022-02-15T15:31:48+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 36,
+     "views": 0,
      "link": "https://www.instagram.com/p/CaAMmT1u1Wr/"
     },
     {
@@ -2956,6 +4128,10 @@ const DADOS_IG = {
      "data": "2022-02-14T23:42:49+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 34,
+     "views": 923,
      "link": "https://www.instagram.com/reel/CZ-f7_MgKtJ/"
     },
     {
@@ -2966,6 +4142,10 @@ const DADOS_IG = {
      "data": "2022-02-14T19:00:53+0000",
      "curtidas": 113,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 36,
+     "views": 3899,
      "link": "https://www.instagram.com/reel/CZ9_nICg2OP/"
     },
     {
@@ -2976,6 +4156,10 @@ const DADOS_IG = {
      "data": "2022-02-14T13:07:02+0000",
      "curtidas": 16,
      "comentarios": 3,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 32,
+     "views": 0,
      "link": "https://www.instagram.com/p/CZ9XPEMORXy/"
     },
     {
@@ -2986,6 +4170,10 @@ const DADOS_IG = {
      "data": "2022-02-14T13:04:58+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 36,
+     "views": 0,
      "link": "https://www.instagram.com/p/CZ9W_9sOlNi/"
     },
     {
@@ -2996,6 +4184,10 @@ const DADOS_IG = {
      "data": "2022-02-14T13:02:55+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 38,
+     "views": 0,
      "link": "https://www.instagram.com/p/CZ9Ww9ZOm9N/"
     },
     {
@@ -3006,6 +4198,10 @@ const DADOS_IG = {
      "data": "2022-02-11T12:33:59+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 41,
+     "views": 980,
      "link": "https://www.instagram.com/reel/CZ1lApJAsIg/"
     },
     {
@@ -3016,6 +4212,10 @@ const DADOS_IG = {
      "data": "2022-02-10T12:46:01+0000",
      "curtidas": 42,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 37,
+     "views": 1541,
      "link": "https://www.instagram.com/reel/CZzBhsOAWzI/"
     },
     {
@@ -3026,6 +4226,10 @@ const DADOS_IG = {
      "data": "2022-02-10T12:21:30+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZy-2GFOyvV/"
     },
     {
@@ -3036,6 +4240,10 @@ const DADOS_IG = {
      "data": "2022-02-08T12:32:44+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZt2ik8uhNv/"
     },
     {
@@ -3046,6 +4254,10 @@ const DADOS_IG = {
      "data": "2022-02-08T12:31:39+0000",
      "curtidas": 25,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CZt2X8wAOjQ/"
     },
     {
@@ -3056,6 +4268,10 @@ const DADOS_IG = {
      "data": "2022-02-08T12:30:00+0000",
      "curtidas": 13,
      "comentarios": 7,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZt2OlEuSaZ/"
     },
     {
@@ -3066,6 +4282,10 @@ const DADOS_IG = {
      "data": "2022-01-24T12:54:43+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZHRIiZOIY9/"
     },
     {
@@ -3076,6 +4296,10 @@ const DADOS_IG = {
      "data": "2022-01-24T12:53:28+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZHQ_U3u8qn/"
     },
     {
@@ -3086,6 +4310,10 @@ const DADOS_IG = {
      "data": "2022-01-24T12:51:32+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZHQxI3O3bb/"
     },
     {
@@ -3096,6 +4324,10 @@ const DADOS_IG = {
      "data": "2022-01-19T12:06:12+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY6Tm0Gu_gV/"
     },
     {
@@ -3106,6 +4338,10 @@ const DADOS_IG = {
      "data": "2022-01-19T12:04:54+0000",
      "curtidas": 17,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY6TdQyuTrr/"
     },
     {
@@ -3116,6 +4352,10 @@ const DADOS_IG = {
      "data": "2022-01-19T12:03:48+0000",
      "curtidas": 8,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY6TVMguzzP/"
     },
     {
@@ -3126,6 +4366,10 @@ const DADOS_IG = {
      "data": "2022-01-17T19:42:33+0000",
      "curtidas": 23,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY1-PZWPV4b/"
     },
     {
@@ -3136,6 +4380,10 @@ const DADOS_IG = {
      "data": "2022-01-17T19:41:31+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY1-H5UvquX/"
     },
     {
@@ -3146,6 +4394,10 @@ const DADOS_IG = {
      "data": "2022-01-17T19:35:15+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY19Z95PX7l/"
     },
     {
@@ -3156,6 +4408,10 @@ const DADOS_IG = {
      "data": "2022-01-14T15:44:15+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CYt0ldYuo8N/"
     },
     {
@@ -3166,6 +4422,10 @@ const DADOS_IG = {
      "data": "2022-01-14T15:36:06+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CYtzpxyuw7r/"
     },
     {
@@ -3176,6 +4436,10 @@ const DADOS_IG = {
      "data": "2022-01-14T14:49:58+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CYtuX68OnuL/"
     },
     {
@@ -3186,6 +4450,10 @@ const DADOS_IG = {
      "data": "2022-01-10T11:58:22+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CYjHhF2ALiv/"
     },
     {
@@ -3196,6 +4464,10 @@ const DADOS_IG = {
      "data": "2022-01-10T11:57:07+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CYjHWstAwI0/"
     },
     {
@@ -3206,6 +4478,10 @@ const DADOS_IG = {
      "data": "2022-01-10T11:56:02+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CYjHQWVge8r/"
     },
     {
@@ -3216,6 +4492,10 @@ const DADOS_IG = {
      "data": "2022-01-06T18:49:16+0000",
      "curtidas": 20,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CYZjZhTubhM/"
     },
     {
@@ -3226,6 +4506,10 @@ const DADOS_IG = {
      "data": "2022-01-06T18:47:19+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CYZjLRauO2Q/"
     },
     {
@@ -3236,6 +4520,10 @@ const DADOS_IG = {
      "data": "2022-01-06T18:46:04+0000",
      "curtidas": 98,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CYZjCH4uH1S/"
     },
     {
@@ -3246,6 +4534,10 @@ const DADOS_IG = {
      "data": "2022-01-03T12:44:44+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CYRLTEtO5ca/"
     },
     {
@@ -3256,6 +4548,10 @@ const DADOS_IG = {
      "data": "2022-01-03T12:38:59+0000",
      "curtidas": 11,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CYRKo6NOUm5/"
     },
     {
@@ -3266,6 +4562,10 @@ const DADOS_IG = {
      "data": "2022-01-03T12:38:23+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CYRKkcvuDt2/"
     },
     {
@@ -3276,6 +4576,10 @@ const DADOS_IG = {
      "data": "2021-12-16T17:34:45+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CXjWHFoAbEo/"
     },
     {
@@ -3286,6 +4590,10 @@ const DADOS_IG = {
      "data": "2021-12-15T13:08:27+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CXgS6DeuzJX/"
     },
     {
@@ -3296,6 +4604,10 @@ const DADOS_IG = {
      "data": "2021-12-13T17:29:18+0000",
      "curtidas": 11,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CXbnHGcAcjW/"
     },
     {
@@ -3306,6 +4618,10 @@ const DADOS_IG = {
      "data": "2021-12-10T18:44:12+0000",
      "curtidas": 35,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CXUBW2VO1-A/"
     },
     {
@@ -3316,6 +4632,10 @@ const DADOS_IG = {
      "data": "2021-12-10T18:42:44+0000",
      "curtidas": 40,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CXUBMFiOwlU/"
     },
     {
@@ -3326,6 +4646,10 @@ const DADOS_IG = {
      "data": "2021-12-10T18:38:58+0000",
      "curtidas": 33,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CXUAwgHuV7-/"
     },
     {
@@ -3336,6 +4660,10 @@ const DADOS_IG = {
      "data": "2021-12-09T12:49:35+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CXQz-pcuJQ-/"
     },
     {
@@ -3346,6 +4674,10 @@ const DADOS_IG = {
      "data": "2021-12-09T12:45:50+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CXQzjK4Ok7B/"
     },
     {
@@ -3356,6 +4688,10 @@ const DADOS_IG = {
      "data": "2021-12-09T12:39:04+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CXQyxnPO2hA/"
     },
     {
@@ -3366,6 +4702,10 @@ const DADOS_IG = {
      "data": "2021-12-06T14:17:30+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CXJPp_-OZs9/"
     },
     {
@@ -3376,6 +4716,10 @@ const DADOS_IG = {
      "data": "2021-12-06T14:16:48+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CXJPk4guLrJ/"
     },
     {
@@ -3386,6 +4730,10 @@ const DADOS_IG = {
      "data": "2021-12-06T14:16:15+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CXJPg2-OebG/"
     },
     {
@@ -3396,6 +4744,10 @@ const DADOS_IG = {
      "data": "2021-12-06T14:14:29+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CXJPSWEAkL9/"
     },
     {
@@ -3406,6 +4758,10 @@ const DADOS_IG = {
      "data": "2021-12-02T18:56:46+0000",
      "curtidas": 35,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CW_cW-TgzR3/"
     },
     {
@@ -3416,6 +4772,10 @@ const DADOS_IG = {
      "data": "2021-12-02T17:16:47+0000",
      "curtidas": 64,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CW_Q5KiJ7pp/"
     },
     {
@@ -3426,6 +4786,10 @@ const DADOS_IG = {
      "data": "2021-11-24T12:52:54+0000",
      "curtidas": 8,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CWqMb17L9FO/"
     },
     {
@@ -3436,6 +4800,10 @@ const DADOS_IG = {
      "data": "2021-11-24T12:49:42+0000",
      "curtidas": 15,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CWqMEZwLHCR/"
     },
     {
@@ -3446,6 +4814,10 @@ const DADOS_IG = {
      "data": "2021-11-24T12:40:49+0000",
      "curtidas": 12,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CWqLDXlLRrJ/"
     },
     {
@@ -3456,6 +4828,10 @@ const DADOS_IG = {
      "data": "2021-11-23T12:33:10+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CWnlYYOr_mS/"
     },
     {
@@ -3466,6 +4842,10 @@ const DADOS_IG = {
      "data": "2021-11-23T12:32:10+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CWnlRJDr3Mg/"
     },
     {
@@ -3476,6 +4856,10 @@ const DADOS_IG = {
      "data": "2021-11-23T12:31:44+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CWnlN8grgj2/"
     },
     {
@@ -3486,6 +4870,10 @@ const DADOS_IG = {
      "data": "2021-11-11T11:53:06+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CWInQdhrDj5/"
     },
     {
@@ -3496,6 +4884,10 @@ const DADOS_IG = {
      "data": "2021-11-11T11:51:02+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CWInBROrfQH/"
     },
     {
@@ -3506,6 +4898,10 @@ const DADOS_IG = {
      "data": "2021-11-11T11:49:01+0000",
      "curtidas": 3,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CWImynorjJB/"
     },
     {
@@ -3516,6 +4912,10 @@ const DADOS_IG = {
      "data": "2021-11-05T21:29:43+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CV6MeddvJ_a/"
     },
     {
@@ -3526,6 +4926,10 @@ const DADOS_IG = {
      "data": "2021-11-04T20:31:16+0000",
      "curtidas": 9,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CV3g_jTvhwr/"
     },
     {
@@ -3536,6 +4940,10 @@ const DADOS_IG = {
      "data": "2021-11-04T19:16:10+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CV3YZd0PYsg/"
     },
     {
@@ -3546,6 +4954,10 @@ const DADOS_IG = {
      "data": "2021-11-03T11:33:57+0000",
      "curtidas": 12,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVz-tPOLcyw/"
     },
     {
@@ -3556,6 +4968,10 @@ const DADOS_IG = {
      "data": "2021-11-03T11:31:45+0000",
      "curtidas": 5,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVz-dJILJo-/"
     },
     {
@@ -3566,6 +4982,10 @@ const DADOS_IG = {
      "data": "2021-11-03T11:21:47+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVz9UJWrJoD/"
     },
     {
@@ -3576,6 +4996,10 @@ const DADOS_IG = {
      "data": "2021-10-30T13:44:56+0000",
      "curtidas": 16,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVp6hDsLqeW/"
     },
     {
@@ -3586,6 +5010,10 @@ const DADOS_IG = {
      "data": "2021-10-30T13:44:05+0000",
      "curtidas": 8,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVp6a3QrO12/"
     },
     {
@@ -3596,6 +5024,10 @@ const DADOS_IG = {
      "data": "2021-10-30T13:42:53+0000",
      "curtidas": 20,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVp6R_ULZpT/"
     },
     {
@@ -3606,6 +5038,10 @@ const DADOS_IG = {
      "data": "2021-10-29T12:02:58+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVnKDXbLrXd/"
     },
     {
@@ -3616,6 +5052,10 @@ const DADOS_IG = {
      "data": "2021-10-29T11:47:00+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVnIOdtr-a0/"
     },
     {
@@ -3626,6 +5066,10 @@ const DADOS_IG = {
      "data": "2021-10-29T11:41:49+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVnHoaFLPha/"
     },
     {
@@ -3636,6 +5080,10 @@ const DADOS_IG = {
      "data": "2021-10-28T12:04:09+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVklZM2LEk1/"
     },
     {
@@ -3646,6 +5094,10 @@ const DADOS_IG = {
      "data": "2021-10-28T12:02:58+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVklQeXrDt7/"
     },
     {
@@ -3656,6 +5108,10 @@ const DADOS_IG = {
      "data": "2021-10-28T12:02:05+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVklJ_WLKFf/"
     },
     {
@@ -3666,6 +5122,10 @@ const DADOS_IG = {
      "data": "2021-10-22T12:11:38+0000",
      "curtidas": 10,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVVJevZr70z/"
     },
     {
@@ -3676,6 +5136,10 @@ const DADOS_IG = {
      "data": "2021-10-22T12:11:12+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVVJbjJLfkO/"
     },
     {
@@ -3686,6 +5150,10 @@ const DADOS_IG = {
      "data": "2021-10-22T12:10:49+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVVJYttL2T_/"
     },
     {
@@ -3696,6 +5164,10 @@ const DADOS_IG = {
      "data": "2021-10-20T19:58:58+0000",
      "curtidas": 5,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CVQ1Vd1gaMK/"
     },
     {
@@ -3706,6 +5178,10 @@ const DADOS_IG = {
      "data": "2021-10-20T19:09:29+0000",
      "curtidas": 24,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVQvtU0Pgv0/"
     },
     {
@@ -3716,6 +5192,10 @@ const DADOS_IG = {
      "data": "2021-10-20T19:03:54+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVQvEgGvnZe/"
     },
     {
@@ -3726,6 +5206,10 @@ const DADOS_IG = {
      "data": "2021-10-20T19:00:47+0000",
      "curtidas": 28,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVQutn_vOlT/"
     },
     {
@@ -3736,6 +5220,10 @@ const DADOS_IG = {
      "data": "2021-10-20T18:55:41+0000",
      "curtidas": 10,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVQuIP5Pm19/"
     },
     {
@@ -3746,6 +5234,10 @@ const DADOS_IG = {
      "data": "2021-10-20T18:53:40+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVQt5jrvZiq/"
     },
     {
@@ -3756,6 +5248,10 @@ const DADOS_IG = {
      "data": "2021-10-20T18:50:21+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVQthMkvWMv/"
     },
     {
@@ -3766,6 +5262,10 @@ const DADOS_IG = {
      "data": "2021-10-14T19:01:31+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVBSBxDveYH/"
     },
     {
@@ -3776,6 +5276,10 @@ const DADOS_IG = {
      "data": "2021-10-14T18:56:42+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVBReeBPpRq/"
     },
     {
@@ -3786,6 +5290,10 @@ const DADOS_IG = {
      "data": "2021-10-14T18:51:48+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CVBQ6nWvhR2/"
     },
     {
@@ -3796,6 +5304,10 @@ const DADOS_IG = {
      "data": "2021-10-04T14:29:08+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CUnC6FTL1WA/"
     },
     {
@@ -3806,6 +5318,10 @@ const DADOS_IG = {
      "data": "2021-10-04T14:28:38+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CUnC2buLCwo/"
     },
     {
@@ -3816,6 +5332,10 @@ const DADOS_IG = {
      "data": "2021-10-04T14:15:56+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CUnBZWhLbO8/"
     },
     {
@@ -3826,6 +5346,10 @@ const DADOS_IG = {
      "data": "2021-10-04T12:04:42+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CUmyYLdLAgD/"
     },
     {
@@ -3836,6 +5360,10 @@ const DADOS_IG = {
      "data": "2021-10-04T11:54:33+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CUmxN0LrfPJ/"
     },
     {
@@ -3846,6 +5374,10 @@ const DADOS_IG = {
      "data": "2021-10-04T11:49:28+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CUmwolnLbbP/"
     },
     {
@@ -3856,6 +5388,10 @@ const DADOS_IG = {
      "data": "2021-09-16T13:16:05+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CT4kIH7AQlF/"
     },
     {
@@ -3866,6 +5402,10 @@ const DADOS_IG = {
      "data": "2021-09-15T19:00:22+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CT2m1_UJCbv/"
     },
     {
@@ -3876,6 +5416,10 @@ const DADOS_IG = {
      "data": "2021-09-14T13:13:56+0000",
      "curtidas": 17,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CTzaVcQgycw/"
     },
     {
@@ -3886,6 +5430,10 @@ const DADOS_IG = {
      "data": "2021-09-03T12:26:14+0000",
      "curtidas": 12,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTXAM0rr7TJ/"
     },
     {
@@ -3896,6 +5444,10 @@ const DADOS_IG = {
      "data": "2021-09-03T12:24:27+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTW__p-rnTS/"
     },
     {
@@ -3906,6 +5458,10 @@ const DADOS_IG = {
      "data": "2021-09-03T12:19:14+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTW_ZeIrfRy/"
     },
     {
@@ -3916,6 +5472,10 @@ const DADOS_IG = {
      "data": "2021-09-03T12:16:51+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTW_ICbLdAb/"
     },
     {
@@ -3926,6 +5486,10 @@ const DADOS_IG = {
      "data": "2021-09-03T12:14:31+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTW-25BLc5I/"
     },
     {
@@ -3936,6 +5500,10 @@ const DADOS_IG = {
      "data": "2021-09-03T12:11:14+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTW-e7cLn47/"
     },
     {
@@ -3946,6 +5514,10 @@ const DADOS_IG = {
      "data": "2021-08-30T19:38:22+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTNeeP3pMgv/"
     },
     {
@@ -3956,6 +5528,10 @@ const DADOS_IG = {
      "data": "2021-08-30T19:36:26+0000",
      "curtidas": 9,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTNeQNAJneJ/"
     },
     {
@@ -3966,6 +5542,10 @@ const DADOS_IG = {
      "data": "2021-08-30T19:31:41+0000",
      "curtidas": 12,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTNdtXyJc9x/"
     },
     {
@@ -3976,6 +5556,10 @@ const DADOS_IG = {
      "data": "2021-08-27T12:45:45+0000",
      "curtidas": 19,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTFA3kaLiLK/"
     },
     {
@@ -3986,6 +5570,10 @@ const DADOS_IG = {
      "data": "2021-08-27T12:42:04+0000",
      "curtidas": 28,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTFAcptL-Dv/"
     },
     {
@@ -3996,6 +5584,10 @@ const DADOS_IG = {
      "data": "2021-08-27T12:40:59+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTFAUqrrdxR/"
     },
     {
@@ -4006,6 +5598,10 @@ const DADOS_IG = {
      "data": "2021-08-26T13:12:43+0000",
      "curtidas": 7,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTCfKKuLaVa/"
     },
     {
@@ -4016,6 +5612,10 @@ const DADOS_IG = {
      "data": "2021-08-26T13:11:41+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTCfCtYrwVT/"
     },
     {
@@ -4026,6 +5626,10 @@ const DADOS_IG = {
      "data": "2021-08-26T13:10:33+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CTCe6Z7r5GD/"
     },
     {
@@ -4036,6 +5640,10 @@ const DADOS_IG = {
      "data": "2021-08-23T13:20:25+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CS6xqBJLGHw/"
     },
     {
@@ -4046,6 +5654,10 @@ const DADOS_IG = {
      "data": "2021-08-23T13:05:24+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CS6v8ACrbRy/"
     },
     {
@@ -4056,6 +5668,10 @@ const DADOS_IG = {
      "data": "2021-08-23T12:47:52+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CS6t7o9LAC5/"
     },
     {
@@ -4066,6 +5682,10 @@ const DADOS_IG = {
      "data": "2021-08-19T12:14:43+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CSwW9VwLmgb/"
     },
     {
@@ -4076,6 +5696,10 @@ const DADOS_IG = {
      "data": "2021-08-19T12:14:26+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CSwW7MErUCZ/"
     },
     {
@@ -4086,6 +5710,10 @@ const DADOS_IG = {
      "data": "2021-08-19T12:13:38+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CSwW1U4LFeC/"
     },
     {
@@ -4096,6 +5724,10 @@ const DADOS_IG = {
      "data": "2021-08-19T12:13:14+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CSwWyZsrgTU/"
     },
     {
@@ -4106,6 +5738,10 @@ const DADOS_IG = {
      "data": "2021-08-19T12:12:52+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CSwWvsIL3B9/"
     },
     {
@@ -4116,6 +5752,10 @@ const DADOS_IG = {
      "data": "2021-08-18T11:43:54+0000",
      "curtidas": 159,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CStukkSA9NZ/"
     },
     {
@@ -4126,6 +5766,10 @@ const DADOS_IG = {
      "data": "2021-08-12T13:05:12+0000",
      "curtidas": 10,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CSebK3YLaJb/"
     },
     {
@@ -4136,6 +5780,10 @@ const DADOS_IG = {
      "data": "2021-08-12T13:05:00+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CSebJaPrQON/"
     },
     {
@@ -4146,6 +5794,10 @@ const DADOS_IG = {
      "data": "2021-08-12T13:04:47+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CSebH56rKFz/"
     },
     {
@@ -4156,6 +5808,10 @@ const DADOS_IG = {
      "data": "2021-07-06T13:17:04+0000",
      "curtidas": 91,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CQ_LFAvAMDc/"
     },
     {
@@ -4166,6 +5822,10 @@ const DADOS_IG = {
      "data": "2021-06-24T13:10:48+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CQgQ3FOIxp6/"
     },
     {
@@ -4176,6 +5836,10 @@ const DADOS_IG = {
      "data": "2021-06-24T13:09:00+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CQgQp7dIg_m/"
     },
     {
@@ -4186,6 +5850,10 @@ const DADOS_IG = {
      "data": "2021-06-24T12:55:47+0000",
      "curtidas": 28,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CQgPJF5IHqI/"
     },
     {
@@ -4196,6 +5864,10 @@ const DADOS_IG = {
      "data": "2021-06-21T12:41:31+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CQYfGiVghZY/"
     },
     {
@@ -4206,6 +5878,10 @@ const DADOS_IG = {
      "data": "2021-06-14T13:50:49+0000",
      "curtidas": 36,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CQGlcZgAoxd/"
     },
     {
@@ -4216,6 +5892,10 @@ const DADOS_IG = {
      "data": "2021-06-14T12:48:58+0000",
      "curtidas": 121,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CQGeab5Naqg/"
     },
     {
@@ -4226,6 +5906,10 @@ const DADOS_IG = {
      "data": "2021-06-13T04:48:31+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CQDColTNEEu/"
     },
     {
@@ -4236,6 +5920,10 @@ const DADOS_IG = {
      "data": "2021-06-10T12:29:19+0000",
      "curtidas": 33,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CP8I52kAQyI/"
     },
     {
@@ -4246,6 +5934,10 @@ const DADOS_IG = {
      "data": "2021-06-10T12:28:31+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CP8I3QPA3hF/"
     },
     {
@@ -4256,6 +5948,10 @@ const DADOS_IG = {
      "data": "2021-06-10T12:28:21+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CP8I1VegMUa/"
     },
     {
@@ -4266,6 +5962,10 @@ const DADOS_IG = {
      "data": "2021-06-07T15:03:30+0000",
      "curtidas": 11,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CP0sOD4AANv/"
     },
     {
@@ -4276,6 +5976,10 @@ const DADOS_IG = {
      "data": "2021-06-04T15:16:36+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CPs_VNzg-wB/"
     },
     {
@@ -4286,6 +5990,10 @@ const DADOS_IG = {
      "data": "2021-05-29T18:53:11+0000",
      "curtidas": 68,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CPd7Wc8AdcW/"
     },
     {
@@ -4296,6 +6004,10 @@ const DADOS_IG = {
      "data": "2021-05-28T14:53:43+0000",
      "curtidas": 282,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CPa7LNGNzW1/"
     },
     {
@@ -4306,6 +6018,10 @@ const DADOS_IG = {
      "data": "2021-05-21T12:12:35+0000",
      "curtidas": 162,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CPInAxqghzU/"
     },
     {
@@ -4316,6 +6032,10 @@ const DADOS_IG = {
      "data": "2021-05-10T12:44:45+0000",
      "curtidas": 19,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/COsWG4ct7_A/"
     },
     {
@@ -4326,6 +6046,10 @@ const DADOS_IG = {
      "data": "2021-05-04T13:02:12+0000",
      "curtidas": 17,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/COc7Q9upygm/"
     },
     {
@@ -4336,6 +6060,10 @@ const DADOS_IG = {
      "data": "2021-04-29T12:42:44+0000",
      "curtidas": 13,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/COQBIjKJxMz/"
     },
     {
@@ -4346,6 +6074,10 @@ const DADOS_IG = {
      "data": "2021-04-29T12:21:53+0000",
      "curtidas": 12,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/COP-vycp-D-/"
     },
     {
@@ -4356,6 +6088,10 @@ const DADOS_IG = {
      "data": "2021-04-29T12:06:41+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/COP9Ac7JC2l/"
     },
     {
@@ -4366,6 +6102,10 @@ const DADOS_IG = {
      "data": "2021-04-23T14:57:52+0000",
      "curtidas": 42,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/COAz1BIptCK/"
     },
     {
@@ -4376,6 +6116,10 @@ const DADOS_IG = {
      "data": "2021-04-23T12:15:59+0000",
      "curtidas": 17,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/COAhTTGJI-k/"
     },
     {
@@ -4386,6 +6130,10 @@ const DADOS_IG = {
      "data": "2021-04-20T12:25:46+0000",
      "curtidas": 7,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CN40APbpLoI/"
     },
     {
@@ -4396,6 +6144,10 @@ const DADOS_IG = {
      "data": "2021-04-20T12:25:27+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CN4z5-bp6f7/"
     },
     {
@@ -4406,6 +6158,10 @@ const DADOS_IG = {
      "data": "2021-04-20T12:24:48+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CN4z3T6p4Lu/"
     },
     {
@@ -4416,6 +6172,10 @@ const DADOS_IG = {
      "data": "2021-04-09T20:20:31+0000",
      "curtidas": 68,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CNdVn4Jp0Qu/"
     },
     {
@@ -4426,6 +6186,10 @@ const DADOS_IG = {
      "data": "2021-04-09T20:18:49+0000",
      "curtidas": 31,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CNdVbalpR4W/"
     },
     {
@@ -4436,6 +6200,10 @@ const DADOS_IG = {
      "data": "2021-03-18T18:22:14+0000",
      "curtidas": 87,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CMkelObpz32/"
     },
     {
@@ -4446,6 +6214,10 @@ const DADOS_IG = {
      "data": "2021-03-17T14:49:02+0000",
      "curtidas": 32,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CMhhZ96J2f0/"
     },
     {
@@ -4456,6 +6228,10 @@ const DADOS_IG = {
      "data": "2021-03-08T15:19:21+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CMKZpkZA_cc/"
     },
     {
@@ -4466,6 +6242,10 @@ const DADOS_IG = {
      "data": "2021-02-18T01:20:54+0000",
      "curtidas": 11,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CLajaempKR_/"
     },
     {
@@ -4476,6 +6256,10 @@ const DADOS_IG = {
      "data": "2021-02-18T01:20:05+0000",
      "curtidas": 11,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CLajVa2Jdmu/"
     },
     {
@@ -4486,6 +6270,10 @@ const DADOS_IG = {
      "data": "2021-02-18T01:20:03+0000",
      "curtidas": 13,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CLajQXVJ_7D/"
     },
     {
@@ -4496,6 +6284,10 @@ const DADOS_IG = {
      "data": "2021-02-08T12:56:27+0000",
      "curtidas": 29,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CLCDG8IJHgg/"
     },
     {
@@ -4506,6 +6298,10 @@ const DADOS_IG = {
      "data": "2021-02-08T12:49:07+0000",
      "curtidas": 29,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CLCCRSQJVCf/"
     },
     {
@@ -4516,6 +6312,10 @@ const DADOS_IG = {
      "data": "2021-01-05T18:26:59+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJrF6DnJBtG/"
     },
     {
@@ -4526,6 +6326,10 @@ const DADOS_IG = {
      "data": "2021-01-05T18:25:14+0000",
      "curtidas": 15,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJrFtU_pSwT/"
     },
     {
@@ -4536,6 +6340,10 @@ const DADOS_IG = {
      "data": "2021-01-05T18:24:02+0000",
      "curtidas": 8,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJrFkfEJWer/"
     },
     {
@@ -4546,6 +6354,10 @@ const DADOS_IG = {
      "data": "2020-12-26T12:06:12+0000",
      "curtidas": 19,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJQqYalpJwy/"
     },
     {
@@ -4556,6 +6368,10 @@ const DADOS_IG = {
      "data": "2020-12-24T20:49:00+0000",
      "curtidas": 28,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJMcSgApZ5P/"
     },
     {
@@ -4566,6 +6382,10 @@ const DADOS_IG = {
      "data": "2020-12-23T14:50:09+0000",
      "curtidas": 19,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJJOwpHpZya/"
     },
     {
@@ -4576,6 +6396,10 @@ const DADOS_IG = {
      "data": "2020-12-23T14:45:35+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJJOPKJpI6Y/"
     },
     {
@@ -4586,6 +6410,10 @@ const DADOS_IG = {
      "data": "2020-12-23T14:42:04+0000",
      "curtidas": 7,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJJN1cgp0H7/"
     },
     {
@@ -4596,6 +6424,10 @@ const DADOS_IG = {
      "data": "2020-12-22T15:55:05+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJGxZTqpWoI/"
     },
     {
@@ -4606,6 +6438,10 @@ const DADOS_IG = {
      "data": "2020-12-22T15:53:15+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJGxL7wJqBo/"
     },
     {
@@ -4616,6 +6452,10 @@ const DADOS_IG = {
      "data": "2020-12-22T15:52:16+0000",
      "curtidas": 18,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJGxErCpo30/"
     },
     {
@@ -4626,6 +6466,10 @@ const DADOS_IG = {
      "data": "2020-12-17T13:36:52+0000",
      "curtidas": 229,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CI5pljxJD5p/"
     },
     {
@@ -4636,6 +6480,10 @@ const DADOS_IG = {
      "data": "2020-12-16T15:05:51+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CI3O_aZJyfX/"
     },
     {
@@ -4646,6 +6494,10 @@ const DADOS_IG = {
      "data": "2020-12-15T14:45:23+0000",
      "curtidas": 38,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CI0n2sIphWv/"
     },
     {
@@ -4656,6 +6508,10 @@ const DADOS_IG = {
      "data": "2020-12-14T17:51:07+0000",
      "curtidas": 44,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CIyYGOGpkqF/"
     },
     {
@@ -4666,6 +6522,10 @@ const DADOS_IG = {
      "data": "2020-11-26T14:18:06+0000",
      "curtidas": 22,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CIDpoR9Ji-L/"
     },
     {
@@ -4676,6 +6536,10 @@ const DADOS_IG = {
      "data": "2020-11-26T14:17:08+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CIDphKHJGS-/"
     },
     {
@@ -4686,6 +6550,10 @@ const DADOS_IG = {
      "data": "2020-11-26T14:16:09+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CIDpZ8Mpp_u/"
     },
     {
@@ -4696,6 +6564,10 @@ const DADOS_IG = {
      "data": "2020-11-24T13:22:03+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CH-Zn6lJ0AU/"
     },
     {
@@ -4706,6 +6578,10 @@ const DADOS_IG = {
      "data": "2020-11-24T13:19:38+0000",
      "curtidas": 28,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CH-ZWO2JXdf/"
     },
     {
@@ -4716,6 +6592,10 @@ const DADOS_IG = {
      "data": "2020-11-24T13:18:21+0000",
      "curtidas": 14,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CH-ZM4JpIWf/"
     },
     {
@@ -4726,6 +6606,10 @@ const DADOS_IG = {
      "data": "2020-11-19T13:22:55+0000",
      "curtidas": 13,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CHxhv-OJWPw/"
     },
     {
@@ -4736,6 +6620,10 @@ const DADOS_IG = {
      "data": "2020-11-19T13:21:57+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CHxho57JE0X/"
     },
     {
@@ -4746,6 +6634,10 @@ const DADOS_IG = {
      "data": "2020-11-19T13:21:06+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CHxhiqzJlZJ/"
     },
     {
@@ -4756,6 +6648,10 @@ const DADOS_IG = {
      "data": "2020-11-16T13:04:36+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CHpxRLfpMcM/"
     },
     {
@@ -4766,6 +6662,10 @@ const DADOS_IG = {
      "data": "2020-11-16T13:04:07+0000",
      "curtidas": 23,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CHpxNqHJIdw/"
     },
     {
@@ -4776,6 +6676,10 @@ const DADOS_IG = {
      "data": "2020-11-16T13:03:11+0000",
      "curtidas": 22,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CHpxGyJpF4N/"
     },
     {
@@ -4786,6 +6690,10 @@ const DADOS_IG = {
      "data": "2020-11-11T12:33:13+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CHc1s9spJx2/"
     },
     {
@@ -4796,6 +6704,10 @@ const DADOS_IG = {
      "data": "2020-11-11T12:32:54+0000",
      "curtidas": 15,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CHc1qj1J3nJ/"
     },
     {
@@ -4806,6 +6718,10 @@ const DADOS_IG = {
      "data": "2020-11-11T12:32:20+0000",
      "curtidas": 34,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CHc1maBpy7S/"
     },
     {
@@ -4816,6 +6732,10 @@ const DADOS_IG = {
      "data": "2020-11-03T19:51:27+0000",
      "curtidas": 14,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CHJBfmzpKq-/"
     },
     {
@@ -4826,6 +6746,10 @@ const DADOS_IG = {
      "data": "2020-11-03T19:38:25+0000",
      "curtidas": 15,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CHJAAI6Jv0S/"
     },
     {
@@ -4836,6 +6760,10 @@ const DADOS_IG = {
      "data": "2020-11-03T19:33:09+0000",
      "curtidas": 22,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CHI_ZjPpxJH/"
     },
     {
@@ -4846,6 +6774,10 @@ const DADOS_IG = {
      "data": "2020-10-30T13:47:28+0000",
      "curtidas": 47,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CG-EqNwJd_Z/"
     },
     {
@@ -4856,6 +6788,10 @@ const DADOS_IG = {
      "data": "2020-10-30T13:43:01+0000",
      "curtidas": 95,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CG-EJrkJEEn/"
     },
     {
@@ -4866,6 +6802,10 @@ const DADOS_IG = {
      "data": "2020-10-30T12:56:15+0000",
      "curtidas": 44,
      "comentarios": 11,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/CG9-sgPJBWI/"
     },
     {
@@ -4876,6 +6816,10 @@ const DADOS_IG = {
      "data": "2020-10-29T17:12:36+0000",
      "curtidas": 46,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CG73V1oJ4-3/"
     },
     {
@@ -4886,6 +6830,10 @@ const DADOS_IG = {
      "data": "2020-10-29T17:09:31+0000",
      "curtidas": 22,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CG72_NqJD9t/"
     },
     {
@@ -4896,6 +6844,10 @@ const DADOS_IG = {
      "data": "2020-10-29T17:07:10+0000",
      "curtidas": 32,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CG72uCJJs40/"
     },
     {
@@ -4906,6 +6858,10 @@ const DADOS_IG = {
      "data": "2020-10-28T12:51:37+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CG40rbUJSxD/"
     },
     {
@@ -4916,6 +6872,10 @@ const DADOS_IG = {
      "data": "2020-10-27T16:44:32+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CG2qiehJb8q/"
     },
     {
@@ -4926,6 +6886,10 @@ const DADOS_IG = {
      "data": "2020-10-26T15:00:09+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CGz5TAgJsBV/"
     },
     {
@@ -4936,6 +6900,10 @@ const DADOS_IG = {
      "data": "2020-10-26T03:03:24+0000",
      "curtidas": 23,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CGynxgnpBAw/"
     },
     {
@@ -4946,6 +6914,10 @@ const DADOS_IG = {
      "data": "2020-10-24T13:32:12+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CGumJNQJmCN/"
     },
     {
@@ -4956,6 +6928,10 @@ const DADOS_IG = {
      "data": "2020-10-24T12:36:14+0000",
      "curtidas": 27,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CGufvP6JB7c/"
     },
     {
@@ -4966,6 +6942,10 @@ const DADOS_IG = {
      "data": "2020-10-22T12:18:21+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CGpUGfdpkdY/"
     },
     {
@@ -4976,6 +6956,10 @@ const DADOS_IG = {
      "data": "2020-10-21T11:29:38+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CGmpu4SpC-G/"
     },
     {
@@ -4986,6 +6970,10 @@ const DADOS_IG = {
      "data": "2020-10-20T11:20:45+0000",
      "curtidas": 23,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CGkD64rJG7s/"
     },
     {
@@ -4996,6 +6984,10 @@ const DADOS_IG = {
      "data": "2020-10-19T14:03:30+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CGhxwEFJ14h/"
     },
     {
@@ -5006,6 +6998,10 @@ const DADOS_IG = {
      "data": "2020-10-05T18:44:06+0000",
      "curtidas": 29,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CF-OvAUJ07C/"
     },
     {
@@ -5016,6 +7012,10 @@ const DADOS_IG = {
      "data": "2020-10-05T02:34:20+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CF8fwMipAz9/"
     },
     {
@@ -5026,6 +7026,10 @@ const DADOS_IG = {
      "data": "2020-09-23T16:52:59+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFfIUdBpBoS/"
     },
     {
@@ -5036,6 +7040,10 @@ const DADOS_IG = {
      "data": "2020-09-22T13:36:09+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFcNCkTJwNy/"
     },
     {
@@ -5046,6 +7054,10 @@ const DADOS_IG = {
      "data": "2020-09-22T13:06:36+0000",
      "curtidas": 24,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFcJxoKpkpU/"
     },
     {
@@ -5056,6 +7068,10 @@ const DADOS_IG = {
      "data": "2020-09-22T13:04:56+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFcJlaUJqSr/"
     },
     {
@@ -5066,6 +7082,10 @@ const DADOS_IG = {
      "data": "2020-09-20T17:28:19+0000",
      "curtidas": 14,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFXeI0zJMK7/"
     },
     {
@@ -5076,6 +7096,10 @@ const DADOS_IG = {
      "data": "2020-09-20T17:25:28+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFXdz7nJQpE/"
     },
     {
@@ -5086,6 +7110,10 @@ const DADOS_IG = {
      "data": "2020-09-20T17:22:26+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFXdds4Jmpw/"
     },
     {
@@ -5096,6 +7124,10 @@ const DADOS_IG = {
      "data": "2020-09-17T13:26:05+0000",
      "curtidas": 1,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFPUB94J8xB/"
     },
     {
@@ -5106,6 +7138,10 @@ const DADOS_IG = {
      "data": "2020-09-17T13:22:22+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFPTmxsJK-w/"
     },
     {
@@ -5116,6 +7152,10 @@ const DADOS_IG = {
      "data": "2020-09-17T13:20:04+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFPTV4apQU0/"
     },
     {
@@ -5126,6 +7166,10 @@ const DADOS_IG = {
      "data": "2020-09-16T14:23:07+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFM1w0spB3p/"
     },
     {
@@ -5136,6 +7180,10 @@ const DADOS_IG = {
      "data": "2020-09-15T15:36:11+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFKZVFgpfbe/"
     },
     {
@@ -5146,6 +7194,10 @@ const DADOS_IG = {
      "data": "2020-09-15T15:22:56+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFKX0CqpZGE/"
     },
     {
@@ -5156,6 +7208,10 @@ const DADOS_IG = {
      "data": "2020-09-15T15:20:20+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFKXhDhpKLy/"
     },
     {
@@ -5166,6 +7222,10 @@ const DADOS_IG = {
      "data": "2020-09-15T15:17:25+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFKXLqnpU97/"
     },
     {
@@ -5176,6 +7236,10 @@ const DADOS_IG = {
      "data": "2020-09-15T15:13:45+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFKWw0qp_BZ/"
     },
     {
@@ -5186,6 +7250,10 @@ const DADOS_IG = {
      "data": "2020-09-15T15:08:22+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFKWJYfJ-vw/"
     },
     {
@@ -5196,6 +7264,10 @@ const DADOS_IG = {
      "data": "2020-09-11T17:06:14+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFAQdO-peFu/"
     },
     {
@@ -5206,6 +7278,10 @@ const DADOS_IG = {
      "data": "2020-09-11T01:18:54+0000",
      "curtidas": 19,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/CE-jUsLJLME/"
     },
     {
@@ -5216,6 +7292,10 @@ const DADOS_IG = {
      "data": "2020-09-10T12:12:11+0000",
      "curtidas": 12,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CE9KAjkJEVW/"
     },
     {
@@ -5226,6 +7306,10 @@ const DADOS_IG = {
      "data": "2020-09-08T18:15:38+0000",
      "curtidas": 21,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CE4qA3DJRl1/"
     },
     {
@@ -5236,6 +7320,10 @@ const DADOS_IG = {
      "data": "2020-09-08T18:13:40+0000",
      "curtidas": 12,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CE4pydepM8r/"
     },
     {
@@ -5246,6 +7334,10 @@ const DADOS_IG = {
      "data": "2020-09-02T14:09:28+0000",
      "curtidas": 24,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEow7SyJvXu/"
     },
     {
@@ -5256,6 +7348,10 @@ const DADOS_IG = {
      "data": "2020-08-31T13:12:56+0000",
      "curtidas": 19,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEjg5foJPRb/"
     },
     {
@@ -5266,6 +7362,10 @@ const DADOS_IG = {
      "data": "2020-08-29T18:48:49+0000",
      "curtidas": 22,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEe93GupRtT/"
     },
     {
@@ -5276,6 +7376,10 @@ const DADOS_IG = {
      "data": "2020-08-26T12:33:21+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEWkghdJGiC/"
     },
     {
@@ -5286,6 +7390,10 @@ const DADOS_IG = {
      "data": "2020-08-25T23:09:37+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEVIhwJpAtb/"
     },
     {
@@ -5296,6 +7404,10 @@ const DADOS_IG = {
      "data": "2020-08-24T17:07:19+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CER6RX4JsgJ/"
     },
     {
@@ -5306,6 +7418,10 @@ const DADOS_IG = {
      "data": "2020-08-21T16:03:17+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEKEVP7Jh4y/"
     },
     {
@@ -5316,6 +7432,10 @@ const DADOS_IG = {
      "data": "2020-08-20T16:36:38+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEHjlHHJvUQ/"
     },
     {
@@ -5326,6 +7446,10 @@ const DADOS_IG = {
      "data": "2020-08-20T11:53:20+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEHDKL0p3Yd/"
     },
     {
@@ -5336,6 +7460,10 @@ const DADOS_IG = {
      "data": "2020-08-19T17:30:51+0000",
      "curtidas": 9,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEFE_XgJ00c/"
     },
     {
@@ -5346,6 +7474,10 @@ const DADOS_IG = {
      "data": "2020-08-18T16:13:37+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CECXW2BJDiP/"
     },
     {
@@ -5356,6 +7488,10 @@ const DADOS_IG = {
      "data": "2020-08-17T16:44:45+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CD_2H_mJsfY/"
     },
     {
@@ -5366,6 +7502,10 @@ const DADOS_IG = {
      "data": "2020-08-14T16:25:11+0000",
      "curtidas": 16,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CD4Ff-4pGvt/"
     },
     {
@@ -5376,6 +7516,10 @@ const DADOS_IG = {
      "data": "2020-08-13T12:18:13+0000",
      "curtidas": 20,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CD1EcVipokJ/"
     },
     {
@@ -5386,6 +7530,10 @@ const DADOS_IG = {
      "data": "2020-08-12T14:00:26+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDyrWCFJfO9/"
     },
     {
@@ -5396,6 +7544,10 @@ const DADOS_IG = {
      "data": "2020-08-11T12:30:53+0000",
      "curtidas": 14,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDv8TVXJywI/"
     },
     {
@@ -5406,6 +7558,10 @@ const DADOS_IG = {
      "data": "2020-08-10T18:03:38+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDt9lj4JvHE/"
     },
     {
@@ -5416,6 +7572,10 @@ const DADOS_IG = {
      "data": "2020-08-10T11:58:47+0000",
      "curtidas": 11,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDtT1XgJcD9/"
     },
     {
@@ -5426,6 +7586,10 @@ const DADOS_IG = {
      "data": "2020-08-07T11:51:14+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDlklaxJHVX/"
     },
     {
@@ -5436,6 +7600,10 @@ const DADOS_IG = {
      "data": "2020-08-06T11:39:39+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDi-dtDpYTS/"
     },
     {
@@ -5446,6 +7614,10 @@ const DADOS_IG = {
      "data": "2020-08-05T17:26:27+0000",
      "curtidas": 9,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDhBW7LJont/"
     },
     {
@@ -5456,6 +7628,10 @@ const DADOS_IG = {
      "data": "2020-08-04T12:13:06+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDd4sXPJXDG/"
     },
     {
@@ -5466,6 +7642,10 @@ const DADOS_IG = {
      "data": "2020-07-29T16:08:44+0000",
      "curtidas": 15,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDO25gUJXXX/"
     },
     {
@@ -5476,6 +7656,10 @@ const DADOS_IG = {
      "data": "2020-07-24T17:42:43+0000",
      "curtidas": 15,
      "comentarios": 10,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDCJqa2JVV0/"
     },
     {
@@ -5486,6 +7670,10 @@ const DADOS_IG = {
      "data": "2020-07-21T14:03:25+0000",
      "curtidas": 10,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CC6CMtjJGBp/"
     },
     {
@@ -5496,6 +7684,10 @@ const DADOS_IG = {
      "data": "2020-07-15T16:00:06+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCqyxgrpXWf/"
     },
     {
@@ -5506,6 +7698,10 @@ const DADOS_IG = {
      "data": "2020-07-13T18:30:54+0000",
      "curtidas": 22,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCl6cw8pBY4/"
     },
     {
@@ -5516,6 +7712,10 @@ const DADOS_IG = {
      "data": "2020-06-25T12:55:00+0000",
      "curtidas": 9,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CB29r6_Jdc0/"
     },
     {
@@ -5526,6 +7726,10 @@ const DADOS_IG = {
      "data": "2020-06-25T02:37:55+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CB13FI9pVbq/"
     },
     {
@@ -5536,6 +7740,10 @@ const DADOS_IG = {
      "data": "2020-06-24T18:02:23+0000",
      "curtidas": 17,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CB08FRbJeKA/"
     },
     {
@@ -5546,6 +7754,10 @@ const DADOS_IG = {
      "data": "2020-05-08T13:09:31+0000",
      "curtidas": 28,
      "comentarios": 40,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B_7ZNKcpWs6/"
     },
     {
@@ -5556,6 +7768,10 @@ const DADOS_IG = {
      "data": "2020-04-17T19:50:35+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B_GCZWPJTI0/"
     },
     {
@@ -5566,6 +7782,10 @@ const DADOS_IG = {
      "data": "2020-04-09T14:16:20+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B-w1zI7pNze/"
     },
     {
@@ -5576,6 +7796,10 @@ const DADOS_IG = {
      "data": "2020-04-04T11:38:53+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B-jrznkpT7m/"
     },
     {
@@ -5586,6 +7810,10 @@ const DADOS_IG = {
      "data": "2020-04-03T17:29:53+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B-hvLkPpVzJ/"
     },
     {
@@ -5596,6 +7824,10 @@ const DADOS_IG = {
      "data": "2020-03-20T20:21:25+0000",
      "curtidas": 6,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B99_rkwpchv/"
     },
     {
@@ -5606,6 +7838,10 @@ const DADOS_IG = {
      "data": "2020-03-07T01:04:00+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B9ac5BPJWyL/"
     },
     {
@@ -5616,6 +7852,10 @@ const DADOS_IG = {
      "data": "2020-03-03T19:02:49+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B9SFLGLBKbW/"
     },
     {
@@ -5626,6 +7866,10 @@ const DADOS_IG = {
      "data": "2020-02-20T20:56:49+0000",
      "curtidas": 20,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B8zYrjnpOjk/"
     },
     {
@@ -5636,6 +7880,10 @@ const DADOS_IG = {
      "data": "2020-02-17T13:26:31+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B8q2w1LpZkN/"
     },
     {
@@ -5646,6 +7894,10 @@ const DADOS_IG = {
      "data": "2020-02-14T12:10:59+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B8i_u-xJEE7/"
     },
     {
@@ -5656,6 +7908,10 @@ const DADOS_IG = {
      "data": "2020-02-03T18:55:15+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B8HZQR3pfmx/"
     },
     {
@@ -5666,6 +7922,10 @@ const DADOS_IG = {
      "data": "2020-01-30T12:04:08+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B78XBrYJPrX/"
     },
     {
@@ -5676,6 +7936,10 @@ const DADOS_IG = {
      "data": "2020-01-22T20:57:17+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B7otrhPJTw6/"
     },
     {
@@ -5686,6 +7950,10 @@ const DADOS_IG = {
      "data": "2020-01-21T21:25:13+0000",
      "curtidas": 48,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B7mMFOiJJ7K/"
     },
     {
@@ -5696,6 +7964,10 @@ const DADOS_IG = {
      "data": "2020-01-21T14:38:08+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B7ldfqCJk6Z/"
     },
     {
@@ -5706,6 +7978,10 @@ const DADOS_IG = {
      "data": "2020-01-06T11:10:56+0000",
      "curtidas": 11,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B6-d2-vJ-bQ/"
     },
     {
@@ -5716,6 +7992,10 @@ const DADOS_IG = {
      "data": "2019-12-24T17:34:54+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B6drd75pLrn/"
     },
     {
@@ -5726,6 +8006,10 @@ const DADOS_IG = {
      "data": "2019-11-12T16:37:35+0000",
      "curtidas": 22,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B4xbhWQJGOv/"
     },
     {
@@ -5736,6 +8020,10 @@ const DADOS_IG = {
      "data": "2019-10-21T19:42:24+0000",
      "curtidas": 18,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B35HLw1pFOC/"
     },
     {
@@ -5746,6 +8034,10 @@ const DADOS_IG = {
      "data": "2019-10-16T11:42:21+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B3rYRXVp3kh/"
     },
     {
@@ -5756,6 +8048,10 @@ const DADOS_IG = {
      "data": "2019-10-08T01:50:46+0000",
      "curtidas": 30,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B3VuNcsgU0o/"
     },
     {
@@ -5766,6 +8062,10 @@ const DADOS_IG = {
      "data": "2019-10-07T19:31:23+0000",
      "curtidas": 26,
      "comentarios": 14,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B3VCyuhgWu7/"
     },
     {
@@ -5776,6 +8076,10 @@ const DADOS_IG = {
      "data": "2019-05-28T22:13:23+0000",
      "curtidas": 41,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/ByBcZzIgKfP/"
     },
     {
@@ -5786,6 +8090,10 @@ const DADOS_IG = {
      "data": "2019-05-28T21:21:10+0000",
      "curtidas": 56,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/ByBWbUSAq23/"
     },
     {
@@ -5796,6 +8104,10 @@ const DADOS_IG = {
      "data": "2019-05-21T12:33:38+0000",
      "curtidas": 15,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BxuYfcspJQD/"
     },
     {
@@ -5806,6 +8118,10 @@ const DADOS_IG = {
      "data": "2019-05-20T21:14:16+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BxsvRyIJKE-/"
     },
     {
@@ -5816,6 +8132,10 @@ const DADOS_IG = {
      "data": "2019-05-17T22:42:05+0000",
      "curtidas": 54,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BxlK8W4phYI/"
     },
     {
@@ -5826,6 +8146,10 @@ const DADOS_IG = {
      "data": "2019-05-16T15:40:13+0000",
      "curtidas": 38,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bxh13oZJCMc/"
     },
     {
@@ -5836,6 +8160,10 @@ const DADOS_IG = {
      "data": "2019-05-15T20:57:28+0000",
      "curtidas": 32,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bxf1YWIp78c/"
     },
     {
@@ -5846,6 +8174,10 @@ const DADOS_IG = {
      "data": "2019-05-15T20:51:31+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bxf0s17ATUS/"
     },
     {
@@ -5856,6 +8188,10 @@ const DADOS_IG = {
      "data": "2019-03-15T14:31:14+0000",
      "curtidas": 28,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BvCEsNxHkQ1/"
     },
     {
@@ -5866,6 +8202,10 @@ const DADOS_IG = {
      "data": "2019-03-14T12:45:29+0000",
      "curtidas": 23,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bu_Ty0Rn6Oh/"
     },
     {
@@ -5876,6 +8216,10 @@ const DADOS_IG = {
      "data": "2018-12-31T20:04:57+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BsEIDnHn8NK/"
     },
     {
@@ -5886,6 +8230,10 @@ const DADOS_IG = {
      "data": "2018-12-24T20:17:01+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BryH341HztU/"
     },
     {
@@ -5896,6 +8244,10 @@ const DADOS_IG = {
      "data": "2018-12-20T16:49:35+0000",
      "curtidas": 26,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Brncu2tHAgZ/"
     },
     {
@@ -5906,6 +8258,10 @@ const DADOS_IG = {
      "data": "2018-12-15T17:29:46+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BraplApnr6w/"
     },
     {
@@ -5916,6 +8272,10 @@ const DADOS_IG = {
      "data": "2018-12-05T23:25:43+0000",
      "curtidas": 28,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BrBiXWHHDzt/"
     },
     {
@@ -5926,6 +8286,10 @@ const DADOS_IG = {
      "data": "2018-11-17T12:03:02+0000",
      "curtidas": 18,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqR97cBn6Qa/"
     },
     {
@@ -5936,6 +8300,10 @@ const DADOS_IG = {
      "data": "2018-11-03T19:27:20+0000",
      "curtidas": 54,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BputpTznOd-/"
     },
     {
@@ -5946,6 +8314,10 @@ const DADOS_IG = {
      "data": "2018-11-03T11:27:25+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bpt2uadnLsn/"
     },
     {
@@ -5956,6 +8328,10 @@ const DADOS_IG = {
      "data": "2018-10-02T15:41:28+0000",
      "curtidas": 28,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bob6XDfnNwC/"
     },
     {
@@ -5966,6 +8342,10 @@ const DADOS_IG = {
      "data": "2018-09-15T12:44:38+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bnv0m_JHLg_/"
     },
     {
@@ -5976,6 +8356,10 @@ const DADOS_IG = {
      "data": "2018-09-14T20:35:42+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BnuFuaAHkFY/"
     },
     {
@@ -5986,6 +8370,10 @@ const DADOS_IG = {
      "data": "2018-09-14T20:35:23+0000",
      "curtidas": 22,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BnuFsCwHAQj/"
     },
     {
@@ -5996,6 +8384,10 @@ const DADOS_IG = {
      "data": "2018-09-14T20:35:05+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BnuFp3JHsPv/"
     },
     {
@@ -6006,6 +8398,10 @@ const DADOS_IG = {
      "data": "2018-09-11T12:12:00+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bnldsf1HBch/"
     },
     {
@@ -6016,6 +8412,10 @@ const DADOS_IG = {
      "data": "2018-09-11T11:57:35+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BnlcC-SnF-5/"
     },
     {
@@ -6026,6 +8426,10 @@ const DADOS_IG = {
      "data": "2018-08-28T14:05:19+0000",
      "curtidas": 28,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BnBniQxnIiX/"
     },
     {
@@ -6036,6 +8440,10 @@ const DADOS_IG = {
      "data": "2018-08-28T12:08:55+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BnBaNpkneJb/"
     },
     {
@@ -6046,6 +8454,10 @@ const DADOS_IG = {
      "data": "2018-08-24T22:11:38+0000",
      "curtidas": 25,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bm4LjHFH4eU/"
     },
     {
@@ -6056,6 +8468,10 @@ const DADOS_IG = {
      "data": "2018-08-24T19:49:11+0000",
      "curtidas": 25,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bm37WDZHYTz/"
     },
     {
@@ -6066,6 +8482,10 @@ const DADOS_IG = {
      "data": "2018-08-21T14:15:36+0000",
      "curtidas": 24,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BmvnJb0Hg3w/"
     },
     {
@@ -6076,6 +8496,10 @@ const DADOS_IG = {
      "data": "2018-08-21T14:15:16+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BmvnHBPnx9d/"
     },
     {
@@ -6086,6 +8510,10 @@ const DADOS_IG = {
      "data": "2018-08-08T12:55:39+0000",
      "curtidas": 17,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BmN_lQBHC54/"
     },
     {
@@ -6096,6 +8524,10 @@ const DADOS_IG = {
      "data": "2018-07-31T17:59:33+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bl58FV4Hg6z/"
     },
     {
@@ -6106,6 +8538,10 @@ const DADOS_IG = {
      "data": "2018-07-28T16:48:04+0000",
      "curtidas": 24,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlyFhFBn4iN/"
     },
     {
@@ -6116,6 +8552,10 @@ const DADOS_IG = {
      "data": "2018-07-27T19:50:10+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Blv1kANnFO5/"
     },
     {
@@ -6126,6 +8566,10 @@ const DADOS_IG = {
      "data": "2018-07-21T15:17:35+0000",
      "curtidas": 19,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Blf5mRvn_z-/"
     },
     {
@@ -6136,6 +8580,10 @@ const DADOS_IG = {
      "data": "2018-07-21T14:48:35+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Blf2R6KH0jy/"
     },
     {
@@ -6146,6 +8594,10 @@ const DADOS_IG = {
      "data": "2018-07-21T02:28:24+0000",
      "curtidas": 29,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlehklyHi1_/"
     },
     {
@@ -6156,6 +8608,10 @@ const DADOS_IG = {
      "data": "2018-07-19T14:27:52+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlaqUaTHWrt/"
     },
     {
@@ -6166,6 +8622,10 @@ const DADOS_IG = {
      "data": "2018-07-19T11:42:32+0000",
      "curtidas": 26,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlaXZeaHtyX/"
     },
     {
@@ -6176,6 +8636,10 @@ const DADOS_IG = {
      "data": "2018-07-17T20:30:29+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlWKOfVn5f6/"
     },
     {
@@ -6186,6 +8650,10 @@ const DADOS_IG = {
      "data": "2018-07-17T13:15:54+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlVYfhJnI7T/"
     },
     {
@@ -6196,6 +8664,10 @@ const DADOS_IG = {
      "data": "2018-07-13T16:43:18+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlLdDFCnrsR/"
     },
     {
@@ -6206,6 +8678,10 @@ const DADOS_IG = {
      "data": "2018-07-13T16:42:52+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlLc_9fnXeZ/"
     },
     {
@@ -6216,6 +8692,10 @@ const DADOS_IG = {
      "data": "2018-07-13T16:42:23+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlLc8VGHywq/"
     },
     {
@@ -6226,6 +8706,10 @@ const DADOS_IG = {
      "data": "2018-07-13T16:42:05+0000",
      "curtidas": 23,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlLc6MtHaoa/"
     },
     {
@@ -6236,6 +8720,10 @@ const DADOS_IG = {
      "data": "2018-07-11T18:41:48+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlGhBOun8YX/"
     },
     {
@@ -6246,6 +8734,10 @@ const DADOS_IG = {
      "data": "2018-07-11T18:19:01+0000",
      "curtidas": 16,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlGeaaEnX2o/"
     },
     {
@@ -6256,6 +8748,10 @@ const DADOS_IG = {
      "data": "2018-07-10T13:20:14+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlDXbHSHaXJ/"
     },
     {
@@ -6266,6 +8762,10 @@ const DADOS_IG = {
      "data": "2018-07-10T13:19:21+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlDXUn3nEH7/"
     },
     {
@@ -6276,6 +8776,10 @@ const DADOS_IG = {
      "data": "2018-07-10T13:19:00+0000",
      "curtidas": 21,
      "comentarios": 7,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlDXSHjHdEx/"
     },
     {
@@ -6286,6 +8790,10 @@ const DADOS_IG = {
      "data": "2018-07-10T13:18:42+0000",
      "curtidas": 15,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlDXP7rnRq2/"
     },
     {
@@ -6296,6 +8804,10 @@ const DADOS_IG = {
      "data": "2018-07-10T13:18:27+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BlDXOEqn4Se/"
     },
     {
@@ -6306,6 +8818,10 @@ const DADOS_IG = {
      "data": "2018-07-06T14:57:24+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bk5PXQwHsRd/"
     },
     {
@@ -6316,6 +8832,10 @@ const DADOS_IG = {
      "data": "2018-07-06T14:42:17+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bk5Noj6nn1S/"
     },
     {
@@ -6326,6 +8846,10 @@ const DADOS_IG = {
      "data": "2018-07-05T19:44:17+0000",
      "curtidas": 23,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bk3LZllHtSj/"
     },
     {
@@ -6336,6 +8860,10 @@ const DADOS_IG = {
      "data": "2018-07-05T19:13:07+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bk3H1XmHQCt/"
     },
     {
@@ -6346,6 +8874,10 @@ const DADOS_IG = {
      "data": "2018-07-05T18:17:10+0000",
      "curtidas": 10,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bk3Bbm7n3_s/"
     },
     {
@@ -6356,6 +8888,10 @@ const DADOS_IG = {
      "data": "2018-07-04T20:22:09+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bk0q8JmHwr_/"
     },
     {
@@ -6366,6 +8902,10 @@ const DADOS_IG = {
      "data": "2018-07-04T20:21:51+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bk0qqfbnAqT/"
     },
     {
@@ -6376,6 +8916,10 @@ const DADOS_IG = {
      "data": "2018-07-04T17:55:13+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bk0aH6Nn07v/"
     },
     {
@@ -6386,6 +8930,10 @@ const DADOS_IG = {
      "data": "2018-07-03T20:05:22+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkyEOUYHUwF/"
     },
     {
@@ -6396,6 +8944,10 @@ const DADOS_IG = {
      "data": "2018-07-03T20:01:00+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkyDuTEHWiH/"
     },
     {
@@ -6406,6 +8958,10 @@ const DADOS_IG = {
      "data": "2018-07-03T18:15:40+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bkx3qzsHgi1/"
     },
     {
@@ -6416,6 +8972,10 @@ const DADOS_IG = {
      "data": "2018-07-02T20:01:42+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkvfAl9H7N5/"
     },
     {
@@ -6426,6 +8986,10 @@ const DADOS_IG = {
      "data": "2018-07-02T12:12:02+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkupQnpHYMB/"
     },
     {
@@ -6436,6 +9000,10 @@ const DADOS_IG = {
      "data": "2018-07-02T12:10:37+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkupGM_Hf5l/"
     },
     {
@@ -6446,6 +9014,10 @@ const DADOS_IG = {
      "data": "2018-06-29T20:41:11+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bkn1JGfnfxX/"
     },
     {
@@ -6456,6 +9028,10 @@ const DADOS_IG = {
      "data": "2018-06-29T19:54:10+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BknvwuAH6m7/"
     },
     {
@@ -6466,6 +9042,10 @@ const DADOS_IG = {
      "data": "2018-06-29T18:06:48+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BknjR-EnjeD/"
     },
     {
@@ -6476,6 +9056,10 @@ const DADOS_IG = {
      "data": "2018-06-28T20:52:45+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BklQwEJngGG/"
     },
     {
@@ -6486,6 +9070,10 @@ const DADOS_IG = {
      "data": "2018-06-28T20:27:05+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BklOvBSnN6h/"
     },
     {
@@ -6496,6 +9084,10 @@ const DADOS_IG = {
      "data": "2018-06-28T17:31:45+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bkk6qyAnvbN/"
     },
     {
@@ -6506,6 +9098,10 @@ const DADOS_IG = {
      "data": "2018-06-27T15:38:28+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkiI6QdHdqq/"
     },
     {
@@ -6516,6 +9112,10 @@ const DADOS_IG = {
      "data": "2018-06-27T12:09:52+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkhxCXxndU9/"
     },
     {
@@ -6526,6 +9126,10 @@ const DADOS_IG = {
      "data": "2018-06-27T11:51:59+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bkhu_Y6nwzX/"
     },
     {
@@ -6536,6 +9140,10 @@ const DADOS_IG = {
      "data": "2018-06-25T21:08:02+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkdlCUWHsDO/"
     },
     {
@@ -6546,6 +9154,10 @@ const DADOS_IG = {
      "data": "2018-06-25T20:49:39+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bkdi7l6nqUO/"
     },
     {
@@ -6556,6 +9168,10 @@ const DADOS_IG = {
      "data": "2018-06-25T20:47:38+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bkdis2NnHs6/"
     },
     {
@@ -6566,6 +9182,10 @@ const DADOS_IG = {
      "data": "2018-06-23T15:15:58+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkXzJ7knbBw/"
     },
     {
@@ -6576,6 +9196,10 @@ const DADOS_IG = {
      "data": "2018-06-23T15:15:00+0000",
      "curtidas": 8,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkXzC1HndYl/"
     },
     {
@@ -6586,6 +9210,10 @@ const DADOS_IG = {
      "data": "2018-06-23T15:14:36+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkXy_3gHHcy/"
     },
     {
@@ -6596,6 +9224,10 @@ const DADOS_IG = {
      "data": "2018-06-22T19:41:10+0000",
      "curtidas": 22,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkVstainInC/"
     },
     {
@@ -6606,6 +9238,10 @@ const DADOS_IG = {
      "data": "2018-06-22T16:09:35+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkVUfvIHqGh/"
     },
     {
@@ -6616,6 +9252,10 @@ const DADOS_IG = {
      "data": "2018-06-21T12:32:44+0000",
      "curtidas": 21,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkSW4mHnbbF/"
     },
     {
@@ -6626,6 +9266,10 @@ const DADOS_IG = {
      "data": "2018-06-21T12:20:12+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkSVcxjniKq/"
     },
     {
@@ -6636,6 +9280,10 @@ const DADOS_IG = {
      "data": "2018-06-21T11:38:24+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkSQqtCHe7J/"
     },
     {
@@ -6646,6 +9294,10 @@ const DADOS_IG = {
      "data": "2018-06-20T19:07:02+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkQfNvFHNeN/"
     },
     {
@@ -6656,6 +9308,10 @@ const DADOS_IG = {
      "data": "2018-06-20T18:30:53+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkQbE5RnI-X/"
     },
     {
@@ -6666,6 +9322,10 @@ const DADOS_IG = {
      "data": "2018-06-20T17:35:42+0000",
      "curtidas": 19,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkQUwuFH2Rp/"
     },
     {
@@ -6676,6 +9336,10 @@ const DADOS_IG = {
      "data": "2018-06-20T17:11:40+0000",
      "curtidas": 34,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkQSAvlnDBR/"
     },
     {
@@ -6686,6 +9350,10 @@ const DADOS_IG = {
      "data": "2018-06-15T03:48:41+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BkB-FubH2yC/"
     },
     {
@@ -6696,6 +9364,10 @@ const DADOS_IG = {
      "data": "2018-06-12T14:10:14+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bj7Wi7QHcHc/"
     },
     {
@@ -6706,6 +9378,10 @@ const DADOS_IG = {
      "data": "2018-06-11T21:35:19+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bj5lB5SHJYo/"
     },
     {
@@ -6716,6 +9392,10 @@ const DADOS_IG = {
      "data": "2018-06-11T19:41:39+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bj5YBXenBOs/"
     },
     {
@@ -6726,6 +9406,10 @@ const DADOS_IG = {
      "data": "2018-06-08T18:49:14+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bjxjo13HTvX/"
     },
     {
@@ -6736,6 +9420,10 @@ const DADOS_IG = {
      "data": "2018-06-05T13:52:29+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjpTStkHZbh/"
     },
     {
@@ -6746,6 +9434,10 @@ const DADOS_IG = {
      "data": "2018-06-04T20:30:51+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjncFjEn520/"
     },
     {
@@ -6756,6 +9448,10 @@ const DADOS_IG = {
      "data": "2018-06-04T20:29:54+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bjnb-rUHLaG/"
     },
     {
@@ -6766,6 +9462,10 @@ const DADOS_IG = {
      "data": "2018-06-04T20:29:05+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bjnb4lLHUDS/"
     },
     {
@@ -6776,6 +9476,10 @@ const DADOS_IG = {
      "data": "2018-06-02T16:40:43+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bjh4KOdHrif/"
     },
     {
@@ -6786,6 +9490,10 @@ const DADOS_IG = {
      "data": "2018-06-02T16:38:22+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bjh35HznMnH/"
     },
     {
@@ -6796,6 +9504,10 @@ const DADOS_IG = {
      "data": "2018-06-02T16:38:05+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bjh329HHWmy/"
     },
     {
@@ -6806,6 +9518,10 @@ const DADOS_IG = {
      "data": "2018-05-31T15:58:18+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bjcpt4bHTfg/"
     },
     {
@@ -6816,6 +9532,10 @@ const DADOS_IG = {
      "data": "2018-05-30T18:06:43+0000",
      "curtidas": 12,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjaTnluH4U8/"
     },
     {
@@ -6826,6 +9546,10 @@ const DADOS_IG = {
      "data": "2018-05-30T18:01:17+0000",
      "curtidas": 7,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjaS_wpHoiO/"
     },
     {
@@ -6836,6 +9560,10 @@ const DADOS_IG = {
      "data": "2018-05-30T18:01:12+0000",
      "curtidas": 7,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjaS_InH3gw/"
     },
     {
@@ -6846,6 +9574,10 @@ const DADOS_IG = {
      "data": "2018-05-30T18:01:07+0000",
      "curtidas": 13,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjaS-jDnWTr/"
     },
     {
@@ -6856,6 +9588,10 @@ const DADOS_IG = {
      "data": "2018-05-29T13:47:16+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjXRE4DnrBv/"
     },
     {
@@ -6866,6 +9602,10 @@ const DADOS_IG = {
      "data": "2018-05-29T13:35:44+0000",
      "curtidas": 21,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjXPz5PH4WE/"
     },
     {
@@ -6876,6 +9616,10 @@ const DADOS_IG = {
      "data": "2018-05-28T20:20:39+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjVZWtYHohs/"
     },
     {
@@ -6886,6 +9630,10 @@ const DADOS_IG = {
      "data": "2018-05-28T20:04:48+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjVXinnnhi9/"
     },
     {
@@ -6896,6 +9644,10 @@ const DADOS_IG = {
      "data": "2018-05-28T17:25:01+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjVFQYDHO_V/"
     },
     {
@@ -6906,6 +9658,10 @@ const DADOS_IG = {
      "data": "2018-05-28T17:20:37+0000",
      "curtidas": 21,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjVEwLIHabB/"
     },
     {
@@ -6916,6 +9672,10 @@ const DADOS_IG = {
      "data": "2018-05-26T12:36:50+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjPar7LHKv0/"
     },
     {
@@ -6926,6 +9686,10 @@ const DADOS_IG = {
      "data": "2018-05-26T12:24:39+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjPZSpWnOvV/"
     },
     {
@@ -6936,6 +9700,10 @@ const DADOS_IG = {
      "data": "2018-05-26T12:18:50+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjPYoCLHcid/"
     },
     {
@@ -6946,6 +9714,10 @@ const DADOS_IG = {
      "data": "2018-05-25T21:10:06+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjNwoSwnFt0/"
     },
     {
@@ -6956,6 +9728,10 @@ const DADOS_IG = {
      "data": "2018-05-25T21:09:41+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjNwlNbH7DK/"
     },
     {
@@ -6966,6 +9742,10 @@ const DADOS_IG = {
      "data": "2018-05-22T13:43:59+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjFPMRFHFTT/"
     },
     {
@@ -6976,6 +9756,10 @@ const DADOS_IG = {
      "data": "2018-05-22T12:48:08+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjFIzIcnMLV/"
     },
     {
@@ -6986,6 +9770,10 @@ const DADOS_IG = {
      "data": "2018-05-21T19:29:44+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjDR9ssHymZ/"
     },
     {
@@ -6996,6 +9784,10 @@ const DADOS_IG = {
      "data": "2018-05-21T17:51:22+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjDGtO8H5BX/"
     },
     {
@@ -7006,6 +9798,10 @@ const DADOS_IG = {
      "data": "2018-05-21T17:46:40+0000",
      "curtidas": 29,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BjDGKy0nkOv/"
     },
     {
@@ -7016,6 +9812,10 @@ const DADOS_IG = {
      "data": "2018-05-19T16:40:47+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi91CfIH1uq/"
     },
     {
@@ -7026,6 +9826,10 @@ const DADOS_IG = {
      "data": "2018-05-19T16:32:40+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi90HIMnyXf/"
     },
     {
@@ -7036,6 +9840,10 @@ const DADOS_IG = {
      "data": "2018-05-19T16:30:34+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi9z3s1H6wy/"
     },
     {
@@ -7046,6 +9854,10 @@ const DADOS_IG = {
      "data": "2018-05-19T16:30:20+0000",
      "curtidas": 9,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi9z1-dneGq/"
     },
     {
@@ -7056,6 +9868,10 @@ const DADOS_IG = {
      "data": "2018-05-19T15:41:39+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi9uRdRHlLx/"
     },
     {
@@ -7066,6 +9882,10 @@ const DADOS_IG = {
      "data": "2018-05-19T15:32:53+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi9tRMEHfkB/"
     },
     {
@@ -7076,6 +9896,10 @@ const DADOS_IG = {
      "data": "2018-05-19T15:30:44+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi9tBdNHPC1/"
     },
     {
@@ -7086,6 +9910,10 @@ const DADOS_IG = {
      "data": "2018-05-18T21:50:10+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi7zpranjAl/"
     },
     {
@@ -7096,6 +9924,10 @@ const DADOS_IG = {
      "data": "2018-05-18T20:39:47+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi7rmGxn3Za/"
     },
     {
@@ -7106,6 +9938,10 @@ const DADOS_IG = {
      "data": "2018-05-18T17:16:28+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi7SjnSHRiU/"
     },
     {
@@ -7116,6 +9952,10 @@ const DADOS_IG = {
      "data": "2018-05-17T20:18:00+0000",
      "curtidas": 10,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi5ETvkHbtq/"
     },
     {
@@ -7126,6 +9966,10 @@ const DADOS_IG = {
      "data": "2018-05-16T21:15:19+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi2mEpQnc3r/"
     },
     {
@@ -7136,6 +9980,10 @@ const DADOS_IG = {
      "data": "2018-05-16T20:46:41+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bi2iy5BnXMh/"
     },
     {
@@ -7146,6 +9994,10 @@ const DADOS_IG = {
      "data": "2018-05-15T15:20:35+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BizYroOHHHt/"
     },
     {
@@ -7156,6 +10008,10 @@ const DADOS_IG = {
      "data": "2018-05-15T14:56:29+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BizV7C8HrLm/"
     },
     {
@@ -7166,6 +10022,10 @@ const DADOS_IG = {
      "data": "2018-05-15T14:54:53+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BizVvXWHSx0/"
     },
     {
@@ -7176,6 +10036,10 @@ const DADOS_IG = {
      "data": "2018-05-15T12:28:33+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BizE_kYnZPl/"
     },
     {
@@ -7186,6 +10050,10 @@ const DADOS_IG = {
      "data": "2018-05-14T23:21:51+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bixq9l_n2-s/"
     },
     {
@@ -7196,6 +10064,10 @@ const DADOS_IG = {
      "data": "2018-05-14T23:15:41+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BixqQgznWx2/"
     },
     {
@@ -7206,6 +10078,10 @@ const DADOS_IG = {
      "data": "2018-05-14T23:14:46+0000",
      "curtidas": 18,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BixqJwPHdtg/"
     },
     {
@@ -7216,6 +10092,10 @@ const DADOS_IG = {
      "data": "2018-05-14T19:20:24+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BixPVQWHs48/"
     },
     {
@@ -7226,6 +10106,10 @@ const DADOS_IG = {
      "data": "2018-05-14T19:03:33+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BixJ0_-nRlY/"
     },
     {
@@ -7236,6 +10120,10 @@ const DADOS_IG = {
      "data": "2018-05-14T19:03:24+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BixMSuQn56r/"
     },
     {
@@ -7246,6 +10134,10 @@ const DADOS_IG = {
      "data": "2018-05-14T17:04:21+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Biw_wvNH0F-/"
     },
     {
@@ -7256,6 +10148,10 @@ const DADOS_IG = {
      "data": "2018-05-12T13:14:10+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Birbxqpn8Kz/"
     },
     {
@@ -7266,6 +10162,10 @@ const DADOS_IG = {
      "data": "2018-05-10T16:41:26+0000",
      "curtidas": 29,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BimoWXxnM9B/"
     },
     {
@@ -7276,6 +10176,10 @@ const DADOS_IG = {
      "data": "2018-05-09T13:28:57+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Biju124nJWK/"
     },
     {
@@ -7286,6 +10190,10 @@ const DADOS_IG = {
      "data": "2018-05-09T13:09:55+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bijs8sGH8BS/"
     },
     {
@@ -7296,6 +10204,10 @@ const DADOS_IG = {
      "data": "2018-05-08T17:35:57+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BihmnAhHlvQ/"
     },
     {
@@ -7306,6 +10218,10 @@ const DADOS_IG = {
      "data": "2018-05-07T20:55:03+0000",
      "curtidas": 27,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BifYmXRHW58/"
     },
     {
@@ -7316,6 +10232,10 @@ const DADOS_IG = {
      "data": "2018-05-07T17:31:01+0000",
      "curtidas": 13,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BifBP7BHAdl/"
     },
     {
@@ -7326,6 +10246,10 @@ const DADOS_IG = {
      "data": "2018-03-28T19:42:32+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bg4QgNanKEk/"
     },
     {
@@ -7336,6 +10260,10 @@ const DADOS_IG = {
      "data": "2018-03-26T13:37:57+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BgydMMaHwhs/"
     },
     {
@@ -7346,6 +10274,10 @@ const DADOS_IG = {
      "data": "2018-03-23T18:05:44+0000",
      "curtidas": 56,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BgrNc1CHlZ_/"
     },
     {
@@ -7356,6 +10288,10 @@ const DADOS_IG = {
      "data": "2018-03-21T13:17:30+0000",
      "curtidas": 17,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bgli4DXAwQP/"
     },
     {
@@ -7366,6 +10302,10 @@ const DADOS_IG = {
      "data": "2018-03-20T17:19:05+0000",
      "curtidas": 27,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BgjZujnADCL/"
     },
     {
@@ -7376,6 +10316,10 @@ const DADOS_IG = {
      "data": "2018-03-19T21:48:15+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BghTvD6A23P/"
     },
     {
@@ -7386,6 +10330,10 @@ const DADOS_IG = {
      "data": "2018-03-16T15:16:22+0000",
      "curtidas": 26,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BgY4gQTgWQ1/"
     },
     {
@@ -7396,6 +10344,10 @@ const DADOS_IG = {
      "data": "2018-03-08T13:15:02+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BgEEQkoA_-E/"
     },
     {
@@ -7406,6 +10358,10 @@ const DADOS_IG = {
      "data": "2018-02-17T13:49:08+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BfTNDp8nDZM/"
     },
     {
@@ -7416,6 +10372,10 @@ const DADOS_IG = {
      "data": "2018-01-29T17:56:32+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Beit1GTHnpN/"
     },
     {
@@ -7426,6 +10386,10 @@ const DADOS_IG = {
      "data": "2018-01-29T17:38:36+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Beir_SWnZ-o/"
     },
     {
@@ -7436,6 +10400,10 @@ const DADOS_IG = {
      "data": "2018-01-29T12:32:17+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BeiI_EbHl4Q/"
     },
     {
@@ -7446,6 +10414,10 @@ const DADOS_IG = {
      "data": "2018-01-29T12:13:33+0000",
      "curtidas": 16,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BeiHA-5nR6h/"
     },
     {
@@ -7456,6 +10428,10 @@ const DADOS_IG = {
      "data": "2018-01-26T14:42:34+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BeapryTnLFy/"
     },
     {
@@ -7466,6 +10442,10 @@ const DADOS_IG = {
      "data": "2018-01-26T14:33:13+0000",
      "curtidas": 10,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BeaomAMn3z6/"
     },
     {
@@ -7476,6 +10456,10 @@ const DADOS_IG = {
      "data": "2017-12-21T14:02:58+0000",
      "curtidas": 13,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bc94iQOHEkU/"
     },
     {
@@ -7486,6 +10470,10 @@ const DADOS_IG = {
      "data": "2017-12-21T14:01:47+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bc94Zl2nQJI/"
     },
     {
@@ -7496,6 +10484,10 @@ const DADOS_IG = {
      "data": "2017-12-21T14:00:31+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bc94QYJHuGg/"
     },
     {
@@ -7506,6 +10498,10 @@ const DADOS_IG = {
      "data": "2017-12-20T20:52:36+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bc8Cno8nuMc/"
     },
     {
@@ -7516,6 +10512,10 @@ const DADOS_IG = {
      "data": "2017-12-20T20:52:12+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bc8CkrFHgha/"
     },
     {
@@ -7526,6 +10526,10 @@ const DADOS_IG = {
      "data": "2017-12-20T20:51:17+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bc8Cd-aHi-O/"
     },
     {
@@ -7536,6 +10540,10 @@ const DADOS_IG = {
      "data": "2017-10-13T15:44:12+0000",
      "curtidas": 10,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BaMZRXiHgEg/"
     },
     {
@@ -7546,6 +10554,10 @@ const DADOS_IG = {
      "data": "2017-08-23T13:23:58+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BYI0rnIH-_4/"
     },
     {
@@ -7556,6 +10568,10 @@ const DADOS_IG = {
      "data": "2017-08-23T13:05:56+0000",
      "curtidas": 19,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BYIynkTHf7k/"
     },
     {
@@ -7566,6 +10582,10 @@ const DADOS_IG = {
      "data": "2017-08-03T14:06:06+0000",
      "curtidas": 27,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BXVZmulg-Z2/"
     },
     {
@@ -7576,6 +10596,10 @@ const DADOS_IG = {
      "data": "2017-08-01T15:37:04+0000",
      "curtidas": 20,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BXQabQSgCwX/"
     },
     {
@@ -7586,6 +10610,10 @@ const DADOS_IG = {
      "data": "2017-08-01T12:52:31+0000",
      "curtidas": 21,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BXQHmEkAgTl/"
     },
     {
@@ -7596,6 +10624,10 @@ const DADOS_IG = {
      "data": "2017-07-28T20:56:14+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BXGrxYJgHPv/"
     },
     {
@@ -7606,6 +10638,10 @@ const DADOS_IG = {
      "data": "2017-07-28T19:52:37+0000",
      "curtidas": 24,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BXGkfbtg4lE/"
     },
     {
@@ -7616,6 +10652,10 @@ const DADOS_IG = {
      "data": "2017-07-27T15:55:05+0000",
      "curtidas": 23,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BXDkg1Gg4M8/"
     },
     {
@@ -7626,6 +10666,10 @@ const DADOS_IG = {
      "data": "2017-07-22T13:20:58+0000",
      "curtidas": 25,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BW2a5nzgX4_/"
     },
     {
@@ -7636,6 +10680,10 @@ const DADOS_IG = {
      "data": "2017-07-17T13:58:05+0000",
      "curtidas": 33,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BWpnLHVAZvc/"
     },
     {
@@ -7646,6 +10694,10 @@ const DADOS_IG = {
      "data": "2017-04-05T19:04:01+0000",
      "curtidas": 54,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BSg8TuzgU4J/"
     },
     {
@@ -7656,6 +10708,10 @@ const DADOS_IG = {
      "data": "2017-03-31T18:05:01+0000",
      "curtidas": 18,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BST9lKRgNau/"
     },
     {
@@ -7666,6 +10722,10 @@ const DADOS_IG = {
      "data": "2017-03-30T22:59:54+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BSR6iLkgL_7/"
     },
     {
@@ -7676,6 +10736,10 @@ const DADOS_IG = {
      "data": "2017-03-28T21:15:23+0000",
      "curtidas": 38,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BSMk-4dAA9f/"
     },
     {
@@ -7686,6 +10750,10 @@ const DADOS_IG = {
      "data": "2017-03-28T21:10:32+0000",
      "curtidas": 27,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BSMkbWLg-PL/"
     },
     {
@@ -7696,6 +10764,10 @@ const DADOS_IG = {
      "data": "2017-03-28T21:07:51+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BSMkHwagfN7/"
     },
     {
@@ -7706,6 +10778,10 @@ const DADOS_IG = {
      "data": "2017-03-27T19:53:09+0000",
      "curtidas": 30,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BSJ2xukAoYL/"
     }
    ],
@@ -7743,6 +10819,10 @@ const DADOS_IG = {
      "data": "2026-05-29T18:48:08+0000",
      "curtidas": 58,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 10,
+     "alcance": 1855,
+     "views": 2573,
      "link": "https://www.instagram.com/reel/DY7uQKyAxq-/"
     },
     {
@@ -7753,6 +10833,10 @@ const DADOS_IG = {
      "data": "2026-05-10T12:30:01+0000",
      "curtidas": 19,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 513,
+     "views": 804,
      "link": "https://www.instagram.com/reel/DYKH4w7whqQ/"
     },
     {
@@ -7763,6 +10847,10 @@ const DADOS_IG = {
      "data": "2026-04-18T12:57:04+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 428,
+     "views": 529,
      "link": "https://www.instagram.com/reel/DXRhfm9jdR3/"
     },
     {
@@ -7773,6 +10861,10 @@ const DADOS_IG = {
      "data": "2026-03-05T15:30:36+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 702,
+     "views": 1459,
      "link": "https://www.instagram.com/p/DVggJjqEdMy/"
     },
     {
@@ -7783,6 +10875,10 @@ const DADOS_IG = {
      "data": "2026-03-05T13:24:39+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 696,
+     "views": 1014,
      "link": "https://www.instagram.com/reel/DVgRtIoDuwK/"
     },
     {
@@ -7793,6 +10889,10 @@ const DADOS_IG = {
      "data": "2026-02-25T16:51:14+0000",
      "curtidas": 28,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 6,
+     "alcance": 1404,
+     "views": 2047,
      "link": "https://www.instagram.com/reel/DVMC4-VETB0/"
     },
     {
@@ -7803,6 +10903,10 @@ const DADOS_IG = {
      "data": "2025-10-17T23:09:43+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 1324,
+     "views": 1701,
      "link": "https://www.instagram.com/reel/DP7S76KDxZN/"
     },
     {
@@ -7813,6 +10917,10 @@ const DADOS_IG = {
      "data": "2025-10-08T13:10:00+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 643,
+     "views": 798,
      "link": "https://www.instagram.com/reel/DPjKgRtjAc0/"
     },
     {
@@ -7823,6 +10931,10 @@ const DADOS_IG = {
      "data": "2025-10-08T10:40:00+0000",
      "curtidas": 19,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 6,
+     "alcance": 1526,
+     "views": 1873,
      "link": "https://www.instagram.com/reel/DPi5RhlDAKw/"
     },
     {
@@ -7833,6 +10945,10 @@ const DADOS_IG = {
      "data": "2025-10-07T20:52:16+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 873,
+     "views": 1196,
      "link": "https://www.instagram.com/reel/DPhaSHdFD1M/"
     },
     {
@@ -7843,6 +10959,10 @@ const DADOS_IG = {
      "data": "2025-10-07T13:38:11+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 489,
+     "views": 3523,
      "link": "https://www.instagram.com/p/DPgo13_DfWD/"
     },
     {
@@ -7853,6 +10973,10 @@ const DADOS_IG = {
      "data": "2025-10-06T13:46:36+0000",
      "curtidas": 26,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1193,
+     "views": 1668,
      "link": "https://www.instagram.com/reel/DPeCWuQjYtA/"
     },
     {
@@ -7863,6 +10987,10 @@ const DADOS_IG = {
      "data": "2025-10-05T01:25:40+0000",
      "curtidas": 31,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 840,
+     "views": 1215,
      "link": "https://www.instagram.com/reel/DPaJZICDDnA/"
     },
     {
@@ -7873,6 +11001,10 @@ const DADOS_IG = {
      "data": "2025-10-01T15:37:59+0000",
      "curtidas": 25,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 4,
+     "alcance": 2580,
+     "views": 23787,
      "link": "https://www.instagram.com/p/DPRZyDNEXsF/"
     },
     {
@@ -7883,6 +11015,10 @@ const DADOS_IG = {
      "data": "2025-09-17T00:19:52+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 2228,
+     "views": 3105,
      "link": "https://www.instagram.com/reel/DOrtUOCD9XZ/"
     },
     {
@@ -7893,6 +11029,10 @@ const DADOS_IG = {
      "data": "2025-09-16T20:47:32+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 3,
+     "alcance": 624,
+     "views": 817,
      "link": "https://www.instagram.com/reel/DOrVLoVj_WD/"
     },
     {
@@ -7903,6 +11043,10 @@ const DADOS_IG = {
      "data": "2025-09-15T13:17:23+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 3,
+     "alcance": 1860,
+     "views": 21307,
      "link": "https://www.instagram.com/p/DOn8-NpEdmx/"
     },
     {
@@ -7913,6 +11057,10 @@ const DADOS_IG = {
      "data": "2025-09-08T16:29:00+0000",
      "curtidas": 29,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 5,
+     "alcance": 2082,
+     "views": 2526,
      "link": "https://www.instagram.com/reel/DOWNNJskaeH/"
     },
     {
@@ -7923,6 +11071,10 @@ const DADOS_IG = {
      "data": "2025-09-08T08:40:19+0000",
      "curtidas": 21,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 912,
+     "views": 1405,
      "link": "https://www.instagram.com/reel/DOVZrTKDmrU/"
     },
     {
@@ -7933,6 +11085,10 @@ const DADOS_IG = {
      "data": "2025-09-01T21:16:12+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 664,
+     "views": 895,
      "link": "https://www.instagram.com/reel/DOEwhV6D6L7/"
     },
     {
@@ -7943,6 +11099,10 @@ const DADOS_IG = {
      "data": "2025-08-12T17:53:45+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 315,
+     "views": 3675,
      "link": "https://www.instagram.com/p/DNQ5kvFR_LT/"
     },
     {
@@ -7953,6 +11113,10 @@ const DADOS_IG = {
      "data": "2025-08-09T16:20:00+0000",
      "curtidas": 32,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 4,
+     "alcance": 2528,
+     "views": 3320,
      "link": "https://www.instagram.com/reel/DNK9ympyNnx/"
     },
     {
@@ -7963,6 +11127,10 @@ const DADOS_IG = {
      "data": "2025-08-09T16:20:00+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 1779,
+     "views": 26884,
      "link": "https://www.instagram.com/p/DNLEvFGyOE5/"
     },
     {
@@ -7973,6 +11141,10 @@ const DADOS_IG = {
      "data": "2025-08-09T16:03:23+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 886,
+     "views": 6946,
      "link": "https://www.instagram.com/p/DNI-jvRxhS2/"
     },
     {
@@ -7983,6 +11155,10 @@ const DADOS_IG = {
      "data": "2025-08-09T13:10:00+0000",
      "curtidas": 1,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 357,
+     "views": 2948,
      "link": "https://www.instagram.com/p/DNIq08xMLSf/"
     },
     {
@@ -7993,6 +11169,10 @@ const DADOS_IG = {
      "data": "2025-08-08T12:35:00+0000",
      "curtidas": 32,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 3,
+     "alcance": 1531,
+     "views": 2234,
      "link": "https://www.instagram.com/reel/DNGB9nAsqJC/"
     },
     {
@@ -8003,6 +11183,10 @@ const DADOS_IG = {
      "data": "2025-08-08T12:00:00+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 293,
+     "views": 2146,
      "link": "https://www.instagram.com/p/DNF96avM3xu/"
     },
     {
@@ -8013,6 +11197,10 @@ const DADOS_IG = {
      "data": "2025-08-07T17:05:00+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 476,
+     "views": 677,
      "link": "https://www.instagram.com/reel/DND8Bp7sEsC/"
     },
     {
@@ -8023,6 +11211,10 @@ const DADOS_IG = {
      "data": "2025-08-07T14:25:00+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 977,
+     "views": 6684,
      "link": "https://www.instagram.com/p/DNDpvges2cO/"
     },
     {
@@ -8033,6 +11225,10 @@ const DADOS_IG = {
      "data": "2025-08-07T14:00:00+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 756,
+     "views": 1108,
      "link": "https://www.instagram.com/reel/DNDm73dsSKO/"
     },
     {
@@ -8043,6 +11239,10 @@ const DADOS_IG = {
      "data": "2025-08-05T20:07:43+0000",
      "curtidas": 89,
      "comentarios": 7,
+     "salvos": 0,
+     "compartilhamentos": 5,
+     "alcance": 2074,
+     "views": 4048,
      "link": "https://www.instagram.com/reel/DM_HHKpyG91/"
     },
     {
@@ -8053,6 +11253,10 @@ const DADOS_IG = {
      "data": "2025-08-05T11:20:00+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 4,
+     "alcance": 806,
+     "views": 1151,
      "link": "https://www.instagram.com/reel/DM-K_WouPXP/"
     },
     {
@@ -8063,6 +11267,10 @@ const DADOS_IG = {
      "data": "2025-08-04T12:36:22+0000",
      "curtidas": 28,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 5,
+     "alcance": 1668,
+     "views": 2196,
      "link": "https://www.instagram.com/reel/DM7udZnOMYO/"
     },
     {
@@ -8073,6 +11281,10 @@ const DADOS_IG = {
      "data": "2025-08-04T12:30:26+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 1,
+     "alcance": 1061,
+     "views": 12591,
      "link": "https://www.instagram.com/p/DM7uNsyuL2U/"
     },
     {
@@ -8083,6 +11295,10 @@ const DADOS_IG = {
      "data": "2025-07-28T20:19:52+0000",
      "curtidas": 35,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 5,
+     "alcance": 907,
+     "views": 1486,
      "link": "https://www.instagram.com/reel/DMqiOmVygQT/"
     },
     {
@@ -8093,6 +11309,10 @@ const DADOS_IG = {
      "data": "2025-07-28T20:15:16+0000",
      "curtidas": 22,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 2,
+     "alcance": 1562,
+     "views": 2107,
      "link": "https://www.instagram.com/reel/DMqhsE8ynBs/"
     },
     {
@@ -8103,6 +11323,10 @@ const DADOS_IG = {
      "data": "2025-07-18T18:14:47+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 547,
+     "views": 2666,
      "link": "https://www.instagram.com/p/DMQkG38PkSk/"
     },
     {
@@ -8113,6 +11337,10 @@ const DADOS_IG = {
      "data": "2025-07-17T11:42:06+0000",
      "curtidas": 9,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 5,
+     "alcance": 649,
+     "views": 934,
      "link": "https://www.instagram.com/reel/DMNSJ-tOuLJ/"
     },
     {
@@ -8123,6 +11351,10 @@ const DADOS_IG = {
      "data": "2025-07-17T11:39:30+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 568,
+     "views": 846,
      "link": "https://www.instagram.com/reel/DMNR5q4uV2X/"
     },
     {
@@ -8133,6 +11365,10 @@ const DADOS_IG = {
      "data": "2025-07-14T10:45:00+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 530,
+     "views": 2223,
      "link": "https://www.instagram.com/p/DMFdiCHvy4v/"
     },
     {
@@ -8143,6 +11379,10 @@ const DADOS_IG = {
      "data": "2025-07-07T12:56:51+0000",
      "curtidas": 42,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 4,
+     "alcance": 961,
+     "views": 1488,
      "link": "https://www.instagram.com/reel/DLzqyirO6a9/"
     },
     {
@@ -8153,6 +11393,10 @@ const DADOS_IG = {
      "data": "2025-07-03T18:25:00+0000",
      "curtidas": 29,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 1251,
+     "views": 2062,
      "link": "https://www.instagram.com/reel/DLp9cGCxcqw/"
     },
     {
@@ -8163,6 +11407,10 @@ const DADOS_IG = {
      "data": "2025-07-02T12:30:00+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 238,
+     "views": 1730,
      "link": "https://www.instagram.com/p/DLmv8imvVgE/"
     },
     {
@@ -8173,6 +11421,10 @@ const DADOS_IG = {
      "data": "2025-07-02T11:00:00+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 1362,
+     "views": 12592,
      "link": "https://www.instagram.com/p/DLmlpT8vtRS/"
     },
     {
@@ -8183,6 +11435,10 @@ const DADOS_IG = {
      "data": "2025-06-27T15:27:11+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 7,
+     "alcance": 1442,
+     "views": 11084,
      "link": "https://www.instagram.com/p/DLaMO-5MuYk/"
     },
     {
@@ -8193,6 +11449,10 @@ const DADOS_IG = {
      "data": "2025-06-23T17:52:33+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 111,
+     "views": 121,
      "link": "https://www.instagram.com/reel/DLQJQtwR2nj/"
     },
     {
@@ -8203,6 +11463,10 @@ const DADOS_IG = {
      "data": "2025-06-23T17:30:00+0000",
      "curtidas": 45,
      "comentarios": 12,
+     "salvos": 1,
+     "compartilhamentos": 10,
+     "alcance": 2988,
+     "views": 4090,
      "link": "https://www.instagram.com/reel/DLQHKz3s395/"
     },
     {
@@ -8213,6 +11477,10 @@ const DADOS_IG = {
      "data": "2025-06-22T18:14:05+0000",
      "curtidas": 23,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 3,
+     "alcance": 1478,
+     "views": 2153,
      "link": "https://www.instagram.com/reel/DLNm8djP6hH/"
     },
     {
@@ -8223,6 +11491,10 @@ const DADOS_IG = {
      "data": "2025-06-18T13:15:00+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 408,
+     "views": 1781,
      "link": "https://www.instagram.com/p/DLCx_toOFzq/"
     },
     {
@@ -8233,6 +11505,10 @@ const DADOS_IG = {
      "data": "2025-06-18T12:21:15+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 639,
+     "views": 4198,
      "link": "https://www.instagram.com/p/DLCrzSgOYZQ/"
     },
     {
@@ -8243,6 +11519,10 @@ const DADOS_IG = {
      "data": "2025-06-18T12:10:00+0000",
      "curtidas": 0,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 426,
+     "views": 1702,
      "link": "https://www.instagram.com/p/DLCqj1wuC_1/"
     },
     {
@@ -8253,6 +11533,10 @@ const DADOS_IG = {
      "data": "2025-06-18T12:01:58+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 714,
+     "views": 4198,
      "link": "https://www.instagram.com/p/DLCpmEWOMpL/"
     },
     {
@@ -8263,6 +11547,10 @@ const DADOS_IG = {
      "data": "2025-06-12T12:43:01+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 480,
+     "views": 1702,
      "link": "https://www.instagram.com/p/DKzRhZzMcQp/"
     },
     {
@@ -8273,6 +11561,10 @@ const DADOS_IG = {
      "data": "2025-06-12T12:00:29+0000",
      "curtidas": 43,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 6,
+     "alcance": 2210,
+     "views": 2762,
      "link": "https://www.instagram.com/reel/DKzMnvPOHJq/"
     },
     {
@@ -8283,6 +11575,10 @@ const DADOS_IG = {
      "data": "2025-06-12T11:52:34+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 473,
+     "views": 3808,
      "link": "https://www.instagram.com/p/DKzLv5JOd8q/"
     },
     {
@@ -8293,6 +11589,10 @@ const DADOS_IG = {
      "data": "2025-06-10T11:40:22+0000",
      "curtidas": 23,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 5,
+     "alcance": 1073,
+     "views": 1647,
      "link": "https://www.instagram.com/reel/DKuAxz2OaMe/"
     },
     {
@@ -8303,6 +11603,10 @@ const DADOS_IG = {
      "data": "2025-06-10T11:25:55+0000",
      "curtidas": 31,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 5,
+     "alcance": 1493,
+     "views": 2397,
      "link": "https://www.instagram.com/reel/DKt_BJHuGWA/"
     },
     {
@@ -8313,6 +11617,10 @@ const DADOS_IG = {
      "data": "2025-06-10T11:22:48+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 703,
+     "views": 1013,
      "link": "https://www.instagram.com/reel/DKt-BUuO1N7/"
     },
     {
@@ -8323,6 +11631,10 @@ const DADOS_IG = {
      "data": "2025-06-03T15:44:55+0000",
      "curtidas": 25,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 878,
+     "views": 1348,
      "link": "https://www.instagram.com/reel/DKcagIAxDAq/"
     },
     {
@@ -8333,6 +11645,10 @@ const DADOS_IG = {
      "data": "2025-05-29T20:34:20+0000",
      "curtidas": 102,
      "comentarios": 37,
+     "salvos": 2,
+     "compartilhamentos": 20,
+     "alcance": 2681,
+     "views": 4405,
      "link": "https://www.instagram.com/reel/DKQEM3aMuZD/"
     },
     {
@@ -8343,6 +11659,10 @@ const DADOS_IG = {
      "data": "2025-05-11T10:55:51+0000",
      "curtidas": 31,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 711,
+     "views": 971,
      "link": "https://www.instagram.com/reel/DJgrvtJyQAX/"
     },
     {
@@ -8353,6 +11673,10 @@ const DADOS_IG = {
      "data": "2025-05-09T19:18:43+0000",
      "curtidas": 17,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 595,
+     "views": 1492,
      "link": "https://www.instagram.com/p/DJcbx5gPSHx/"
     },
     {
@@ -8363,6 +11687,10 @@ const DADOS_IG = {
      "data": "2025-05-09T12:29:37+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 563,
+     "views": 1425,
      "link": "https://www.instagram.com/p/DJbs9mkx0FQ/"
     },
     {
@@ -8373,6 +11701,10 @@ const DADOS_IG = {
      "data": "2025-05-04T09:47:09+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 347,
+     "views": 1158,
      "link": "https://www.instagram.com/p/DJOiZMEPjce/"
     },
     {
@@ -8383,6 +11715,10 @@ const DADOS_IG = {
      "data": "2025-05-02T11:46:10+0000",
      "curtidas": 1,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 291,
+     "views": 1037,
      "link": "https://www.instagram.com/p/DJJmbKXt2rz/"
     },
     {
@@ -8393,6 +11729,10 @@ const DADOS_IG = {
      "data": "2025-05-01T14:02:44+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 604,
+     "views": 1394,
      "link": "https://www.instagram.com/p/DJHRQh0RjsS/"
     },
     {
@@ -8403,6 +11743,10 @@ const DADOS_IG = {
      "data": "2025-04-30T12:05:11+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 257,
+     "views": 372,
      "link": "https://www.instagram.com/reel/DJEe870oLFG/"
     },
     {
@@ -8413,6 +11757,10 @@ const DADOS_IG = {
      "data": "2025-04-30T10:44:11+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 429,
+     "views": 1151,
      "link": "https://www.instagram.com/p/DJEVvaQN60u/"
     },
     {
@@ -8423,6 +11771,10 @@ const DADOS_IG = {
      "data": "2025-04-29T20:47:08+0000",
      "curtidas": 0,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 262,
+     "views": 959,
      "link": "https://www.instagram.com/p/DJC18m9pJqc/"
     },
     {
@@ -8433,6 +11785,10 @@ const DADOS_IG = {
      "data": "2025-04-29T18:22:35+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 271,
+     "views": 949,
      "link": "https://www.instagram.com/p/DJClZ7vO5PC/"
     },
     {
@@ -8443,6 +11799,10 @@ const DADOS_IG = {
      "data": "2025-04-28T11:39:04+0000",
      "curtidas": 28,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 16,
+     "alcance": 1448,
+     "views": 2592,
      "link": "https://www.instagram.com/reel/DI_SXztIB3u/"
     },
     {
@@ -8453,6 +11813,10 @@ const DADOS_IG = {
      "data": "2025-04-24T10:29:57+0000",
      "curtidas": 17,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 982,
+     "views": 1426,
      "link": "https://www.instagram.com/reel/DI03SKloJ8q/"
     },
     {
@@ -8463,6 +11827,10 @@ const DADOS_IG = {
      "data": "2025-04-22T14:02:41+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 826,
+     "views": 1178,
      "link": "https://www.instagram.com/reel/DIwGDAqvNf4/"
     },
     {
@@ -8473,6 +11841,10 @@ const DADOS_IG = {
      "data": "2025-04-20T10:46:58+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 671,
+     "views": 1420,
      "link": "https://www.instagram.com/p/DIqmG_iTRPR/"
     },
     {
@@ -8483,6 +11855,10 @@ const DADOS_IG = {
      "data": "2025-04-16T17:24:32+0000",
      "curtidas": 46,
      "comentarios": 29,
+     "salvos": 0,
+     "compartilhamentos": 38,
+     "alcance": 1661,
+     "views": 2651,
      "link": "https://www.instagram.com/reel/DIhAXP9CTtJ/"
     },
     {
@@ -8493,6 +11869,10 @@ const DADOS_IG = {
      "data": "2025-04-11T12:49:10+0000",
      "curtidas": 19,
      "comentarios": 4,
+     "salvos": 2,
+     "compartilhamentos": 3,
+     "alcance": 776,
+     "views": 1197,
      "link": "https://www.instagram.com/reel/DITo4fCIq_t/"
     },
     {
@@ -8503,6 +11883,10 @@ const DADOS_IG = {
      "data": "2025-04-08T19:30:22+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 613,
+     "views": 969,
      "link": "https://www.instagram.com/reel/DIMobYot7hl/"
     },
     {
@@ -8513,6 +11897,10 @@ const DADOS_IG = {
      "data": "2025-04-01T13:00:04+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 726,
+     "views": 1111,
      "link": "https://www.instagram.com/reel/DH56KSgCJRb/"
     },
     {
@@ -8523,6 +11911,10 @@ const DADOS_IG = {
      "data": "2025-03-27T11:57:41+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1013,
+     "views": 1342,
      "link": "https://www.instagram.com/reel/DHs7EsUhpJd/"
     },
     {
@@ -8533,6 +11925,10 @@ const DADOS_IG = {
      "data": "2025-03-26T14:56:46+0000",
      "curtidas": 26,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1053,
+     "views": 1717,
      "link": "https://www.instagram.com/reel/DHqqxbVvXXn/"
     },
     {
@@ -8543,6 +11939,10 @@ const DADOS_IG = {
      "data": "2025-03-25T14:35:29+0000",
      "curtidas": 25,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 6,
+     "alcance": 1961,
+     "views": 2972,
      "link": "https://www.instagram.com/reel/DHoDjBtB2bB/"
     },
     {
@@ -8553,6 +11953,10 @@ const DADOS_IG = {
      "data": "2025-03-17T13:02:04+0000",
      "curtidas": 17,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1305,
+     "views": 2069,
      "link": "https://www.instagram.com/reel/DHTSebqvB4F/"
     },
     {
@@ -8563,6 +11967,10 @@ const DADOS_IG = {
      "data": "2025-03-14T10:46:52+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 422,
+     "views": 502,
      "link": "https://www.instagram.com/reel/DHLUmzoChvx/"
     },
     {
@@ -8573,6 +11981,10 @@ const DADOS_IG = {
      "data": "2025-03-12T10:33:07+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 328,
+     "views": 864,
      "link": "https://www.instagram.com/p/DHGJhgqvmvX/"
     },
     {
@@ -8583,6 +11995,10 @@ const DADOS_IG = {
      "data": "2025-03-10T14:11:24+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 290,
+     "views": 807,
      "link": "https://www.instagram.com/p/DHBY6gATGyd/"
     },
     {
@@ -8593,6 +12009,10 @@ const DADOS_IG = {
      "data": "2025-03-08T13:05:12+0000",
      "curtidas": 26,
      "comentarios": 6,
+     "salvos": 0,
+     "compartilhamentos": 5,
+     "alcance": 1537,
+     "views": 2137,
      "link": "https://www.instagram.com/reel/DG8HrO8Bob2/"
     },
     {
@@ -8603,6 +12023,10 @@ const DADOS_IG = {
      "data": "2025-03-06T13:53:10+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 420,
+     "views": 952,
      "link": "https://www.instagram.com/p/DG3DpZbTBG8/"
     },
     {
@@ -8613,6 +12037,10 @@ const DADOS_IG = {
      "data": "2025-03-03T21:03:34+0000",
      "curtidas": 29,
      "comentarios": 15,
+     "salvos": 1,
+     "compartilhamentos": 4,
+     "alcance": 1090,
+     "views": 1517,
      "link": "https://www.instagram.com/reel/DGwGdgatTWY/"
     },
     {
@@ -8623,6 +12051,10 @@ const DADOS_IG = {
      "data": "2025-02-28T11:03:58+0000",
      "curtidas": 16,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 1236,
+     "views": 1768,
      "link": "https://www.instagram.com/reel/DGnTeoNNDPO/"
     },
     {
@@ -8633,6 +12065,10 @@ const DADOS_IG = {
      "data": "2025-02-26T10:37:15+0000",
      "curtidas": 13,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 792,
+     "views": 1092,
      "link": "https://www.instagram.com/reel/DGiG0LiKWH6/"
     },
     {
@@ -8643,6 +12079,10 @@ const DADOS_IG = {
      "data": "2025-02-24T10:35:01+0000",
      "curtidas": 24,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 1100,
+     "views": 1591,
      "link": "https://www.instagram.com/reel/DGc89DKIoQY/"
     },
     {
@@ -8653,6 +12093,10 @@ const DADOS_IG = {
      "data": "2025-02-21T18:11:11+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 585,
+     "views": 794,
      "link": "https://www.instagram.com/reel/DGWCyy2JVpE/"
     },
     {
@@ -8663,6 +12107,10 @@ const DADOS_IG = {
      "data": "2025-02-19T21:57:21+0000",
      "curtidas": 4,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 210,
+     "views": 307,
      "link": "https://www.instagram.com/reel/DGRSwEzvdLd/"
     },
     {
@@ -8673,6 +12121,10 @@ const DADOS_IG = {
      "data": "2025-02-17T20:40:24+0000",
      "curtidas": 89,
      "comentarios": 9,
+     "salvos": 3,
+     "compartilhamentos": 4,
+     "alcance": 2605,
+     "views": 4256,
      "link": "https://www.instagram.com/reel/DGMArP9PNoK/"
     },
     {
@@ -8683,6 +12135,10 @@ const DADOS_IG = {
      "data": "2025-02-15T18:12:18+0000",
      "curtidas": 16,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 571,
+     "views": 782,
      "link": "https://www.instagram.com/reel/DGGmJ-sta3i/"
     },
     {
@@ -8693,6 +12149,10 @@ const DADOS_IG = {
      "data": "2025-02-11T11:53:51+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 454,
+     "views": 1026,
      "link": "https://www.instagram.com/p/DF7ntWDzo_x/"
     },
     {
@@ -8703,6 +12163,10 @@ const DADOS_IG = {
      "data": "2025-02-11T10:40:39+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 19,
+     "alcance": 544,
+     "views": 687,
      "link": "https://www.instagram.com/reel/DF7fRz-uIAL/"
     },
     {
@@ -8713,6 +12177,10 @@ const DADOS_IG = {
      "data": "2025-02-10T10:04:28+0000",
      "curtidas": 15,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 450,
+     "views": 656,
      "link": "https://www.instagram.com/reel/DF42Wg7Bleo/"
     },
     {
@@ -8723,6 +12191,10 @@ const DADOS_IG = {
      "data": "2025-02-03T10:13:10+0000",
      "curtidas": 14,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 10,
+     "alcance": 604,
+     "views": 1004,
      "link": "https://www.instagram.com/reel/DFm1yAeCYv3/"
     },
     {
@@ -8733,6 +12205,10 @@ const DADOS_IG = {
      "data": "2025-01-31T10:00:47+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 556,
+     "views": 677,
      "link": "https://www.instagram.com/reel/DFfF-ZFqINu/"
     },
     {
@@ -8743,6 +12219,10 @@ const DADOS_IG = {
      "data": "2025-01-30T17:46:35+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 599,
+     "views": 847,
      "link": "https://www.instagram.com/reel/DFdWeYtOukE/"
     },
     {
@@ -8753,6 +12233,10 @@ const DADOS_IG = {
      "data": "2025-01-23T13:25:19+0000",
      "curtidas": 29,
      "comentarios": 3,
+     "salvos": 3,
+     "compartilhamentos": 1,
+     "alcance": 837,
+     "views": 1228,
      "link": "https://www.instagram.com/reel/DFK3CCjvBB_/"
     },
     {
@@ -8763,6 +12247,10 @@ const DADOS_IG = {
      "data": "2025-01-22T18:46:56+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 419,
+     "views": 575,
      "link": "https://www.instagram.com/reel/DFI3CYFJIqH/"
     },
     {
@@ -8773,6 +12261,10 @@ const DADOS_IG = {
      "data": "2025-01-15T18:31:09+0000",
      "curtidas": 23,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 4,
+     "alcance": 724,
+     "views": 1021,
      "link": "https://www.instagram.com/reel/DE2zqqOI3P4/"
     },
     {
@@ -8783,6 +12275,10 @@ const DADOS_IG = {
      "data": "2025-01-13T09:23:36+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 359,
+     "views": 505,
      "link": "https://www.instagram.com/reel/DEwrbROtYQQ/"
     },
     {
@@ -8793,6 +12289,10 @@ const DADOS_IG = {
      "data": "2024-12-31T11:00:27+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 323,
+     "views": 747,
      "link": "https://www.instagram.com/p/DEPYNjGPoU2/"
     },
     {
@@ -8803,6 +12303,10 @@ const DADOS_IG = {
      "data": "2024-12-24T18:54:32+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 454,
+     "views": 528,
      "link": "https://www.instagram.com/reel/DD-M2l8po4P/"
     },
     {
@@ -8813,6 +12317,10 @@ const DADOS_IG = {
      "data": "2024-12-13T20:42:05+0000",
      "curtidas": 22,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 7,
+     "alcance": 785,
+     "views": 1130,
      "link": "https://www.instagram.com/reel/DDiEZmkot8A/"
     },
     {
@@ -8823,6 +12331,10 @@ const DADOS_IG = {
      "data": "2024-12-11T11:14:40+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 678,
+     "views": 891,
      "link": "https://www.instagram.com/reel/DDb548LCAUW/"
     },
     {
@@ -8833,6 +12345,10 @@ const DADOS_IG = {
      "data": "2024-12-09T17:50:08+0000",
      "curtidas": 29,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 7,
+     "alcance": 1245,
+     "views": 2014,
      "link": "https://www.instagram.com/reel/DDXdkAChl73/"
     },
     {
@@ -8843,6 +12359,10 @@ const DADOS_IG = {
      "data": "2024-11-29T17:51:56+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 502,
+     "views": 1018,
      "link": "https://www.instagram.com/p/DC9t0twvpYD/"
     },
     {
@@ -8853,6 +12373,10 @@ const DADOS_IG = {
      "data": "2024-11-29T17:46:19+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 495,
+     "views": 1019,
      "link": "https://www.instagram.com/p/DC9tLgYvK4-/"
     },
     {
@@ -8863,6 +12387,10 @@ const DADOS_IG = {
      "data": "2024-11-29T13:33:04+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 473,
+     "views": 585,
      "link": "https://www.instagram.com/reel/DC9QMlUtVmm/"
     },
     {
@@ -8873,6 +12401,10 @@ const DADOS_IG = {
      "data": "2024-11-22T12:06:08+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 5,
+     "alcance": 702,
+     "views": 949,
      "link": "https://www.instagram.com/reel/DCrEq8DsPs5/"
     },
     {
@@ -8883,6 +12415,10 @@ const DADOS_IG = {
      "data": "2024-11-21T17:48:06+0000",
      "curtidas": 27,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 4,
+     "alcance": 1507,
+     "views": 2064,
      "link": "https://www.instagram.com/reel/DCpHB-0pcDD/"
     },
     {
@@ -8893,6 +12429,10 @@ const DADOS_IG = {
      "data": "2024-11-18T14:30:17+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 1108,
+     "views": 1569,
      "link": "https://www.instagram.com/p/DChCCi_taDI/"
     },
     {
@@ -8903,6 +12443,10 @@ const DADOS_IG = {
      "data": "2024-11-16T12:02:07+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 700,
+     "views": 861,
      "link": "https://www.instagram.com/reel/DCbncVxM4lb/"
     },
     {
@@ -8913,6 +12457,10 @@ const DADOS_IG = {
      "data": "2024-11-12T18:37:06+0000",
      "curtidas": 90,
      "comentarios": 4,
+     "salvos": 3,
+     "compartilhamentos": 9,
+     "alcance": 2959,
+     "views": 5181,
      "link": "https://www.instagram.com/reel/DCSBfAfJ4g2/"
     },
     {
@@ -8923,6 +12471,10 @@ const DADOS_IG = {
      "data": "2024-11-06T13:21:09+0000",
      "curtidas": 13,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 5,
+     "alcance": 2063,
+     "views": 2666,
      "link": "https://www.instagram.com/p/DCCAlr_NfYy/"
     },
     {
@@ -8933,6 +12485,10 @@ const DADOS_IG = {
      "data": "2024-11-01T12:30:15+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1251,
+     "views": 1770,
      "link": "https://www.instagram.com/p/DB1Cyi6NXAc/"
     },
     {
@@ -8943,6 +12499,10 @@ const DADOS_IG = {
      "data": "2024-10-28T11:05:11+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 600,
+     "views": 817,
      "link": "https://www.instagram.com/reel/DBqlxQRsut-/"
     },
     {
@@ -8953,6 +12513,10 @@ const DADOS_IG = {
      "data": "2024-10-28T11:01:21+0000",
      "curtidas": 5,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 2231,
+     "views": 2832,
      "link": "https://www.instagram.com/p/DBqlb5ENQYE/"
     },
     {
@@ -8963,6 +12527,10 @@ const DADOS_IG = {
      "data": "2024-10-25T15:04:11+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 513,
+     "views": 730,
      "link": "https://www.instagram.com/reel/DBjSynttIqD/"
     },
     {
@@ -8973,6 +12541,10 @@ const DADOS_IG = {
      "data": "2024-10-25T13:04:12+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 534,
+     "views": 720,
      "link": "https://www.instagram.com/reel/DBjFCb2v3Ja/"
     },
     {
@@ -8983,6 +12555,10 @@ const DADOS_IG = {
      "data": "2024-10-23T12:15:13+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 593,
+     "views": 985,
      "link": "https://www.instagram.com/p/DBd16k5tm3j/"
     },
     {
@@ -8993,6 +12569,10 @@ const DADOS_IG = {
      "data": "2024-10-21T12:15:14+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 766,
+     "views": 1193,
      "link": "https://www.instagram.com/p/DBYsU6jNrsk/"
     },
     {
@@ -9003,6 +12583,10 @@ const DADOS_IG = {
      "data": "2024-10-19T12:30:42+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 553,
+     "views": 737,
      "link": "https://www.instagram.com/reel/DBTkeHoqDNC/"
     },
     {
@@ -9013,6 +12597,10 @@ const DADOS_IG = {
      "data": "2024-10-18T12:32:13+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 569,
+     "views": 798,
      "link": "https://www.instagram.com/reel/DBQ_w6ruYcS/"
     },
     {
@@ -9023,6 +12611,10 @@ const DADOS_IG = {
      "data": "2024-10-17T14:34:09+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1426,
+     "views": 1900,
      "link": "https://www.instagram.com/p/DBOpC3vNhVS/"
     },
     {
@@ -9033,6 +12625,10 @@ const DADOS_IG = {
      "data": "2024-10-16T12:06:11+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1468,
+     "views": 2038,
      "link": "https://www.instagram.com/p/DBLzUPXN7mD/"
     },
     {
@@ -9043,6 +12639,10 @@ const DADOS_IG = {
      "data": "2024-10-14T19:36:36+0000",
      "curtidas": 57,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1286,
+     "views": 1898,
      "link": "https://www.instagram.com/reel/DBHdOxzsNz0/"
     },
     {
@@ -9053,6 +12653,10 @@ const DADOS_IG = {
      "data": "2024-10-10T10:00:46+0000",
      "curtidas": 23,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 627,
+     "views": 998,
      "link": "https://www.instagram.com/reel/DA8IKpfqOsc/"
     },
     {
@@ -9063,6 +12667,10 @@ const DADOS_IG = {
      "data": "2024-09-30T16:29:57+0000",
      "curtidas": 16,
      "comentarios": 5,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 555,
+     "views": 795,
      "link": "https://www.instagram.com/reel/DAjEiDZO1jg/"
     },
     {
@@ -9073,6 +12681,10 @@ const DADOS_IG = {
      "data": "2024-09-18T16:31:15+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 520,
+     "views": 764,
      "link": "https://www.instagram.com/reel/DAELNdHuphh/"
     },
     {
@@ -9083,6 +12695,10 @@ const DADOS_IG = {
      "data": "2024-09-15T14:58:26+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 534,
+     "views": 928,
      "link": "https://www.instagram.com/p/C_8SY-ou4Dx/"
     },
     {
@@ -9093,6 +12709,10 @@ const DADOS_IG = {
      "data": "2024-09-11T21:41:45+0000",
      "curtidas": 16,
      "comentarios": 4,
+     "salvos": 2,
+     "compartilhamentos": 4,
+     "alcance": 889,
+     "views": 1216,
      "link": "https://www.instagram.com/reel/C_ytUayuC2z/"
     },
     {
@@ -9103,6 +12723,10 @@ const DADOS_IG = {
      "data": "2024-09-02T14:52:13+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 424,
+     "views": 628,
      "link": "https://www.instagram.com/reel/C_ay1wzu1Ep/"
     },
     {
@@ -9113,6 +12737,10 @@ const DADOS_IG = {
      "data": "2024-08-26T19:55:00+0000",
      "curtidas": 7,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 397,
+     "views": 567,
      "link": "https://www.instagram.com/reel/C_JUixEOsQa/"
     },
     {
@@ -9123,6 +12751,10 @@ const DADOS_IG = {
      "data": "2024-08-24T10:52:28+0000",
      "curtidas": 21,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 685,
+     "views": 1140,
      "link": "https://www.instagram.com/reel/C_DMmwruMta/"
     },
     {
@@ -9133,6 +12765,10 @@ const DADOS_IG = {
      "data": "2024-08-20T14:55:00+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 492,
+     "views": 725,
      "link": "https://www.instagram.com/reel/C-5Vb76uKS0/"
     },
     {
@@ -9143,6 +12779,10 @@ const DADOS_IG = {
      "data": "2024-08-19T14:55:00+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 535,
+     "views": 838,
      "link": "https://www.instagram.com/reel/C-2wjy2OhTI/"
     },
     {
@@ -9153,6 +12793,10 @@ const DADOS_IG = {
      "data": "2024-08-11T13:10:11+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 295,
+     "views": 536,
      "link": "https://www.instagram.com/p/C-h-LiIOE8P/"
     },
     {
@@ -9163,6 +12807,10 @@ const DADOS_IG = {
      "data": "2024-08-10T20:37:54+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 371,
+     "views": 629,
      "link": "https://www.instagram.com/p/C-gMnzoPfWF/"
     },
     {
@@ -9173,6 +12821,10 @@ const DADOS_IG = {
      "data": "2024-08-08T19:08:36+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 256,
+     "views": 327,
      "link": "https://www.instagram.com/reel/C-a4nctvO_m/"
     },
     {
@@ -9183,6 +12835,10 @@ const DADOS_IG = {
      "data": "2024-07-27T14:05:10+0000",
      "curtidas": 15,
      "comentarios": 3,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 196,
+     "views": 650,
      "link": "https://www.instagram.com/reel/C97cftRuPU5/"
     },
     {
@@ -9193,6 +12849,10 @@ const DADOS_IG = {
      "data": "2024-07-20T16:14:05+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 154,
+     "views": 789,
      "link": "https://www.instagram.com/p/C9ppvLSuFXG/"
     },
     {
@@ -9203,6 +12863,10 @@ const DADOS_IG = {
      "data": "2024-07-10T18:02:44+0000",
      "curtidas": 8,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 180,
+     "views": 567,
      "link": "https://www.instagram.com/reel/C9QGDnpOcld/"
     },
     {
@@ -9213,6 +12877,10 @@ const DADOS_IG = {
      "data": "2024-07-04T13:33:33+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 155,
+     "views": 1010,
      "link": "https://www.instagram.com/reel/C9AKKAmOWnF/"
     },
     {
@@ -9223,6 +12891,10 @@ const DADOS_IG = {
      "data": "2024-07-02T11:55:16+0000",
      "curtidas": 25,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 141,
+     "views": 898,
      "link": "https://www.instagram.com/reel/C861nTVOFBO/"
     },
     {
@@ -9233,6 +12905,10 @@ const DADOS_IG = {
      "data": "2024-06-25T16:19:46+0000",
      "curtidas": 18,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 125,
+     "views": 2224,
      "link": "https://www.instagram.com/reel/C8pSN9yuEGp/"
     },
     {
@@ -9243,6 +12919,10 @@ const DADOS_IG = {
      "data": "2024-06-22T14:09:06+0000",
      "curtidas": 15,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 130,
+     "views": 808,
      "link": "https://www.instagram.com/reel/C8hU-42uO-m/"
     },
     {
@@ -9253,6 +12933,10 @@ const DADOS_IG = {
      "data": "2024-06-18T14:55:00+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 118,
+     "views": 755,
      "link": "https://www.instagram.com/reel/C8XHTTwuiQl/"
     },
     {
@@ -9263,6 +12947,10 @@ const DADOS_IG = {
      "data": "2024-06-06T17:27:54+0000",
      "curtidas": 15,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 87,
+     "views": 635,
      "link": "https://www.instagram.com/reel/C74fFSLu3fD/"
     },
     {
@@ -9273,6 +12961,10 @@ const DADOS_IG = {
      "data": "2024-05-28T12:35:48+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 83,
+     "views": 437,
      "link": "https://www.instagram.com/reel/C7gyAXeuQpZ/"
     },
     {
@@ -9283,6 +12975,10 @@ const DADOS_IG = {
      "data": "2024-05-27T12:01:33+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 82,
+     "views": 0,
      "link": "https://www.instagram.com/p/C7eJ6Znu09Z/"
     },
     {
@@ -9293,6 +12989,10 @@ const DADOS_IG = {
      "data": "2024-05-27T11:56:24+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 86,
+     "views": 0,
      "link": "https://www.instagram.com/p/C7eJUnyOTSz/"
     },
     {
@@ -9303,6 +13003,10 @@ const DADOS_IG = {
      "data": "2024-05-26T18:18:27+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 86,
+     "views": 0,
      "link": "https://www.instagram.com/p/C7cQP8hu_OL/"
     },
     {
@@ -9313,6 +13017,10 @@ const DADOS_IG = {
      "data": "2024-05-20T20:55:00+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 86,
+     "views": 798,
      "link": "https://www.instagram.com/reel/C7NFZqEvH0x/"
     },
     {
@@ -9323,6 +13031,10 @@ const DADOS_IG = {
      "data": "2024-05-15T11:33:58+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 73,
+     "views": 788,
      "link": "https://www.instagram.com/reel/C6_NGIoO-Nq/"
     },
     {
@@ -9333,6 +13045,10 @@ const DADOS_IG = {
      "data": "2024-05-12T01:27:21+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 132,
+     "views": 0,
      "link": "https://www.instagram.com/p/C62ZaMstBdH/"
     },
     {
@@ -9343,6 +13059,10 @@ const DADOS_IG = {
      "data": "2024-05-03T17:49:22+0000",
      "curtidas": 34,
      "comentarios": 5,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 206,
+     "views": 1568,
      "link": "https://www.instagram.com/reel/C6g96a1u2mO/"
     },
     {
@@ -9353,6 +13073,10 @@ const DADOS_IG = {
      "data": "2024-04-24T20:42:08+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 105,
+     "views": 507,
      "link": "https://www.instagram.com/reel/C6KGtzduyb0/"
     },
     {
@@ -9363,6 +13087,10 @@ const DADOS_IG = {
      "data": "2024-04-20T17:42:01+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 71,
+     "views": 0,
      "link": "https://www.instagram.com/p/C5_fdqlO2FF/"
     },
     {
@@ -9373,6 +13101,10 @@ const DADOS_IG = {
      "data": "2024-04-11T19:59:42+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 77,
+     "views": 573,
      "link": "https://www.instagram.com/reel/C5ojp6rucQp/"
     },
     {
@@ -9383,6 +13115,10 @@ const DADOS_IG = {
      "data": "2024-04-10T19:41:19+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 201,
+     "views": 1247,
      "link": "https://www.instagram.com/reel/C5l84_vu4v5/"
     },
     {
@@ -9393,6 +13129,10 @@ const DADOS_IG = {
      "data": "2024-04-09T15:15:00+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 4,
+     "compartilhamentos": 1,
+     "alcance": 142,
+     "views": 1144,
      "link": "https://www.instagram.com/reel/C5i5-C_uSPY/"
     },
     {
@@ -9403,6 +13143,10 @@ const DADOS_IG = {
      "data": "2024-04-08T11:00:00+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 71,
+     "views": 645,
      "link": "https://www.instagram.com/reel/C5f3_F_N_wO/"
     },
     {
@@ -9413,6 +13157,10 @@ const DADOS_IG = {
      "data": "2024-04-05T20:39:40+0000",
      "curtidas": 16,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 59,
+     "views": 0,
      "link": "https://www.instagram.com/p/C5ZL3s0udO8/"
     },
     {
@@ -9423,6 +13171,10 @@ const DADOS_IG = {
      "data": "2024-04-05T02:39:51+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 61,
+     "views": 746,
      "link": "https://www.instagram.com/reel/C5XP3pVt1ct/"
     },
     {
@@ -9433,6 +13185,10 @@ const DADOS_IG = {
      "data": "2024-04-03T23:10:00+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 87,
+     "views": 735,
      "link": "https://www.instagram.com/reel/C5UTkKgunFs/"
     },
     {
@@ -9443,6 +13199,10 @@ const DADOS_IG = {
      "data": "2024-04-02T11:00:00+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 93,
+     "views": 0,
      "link": "https://www.instagram.com/p/C5QbNT3NAdL/"
     },
     {
@@ -9453,6 +13213,10 @@ const DADOS_IG = {
      "data": "2024-04-01T14:55:00+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 78,
+     "views": 1014,
      "link": "https://www.instagram.com/reel/C5ORSDHOEmF/"
     },
     {
@@ -9463,6 +13227,10 @@ const DADOS_IG = {
      "data": "2024-03-28T22:03:36+0000",
      "curtidas": 41,
      "comentarios": 7,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 98,
+     "views": 1297,
      "link": "https://www.instagram.com/reel/C5EuR4uuwnq/"
     },
     {
@@ -9473,6 +13241,10 @@ const DADOS_IG = {
      "data": "2024-03-27T19:20:06+0000",
      "curtidas": 33,
      "comentarios": 3,
+     "salvos": 9,
+     "compartilhamentos": 1,
+     "alcance": 438,
+     "views": 0,
      "link": "https://www.instagram.com/p/C5B3nB8OzkO/"
     },
     {
@@ -9483,6 +13255,10 @@ const DADOS_IG = {
      "data": "2024-03-20T16:45:50+0000",
      "curtidas": 32,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 1,
+     "alcance": 214,
+     "views": 1729,
      "link": "https://www.instagram.com/reel/C4vj1iRuJV3/"
     },
     {
@@ -9493,6 +13269,10 @@ const DADOS_IG = {
      "data": "2024-03-19T18:51:40+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 66,
+     "views": 0,
      "link": "https://www.instagram.com/p/C4tN_ujO4IV/"
     },
     {
@@ -9503,6 +13283,10 @@ const DADOS_IG = {
      "data": "2024-03-18T14:35:27+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 54,
+     "views": 0,
      "link": "https://www.instagram.com/p/C4qL4Snui_r/"
     },
     {
@@ -9513,6 +13297,10 @@ const DADOS_IG = {
      "data": "2024-03-15T13:40:34+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 46,
+     "views": 0,
      "link": "https://www.instagram.com/p/C4iXNrHuc4K/"
     },
     {
@@ -9523,6 +13311,10 @@ const DADOS_IG = {
      "data": "2024-03-12T19:27:27+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 9,
+     "views": 638,
      "link": "https://www.instagram.com/reel/C4bOwcBuPYS/"
     },
     {
@@ -9533,6 +13325,10 @@ const DADOS_IG = {
      "data": "2024-02-17T12:46:25+0000",
      "curtidas": 48,
      "comentarios": 2,
+     "salvos": 5,
+     "compartilhamentos": 0,
+     "alcance": 81,
+     "views": 1838,
      "link": "https://www.instagram.com/reel/C3cvSzTOk4d/"
     },
     {
@@ -9543,6 +13339,10 @@ const DADOS_IG = {
      "data": "2024-01-22T13:58:00+0000",
      "curtidas": 13,
      "comentarios": 1,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 64,
+     "views": 1232,
      "link": "https://www.instagram.com/reel/C2Z6941uNPH/"
     },
     {
@@ -9553,6 +13353,10 @@ const DADOS_IG = {
      "data": "2023-12-30T13:38:50+0000",
      "curtidas": 31,
      "comentarios": 3,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 57,
+     "views": 1222,
      "link": "https://www.instagram.com/reel/C1eqTxnO5cO/"
     },
     {
@@ -9563,6 +13367,10 @@ const DADOS_IG = {
      "data": "2023-12-11T19:37:36+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 66,
+     "views": 1067,
      "link": "https://www.instagram.com/reel/C0uXcr9OqMg/"
     },
     {
@@ -9573,6 +13381,10 @@ const DADOS_IG = {
      "data": "2023-12-09T14:14:32+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 74,
+     "views": 1331,
      "link": "https://www.instagram.com/reel/C0op2d1ueQp/"
     },
     {
@@ -9583,6 +13395,10 @@ const DADOS_IG = {
      "data": "2023-12-07T13:39:08+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 90,
+     "views": 1356,
      "link": "https://www.instagram.com/reel/C0jcIIRuUCl/"
     },
     {
@@ -9593,6 +13409,10 @@ const DADOS_IG = {
      "data": "2023-12-05T19:33:37+0000",
      "curtidas": 27,
      "comentarios": 4,
+     "salvos": 6,
+     "compartilhamentos": 1,
+     "alcance": 120,
+     "views": 2036,
      "link": "https://www.instagram.com/reel/C0e7AAoxW_X/"
     },
     {
@@ -9603,6 +13423,10 @@ const DADOS_IG = {
      "data": "2023-11-23T19:47:41+0000",
      "curtidas": 31,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 59,
+     "views": 1490,
      "link": "https://www.instagram.com/reel/C0ADI52uMqe/"
     },
     {
@@ -9613,6 +13437,10 @@ const DADOS_IG = {
      "data": "2023-11-10T13:18:54+0000",
      "curtidas": 20,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 48,
+     "views": 1362,
      "link": "https://www.instagram.com/reel/Czd4hcDuOO3/"
     },
     {
@@ -9623,6 +13451,10 @@ const DADOS_IG = {
      "data": "2023-11-07T20:11:10+0000",
      "curtidas": 35,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 72,
+     "views": 1781,
      "link": "https://www.instagram.com/reel/CzW5CnVOf-I/"
     },
     {
@@ -9633,6 +13465,10 @@ const DADOS_IG = {
      "data": "2023-10-31T11:00:00+0000",
      "curtidas": 28,
      "comentarios": 1,
+     "salvos": 7,
+     "compartilhamentos": 3,
+     "alcance": 90,
+     "views": 1616,
      "link": "https://www.instagram.com/reel/CzD4w_3O6cV/"
     },
     {
@@ -9643,6 +13479,10 @@ const DADOS_IG = {
      "data": "2023-10-30T17:09:06+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 70,
+     "views": 1176,
      "link": "https://www.instagram.com/reel/CzB95TJOD9Q/"
     },
     {
@@ -9653,6 +13493,10 @@ const DADOS_IG = {
      "data": "2023-10-27T20:26:57+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 79,
+     "views": 1569,
      "link": "https://www.instagram.com/reel/Cy6mQZzO2Q7/"
     },
     {
@@ -9663,6 +13507,10 @@ const DADOS_IG = {
      "data": "2023-10-20T10:55:00+0000",
      "curtidas": 24,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 93,
+     "views": 1588,
      "link": "https://www.instagram.com/reel/Cynje2nOsGW/"
     },
     {
@@ -9673,6 +13521,10 @@ const DADOS_IG = {
      "data": "2023-10-19T19:46:14+0000",
      "curtidas": 13,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 58,
+     "views": 1151,
      "link": "https://www.instagram.com/reel/Cyl7FlHu3y7/"
     },
     {
@@ -9683,6 +13535,10 @@ const DADOS_IG = {
      "data": "2023-09-28T14:42:22+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 46,
+     "views": 1178,
      "link": "https://www.instagram.com/reel/CxvTs__uwhW/"
     },
     {
@@ -9693,6 +13549,10 @@ const DADOS_IG = {
      "data": "2023-09-26T14:23:48+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 47,
+     "views": 0,
      "link": "https://www.instagram.com/p/CxqIOvHu-Uk/"
     },
     {
@@ -9703,6 +13563,10 @@ const DADOS_IG = {
      "data": "2023-09-26T14:22:09+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 51,
+     "views": 0,
      "link": "https://www.instagram.com/p/CxqICq4OaAc/"
     },
     {
@@ -9713,6 +13577,10 @@ const DADOS_IG = {
      "data": "2023-09-26T14:20:51+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 58,
+     "views": 0,
      "link": "https://www.instagram.com/p/CxqH5KEO0ej/"
     },
     {
@@ -9723,6 +13591,10 @@ const DADOS_IG = {
      "data": "2023-09-20T14:08:24+0000",
      "curtidas": 12,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 66,
+     "views": 835,
      "link": "https://www.instagram.com/reel/Cxapj-MuxDr/"
     },
     {
@@ -9733,6 +13605,10 @@ const DADOS_IG = {
      "data": "2023-09-19T11:25:57+0000",
      "curtidas": 18,
      "comentarios": 2,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 81,
+     "views": 921,
      "link": "https://www.instagram.com/reel/CxXx8ZkOi1R/"
     },
     {
@@ -9743,6 +13619,10 @@ const DADOS_IG = {
      "data": "2023-09-18T18:08:29+0000",
      "curtidas": 20,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 73,
+     "views": 1072,
      "link": "https://www.instagram.com/reel/CxV7Xznu1Ry/"
     },
     {
@@ -9753,6 +13633,10 @@ const DADOS_IG = {
      "data": "2023-09-15T12:08:21+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 51,
+     "views": 0,
      "link": "https://www.instagram.com/p/CxNj_EtuoeZ/"
     },
     {
@@ -9763,6 +13647,10 @@ const DADOS_IG = {
      "data": "2023-08-31T18:06:58+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 51,
+     "views": 0,
      "link": "https://www.instagram.com/p/CwnlGi8OwJl/"
     },
     {
@@ -9773,6 +13661,10 @@ const DADOS_IG = {
      "data": "2023-08-31T18:04:11+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 52,
+     "views": 0,
      "link": "https://www.instagram.com/p/CwnkyHrOh9O/"
     },
     {
@@ -9783,6 +13675,10 @@ const DADOS_IG = {
      "data": "2023-08-31T17:58:54+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 47,
+     "views": 0,
      "link": "https://www.instagram.com/p/CwnkLb_urco/"
     },
     {
@@ -9793,6 +13689,10 @@ const DADOS_IG = {
      "data": "2023-08-31T14:44:03+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 41,
+     "views": 0,
      "link": "https://www.instagram.com/p/CwnN4WWulXQ/"
     },
     {
@@ -9803,6 +13703,10 @@ const DADOS_IG = {
      "data": "2023-08-31T14:40:57+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 42,
+     "views": 0,
      "link": "https://www.instagram.com/p/CwnNhi5uLGi/"
     },
     {
@@ -9813,6 +13717,10 @@ const DADOS_IG = {
      "data": "2023-08-31T14:38:16+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 43,
+     "views": 0,
      "link": "https://www.instagram.com/p/CwnNN9hOvAR/"
     },
     {
@@ -9823,6 +13731,10 @@ const DADOS_IG = {
      "data": "2023-08-21T19:07:48+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": 4,
+     "compartilhamentos": 0,
+     "alcance": 48,
+     "views": 0,
      "link": "https://www.instagram.com/p/CwN8HRJuHyT/"
     },
     {
@@ -9833,6 +13745,10 @@ const DADOS_IG = {
      "data": "2023-08-08T17:13:24+0000",
      "curtidas": 40,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 86,
+     "views": 1139,
      "link": "https://www.instagram.com/reel/CvsQKIztka3/"
     },
     {
@@ -9843,6 +13759,10 @@ const DADOS_IG = {
      "data": "2023-07-26T15:11:04+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 70,
+     "views": 0,
      "link": "https://www.instagram.com/p/CvKkWrELAZ9/"
     },
     {
@@ -9853,6 +13773,10 @@ const DADOS_IG = {
      "data": "2023-07-26T15:08:22+0000",
      "curtidas": 8,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 86,
+     "views": 0,
      "link": "https://www.instagram.com/p/CvKkC3zr5WJ/"
     },
     {
@@ -9863,6 +13787,10 @@ const DADOS_IG = {
      "data": "2023-07-26T15:06:29+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 101,
+     "views": 0,
      "link": "https://www.instagram.com/p/CvKj1GArgxK/"
     },
     {
@@ -9873,6 +13801,10 @@ const DADOS_IG = {
      "data": "2023-07-26T15:03:02+0000",
      "curtidas": 13,
      "comentarios": 2,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 144,
+     "views": 0,
      "link": "https://www.instagram.com/p/CvKjb0JL5Nk/"
     },
     {
@@ -9883,6 +13815,10 @@ const DADOS_IG = {
      "data": "2023-07-26T14:59:36+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 116,
+     "views": 0,
      "link": "https://www.instagram.com/p/CvKjCrJrsF_/"
     },
     {
@@ -9893,6 +13829,10 @@ const DADOS_IG = {
      "data": "2023-07-26T14:57:25+0000",
      "curtidas": 7,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 110,
+     "views": 0,
      "link": "https://www.instagram.com/p/CvKiyoPLitq/"
     },
     {
@@ -9903,6 +13843,10 @@ const DADOS_IG = {
      "data": "2023-06-07T11:55:57+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 78,
+     "views": 0,
      "link": "https://www.instagram.com/p/CtMDEuduAU6/"
     },
     {
@@ -9913,6 +13857,10 @@ const DADOS_IG = {
      "data": "2023-06-07T11:53:02+0000",
      "curtidas": 14,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 87,
+     "views": 0,
      "link": "https://www.instagram.com/p/CtMCvW_uWNt/"
     },
     {
@@ -9923,6 +13871,10 @@ const DADOS_IG = {
      "data": "2023-05-26T20:01:52+0000",
      "curtidas": 13,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 87,
+     "views": 762,
      "link": "https://www.instagram.com/reel/CsuAO0bts0d/"
     },
     {
@@ -9933,6 +13885,10 @@ const DADOS_IG = {
      "data": "2023-05-18T12:59:39+0000",
      "curtidas": 13,
      "comentarios": 1,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 77,
+     "views": 0,
      "link": "https://www.instagram.com/p/CsYqduYu_YH/"
     },
     {
@@ -9943,6 +13899,10 @@ const DADOS_IG = {
      "data": "2023-05-18T12:26:30+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 87,
+     "views": 0,
      "link": "https://www.instagram.com/p/CsYmrBIOoUM/"
     },
     {
@@ -9953,6 +13913,10 @@ const DADOS_IG = {
      "data": "2023-05-05T20:03:57+0000",
      "curtidas": 16,
      "comentarios": 2,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 98,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cr38r_vuQ1V/"
     },
     {
@@ -9963,6 +13927,10 @@ const DADOS_IG = {
      "data": "2023-05-05T19:47:10+0000",
      "curtidas": 11,
      "comentarios": 5,
+     "salvos": 3,
+     "compartilhamentos": 1,
+     "alcance": 118,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cr36xFFuCCd/"
     },
     {
@@ -9973,6 +13941,10 @@ const DADOS_IG = {
      "data": "2023-04-24T20:06:50+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 9,
+     "views": 238,
      "link": "https://www.instagram.com/reel/CrboMdmAaiS/"
     },
     {
@@ -9983,6 +13955,10 @@ const DADOS_IG = {
      "data": "2023-04-24T13:29:31+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 7,
+     "views": 426,
      "link": "https://www.instagram.com/reel/Cra6wp2JN1X/"
     },
     {
@@ -9993,6 +13969,10 @@ const DADOS_IG = {
      "data": "2023-03-28T12:58:10+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 8,
+     "views": 454,
      "link": "https://www.instagram.com/reel/CqVVtWsOCLi/"
     },
     {
@@ -10003,6 +13983,10 @@ const DADOS_IG = {
      "data": "2023-03-28T12:46:59+0000",
      "curtidas": 18,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 6,
+     "views": 604,
      "link": "https://www.instagram.com/reel/CqVUb6SsDKV/"
     },
     {
@@ -10013,6 +13997,10 @@ const DADOS_IG = {
      "data": "2023-03-15T12:18:52+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 59,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cpzy7GWuzsP/"
     },
     {
@@ -10023,6 +14011,10 @@ const DADOS_IG = {
      "data": "2023-03-06T12:25:51+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 6,
+     "views": 442,
      "link": "https://www.instagram.com/reel/CpcoW-cj6Zs/"
     },
     {
@@ -10033,6 +14025,10 @@ const DADOS_IG = {
      "data": "2023-03-03T12:19:21+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 6,
+     "views": 394,
      "link": "https://www.instagram.com/reel/CpU5ZXdpXVK/"
     },
     {
@@ -10043,6 +14039,10 @@ const DADOS_IG = {
      "data": "2023-03-03T12:09:51+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 6,
+     "views": 684,
      "link": "https://www.instagram.com/reel/CpU4PzqsWXa/"
     },
     {
@@ -10053,6 +14053,10 @@ const DADOS_IG = {
      "data": "2023-02-02T12:53:35+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 43,
+     "views": 0,
      "link": "https://www.instagram.com/p/CoKSTfKukkm/"
     },
     {
@@ -10063,6 +14067,10 @@ const DADOS_IG = {
      "data": "2023-01-24T11:18:53+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 42,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cny8T9HuGaq/"
     },
     {
@@ -10073,6 +14081,10 @@ const DADOS_IG = {
      "data": "2023-01-18T12:00:49+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 40,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnjkV5Hu9i5/"
     },
     {
@@ -10083,6 +14095,10 @@ const DADOS_IG = {
      "data": "2023-01-12T13:44:03+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 38,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnUTYrpuOlL/"
     },
     {
@@ -10093,6 +14109,10 @@ const DADOS_IG = {
      "data": "2023-01-12T13:43:32+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 44,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnUTU80OHt7/"
     },
     {
@@ -10103,6 +14123,10 @@ const DADOS_IG = {
      "data": "2023-01-12T13:42:54+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 44,
+     "views": 0,
      "link": "https://www.instagram.com/p/CnUTQTcOTqJ/"
     },
     {
@@ -10113,6 +14137,10 @@ const DADOS_IG = {
      "data": "2023-01-09T12:06:35+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 5,
+     "views": 289,
      "link": "https://www.instagram.com/reel/CnMZljMMlA6/"
     },
     {
@@ -10123,6 +14151,10 @@ const DADOS_IG = {
      "data": "2023-01-03T19:32:19+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 7,
+     "views": 411,
      "link": "https://www.instagram.com/reel/Cm9v-LHDC82/"
     },
     {
@@ -10133,6 +14165,10 @@ const DADOS_IG = {
      "data": "2023-01-03T14:04:45+0000",
      "curtidas": 9,
      "comentarios": 3,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 44,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cm9KmbiuyXx/"
     },
     {
@@ -10143,6 +14179,10 @@ const DADOS_IG = {
      "data": "2023-01-03T13:05:45+0000",
      "curtidas": 8,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 56,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cm9D2X0uH56/"
     },
     {
@@ -10153,6 +14193,10 @@ const DADOS_IG = {
      "data": "2023-01-02T14:53:24+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 60,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cm6rX3lOFPI/"
     },
     {
@@ -10163,6 +14207,10 @@ const DADOS_IG = {
      "data": "2022-12-31T22:57:31+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 7,
+     "views": 333,
      "link": "https://www.instagram.com/reel/Cm2Y-MJrCfH/"
     },
     {
@@ -10173,6 +14221,10 @@ const DADOS_IG = {
      "data": "2022-12-24T21:33:46+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 6,
+     "views": 478,
      "link": "https://www.instagram.com/reel/CmkN5PXAaiL/"
     },
     {
@@ -10183,6 +14235,10 @@ const DADOS_IG = {
      "data": "2022-12-22T12:52:40+0000",
      "curtidas": 22,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 61,
+     "views": 0,
      "link": "https://www.instagram.com/p/CmeI0Crumhw/"
     },
     {
@@ -10193,6 +14249,10 @@ const DADOS_IG = {
      "data": "2022-11-29T17:16:21+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 58,
+     "views": 0,
      "link": "https://www.instagram.com/p/CljYtJ4OjBN/"
     },
     {
@@ -10203,6 +14263,10 @@ const DADOS_IG = {
      "data": "2022-11-18T13:26:14+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 51,
+     "views": 0,
      "link": "https://www.instagram.com/p/ClGpoESOROt/"
     },
     {
@@ -10213,6 +14277,10 @@ const DADOS_IG = {
      "data": "2022-11-14T23:27:25+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 48,
+     "views": 0,
      "link": "https://www.instagram.com/p/Ck9bPv4OvB5/"
     },
     {
@@ -10223,6 +14291,10 @@ const DADOS_IG = {
      "data": "2022-11-14T23:26:42+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 48,
+     "views": 0,
      "link": "https://www.instagram.com/p/Ck9bKhYuxLv/"
     },
     {
@@ -10233,6 +14305,10 @@ const DADOS_IG = {
      "data": "2022-11-14T23:26:10+0000",
      "curtidas": 11,
      "comentarios": 4,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 61,
+     "views": 0,
      "link": "https://www.instagram.com/p/Ck9bGpeuhjT/"
     },
     {
@@ -10243,6 +14319,10 @@ const DADOS_IG = {
      "data": "2022-11-14T11:55:34+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 79,
+     "views": 0,
      "link": "https://www.instagram.com/p/Ck8MEegO04h/"
     },
     {
@@ -10253,6 +14333,10 @@ const DADOS_IG = {
      "data": "2022-11-11T21:03:32+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 73,
+     "views": 0,
      "link": "https://www.instagram.com/p/Ck1cZWnuyWV/"
     },
     {
@@ -10263,6 +14347,10 @@ const DADOS_IG = {
      "data": "2022-11-10T23:11:54+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 6,
+     "views": 276,
      "link": "https://www.instagram.com/reel/CkzGFawOF45/"
     },
     {
@@ -10273,6 +14361,10 @@ const DADOS_IG = {
      "data": "2022-11-10T23:07:07+0000",
      "curtidas": 8,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 73,
+     "views": 0,
      "link": "https://www.instagram.com/p/CkzFvl7OGSB/"
     },
     {
@@ -10283,6 +14375,10 @@ const DADOS_IG = {
      "data": "2022-11-10T20:14:53+0000",
      "curtidas": 22,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 81,
+     "views": 1076,
      "link": "https://www.instagram.com/reel/Ckyx-bVLQR3/"
     },
     {
@@ -10293,6 +14389,10 @@ const DADOS_IG = {
      "data": "2022-10-29T11:44:33+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 50,
+     "views": 0,
      "link": "https://www.instagram.com/p/CkS-F3vu4Dv/"
     },
     {
@@ -10303,6 +14403,10 @@ const DADOS_IG = {
      "data": "2022-10-07T19:59:08+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 7,
+     "views": 391,
      "link": "https://www.instagram.com/reel/CjbNGq8umrY/"
     },
     {
@@ -10313,6 +14417,10 @@ const DADOS_IG = {
      "data": "2022-10-06T17:10:58+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 49,
+     "views": 0,
      "link": "https://www.instagram.com/p/CjYVKaSud_2/"
     },
     {
@@ -10323,6 +14431,10 @@ const DADOS_IG = {
      "data": "2022-10-03T21:00:03+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 5,
+     "views": 533,
      "link": "https://www.instagram.com/reel/CjQ_ryHPNp1/"
     },
     {
@@ -10333,6 +14445,10 @@ const DADOS_IG = {
      "data": "2022-09-30T20:07:46+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 6,
+     "views": 373,
      "link": "https://www.instagram.com/reel/CjJMjlLN_tp/"
     },
     {
@@ -10343,6 +14459,10 @@ const DADOS_IG = {
      "data": "2022-09-29T12:46:13+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 54,
+     "views": 0,
      "link": "https://www.instagram.com/p/CjF1TO6O0QO/"
     },
     {
@@ -10353,6 +14473,10 @@ const DADOS_IG = {
      "data": "2022-09-22T11:27:40+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 56,
+     "views": 0,
      "link": "https://www.instagram.com/p/CizqvxVuaHR/"
     },
     {
@@ -10363,6 +14487,10 @@ const DADOS_IG = {
      "data": "2022-09-16T11:38:56+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 6,
+     "views": 316,
      "link": "https://www.instagram.com/reel/CikPKzusKjq/"
     },
     {
@@ -10373,6 +14501,10 @@ const DADOS_IG = {
      "data": "2022-09-12T19:35:28+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 53,
+     "views": 0,
      "link": "https://www.instagram.com/p/Ciayn3MOWXD/"
     },
     {
@@ -10383,6 +14515,10 @@ const DADOS_IG = {
      "data": "2022-09-05T19:14:54+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 49,
+     "views": 0,
      "link": "https://www.instagram.com/p/CiIutFZOsqO/"
     },
     {
@@ -10393,6 +14529,10 @@ const DADOS_IG = {
      "data": "2022-09-05T19:13:32+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 61,
+     "views": 0,
      "link": "https://www.instagram.com/p/CiIujEAuY2o/"
     },
     {
@@ -10403,6 +14543,10 @@ const DADOS_IG = {
      "data": "2022-08-22T14:29:00+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 55,
+     "views": 0,
      "link": "https://www.instagram.com/p/ChkK21yOs2G/"
     },
     {
@@ -10413,6 +14557,10 @@ const DADOS_IG = {
      "data": "2022-08-19T13:15:10+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 56,
+     "views": 0,
      "link": "https://www.instagram.com/p/ChcUBZlOPzd/"
     },
     {
@@ -10423,6 +14571,10 @@ const DADOS_IG = {
      "data": "2022-08-16T13:18:07+0000",
      "curtidas": 27,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 6,
+     "views": 826,
      "link": "https://www.instagram.com/reel/ChUlw0_sKKR/"
     },
     {
@@ -10433,6 +14585,10 @@ const DADOS_IG = {
      "data": "2022-08-15T12:15:58+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 54,
+     "views": 650,
      "link": "https://www.instagram.com/reel/ChR5-c0pVMx/"
     },
     {
@@ -10443,6 +14599,10 @@ const DADOS_IG = {
      "data": "2022-08-11T11:36:27+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 43,
+     "views": 0,
      "link": "https://www.instagram.com/p/ChHiXWwuYuZ/"
     },
     {
@@ -10453,6 +14613,10 @@ const DADOS_IG = {
      "data": "2022-08-04T17:27:06+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 45,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cg2I7cpOaYi/"
     },
     {
@@ -10463,6 +14627,10 @@ const DADOS_IG = {
      "data": "2022-08-03T15:04:15+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 44,
+     "views": 0,
      "link": "https://www.instagram.com/p/CgzTyVOOu2b/"
     },
     {
@@ -10473,6 +14641,10 @@ const DADOS_IG = {
      "data": "2022-08-03T14:51:28+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 49,
+     "views": 0,
      "link": "https://www.instagram.com/p/CgzSUshu-EZ/"
     },
     {
@@ -10483,6 +14655,10 @@ const DADOS_IG = {
      "data": "2022-08-01T12:39:00+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 36,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cgt5kzqOOqY/"
     },
     {
@@ -10493,6 +14669,10 @@ const DADOS_IG = {
      "data": "2022-08-01T12:37:37+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 30,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cgt5arPOm4Y/"
     },
     {
@@ -10503,6 +14683,10 @@ const DADOS_IG = {
      "data": "2022-08-01T12:32:46+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 33,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cgt43HAukS4/"
     },
     {
@@ -10513,6 +14697,10 @@ const DADOS_IG = {
      "data": "2022-08-01T12:27:29+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 6,
+     "views": 298,
      "link": "https://www.instagram.com/reel/Cgt4MAkJx6I/"
     },
     {
@@ -10523,6 +14711,10 @@ const DADOS_IG = {
      "data": "2022-08-01T12:25:35+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 8,
+     "views": 370,
      "link": "https://www.instagram.com/reel/Cgt4A99uGIa/"
     },
     {
@@ -10533,6 +14725,10 @@ const DADOS_IG = {
      "data": "2022-07-28T18:05:00+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 48,
+     "views": 0,
      "link": "https://www.instagram.com/p/CgkLs60uz5m/"
     },
     {
@@ -10543,6 +14739,10 @@ const DADOS_IG = {
      "data": "2022-07-28T17:53:49+0000",
      "curtidas": 12,
      "comentarios": 3,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 64,
+     "views": 0,
      "link": "https://www.instagram.com/p/CgkKbA_uNJh/"
     },
     {
@@ -10553,6 +14753,10 @@ const DADOS_IG = {
      "data": "2022-07-27T12:22:57+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 66,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cgg_w5FuLIE/"
     },
     {
@@ -10563,6 +14767,10 @@ const DADOS_IG = {
      "data": "2022-07-13T11:36:14+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 6,
+     "compartilhamentos": 0,
+     "alcance": 84,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cf83Sb5u_wE/"
     },
     {
@@ -10573,6 +14781,10 @@ const DADOS_IG = {
      "data": "2022-07-13T11:24:54+0000",
      "curtidas": 13,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 82,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cf81_eIuau9/"
     },
     {
@@ -10583,6 +14795,10 @@ const DADOS_IG = {
      "data": "2022-07-07T11:41:44+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 61,
+     "views": 0,
      "link": "https://www.instagram.com/p/CftbJcturmo/"
     },
     {
@@ -10593,6 +14809,10 @@ const DADOS_IG = {
      "data": "2022-06-22T12:08:26+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 54,
+     "views": 0,
      "link": "https://www.instagram.com/p/CfG2R6iOhuz/"
     },
     {
@@ -10603,6 +14823,10 @@ const DADOS_IG = {
      "data": "2022-06-22T12:01:03+0000",
      "curtidas": 7,
      "comentarios": 5,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 46,
+     "views": 0,
      "link": "https://www.instagram.com/p/CfG1bxquut5/"
     },
     {
@@ -10613,6 +14837,10 @@ const DADOS_IG = {
      "data": "2022-06-22T11:51:22+0000",
      "curtidas": 5,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 43,
+     "views": 0,
      "link": "https://www.instagram.com/p/CfG0U2euQt_/"
     },
     {
@@ -10623,6 +14851,10 @@ const DADOS_IG = {
      "data": "2022-05-23T13:39:36+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 42,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cd5w3VWONvo/"
     },
     {
@@ -10633,6 +14865,10 @@ const DADOS_IG = {
      "data": "2022-05-23T13:38:42+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 40,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cd5wwxnOyn_/"
     },
     {
@@ -10643,6 +14879,10 @@ const DADOS_IG = {
      "data": "2022-05-18T18:44:38+0000",
      "curtidas": 22,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 56,
+     "views": 0,
      "link": "https://www.instagram.com/p/CdtbzLWOUfY/"
     },
     {
@@ -10653,6 +14893,10 @@ const DADOS_IG = {
      "data": "2022-04-27T20:31:30+0000",
      "curtidas": 8,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 61,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cc3jVcBuelw/"
     },
     {
@@ -10663,6 +14907,10 @@ const DADOS_IG = {
      "data": "2022-04-27T19:55:44+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 46,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cc3fPhIOzc3/"
     },
     {
@@ -10673,6 +14921,10 @@ const DADOS_IG = {
      "data": "2022-04-27T19:52:45+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 43,
+     "views": 0,
      "link": "https://www.instagram.com/p/Cc3e5o4OBGD/"
     },
     {
@@ -10683,6 +14935,10 @@ const DADOS_IG = {
      "data": "2022-04-21T16:16:28+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 35,
+     "views": 0,
      "link": "https://www.instagram.com/p/CcnpYPGOPNl/"
     },
     {
@@ -10693,6 +14949,10 @@ const DADOS_IG = {
      "data": "2022-04-21T16:15:21+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 31,
+     "views": 0,
      "link": "https://www.instagram.com/p/CcnpQFZOEkL/"
     },
     {
@@ -10703,6 +14963,10 @@ const DADOS_IG = {
      "data": "2022-04-21T16:14:17+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 38,
+     "views": 0,
      "link": "https://www.instagram.com/p/CcnpIUcOV9_/"
     },
     {
@@ -10713,6 +14977,10 @@ const DADOS_IG = {
      "data": "2022-04-02T11:47:02+0000",
      "curtidas": 60,
      "comentarios": 7,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 38,
+     "views": 1311,
      "link": "https://www.instagram.com/reel/Cb2OOeyMsst/"
     },
     {
@@ -10723,6 +14991,10 @@ const DADOS_IG = {
      "data": "2022-03-08T12:35:50+0000",
      "curtidas": 79,
      "comentarios": 5,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 42,
+     "views": 3398,
      "link": "https://www.instagram.com/reel/Ca185sdPkHc/"
     },
     {
@@ -10733,6 +15005,10 @@ const DADOS_IG = {
      "data": "2022-03-05T20:43:20+0000",
      "curtidas": 37,
      "comentarios": 3,
+     "salvos": 7,
+     "compartilhamentos": 0,
+     "alcance": 30,
+     "views": 0,
      "link": "https://www.instagram.com/p/CavGjvUuWSy/"
     },
     {
@@ -10743,6 +15019,10 @@ const DADOS_IG = {
      "data": "2022-03-04T21:33:13+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CasneTCOk4B/"
     },
     {
@@ -10753,6 +15033,10 @@ const DADOS_IG = {
      "data": "2022-03-03T19:53:11+0000",
      "curtidas": 37,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/Cap15_BsMUZ/"
     },
     {
@@ -10763,6 +15047,10 @@ const DADOS_IG = {
      "data": "2022-03-03T19:37:32+0000",
      "curtidas": 59,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/Capzg5JjTl4/"
     },
     {
@@ -10773,6 +15061,10 @@ const DADOS_IG = {
      "data": "2022-02-22T14:05:11+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CaSEP8euxun/"
     },
     {
@@ -10783,6 +15075,10 @@ const DADOS_IG = {
      "data": "2022-02-22T14:00:32+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CaSDt75OWXP/"
     },
     {
@@ -10793,6 +15089,10 @@ const DADOS_IG = {
      "data": "2022-02-22T13:57:56+0000",
      "curtidas": 8,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CaSDa40O6Lb/"
     },
     {
@@ -10803,6 +15103,10 @@ const DADOS_IG = {
      "data": "2022-02-04T12:59:03+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZjmX7Ou8gr/"
     },
     {
@@ -10813,6 +15117,10 @@ const DADOS_IG = {
      "data": "2022-02-04T12:56:09+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZjmCldOQAh/"
     },
     {
@@ -10823,6 +15131,10 @@ const DADOS_IG = {
      "data": "2022-02-04T12:52:28+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZjlnsUOa0o/"
     },
     {
@@ -10833,6 +15145,10 @@ const DADOS_IG = {
      "data": "2022-01-28T14:08:03+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZRstIAugf0/"
     },
     {
@@ -10843,6 +15159,10 @@ const DADOS_IG = {
      "data": "2022-01-28T14:07:29+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZRso7wOm9U/"
     },
     {
@@ -10853,6 +15173,10 @@ const DADOS_IG = {
      "data": "2022-01-28T14:06:47+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZRsj5DOu7R/"
     },
     {
@@ -10863,6 +15187,10 @@ const DADOS_IG = {
      "data": "2022-01-27T13:08:13+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZPBD_5uYUk/"
     },
     {
@@ -10873,6 +15201,10 @@ const DADOS_IG = {
      "data": "2022-01-27T13:07:32+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZPA--BuQ8g/"
     },
     {
@@ -10883,6 +15215,10 @@ const DADOS_IG = {
      "data": "2022-01-27T13:06:26+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZPA28ROeZ2/"
     },
     {
@@ -10893,6 +15229,10 @@ const DADOS_IG = {
      "data": "2022-01-24T12:59:47+0000",
      "curtidas": 10,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZHRtkaODl3/"
     },
     {
@@ -10903,6 +15243,10 @@ const DADOS_IG = {
      "data": "2022-01-24T12:59:08+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZHRoz9OYmz/"
     },
     {
@@ -10913,6 +15257,10 @@ const DADOS_IG = {
      "data": "2022-01-24T12:51:31+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CZHQxBzOfol/"
     },
     {
@@ -10923,6 +15271,10 @@ const DADOS_IG = {
      "data": "2022-01-19T18:42:40+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY7A-jLOOm5/"
     },
     {
@@ -10933,6 +15285,10 @@ const DADOS_IG = {
      "data": "2022-01-19T18:33:55+0000",
      "curtidas": 4,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY6_-fsuyG-/"
     },
     {
@@ -10943,6 +15299,10 @@ const DADOS_IG = {
      "data": "2022-01-19T18:28:33+0000",
      "curtidas": 12,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY6_XJ7uz2m/"
     },
     {
@@ -10953,6 +15313,10 @@ const DADOS_IG = {
      "data": "2022-01-18T12:20:19+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY3wbUFOAG5/"
     },
     {
@@ -10963,6 +15327,10 @@ const DADOS_IG = {
      "data": "2022-01-18T12:16:19+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY3v9-4Oq-h/"
     },
     {
@@ -10973,6 +15341,10 @@ const DADOS_IG = {
      "data": "2022-01-18T12:13:53+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY3vsLXuDj9/"
     },
     {
@@ -10983,6 +15355,10 @@ const DADOS_IG = {
      "data": "2022-01-17T14:04:01+0000",
      "curtidas": 13,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY1Xf-rOTRS/"
     },
     {
@@ -10993,6 +15369,10 @@ const DADOS_IG = {
      "data": "2022-01-17T13:32:31+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY1T5QSuO13/"
     },
     {
@@ -11003,6 +15383,10 @@ const DADOS_IG = {
      "data": "2022-01-17T13:22:25+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY1SvRHO1e6/"
     },
     {
@@ -11013,6 +15397,10 @@ const DADOS_IG = {
      "data": "2022-01-17T13:05:20+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY1QyKJue14/"
     },
     {
@@ -11023,6 +15411,10 @@ const DADOS_IG = {
      "data": "2022-01-17T13:03:02+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CY1QhW2OvGb/"
     },
     {
@@ -11033,6 +15425,10 @@ const DADOS_IG = {
      "data": "2021-12-10T12:42:16+0000",
      "curtidas": 40,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CXTX75ouOim/"
     },
     {
@@ -11043,6 +15439,10 @@ const DADOS_IG = {
      "data": "2021-11-23T20:54:17+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CWoeuv1PzoN/"
     },
     {
@@ -11053,6 +15453,10 @@ const DADOS_IG = {
      "data": "2021-11-23T20:38:38+0000",
      "curtidas": 11,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CWoc8F0P5EE/"
     },
     {
@@ -11063,6 +15467,10 @@ const DADOS_IG = {
      "data": "2021-11-23T20:35:37+0000",
      "curtidas": 15,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CWocl8cveuL/"
     },
     {
@@ -11073,6 +15481,10 @@ const DADOS_IG = {
      "data": "2021-06-14T12:56:04+0000",
      "curtidas": 47,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CQGfOaKNcSQ/"
     },
     {
@@ -11083,6 +15495,10 @@ const DADOS_IG = {
      "data": "2021-06-12T15:13:44+0000",
      "curtidas": 26,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CQBlRx6niiP/"
     },
     {
@@ -11093,6 +15509,10 @@ const DADOS_IG = {
      "data": "2021-05-29T12:15:09+0000",
      "curtidas": 28,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CPdNu08HaQ5/"
     },
     {
@@ -11103,6 +15523,10 @@ const DADOS_IG = {
      "data": "2021-04-20T17:25:38+0000",
      "curtidas": 111,
      "comentarios": 14,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/reel/CN5WSpmp83D/"
     },
     {
@@ -11113,6 +15537,10 @@ const DADOS_IG = {
      "data": "2021-01-14T19:48:54+0000",
      "curtidas": 105,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CKCab9SpfuN/"
     },
     {
@@ -11123,6 +15551,10 @@ const DADOS_IG = {
      "data": "2020-12-25T01:16:57+0000",
      "curtidas": 57,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/CJM7OYSpxvF/"
     },
     {
@@ -11133,6 +15565,10 @@ const DADOS_IG = {
      "data": "2020-12-24T00:31:19+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJKRRIxpAdy/"
     },
     {
@@ -11143,6 +15579,10 @@ const DADOS_IG = {
      "data": "2020-12-24T00:28:36+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJKQ9Utp_zZ/"
     },
     {
@@ -11153,6 +15593,10 @@ const DADOS_IG = {
      "data": "2020-12-24T00:26:30+0000",
      "curtidas": 20,
      "comentarios": 8,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CJKQt5Vpe90/"
     },
     {
@@ -11163,6 +15607,10 @@ const DADOS_IG = {
      "data": "2020-09-17T12:31:51+0000",
      "curtidas": 15,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFPN0uoJItu/"
     },
     {
@@ -11173,6 +15621,10 @@ const DADOS_IG = {
      "data": "2020-09-17T12:29:24+0000",
      "curtidas": 15,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFPNi0IpWDD/"
     },
     {
@@ -11183,6 +15635,10 @@ const DADOS_IG = {
      "data": "2020-09-17T12:28:18+0000",
      "curtidas": 14,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFPNawopTV_/"
     },
     {
@@ -11193,6 +15649,10 @@ const DADOS_IG = {
      "data": "2020-09-14T17:44:38+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFIDPG8JF4U/"
     },
     {
@@ -11203,6 +15663,10 @@ const DADOS_IG = {
      "data": "2020-09-14T17:42:49+0000",
      "curtidas": 15,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFIDBs6JU9q/"
     },
     {
@@ -11213,6 +15677,10 @@ const DADOS_IG = {
      "data": "2020-09-14T17:37:56+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFICeAbp7IN/"
     },
     {
@@ -11223,6 +15691,10 @@ const DADOS_IG = {
      "data": "2020-09-14T17:28:19+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFIBXlOJMwX/"
     },
     {
@@ -11233,6 +15705,10 @@ const DADOS_IG = {
      "data": "2020-09-14T17:02:08+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFH-XvfJXsa/"
     },
     {
@@ -11243,6 +15719,10 @@ const DADOS_IG = {
      "data": "2020-09-14T16:49:42+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CFH88s4p50c/"
     },
     {
@@ -11253,6 +15733,10 @@ const DADOS_IG = {
      "data": "2020-09-01T14:32:02+0000",
      "curtidas": 27,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEmO3E_Jy8p/"
     },
     {
@@ -11263,6 +15747,10 @@ const DADOS_IG = {
      "data": "2020-09-01T14:25:29+0000",
      "curtidas": 16,
      "comentarios": 10,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEmOHASpsoB/"
     },
     {
@@ -11273,6 +15761,10 @@ const DADOS_IG = {
      "data": "2020-09-01T13:05:55+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEmFAUcpBUa/"
     },
     {
@@ -11283,6 +15775,10 @@ const DADOS_IG = {
      "data": "2020-09-01T12:30:22+0000",
      "curtidas": 23,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEmA73EpaXI/"
     },
     {
@@ -11293,6 +15789,10 @@ const DADOS_IG = {
      "data": "2020-09-01T12:30:09+0000",
      "curtidas": 63,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEmA6WepOCT/"
     },
     {
@@ -11303,6 +15803,10 @@ const DADOS_IG = {
      "data": "2020-09-01T12:29:46+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEmA3hypwei/"
     },
     {
@@ -11313,6 +15817,10 @@ const DADOS_IG = {
      "data": "2020-08-31T07:06:03+0000",
      "curtidas": 25,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEi3BtwJqUQ/"
     },
     {
@@ -11323,6 +15831,10 @@ const DADOS_IG = {
      "data": "2020-08-31T06:57:10+0000",
      "curtidas": 24,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEi2An-pXCR/"
     },
     {
@@ -11333,6 +15845,10 @@ const DADOS_IG = {
      "data": "2020-08-31T06:48:55+0000",
      "curtidas": 31,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEi1ENjpa19/"
     },
     {
@@ -11343,6 +15859,10 @@ const DADOS_IG = {
      "data": "2020-08-31T06:19:39+0000",
      "curtidas": 26,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEixt2xpmV6/"
     },
     {
@@ -11353,6 +15873,10 @@ const DADOS_IG = {
      "data": "2020-08-31T06:17:04+0000",
      "curtidas": 24,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEixa28p-x6/"
     },
     {
@@ -11363,6 +15887,10 @@ const DADOS_IG = {
      "data": "2020-08-31T06:04:30+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CEiv-5qpo59/"
     },
     {
@@ -11373,6 +15901,10 @@ const DADOS_IG = {
      "data": "2020-08-14T14:55:04+0000",
      "curtidas": 28,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CD37L7ep2fe/"
     },
     {
@@ -11383,6 +15915,10 @@ const DADOS_IG = {
      "data": "2020-08-14T14:55:00+0000",
      "curtidas": 30,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CD37LfzJ9Zd/"
     },
     {
@@ -11393,6 +15929,10 @@ const DADOS_IG = {
      "data": "2020-08-14T14:54:40+0000",
      "curtidas": 29,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CD37JCJJWOv/"
     },
     {
@@ -11403,6 +15943,10 @@ const DADOS_IG = {
      "data": "2020-08-05T23:04:45+0000",
      "curtidas": 39,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDhoEmNJQGC/"
     },
     {
@@ -11413,6 +15957,10 @@ const DADOS_IG = {
      "data": "2020-08-05T22:58:34+0000",
      "curtidas": 33,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDhnXWzpew8/"
     },
     {
@@ -11423,6 +15971,10 @@ const DADOS_IG = {
      "data": "2020-08-05T22:47:06+0000",
      "curtidas": 42,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDhmDVCp3AT/"
     },
     {
@@ -11433,6 +15985,10 @@ const DADOS_IG = {
      "data": "2020-08-04T22:59:11+0000",
      "curtidas": 20,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDfCpCRJAQF/"
     },
     {
@@ -11443,6 +15999,10 @@ const DADOS_IG = {
      "data": "2020-08-04T22:55:50+0000",
      "curtidas": 28,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDfCQa7peEw/"
     },
     {
@@ -11453,6 +16013,10 @@ const DADOS_IG = {
      "data": "2020-08-04T22:53:00+0000",
      "curtidas": 28,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDfB7w-Juu7/"
     },
     {
@@ -11463,6 +16027,10 @@ const DADOS_IG = {
      "data": "2020-08-04T01:51:34+0000",
      "curtidas": 24,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDcxiagpHlG/"
     },
     {
@@ -11473,6 +16041,10 @@ const DADOS_IG = {
      "data": "2020-08-04T01:50:24+0000",
      "curtidas": 30,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDcxcItpTSQ/"
     },
     {
@@ -11483,6 +16055,10 @@ const DADOS_IG = {
      "data": "2020-08-04T01:37:52+0000",
      "curtidas": 35,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDcrJVUpftz/"
     },
     {
@@ -11493,6 +16069,10 @@ const DADOS_IG = {
      "data": "2020-07-31T01:01:52+0000",
      "curtidas": 22,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDSYtPWphfY/"
     },
     {
@@ -11503,6 +16083,10 @@ const DADOS_IG = {
      "data": "2020-07-31T00:36:18+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDSVx8TJxf_/"
     },
     {
@@ -11513,6 +16097,10 @@ const DADOS_IG = {
      "data": "2020-07-30T22:29:23+0000",
      "curtidas": 31,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDSHQa-JYiA/"
     },
     {
@@ -11523,6 +16111,10 @@ const DADOS_IG = {
      "data": "2020-07-28T23:59:06+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDNH7Kapg7D/"
     },
     {
@@ -11533,6 +16125,10 @@ const DADOS_IG = {
      "data": "2020-07-28T23:54:57+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDNHXBvJTWM/"
     },
     {
@@ -11543,6 +16139,10 @@ const DADOS_IG = {
      "data": "2020-07-28T23:52:18+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDNHG_eJ51I/"
     },
     {
@@ -11553,6 +16153,10 @@ const DADOS_IG = {
      "data": "2020-07-24T18:36:27+0000",
      "curtidas": 24,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/CDCPvR-pH48/"
     },
     {
@@ -11563,6 +16167,10 @@ const DADOS_IG = {
      "data": "2020-07-24T18:22:48+0000",
      "curtidas": 22,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/CDCOI35J4BM/"
     },
     {
@@ -11573,6 +16181,10 @@ const DADOS_IG = {
      "data": "2020-07-24T18:17:10+0000",
      "curtidas": 20,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CDCNinzpLvc/"
     },
     {
@@ -11583,6 +16195,10 @@ const DADOS_IG = {
      "data": "2020-07-23T20:49:54+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CC_6PxrJYjR/"
     },
     {
@@ -11593,6 +16209,10 @@ const DADOS_IG = {
      "data": "2020-07-23T20:44:36+0000",
      "curtidas": 29,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CC_5sxsJv_U/"
     },
     {
@@ -11603,6 +16223,10 @@ const DADOS_IG = {
      "data": "2020-07-23T20:35:25+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CC_4mgBpZ-w/"
     },
     {
@@ -11613,6 +16237,10 @@ const DADOS_IG = {
      "data": "2020-07-20T22:28:54+0000",
      "curtidas": 35,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CC4XQGqpSmx/"
     },
     {
@@ -11623,6 +16251,10 @@ const DADOS_IG = {
      "data": "2020-07-20T22:28:44+0000",
      "curtidas": 27,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CC4XO1uJFhl/"
     },
     {
@@ -11633,6 +16265,10 @@ const DADOS_IG = {
      "data": "2020-07-20T22:28:16+0000",
      "curtidas": 28,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CC4XLZ6pgTM/"
     },
     {
@@ -11643,6 +16279,10 @@ const DADOS_IG = {
      "data": "2020-07-16T12:47:48+0000",
      "curtidas": 51,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCtBkiWJhQV/"
     },
     {
@@ -11653,6 +16293,10 @@ const DADOS_IG = {
      "data": "2020-07-16T12:39:28+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/CCs_tM_pOx5/"
     },
     {
@@ -11663,6 +16307,10 @@ const DADOS_IG = {
      "data": "2020-07-16T12:30:05+0000",
      "curtidas": 23,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCs_is1pEzt/"
     },
     {
@@ -11673,6 +16321,10 @@ const DADOS_IG = {
      "data": "2020-07-11T16:44:12+0000",
      "curtidas": 27,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCgkpgXpBen/"
     },
     {
@@ -11683,6 +16335,10 @@ const DADOS_IG = {
      "data": "2020-07-11T16:43:03+0000",
      "curtidas": 40,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCgkeUIp159/"
     },
     {
@@ -11693,6 +16349,10 @@ const DADOS_IG = {
      "data": "2020-07-11T16:41:46+0000",
      "curtidas": 29,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCgkXyOJCif/"
     },
     {
@@ -11703,6 +16363,10 @@ const DADOS_IG = {
      "data": "2020-07-09T23:04:25+0000",
      "curtidas": 25,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCcGkk3JaFc/"
     },
     {
@@ -11713,6 +16377,10 @@ const DADOS_IG = {
      "data": "2020-07-09T22:57:19+0000",
      "curtidas": 23,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCcFwpNpeIv/"
     },
     {
@@ -11723,6 +16391,10 @@ const DADOS_IG = {
      "data": "2020-07-09T22:42:24+0000",
      "curtidas": 23,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCcEDSWJ8pU/"
     },
     {
@@ -11733,6 +16405,10 @@ const DADOS_IG = {
      "data": "2020-07-07T01:14:19+0000",
      "curtidas": 13,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCUm-bHpp5v/"
     },
     {
@@ -11743,6 +16419,10 @@ const DADOS_IG = {
      "data": "2020-07-07T01:13:27+0000",
      "curtidas": 29,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCUm9D2pl4c/"
     },
     {
@@ -11753,6 +16433,10 @@ const DADOS_IG = {
      "data": "2020-07-07T01:11:39+0000",
      "curtidas": 16,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCUbmGGpYmZ/"
     },
     {
@@ -11763,6 +16447,10 @@ const DADOS_IG = {
      "data": "2020-07-06T03:06:22+0000",
      "curtidas": 32,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCSPFKtJbmR/"
     },
     {
@@ -11773,6 +16461,10 @@ const DADOS_IG = {
      "data": "2020-07-06T02:57:22+0000",
      "curtidas": 26,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCSODTLJ0mG/"
     },
     {
@@ -11783,6 +16475,10 @@ const DADOS_IG = {
      "data": "2020-07-06T02:48:19+0000",
      "curtidas": 63,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCSNA8nJ8kA/"
     },
     {
@@ -11793,6 +16489,10 @@ const DADOS_IG = {
      "data": "2020-07-04T19:02:46+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCOy8TbpvZP/"
     },
     {
@@ -11803,6 +16503,10 @@ const DADOS_IG = {
      "data": "2020-07-04T18:59:02+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCOyhBPJB_R/"
     },
     {
@@ -11813,6 +16517,10 @@ const DADOS_IG = {
      "data": "2020-07-04T18:54:50+0000",
      "curtidas": 26,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCOyCN7Jxj8/"
     },
     {
@@ -11823,6 +16531,10 @@ const DADOS_IG = {
      "data": "2020-07-04T03:20:13+0000",
      "curtidas": 19,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCNHE4DJKMh/"
     },
     {
@@ -11833,6 +16545,10 @@ const DADOS_IG = {
      "data": "2020-07-04T03:15:49+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCNGklnJ-pd/"
     },
     {
@@ -11843,6 +16559,10 @@ const DADOS_IG = {
      "data": "2020-07-04T03:09:39+0000",
      "curtidas": 37,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CCNF3ckJIZO/"
     },
     {
@@ -11853,6 +16573,10 @@ const DADOS_IG = {
      "data": "2020-06-26T02:58:58+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CB4eSPBJLgO/"
     },
     {
@@ -11863,6 +16587,10 @@ const DADOS_IG = {
      "data": "2020-06-26T02:57:41+0000",
      "curtidas": 22,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CB4eI2yJCtN/"
     },
     {
@@ -11873,6 +16601,10 @@ const DADOS_IG = {
      "data": "2020-06-26T02:48:44+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CB4dHTRp17o/"
     },
     {
@@ -11883,6 +16615,10 @@ const DADOS_IG = {
      "data": "2020-06-24T18:37:48+0000",
      "curtidas": 10,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CB1AItspgW8/"
     },
     {
@@ -11893,6 +16629,10 @@ const DADOS_IG = {
      "data": "2020-06-24T18:37:28+0000",
      "curtidas": 18,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CB1AGOWpd_h/"
     },
     {
@@ -11903,6 +16643,10 @@ const DADOS_IG = {
      "data": "2020-06-23T14:44:29+0000",
      "curtidas": 11,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CByApAbp1dA/"
     },
     {
@@ -11913,6 +16657,10 @@ const DADOS_IG = {
      "data": "2020-06-23T14:20:33+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CBx95tCpVmA/"
     },
     {
@@ -11923,6 +16671,10 @@ const DADOS_IG = {
      "data": "2020-06-18T16:56:05+0000",
      "curtidas": 23,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CBlXucGpH7T/"
     },
     {
@@ -11933,6 +16685,10 @@ const DADOS_IG = {
      "data": "2020-06-12T13:00:24+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CBVf-9bJBU_/"
     },
     {
@@ -11943,6 +16699,10 @@ const DADOS_IG = {
      "data": "2020-06-09T15:17:57+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CBOBV1vJHSD/"
     },
     {
@@ -11953,6 +16713,10 @@ const DADOS_IG = {
      "data": "2020-06-09T13:29:54+0000",
      "curtidas": 45,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CBN0-exJUFl/"
     },
     {
@@ -11963,6 +16727,10 @@ const DADOS_IG = {
      "data": "2020-06-09T13:29:37+0000",
      "curtidas": 45,
      "comentarios": 13,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CBN08WFJTRq/"
     },
     {
@@ -11973,6 +16741,10 @@ const DADOS_IG = {
      "data": "2020-05-13T13:55:44+0000",
      "curtidas": 16,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CAIWeA5pMUg/"
     },
     {
@@ -11983,6 +16755,10 @@ const DADOS_IG = {
      "data": "2020-05-13T13:44:25+0000",
      "curtidas": 19,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CAIVLNBJ8Px/"
     },
     {
@@ -11993,6 +16769,10 @@ const DADOS_IG = {
      "data": "2020-05-13T13:32:36+0000",
      "curtidas": 14,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CAIT0o-JP4r/"
     },
     {
@@ -12003,6 +16783,10 @@ const DADOS_IG = {
      "data": "2020-05-10T13:20:00+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/CAAj_qqJaxr/"
     },
     {
@@ -12013,6 +16797,10 @@ const DADOS_IG = {
      "data": "2020-05-06T13:25:06+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B_2RZgLpkS_/"
     },
     {
@@ -12023,6 +16811,10 @@ const DADOS_IG = {
      "data": "2020-04-17T14:45:04+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B_FfckHJ6P3/"
     },
     {
@@ -12033,6 +16825,10 @@ const DADOS_IG = {
      "data": "2020-04-13T17:24:19+0000",
      "curtidas": 15,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/B-7JjFWJ9Wd/"
     },
     {
@@ -12043,6 +16839,10 @@ const DADOS_IG = {
      "data": "2020-04-10T22:29:35+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B-0S--LpmTY/"
     },
     {
@@ -12053,6 +16853,10 @@ const DADOS_IG = {
      "data": "2020-03-27T13:19:10+0000",
      "curtidas": 11,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B-PQ7CSJBId/"
     },
     {
@@ -12063,6 +16867,10 @@ const DADOS_IG = {
      "data": "2020-03-20T20:22:31+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B99_zqOpV-l/"
     },
     {
@@ -12073,6 +16881,10 @@ const DADOS_IG = {
      "data": "2020-03-08T16:17:34+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B9eqPHRpO-l/"
     },
     {
@@ -12083,6 +16895,10 @@ const DADOS_IG = {
      "data": "2020-03-03T11:47:17+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B9RTVG1p8Bo/"
     },
     {
@@ -12093,6 +16909,10 @@ const DADOS_IG = {
      "data": "2020-03-02T16:18:12+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B9PBd5Hp4zB/"
     },
     {
@@ -12103,6 +16923,10 @@ const DADOS_IG = {
      "data": "2020-02-28T21:09:33+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/B9HBGBZJP9E/"
     },
     {
@@ -12113,6 +16937,10 @@ const DADOS_IG = {
      "data": "2020-02-20T15:01:52+0000",
      "curtidas": 10,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B8yv9HspMlI/"
     },
     {
@@ -12123,6 +16951,10 @@ const DADOS_IG = {
      "data": "2020-01-13T14:23:29+0000",
      "curtidas": 45,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/tv/B7QsugXp-ug/"
     },
     {
@@ -12133,6 +16965,10 @@ const DADOS_IG = {
      "data": "2019-12-24T18:17:14+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B6dwT9BpbDA/"
     },
     {
@@ -12143,6 +16979,10 @@ const DADOS_IG = {
      "data": "2019-12-14T17:44:03+0000",
      "curtidas": 65,
      "comentarios": 8,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B6D6b1GJ5tQ/"
     },
     {
@@ -12153,6 +16993,10 @@ const DADOS_IG = {
      "data": "2019-11-19T12:01:58+0000",
      "curtidas": 43,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B5C9gRiAf5H/"
     },
     {
@@ -12163,6 +17007,10 @@ const DADOS_IG = {
      "data": "2019-11-19T12:01:06+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B5C9ccngc6J/"
     },
     {
@@ -12173,6 +17021,10 @@ const DADOS_IG = {
      "data": "2019-11-19T12:00:09+0000",
      "curtidas": 23,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B5C9VhBAyc9/"
     },
     {
@@ -12183,6 +17035,10 @@ const DADOS_IG = {
      "data": "2019-11-19T11:59:13+0000",
      "curtidas": 14,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B5C9Ol2gV7j/"
     },
     {
@@ -12193,6 +17049,10 @@ const DADOS_IG = {
      "data": "2019-11-19T11:59:03+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B5C9NeAAiSB/"
     },
     {
@@ -12203,6 +17063,10 @@ const DADOS_IG = {
      "data": "2019-11-19T11:58:49+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B5C9LuAArP9/"
     },
     {
@@ -12213,6 +17077,10 @@ const DADOS_IG = {
      "data": "2019-11-19T11:57:50+0000",
      "curtidas": 32,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B5C9Efxg48F/"
     },
     {
@@ -12223,6 +17091,10 @@ const DADOS_IG = {
      "data": "2019-11-18T23:11:52+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B5Bk4A4peHN/"
     },
     {
@@ -12233,6 +17105,10 @@ const DADOS_IG = {
      "data": "2019-11-18T23:02:01+0000",
      "curtidas": 31,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B5BkSRuJRjV/"
     },
     {
@@ -12243,6 +17119,10 @@ const DADOS_IG = {
      "data": "2019-10-26T01:59:25+0000",
      "curtidas": 51,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B4EFgnbA7SY/"
     },
     {
@@ -12253,6 +17133,10 @@ const DADOS_IG = {
      "data": "2019-10-25T21:58:23+0000",
      "curtidas": 22,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B4Dp0NlJLtb/"
     },
     {
@@ -12263,6 +17147,10 @@ const DADOS_IG = {
      "data": "2019-10-25T10:23:55+0000",
      "curtidas": 46,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B4Cacvnpaqo/"
     },
     {
@@ -12273,6 +17161,10 @@ const DADOS_IG = {
      "data": "2019-10-18T12:48:36+0000",
      "curtidas": 21,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B3wpcXhJSdL/"
     },
     {
@@ -12283,6 +17175,10 @@ const DADOS_IG = {
      "data": "2019-10-18T12:46:15+0000",
      "curtidas": 31,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B3wpLFdJAqv/"
     },
     {
@@ -12293,6 +17189,10 @@ const DADOS_IG = {
      "data": "2019-10-17T16:09:07+0000",
      "curtidas": 46,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B3ubmHBpDfi/"
     },
     {
@@ -12303,6 +17203,10 @@ const DADOS_IG = {
      "data": "2019-10-12T14:13:54+0000",
      "curtidas": 38,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B3hWb1DgXQN/"
     },
     {
@@ -12313,6 +17217,10 @@ const DADOS_IG = {
      "data": "2019-10-12T14:13:25+0000",
      "curtidas": 54,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B3hWYTZA-Oh/"
     },
     {
@@ -12323,6 +17231,10 @@ const DADOS_IG = {
      "data": "2019-10-12T13:44:41+0000",
      "curtidas": 56,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B3hTF00Aqbs/"
     },
     {
@@ -12333,6 +17245,10 @@ const DADOS_IG = {
      "data": "2019-10-08T01:50:42+0000",
      "curtidas": 28,
      "comentarios": 7,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B3VuM9FAByM/"
     },
     {
@@ -12343,6 +17259,10 @@ const DADOS_IG = {
      "data": "2019-10-02T15:10:52+0000",
      "curtidas": 18,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B3HtARLgQ6Y/"
     },
     {
@@ -12353,6 +17273,10 @@ const DADOS_IG = {
      "data": "2019-10-01T22:21:12+0000",
      "curtidas": 31,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B3F5dWfg4hG/"
     },
     {
@@ -12363,6 +17287,10 @@ const DADOS_IG = {
      "data": "2019-08-19T13:34:10+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B1WO9nCgvuY/"
     },
     {
@@ -12373,6 +17301,10 @@ const DADOS_IG = {
      "data": "2019-08-19T13:34:01+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B1WO8iMApbj/"
     },
     {
@@ -12383,6 +17315,10 @@ const DADOS_IG = {
      "data": "2019-08-19T13:33:24+0000",
      "curtidas": 22,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B1WO3-bAOG-/"
     },
     {
@@ -12393,6 +17329,10 @@ const DADOS_IG = {
      "data": "2019-08-13T20:07:50+0000",
      "curtidas": 37,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B1HfPnVgNcA/"
     },
     {
@@ -12403,6 +17343,10 @@ const DADOS_IG = {
      "data": "2019-08-01T12:29:13+0000",
      "curtidas": 93,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/B0nxOLYgW7P/"
     },
     {
@@ -12413,6 +17357,10 @@ const DADOS_IG = {
      "data": "2019-07-16T20:05:39+0000",
      "curtidas": 25,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bz_YvMJpgZr/"
     },
     {
@@ -12423,6 +17371,10 @@ const DADOS_IG = {
      "data": "2019-07-16T20:04:36+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bz_YmtsH7Pp/"
     },
     {
@@ -12433,6 +17385,10 @@ const DADOS_IG = {
      "data": "2019-07-16T20:04:06+0000",
      "curtidas": 19,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bz_YjHZHxvS/"
     },
     {
@@ -12443,6 +17399,10 @@ const DADOS_IG = {
      "data": "2019-07-16T20:03:42+0000",
      "curtidas": 23,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bz_YgYlHm6D/"
     },
     {
@@ -12453,6 +17413,10 @@ const DADOS_IG = {
      "data": "2019-07-12T17:30:39+0000",
      "curtidas": 52,
      "comentarios": 19,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bz0zw1BgJ6a/"
     },
     {
@@ -12463,6 +17427,10 @@ const DADOS_IG = {
      "data": "2019-07-12T17:17:04+0000",
      "curtidas": 27,
      "comentarios": 8,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bz0yNTLAxOt/"
     },
     {
@@ -12473,6 +17441,10 @@ const DADOS_IG = {
      "data": "2019-07-09T17:05:45+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BztClaig6rG/"
     },
     {
@@ -12483,6 +17455,10 @@ const DADOS_IG = {
      "data": "2019-07-09T17:05:31+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BztCjrCA9Ad/"
     },
     {
@@ -12493,6 +17469,10 @@ const DADOS_IG = {
      "data": "2019-07-08T12:36:22+0000",
      "curtidas": 35,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bzp-9dGgRbo/"
     },
     {
@@ -12503,6 +17483,10 @@ const DADOS_IG = {
      "data": "2019-07-04T01:09:50+0000",
      "curtidas": 13,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BzedNrMABlf/"
     },
     {
@@ -12513,6 +17497,10 @@ const DADOS_IG = {
      "data": "2019-06-26T19:26:53+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BzL0Y1LApkP/"
     },
     {
@@ -12523,6 +17511,10 @@ const DADOS_IG = {
      "data": "2019-06-26T19:26:24+0000",
      "curtidas": 20,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BzL0WJMAdkr/"
     },
     {
@@ -12533,6 +17525,10 @@ const DADOS_IG = {
      "data": "2019-06-26T19:22:36+0000",
      "curtidas": 27,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BzLz6Sug8r_/"
     },
     {
@@ -12543,6 +17539,10 @@ const DADOS_IG = {
      "data": "2019-06-14T14:44:52+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bysalmjgcde/"
     },
     {
@@ -12553,6 +17553,10 @@ const DADOS_IG = {
      "data": "2019-06-14T14:44:08+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BysagO5gggA/"
     },
     {
@@ -12563,6 +17567,10 @@ const DADOS_IG = {
      "data": "2019-06-14T14:43:45+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bysadc9gzlB/"
     },
     {
@@ -12573,6 +17581,10 @@ const DADOS_IG = {
      "data": "2019-06-14T14:42:10+0000",
      "curtidas": 25,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BysaR44ghkS/"
     },
     {
@@ -12583,6 +17595,10 @@ const DADOS_IG = {
      "data": "2019-06-14T14:41:45+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BysaOX6ASpC/"
     },
     {
@@ -12593,6 +17609,10 @@ const DADOS_IG = {
      "data": "2019-06-14T14:41:12+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BysaJeUAWli/"
     },
     {
@@ -12603,6 +17623,10 @@ const DADOS_IG = {
      "data": "2019-06-11T13:10:28+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BykhZmtgM2P/"
     },
     {
@@ -12613,6 +17637,10 @@ const DADOS_IG = {
      "data": "2019-06-11T13:04:36+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BykguNagXqA/"
     },
     {
@@ -12623,6 +17651,10 @@ const DADOS_IG = {
      "data": "2019-06-11T13:04:26+0000",
      "curtidas": 28,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BykgtatALdl/"
     },
     {
@@ -12633,6 +17665,10 @@ const DADOS_IG = {
      "data": "2019-06-10T15:38:51+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/ByiNlfLAEWw/"
     },
     {
@@ -12643,6 +17679,10 @@ const DADOS_IG = {
      "data": "2019-06-10T15:38:46+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/ByiNk3gAnSF/"
     },
     {
@@ -12653,6 +17693,10 @@ const DADOS_IG = {
      "data": "2019-06-10T15:38:37+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/ByiNj1rA4ji/"
     },
     {
@@ -12663,6 +17707,10 @@ const DADOS_IG = {
      "data": "2019-06-10T15:38:33+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/ByiNjStA68V/"
     },
     {
@@ -12673,6 +17721,10 @@ const DADOS_IG = {
      "data": "2019-06-08T02:03:02+0000",
      "curtidas": 21,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BybmojnAFej/"
     },
     {
@@ -12683,6 +17735,10 @@ const DADOS_IG = {
      "data": "2019-06-06T14:57:31+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/ByX1rUIAqk8/"
     },
     {
@@ -12693,6 +17749,10 @@ const DADOS_IG = {
      "data": "2019-06-06T12:09:00+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/ByXiYm2A9fN/"
     },
     {
@@ -12703,6 +17763,10 @@ const DADOS_IG = {
      "data": "2019-06-06T12:05:45+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/ByXiBN6g2RP/"
     },
     {
@@ -12713,6 +17777,10 @@ const DADOS_IG = {
      "data": "2019-06-06T12:04:02+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/ByXh0qSg2xX/"
     },
     {
@@ -12723,6 +17791,10 @@ const DADOS_IG = {
      "data": "2019-06-04T12:59:13+0000",
      "curtidas": 21,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BySejHag1Nb/"
     },
     {
@@ -12733,6 +17805,10 @@ const DADOS_IG = {
      "data": "2019-06-01T15:07:11+0000",
      "curtidas": 39,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/ByK-zxhga6d/"
     },
     {
@@ -12743,6 +17819,10 @@ const DADOS_IG = {
      "data": "2019-05-28T20:53:01+0000",
      "curtidas": 27,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/ByBTMjNghVz/"
     },
     {
@@ -12753,6 +17833,10 @@ const DADOS_IG = {
      "data": "2019-05-20T13:04:41+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bxr3QBjpX1P/"
     },
     {
@@ -12763,6 +17847,10 @@ const DADOS_IG = {
      "data": "2019-05-16T01:40:48+0000",
      "curtidas": 85,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BxgVwIDnDsL/"
     },
     {
@@ -12773,6 +17861,10 @@ const DADOS_IG = {
      "data": "2019-05-14T01:08:02+0000",
      "curtidas": 14,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BxbIdzGHsi6/"
     },
     {
@@ -12783,6 +17875,10 @@ const DADOS_IG = {
      "data": "2019-05-11T13:56:36+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BxUyCX_nDjh/"
     },
     {
@@ -12793,6 +17889,10 @@ const DADOS_IG = {
      "data": "2019-05-06T16:00:43+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BxIIRGQHgjd/"
     },
     {
@@ -12803,6 +17903,10 @@ const DADOS_IG = {
      "data": "2019-05-03T21:08:35+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BxA9EO_ntuv/"
     },
     {
@@ -12813,6 +17917,10 @@ const DADOS_IG = {
      "data": "2019-05-03T21:03:30+0000",
      "curtidas": 10,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BxA8iDgnXKN/"
     },
     {
@@ -12823,6 +17931,10 @@ const DADOS_IG = {
      "data": "2019-05-02T21:53:06+0000",
      "curtidas": 23,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bw-dae9nKyr/"
     },
     {
@@ -12833,6 +17945,10 @@ const DADOS_IG = {
      "data": "2019-04-30T19:45:48+0000",
      "curtidas": 37,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bw5FQYVno2r/"
     },
     {
@@ -12843,6 +17959,10 @@ const DADOS_IG = {
      "data": "2019-04-23T12:42:26+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BwmTPcmnTa0/"
     },
     {
@@ -12853,6 +17973,10 @@ const DADOS_IG = {
      "data": "2019-04-22T14:39:59+0000",
      "curtidas": 19,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bwj75gdnfGL/"
     },
     {
@@ -12863,6 +17987,10 @@ const DADOS_IG = {
      "data": "2019-04-22T12:11:24+0000",
      "curtidas": 12,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bwjq5S5npDK/"
     },
     {
@@ -12873,6 +18001,10 @@ const DADOS_IG = {
      "data": "2019-04-18T20:15:27+0000",
      "curtidas": 20,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BwaPG_GnHgL/"
     },
     {
@@ -12883,6 +18015,10 @@ const DADOS_IG = {
      "data": "2019-04-17T17:19:09+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BwXWI30HShl/"
     },
     {
@@ -12893,6 +18029,10 @@ const DADOS_IG = {
      "data": "2019-04-16T13:21:09+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BwUWG0-H6ts/"
     },
     {
@@ -12903,6 +18043,10 @@ const DADOS_IG = {
      "data": "2019-04-15T15:05:09+0000",
      "curtidas": 24,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BwR9Nsfn41T/"
     },
     {
@@ -12913,6 +18057,10 @@ const DADOS_IG = {
      "data": "2019-04-12T14:11:56+0000",
      "curtidas": 13,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BwKIvVMn2gI/"
     },
     {
@@ -12923,6 +18071,10 @@ const DADOS_IG = {
      "data": "2019-04-09T17:28:26+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BwCw115nmhp/"
     },
     {
@@ -12933,6 +18085,10 @@ const DADOS_IG = {
      "data": "2019-04-08T13:19:30+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bv_vjyOHIcv/"
     },
     {
@@ -12943,6 +18099,10 @@ const DADOS_IG = {
      "data": "2019-04-08T12:44:38+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bv_rkZQH9H-/"
     },
     {
@@ -12953,6 +18113,10 @@ const DADOS_IG = {
      "data": "2019-04-08T12:30:18+0000",
      "curtidas": 16,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bv_p7XhnJpk/"
     },
     {
@@ -12963,6 +18127,10 @@ const DADOS_IG = {
      "data": "2019-04-02T22:38:38+0000",
      "curtidas": 19,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BvxSxzSHiGp/"
     },
     {
@@ -12973,6 +18141,10 @@ const DADOS_IG = {
      "data": "2019-04-02T22:28:07+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BvxRkrnHSoF/"
     },
     {
@@ -12983,6 +18155,10 @@ const DADOS_IG = {
      "data": "2019-04-02T22:25:04+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BvxROaZH6Bh/"
     },
     {
@@ -12993,6 +18169,10 @@ const DADOS_IG = {
      "data": "2019-03-29T13:54:41+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BvmDoqingZP/"
     },
     {
@@ -13003,6 +18183,10 @@ const DADOS_IG = {
      "data": "2019-03-29T13:44:35+0000",
      "curtidas": 25,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BvmCeurnQlr/"
     },
     {
@@ -13013,6 +18197,10 @@ const DADOS_IG = {
      "data": "2019-03-15T16:32:43+0000",
      "curtidas": 27,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BvCSl-OHmyV/"
     },
     {
@@ -13023,6 +18211,10 @@ const DADOS_IG = {
      "data": "2019-02-27T19:31:07+0000",
      "curtidas": 74,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BuZaSnRnxgQ/"
     },
     {
@@ -13033,6 +18225,10 @@ const DADOS_IG = {
      "data": "2019-02-19T19:45:49+0000",
      "curtidas": 69,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BuE1nNWnWza/"
     },
     {
@@ -13043,6 +18239,10 @@ const DADOS_IG = {
      "data": "2019-02-01T13:38:06+0000",
      "curtidas": 478,
      "comentarios": 2134,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BtV1ORenYAM/"
     },
     {
@@ -13053,6 +18253,10 @@ const DADOS_IG = {
      "data": "2019-01-31T15:38:44+0000",
      "curtidas": 22,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BtTeO7lHzjH/"
     },
     {
@@ -13063,6 +18267,10 @@ const DADOS_IG = {
      "data": "2019-01-31T15:22:20+0000",
      "curtidas": 29,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BtTcWy7ndQk/"
     },
     {
@@ -13073,6 +18281,10 @@ const DADOS_IG = {
      "data": "2019-01-29T14:00:54+0000",
      "curtidas": 21,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BtOJcpAH_sC/"
     },
     {
@@ -13083,6 +18295,10 @@ const DADOS_IG = {
      "data": "2019-01-28T15:49:02+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BtLxBzbHieP/"
     },
     {
@@ -13093,6 +18309,10 @@ const DADOS_IG = {
      "data": "2019-01-22T17:15:13+0000",
      "curtidas": 39,
      "comentarios": 7,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bs8eHv-n3kQ/"
     },
     {
@@ -13103,6 +18323,10 @@ const DADOS_IG = {
      "data": "2019-01-22T17:13:03+0000",
      "curtidas": 22,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bs8d35LH1gZ/"
     },
     {
@@ -13113,6 +18337,10 @@ const DADOS_IG = {
      "data": "2019-01-09T01:46:05+0000",
      "curtidas": 16,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BsZVdI_nqwj/"
     },
     {
@@ -13123,6 +18351,10 @@ const DADOS_IG = {
      "data": "2019-01-09T01:40:04+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BsZUxGjHIq5/"
     },
     {
@@ -13133,6 +18365,10 @@ const DADOS_IG = {
      "data": "2018-12-31T20:05:25+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BsEIHD-n5w7/"
     },
     {
@@ -13143,6 +18379,10 @@ const DADOS_IG = {
      "data": "2018-12-24T20:15:17+0000",
      "curtidas": 24,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BryHrKQntuo/"
     },
     {
@@ -13153,6 +18393,10 @@ const DADOS_IG = {
      "data": "2018-12-22T12:24:25+0000",
      "curtidas": 23,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BrsIMpuH3kE/"
     },
     {
@@ -13163,6 +18407,10 @@ const DADOS_IG = {
      "data": "2018-12-20T20:29:21+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Brn2Gt5HNNp/"
     },
     {
@@ -13173,6 +18421,10 @@ const DADOS_IG = {
      "data": "2018-12-20T03:08:24+0000",
      "curtidas": 43,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Brlu_PDHT9a/"
     },
     {
@@ -13183,6 +18435,10 @@ const DADOS_IG = {
      "data": "2018-12-16T17:54:26+0000",
      "curtidas": 24,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BrdRMhWnLaG/"
     },
     {
@@ -13193,6 +18449,10 @@ const DADOS_IG = {
      "data": "2018-12-15T17:30:14+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BrapobpHUXW/"
     },
     {
@@ -13203,6 +18463,10 @@ const DADOS_IG = {
      "data": "2018-12-11T12:28:20+0000",
      "curtidas": 30,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BrPz5vnnTEh/"
     },
     {
@@ -13213,6 +18477,10 @@ const DADOS_IG = {
      "data": "2018-12-11T12:21:49+0000",
      "curtidas": 32,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BrPzKDXn6eU/"
     },
     {
@@ -13223,6 +18491,10 @@ const DADOS_IG = {
      "data": "2018-12-11T12:14:12+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BrPySOnHHcD/"
     },
     {
@@ -13233,6 +18505,10 @@ const DADOS_IG = {
      "data": "2018-12-05T22:08:25+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BrBZhL1nPBM/"
     },
     {
@@ -13243,6 +18519,10 @@ const DADOS_IG = {
      "data": "2018-11-30T20:07:38+0000",
      "curtidas": 28,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bq0TuLvHAl1/"
     },
     {
@@ -13253,6 +18533,10 @@ const DADOS_IG = {
      "data": "2018-11-27T12:56:57+0000",
      "curtidas": 22,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bqr0DI3HUun/"
     },
     {
@@ -13263,6 +18547,10 @@ const DADOS_IG = {
      "data": "2018-11-24T18:48:12+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bqkt3FBHc-z/"
     },
     {
@@ -13273,6 +18561,10 @@ const DADOS_IG = {
      "data": "2018-11-19T20:52:16+0000",
      "curtidas": 17,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqYEFcrnlOp/"
     },
     {
@@ -13283,6 +18575,10 @@ const DADOS_IG = {
      "data": "2018-11-17T11:38:39+0000",
      "curtidas": 21,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqR7I5YnH2L/"
     },
     {
@@ -13293,6 +18589,10 @@ const DADOS_IG = {
      "data": "2018-11-16T23:39:03+0000",
      "curtidas": 19,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqQoyV1HWou/"
     },
     {
@@ -13303,6 +18603,10 @@ const DADOS_IG = {
      "data": "2018-11-15T02:14:54+0000",
      "curtidas": 17,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqLw0YcnQql/"
     },
     {
@@ -13313,6 +18617,10 @@ const DADOS_IG = {
      "data": "2018-11-14T20:12:22+0000",
      "curtidas": 42,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqLHixiHgAv/"
     },
     {
@@ -13323,6 +18631,10 @@ const DADOS_IG = {
      "data": "2018-11-14T18:20:21+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqK6uZWHjlb/"
     },
     {
@@ -13333,6 +18645,10 @@ const DADOS_IG = {
      "data": "2018-11-14T17:06:28+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqKyRNbnnkT/"
     },
     {
@@ -13343,6 +18659,10 @@ const DADOS_IG = {
      "data": "2018-11-14T16:53:43+0000",
      "curtidas": 66,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqKwz0oHLTP/"
     },
     {
@@ -13353,6 +18673,10 @@ const DADOS_IG = {
      "data": "2018-11-14T16:41:53+0000",
      "curtidas": 94,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqKvdNinOwL/"
     },
     {
@@ -13363,6 +18687,10 @@ const DADOS_IG = {
      "data": "2018-11-11T17:47:33+0000",
      "curtidas": 25,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqDIlkWnjoK/"
     },
     {
@@ -13373,6 +18701,10 @@ const DADOS_IG = {
      "data": "2018-11-10T23:27:25+0000",
      "curtidas": 81,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqBKr3lHNmA/"
     },
     {
@@ -13383,6 +18715,10 @@ const DADOS_IG = {
      "data": "2018-11-10T16:44:33+0000",
      "curtidas": 38,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BqAclSEnlWE/"
     },
     {
@@ -13393,6 +18729,10 @@ const DADOS_IG = {
      "data": "2018-11-09T18:49:41+0000",
      "curtidas": 23,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bp-GG64HeU5/"
     },
     {
@@ -13403,6 +18743,10 @@ const DADOS_IG = {
      "data": "2018-11-09T18:40:21+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bp-FCe_hR6V/"
     },
     {
@@ -13413,6 +18757,10 @@ const DADOS_IG = {
      "data": "2018-11-08T23:57:27+0000",
      "curtidas": 46,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bp8EaatnnAy/"
     },
     {
@@ -13423,6 +18771,10 @@ const DADOS_IG = {
      "data": "2018-11-08T18:56:01+0000",
      "curtidas": 32,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bp7iCa8nDuy/"
     },
     {
@@ -13433,6 +18785,10 @@ const DADOS_IG = {
      "data": "2018-11-07T13:27:11+0000",
      "curtidas": 59,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bp4XnGFHTHR/"
     },
     {
@@ -13443,6 +18799,10 @@ const DADOS_IG = {
      "data": "2018-11-05T02:03:02+0000",
      "curtidas": 34,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bpx_uYfHzQM/"
     },
     {
@@ -13453,6 +18813,10 @@ const DADOS_IG = {
      "data": "2018-11-03T21:51:11+0000",
      "curtidas": 33,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bpu9p4yHKW8/"
     },
     {
@@ -13463,6 +18827,10 @@ const DADOS_IG = {
      "data": "2018-11-03T19:20:56+0000",
      "curtidas": 0,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bpusn-cHj9-/"
     },
     {
@@ -13473,6 +18841,10 @@ const DADOS_IG = {
      "data": "2018-11-03T19:20:31+0000",
      "curtidas": 25,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bpush_CnZPX/"
     },
     {
@@ -13483,6 +18855,10 @@ const DADOS_IG = {
      "data": "2018-11-03T11:20:37+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bpt18lIHKNP/"
     },
     {
@@ -13493,6 +18869,10 @@ const DADOS_IG = {
      "data": "2018-11-02T14:10:31+0000",
      "curtidas": 40,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BprkmBnnYAB/"
     },
     {
@@ -13503,6 +18883,10 @@ const DADOS_IG = {
      "data": "2018-10-30T21:17:30+0000",
      "curtidas": 60,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpknEtBnaIM/"
     },
     {
@@ -13513,6 +18897,10 @@ const DADOS_IG = {
      "data": "2018-10-30T10:34:18+0000",
      "curtidas": 26,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpiSGgfnCkR/"
     },
     {
@@ -13523,6 +18911,10 @@ const DADOS_IG = {
      "data": "2018-10-30T02:18:41+0000",
      "curtidas": 27,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpikvxhnFbH/"
     },
     {
@@ -13533,6 +18925,10 @@ const DADOS_IG = {
      "data": "2018-10-27T22:32:33+0000",
      "curtidas": 31,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpdBRz8Ho0x/"
     },
     {
@@ -13543,6 +18939,10 @@ const DADOS_IG = {
      "data": "2018-10-27T13:02:18+0000",
      "curtidas": 156,
      "comentarios": 5,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bpb_UIBnvwN/"
     },
     {
@@ -13553,6 +18953,10 @@ const DADOS_IG = {
      "data": "2018-10-26T20:33:49+0000",
      "curtidas": 85,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpaO5RTHayD/"
     },
     {
@@ -13563,6 +18967,10 @@ const DADOS_IG = {
      "data": "2018-10-26T18:01:54+0000",
      "curtidas": 88,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpZ9gk8nif5/"
     },
     {
@@ -13573,6 +18981,10 @@ const DADOS_IG = {
      "data": "2018-10-26T17:53:33+0000",
      "curtidas": 99,
      "comentarios": 7,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpZ8jgmH5JZ/"
     },
     {
@@ -13583,6 +18995,10 @@ const DADOS_IG = {
      "data": "2018-10-25T10:39:47+0000",
      "curtidas": 69,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpWmHjRnarx/"
     },
     {
@@ -13593,6 +19009,10 @@ const DADOS_IG = {
      "data": "2018-10-24T11:43:45+0000",
      "curtidas": 44,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpUIpM5HMNR/"
     },
     {
@@ -13603,6 +19023,10 @@ const DADOS_IG = {
      "data": "2018-10-23T19:03:44+0000",
      "curtidas": 35,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpSWM6bniW4/"
     },
     {
@@ -13613,6 +19037,10 @@ const DADOS_IG = {
      "data": "2018-10-22T23:11:06+0000",
      "curtidas": 95,
      "comentarios": 2,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpQNt0fnt7M/"
     },
     {
@@ -13623,6 +19051,10 @@ const DADOS_IG = {
      "data": "2018-10-22T12:53:26+0000",
      "curtidas": 29,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpPHB0-nJxR/"
     },
     {
@@ -13633,6 +19065,10 @@ const DADOS_IG = {
      "data": "2018-10-21T13:49:58+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpMotBGHa3m/"
     },
     {
@@ -13643,6 +19079,10 @@ const DADOS_IG = {
      "data": "2018-10-20T12:56:42+0000",
      "curtidas": 31,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpJ90AKHWX_/"
     },
     {
@@ -13653,6 +19093,10 @@ const DADOS_IG = {
      "data": "2018-10-20T01:48:41+0000",
      "curtidas": 105,
      "comentarios": 6,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpIxXVnHwPx/"
     },
     {
@@ -13663,6 +19107,10 @@ const DADOS_IG = {
      "data": "2018-10-19T20:02:32+0000",
      "curtidas": 33,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpIJwEbnX78/"
     },
     {
@@ -13673,6 +19121,10 @@ const DADOS_IG = {
      "data": "2018-10-19T19:59:14+0000",
      "curtidas": 26,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpIJX74nVu5/"
     },
     {
@@ -13683,6 +19135,10 @@ const DADOS_IG = {
      "data": "2018-10-19T16:09:29+0000",
      "curtidas": 27,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpHvFJ3nh6l/"
     },
     {
@@ -13693,6 +19149,10 @@ const DADOS_IG = {
      "data": "2018-10-19T02:32:34+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpGRl3iHkKZ/"
     },
     {
@@ -13703,6 +19163,10 @@ const DADOS_IG = {
      "data": "2018-10-18T20:41:20+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpFpZXTHUJx/"
     },
     {
@@ -13713,6 +19177,10 @@ const DADOS_IG = {
      "data": "2018-10-18T00:46:28+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpDgp4Yn94V/"
     },
     {
@@ -13723,6 +19191,10 @@ const DADOS_IG = {
      "data": "2018-10-16T22:23:45+0000",
      "curtidas": 25,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BpArhuynMHC/"
     },
     {
@@ -13733,6 +19205,10 @@ const DADOS_IG = {
      "data": "2018-10-16T02:26:17+0000",
      "curtidas": 31,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bo-iEKKHiYk/"
     },
     {
@@ -13743,6 +19219,10 @@ const DADOS_IG = {
      "data": "2018-10-15T19:13:01+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bo9w58kH1jV/"
     },
     {
@@ -13753,6 +19233,10 @@ const DADOS_IG = {
      "data": "2018-10-15T04:58:07+0000",
      "curtidas": 33,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bo8PEadnKN3/"
     },
     {
@@ -13763,6 +19247,10 @@ const DADOS_IG = {
      "data": "2018-10-14T18:27:50+0000",
      "curtidas": 30,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bo7G8HMnDjQ/"
     },
     {
@@ -13773,6 +19261,10 @@ const DADOS_IG = {
      "data": "2018-10-14T16:13:23+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bo63jXHHOs8/"
     },
     {
@@ -13783,6 +19275,10 @@ const DADOS_IG = {
      "data": "2018-10-13T21:41:09+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bo44RJCngzD/"
     },
     {
@@ -13793,6 +19289,10 @@ const DADOS_IG = {
      "data": "2018-10-12T18:01:07+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bo16SodH8PJ/"
     },
     {
@@ -13803,6 +19303,10 @@ const DADOS_IG = {
      "data": "2018-10-12T04:43:57+0000",
      "curtidas": 18,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bo0fEELHqBr/"
     },
     {
@@ -13813,6 +19317,10 @@ const DADOS_IG = {
      "data": "2018-10-12T04:40:56+0000",
      "curtidas": 23,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bo0et9JHnTR/"
     },
     {
@@ -13823,6 +19331,10 @@ const DADOS_IG = {
      "data": "2018-10-10T16:56:59+0000",
      "curtidas": 59,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BowpM87H6qE/"
     },
     {
@@ -13833,6 +19345,10 @@ const DADOS_IG = {
      "data": "2018-10-10T16:38:56+0000",
      "curtidas": 36,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BownS87HUUc/"
     },
     {
@@ -13843,6 +19359,10 @@ const DADOS_IG = {
      "data": "2018-10-10T14:46:17+0000",
      "curtidas": 20,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BowaZ44HcBS/"
     },
     {
@@ -13853,6 +19373,10 @@ const DADOS_IG = {
      "data": "2018-10-10T14:34:19+0000",
      "curtidas": 30,
      "comentarios": 3,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BowZCTPnIch/"
     },
     {
@@ -13863,6 +19387,10 @@ const DADOS_IG = {
      "data": "2018-10-10T14:31:23+0000",
      "curtidas": 25,
      "comentarios": 4,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BowYsxRn1dh/"
     },
     {
@@ -13873,6 +19401,10 @@ const DADOS_IG = {
      "data": "2018-10-09T17:17:50+0000",
      "curtidas": 18,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BouG9D4Hp0q/"
     },
     {
@@ -13883,6 +19415,10 @@ const DADOS_IG = {
      "data": "2018-10-08T10:40:06+0000",
      "curtidas": 27,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Boq0pEPnEuS/"
     },
     {
@@ -13893,6 +19429,10 @@ const DADOS_IG = {
      "data": "2018-10-08T01:17:10+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/Bop0N8NnRZO/"
     },
     {
@@ -13903,6 +19443,10 @@ const DADOS_IG = {
      "data": "2018-10-06T16:35:06+0000",
      "curtidas": 32,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BomTrX7n2tg/"
     },
     {
@@ -13913,6 +19457,10 @@ const DADOS_IG = {
      "data": "2018-10-05T12:59:09+0000",
      "curtidas": 38,
      "comentarios": 1,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BojWK4wHlMB/"
     },
     {
@@ -13923,6 +19471,10 @@ const DADOS_IG = {
      "data": "2018-10-03T12:03:51+0000",
      "curtidas": 46,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BoeGQD0nIG-/"
     },
     {
@@ -13933,6 +19485,10 @@ const DADOS_IG = {
      "data": "2018-10-02T14:14:00+0000",
      "curtidas": 25,
      "comentarios": 0,
+     "salvos": null,
+     "compartilhamentos": null,
+     "alcance": null,
+     "views": null,
      "link": "https://www.instagram.com/p/BobwWasnUXD/"
     }
    ],
@@ -13965,6 +19521,10 @@ const DADOS_IG = {
      "data": "2026-06-18T13:46:17+0000",
      "curtidas": 16,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 1382,
+     "views": 2357,
      "link": "https://www.instagram.com/reel/DZurdrxxkNm/"
     },
     {
@@ -13975,6 +19535,10 @@ const DADOS_IG = {
      "data": "2026-06-16T15:22:31+0000",
      "curtidas": 18,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 1675,
+     "views": 2869,
      "link": "https://www.instagram.com/p/DZpsatRtTRY/"
     },
     {
@@ -13985,6 +19549,10 @@ const DADOS_IG = {
      "data": "2026-06-13T01:35:10+0000",
      "curtidas": 10,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 744,
+     "views": 983,
      "link": "https://www.instagram.com/reel/DZgfxmBtFZs/"
     },
     {
@@ -13995,6 +19563,10 @@ const DADOS_IG = {
      "data": "2026-06-12T17:58:34+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 778,
+     "views": 1270,
      "link": "https://www.instagram.com/p/DZfrqprRpA3/"
     },
     {
@@ -14005,6 +19577,10 @@ const DADOS_IG = {
      "data": "2026-06-10T12:08:04+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 636,
+     "views": 1031,
      "link": "https://www.instagram.com/p/DZZ54OLx_kB/"
     },
     {
@@ -14015,6 +19591,10 @@ const DADOS_IG = {
      "data": "2026-06-09T19:57:22+0000",
      "curtidas": 14,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 879,
+     "views": 1104,
      "link": "https://www.instagram.com/reel/DZYK63gJi1o/"
     },
     {
@@ -14025,6 +19605,10 @@ const DADOS_IG = {
      "data": "2026-06-09T13:04:14+0000",
      "curtidas": 4,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 683,
+     "views": 971,
      "link": "https://www.instagram.com/reel/DZXbqPgxbn9/"
     },
     {
@@ -14035,6 +19619,10 @@ const DADOS_IG = {
      "data": "2026-06-03T20:07:17+0000",
      "curtidas": 6,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 654,
+     "views": 801,
      "link": "https://www.instagram.com/reel/DZIvTmwT-eQ/"
     },
     {
@@ -14045,6 +19633,10 @@ const DADOS_IG = {
      "data": "2026-06-03T20:02:51+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 400,
+     "views": 463,
      "link": "https://www.instagram.com/reel/DZIuxYKT6XV/"
     },
     {
@@ -14055,6 +19647,10 @@ const DADOS_IG = {
      "data": "2026-06-01T21:10:42+0000",
      "curtidas": 24,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 988,
+     "views": 1283,
      "link": "https://www.instagram.com/reel/DZDsz-ZTbzb/"
     },
     {
@@ -14065,6 +19661,10 @@ const DADOS_IG = {
      "data": "2026-05-30T17:10:17+0000",
      "curtidas": 35,
      "comentarios": 9,
+     "salvos": 3,
+     "compartilhamentos": 8,
+     "alcance": 2366,
+     "views": 3267,
      "link": "https://www.instagram.com/reel/DY-Hx7CxrOw/"
     },
     {
@@ -14075,6 +19675,10 @@ const DADOS_IG = {
      "data": "2026-05-27T19:11:31+0000",
      "curtidas": 43,
      "comentarios": 7,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 2141,
+     "views": 3324,
      "link": "https://www.instagram.com/reel/DY2nAw1TIs-/"
     },
     {
@@ -14085,6 +19689,10 @@ const DADOS_IG = {
      "data": "2026-05-21T14:20:06+0000",
      "curtidas": 74,
      "comentarios": 44,
+     "salvos": 4,
+     "compartilhamentos": 17,
+     "alcance": 2414,
+     "views": 3572,
      "link": "https://www.instagram.com/reel/DYmomWUx6N1/"
     },
     {
@@ -14095,6 +19703,10 @@ const DADOS_IG = {
      "data": "2026-05-20T19:14:30+0000",
      "curtidas": 21,
      "comentarios": 2,
+     "salvos": 2,
+     "compartilhamentos": 3,
+     "alcance": 1292,
+     "views": 1683,
      "link": "https://www.instagram.com/reel/DYkl7MlThtg/"
     },
     {
@@ -14105,6 +19717,10 @@ const DADOS_IG = {
      "data": "2026-05-16T23:27:37+0000",
      "curtidas": 25,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1539,
+     "views": 2180,
      "link": "https://www.instagram.com/reel/DYavUA5t0Z4/"
     },
     {
@@ -14115,6 +19731,10 @@ const DADOS_IG = {
      "data": "2026-05-16T15:44:14+0000",
      "curtidas": 81,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 5,
+     "alcance": 4551,
+     "views": 8748,
      "link": "https://www.instagram.com/p/DYZ6oPfNdvm/"
     },
     {
@@ -14125,6 +19745,10 @@ const DADOS_IG = {
      "data": "2026-05-14T20:06:35+0000",
      "curtidas": 25,
      "comentarios": 4,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 1357,
+     "views": 1936,
      "link": "https://www.instagram.com/reel/DYVNc3lp4Z1/"
     },
     {
@@ -14135,6 +19759,10 @@ const DADOS_IG = {
      "data": "2026-05-13T13:35:45+0000",
      "curtidas": 13,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 917,
+     "views": 1284,
      "link": "https://www.instagram.com/reel/DYR9soFN2Q_/"
     },
     {
@@ -14145,6 +19773,10 @@ const DADOS_IG = {
      "data": "2026-05-10T20:34:00+0000",
      "curtidas": 29,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 4,
+     "alcance": 1450,
+     "views": 2269,
      "link": "https://www.instagram.com/p/DYK-wDECYRx/"
     },
     {
@@ -14155,6 +19787,10 @@ const DADOS_IG = {
      "data": "2026-05-02T15:47:17+0000",
      "curtidas": 14,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 1229,
+     "views": 1644,
      "link": "https://www.instagram.com/reel/DX131PMN1UY/"
     },
     {
@@ -14165,6 +19801,10 @@ const DADOS_IG = {
      "data": "2026-04-11T17:02:37+0000",
      "curtidas": 19,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 813,
+     "views": 1029,
      "link": "https://www.instagram.com/reel/DW_78jcEYU8/"
     },
     {
@@ -14175,6 +19815,10 @@ const DADOS_IG = {
      "data": "2026-04-04T14:51:24+0000",
      "curtidas": 20,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1345,
+     "views": 2225,
      "link": "https://www.instagram.com/p/DWtrT05DV5D/"
     },
     {
@@ -14185,6 +19829,10 @@ const DADOS_IG = {
      "data": "2026-04-02T22:35:44+0000",
      "curtidas": 25,
      "comentarios": 4,
+     "salvos": 1,
+     "compartilhamentos": 3,
+     "alcance": 847,
+     "views": 1732,
      "link": "https://www.instagram.com/p/DWpXD2-jdd6/"
     },
     {
@@ -14195,6 +19843,10 @@ const DADOS_IG = {
      "data": "2026-03-31T17:25:10+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1043,
+     "views": 1758,
      "link": "https://www.instagram.com/p/DWjp0B4kWR8/"
     },
     {
@@ -14205,6 +19857,10 @@ const DADOS_IG = {
      "data": "2026-03-27T21:25:56+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 609,
+     "views": 1028,
      "link": "https://www.instagram.com/p/DWZyTWjkqtE/"
     },
     {
@@ -14215,6 +19871,10 @@ const DADOS_IG = {
      "data": "2026-03-27T11:34:05+0000",
      "curtidas": 19,
      "comentarios": 9,
+     "salvos": 2,
+     "compartilhamentos": 2,
+     "alcance": 1280,
+     "views": 1719,
      "link": "https://www.instagram.com/reel/DWYuHQ_jbv9/"
     },
     {
@@ -14225,6 +19885,10 @@ const DADOS_IG = {
      "data": "2026-03-26T00:14:43+0000",
      "curtidas": 38,
      "comentarios": 13,
+     "salvos": 0,
+     "compartilhamentos": 12,
+     "alcance": 2030,
+     "views": 4111,
      "link": "https://www.instagram.com/p/DWU8B0XjZVg/"
     },
     {
@@ -14235,6 +19899,10 @@ const DADOS_IG = {
      "data": "2026-03-19T22:29:52+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 669,
+     "views": 806,
      "link": "https://www.instagram.com/reel/DWFS_RcDTFP/"
     },
     {
@@ -14245,6 +19913,10 @@ const DADOS_IG = {
      "data": "2026-03-18T17:15:24+0000",
      "curtidas": 30,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1231,
+     "views": 1590,
      "link": "https://www.instagram.com/reel/DWCKSb0kTva/"
     },
     {
@@ -14255,6 +19927,10 @@ const DADOS_IG = {
      "data": "2026-03-16T19:20:18+0000",
      "curtidas": 118,
      "comentarios": 12,
+     "salvos": 2,
+     "compartilhamentos": 9,
+     "alcance": 2587,
+     "views": 6175,
      "link": "https://www.instagram.com/p/DV9PLmMEc_A/"
     },
     {
@@ -14265,6 +19941,10 @@ const DADOS_IG = {
      "data": "2026-03-12T11:27:06+0000",
      "curtidas": 18,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 934,
+     "views": 1135,
      "link": "https://www.instagram.com/reel/DVyFmM9jU4x/"
     },
     {
@@ -14275,6 +19955,10 @@ const DADOS_IG = {
      "data": "2026-03-11T21:05:54+0000",
      "curtidas": 15,
      "comentarios": 6,
+     "salvos": 1,
+     "compartilhamentos": 6,
+     "alcance": 879,
+     "views": 1145,
      "link": "https://www.instagram.com/reel/DVwiWy5ksfp/"
     },
     {
@@ -14285,6 +19969,10 @@ const DADOS_IG = {
      "data": "2026-03-06T21:14:43+0000",
      "curtidas": 19,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1258,
+     "views": 1501,
      "link": "https://www.instagram.com/reel/DVjsRrLEXF1/"
     },
     {
@@ -14295,6 +19983,10 @@ const DADOS_IG = {
      "data": "2026-03-05T11:43:13+0000",
      "curtidas": 23,
      "comentarios": 8,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1267,
+     "views": 1684,
      "link": "https://www.instagram.com/reel/DVgFiiBDVvh/"
     },
     {
@@ -14305,6 +19997,10 @@ const DADOS_IG = {
      "data": "2026-03-04T19:16:25+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1168,
+     "views": 1461,
      "link": "https://www.instagram.com/reel/DVeUkyDktJF/"
     },
     {
@@ -14315,6 +20011,10 @@ const DADOS_IG = {
      "data": "2026-03-03T21:43:00+0000",
      "curtidas": 22,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 4,
+     "alcance": 1474,
+     "views": 2032,
      "link": "https://www.instagram.com/reel/DVcAqsEknNU/"
     },
     {
@@ -14325,6 +20025,10 @@ const DADOS_IG = {
      "data": "2026-02-20T20:27:59+0000",
      "curtidas": 19,
      "comentarios": 5,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 1066,
+     "views": 1450,
      "link": "https://www.instagram.com/reel/DU_jgtoEpLA/"
     },
     {
@@ -14335,6 +20039,10 @@ const DADOS_IG = {
      "data": "2026-02-14T11:48:16+0000",
      "curtidas": 16,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1058,
+     "views": 1366,
      "link": "https://www.instagram.com/reel/DUvLf96kYyv/"
     },
     {
@@ -14345,6 +20053,10 @@ const DADOS_IG = {
      "data": "2026-02-13T21:55:43+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 1078,
+     "views": 2486,
      "link": "https://www.instagram.com/p/DUtsUz7EjYj/"
     },
     {
@@ -14355,6 +20067,10 @@ const DADOS_IG = {
      "data": "2026-02-13T15:28:46+0000",
      "curtidas": 14,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 942,
+     "views": 1921,
      "link": "https://www.instagram.com/p/DUtACsSDadA/"
     },
     {
@@ -14365,6 +20081,10 @@ const DADOS_IG = {
      "data": "2026-02-12T19:03:01+0000",
      "curtidas": 12,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 7,
+     "alcance": 1119,
+     "views": 2583,
      "link": "https://www.instagram.com/p/DUqzw_WkgPM/"
     },
     {
@@ -14375,6 +20095,10 @@ const DADOS_IG = {
      "data": "2026-02-03T17:53:44+0000",
      "curtidas": 16,
      "comentarios": 1,
+     "salvos": 3,
+     "compartilhamentos": 1,
+     "alcance": 917,
+     "views": 1554,
      "link": "https://www.instagram.com/reel/DUTgdTFEYyx/"
     },
     {
@@ -14385,6 +20109,10 @@ const DADOS_IG = {
      "data": "2026-01-22T13:38:19+0000",
      "curtidas": 32,
      "comentarios": 4,
+     "salvos": 3,
+     "compartilhamentos": 29,
+     "alcance": 1659,
+     "views": 2635,
      "link": "https://www.instagram.com/reel/DT0Jwb7jTKy/"
     },
     {
@@ -14395,6 +20123,10 @@ const DADOS_IG = {
      "data": "2026-01-19T12:43:47+0000",
      "curtidas": 19,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 32,
+     "alcance": 1418,
+     "views": 1922,
      "link": "https://www.instagram.com/reel/DTsUuA1DXdc/"
     },
     {
@@ -14405,6 +20137,10 @@ const DADOS_IG = {
      "data": "2026-01-15T18:43:13+0000",
      "curtidas": 162,
      "comentarios": 6,
+     "salvos": 2,
+     "compartilhamentos": 11,
+     "alcance": 3250,
+     "views": 5215,
      "link": "https://www.instagram.com/reel/DTiq_hvkcB8/"
     },
     {
@@ -14415,6 +20151,10 @@ const DADOS_IG = {
      "data": "2026-01-01T02:00:00+0000",
      "curtidas": 10,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 617,
+     "views": 1263,
      "link": "https://www.instagram.com/p/DS81VGRjZBJ/"
     },
     {
@@ -14425,6 +20165,10 @@ const DADOS_IG = {
      "data": "2025-12-31T12:01:46+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 1028,
+     "views": 1270,
      "link": "https://www.instagram.com/reel/DS7VFopjdYz/"
     },
     {
@@ -14435,6 +20179,10 @@ const DADOS_IG = {
      "data": "2025-12-28T14:19:05+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 520,
+     "views": 1361,
      "link": "https://www.instagram.com/p/DSz2tJTDZJt/"
     },
     {
@@ -14445,6 +20193,10 @@ const DADOS_IG = {
      "data": "2025-12-27T14:12:50+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1180,
+     "views": 1373,
      "link": "https://www.instagram.com/reel/DSxQiDGjXSX/"
     },
     {
@@ -14455,6 +20207,10 @@ const DADOS_IG = {
      "data": "2025-12-25T14:33:27+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 520,
+     "views": 1334,
      "link": "https://www.instagram.com/p/DSsJ9x6jUJG/"
     },
     {
@@ -14465,6 +20221,10 @@ const DADOS_IG = {
      "data": "2025-12-24T18:01:33+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 3,
+     "alcance": 1655,
+     "views": 2157,
      "link": "https://www.instagram.com/reel/DSp73hvkUvR/"
     },
     {
@@ -14475,6 +20235,10 @@ const DADOS_IG = {
      "data": "2025-12-23T15:06:10+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 826,
+     "views": 3228,
      "link": "https://www.instagram.com/p/DSnEHr-jctZ/"
     },
     {
@@ -14485,6 +20249,10 @@ const DADOS_IG = {
      "data": "2025-12-22T15:50:00+0000",
      "curtidas": 12,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 1203,
+     "views": 2004,
      "link": "https://www.instagram.com/reel/DSkkcDXDWYK/"
     },
     {
@@ -14495,6 +20263,10 @@ const DADOS_IG = {
      "data": "2025-12-22T02:00:00+0000",
      "curtidas": 2,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 456,
+     "views": 1425,
      "link": "https://www.instagram.com/p/DSjFXEQjWTv/"
     },
     {
@@ -14505,6 +20277,10 @@ const DADOS_IG = {
      "data": "2025-12-21T13:24:25+0000",
      "curtidas": 23,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 3,
+     "alcance": 2127,
+     "views": 2969,
      "link": "https://www.instagram.com/reel/DShuOE3jXpD/"
     },
     {
@@ -14515,6 +20291,10 @@ const DADOS_IG = {
      "data": "2025-12-20T04:02:35+0000",
      "curtidas": 3,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 592,
+     "views": 1593,
      "link": "https://www.instagram.com/p/DSeJyxjDSng/"
     },
     {
@@ -14525,6 +20305,10 @@ const DADOS_IG = {
      "data": "2025-12-19T21:39:04+0000",
      "curtidas": 7,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 2,
+     "alcance": 1240,
+     "views": 1550,
      "link": "https://www.instagram.com/reel/DSddnl-kgtL/"
     },
     {
@@ -14535,6 +20319,10 @@ const DADOS_IG = {
      "data": "2025-12-18T23:35:37+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 561,
+     "views": 1660,
      "link": "https://www.instagram.com/p/DSbGcjwjUKp/"
     },
     {
@@ -14545,6 +20333,10 @@ const DADOS_IG = {
      "data": "2025-12-17T19:53:46+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1684,
+     "views": 2358,
      "link": "https://www.instagram.com/reel/DSYINZdEqr3/"
     },
     {
@@ -14555,6 +20347,10 @@ const DADOS_IG = {
      "data": "2025-12-15T21:22:13+0000",
      "curtidas": 18,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 881,
+     "views": 1077,
      "link": "https://www.instagram.com/reel/DSTIvbyEktj/"
     },
     {
@@ -14565,6 +20361,10 @@ const DADOS_IG = {
      "data": "2025-12-11T16:05:14+0000",
      "curtidas": 13,
      "comentarios": 7,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 1238,
+     "views": 4256,
      "link": "https://www.instagram.com/p/DSIRVvxjSyX/"
     },
     {
@@ -14575,6 +20375,10 @@ const DADOS_IG = {
      "data": "2025-12-05T20:40:46+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 738,
+     "views": 4862,
      "link": "https://www.instagram.com/p/DR5UGoYEtEW/"
     },
     {
@@ -14585,6 +20389,10 @@ const DADOS_IG = {
      "data": "2025-12-01T21:10:31+0000",
      "curtidas": 38,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 10,
+     "alcance": 2027,
+     "views": 2759,
      "link": "https://www.instagram.com/reel/DRvEE3Gksu8/"
     },
     {
@@ -14595,6 +20403,10 @@ const DADOS_IG = {
      "data": "2025-11-29T16:32:46+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 8,
+     "alcance": 1162,
+     "views": 1362,
      "link": "https://www.instagram.com/reel/DRpZsHgjZfI/"
     },
     {
@@ -14605,6 +20417,10 @@ const DADOS_IG = {
      "data": "2025-11-29T14:29:45+0000",
      "curtidas": 21,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 10,
+     "alcance": 1760,
+     "views": 2284,
      "link": "https://www.instagram.com/reel/DRpMkm-DdL8/"
     },
     {
@@ -14615,6 +20431,10 @@ const DADOS_IG = {
      "data": "2025-11-28T11:21:25+0000",
      "curtidas": 5,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 987,
+     "views": 5603,
      "link": "https://www.instagram.com/p/DRmShqwDeAf/"
     },
     {
@@ -14625,6 +20445,10 @@ const DADOS_IG = {
      "data": "2025-11-27T13:52:18+0000",
      "curtidas": 24,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 1203,
+     "views": 1678,
      "link": "https://www.instagram.com/reel/DRj-hPxjSP-/"
     },
     {
@@ -14635,6 +20459,10 @@ const DADOS_IG = {
      "data": "2025-11-13T20:39:27+0000",
      "curtidas": 29,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 8,
+     "alcance": 1038,
+     "views": 1453,
      "link": "https://www.instagram.com/reel/DRAqZ3ZkzCw/"
     },
     {
@@ -14645,6 +20473,10 @@ const DADOS_IG = {
      "data": "2025-11-12T22:08:57+0000",
      "curtidas": 21,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 26,
+     "alcance": 1995,
+     "views": 2437,
      "link": "https://www.instagram.com/reel/DQ-PV0nEvEn/"
     },
     {
@@ -14655,6 +20487,10 @@ const DADOS_IG = {
      "data": "2025-11-11T14:40:35+0000",
      "curtidas": 24,
      "comentarios": 3,
+     "salvos": 2,
+     "compartilhamentos": 4,
+     "alcance": 1811,
+     "views": 2603,
      "link": "https://www.instagram.com/reel/DQ63xK1k8DV/"
     },
     {
@@ -14665,6 +20501,10 @@ const DADOS_IG = {
      "data": "2025-11-10T22:37:48+0000",
      "curtidas": 62,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 37,
+     "alcance": 2612,
+     "views": 4068,
      "link": "https://www.instagram.com/reel/DQ5IqsyEmDO/"
     },
     {
@@ -14675,6 +20515,10 @@ const DADOS_IG = {
      "data": "2025-11-10T21:01:17+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 9,
+     "alcance": 1520,
+     "views": 2119,
      "link": "https://www.instagram.com/reel/DQ4-hD4Ejbu/"
     },
     {
@@ -14685,6 +20529,10 @@ const DADOS_IG = {
      "data": "2025-11-10T02:13:19+0000",
      "curtidas": 9,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 676,
+     "views": 5903,
      "link": "https://www.instagram.com/p/DQ29fc9jbmo/"
     },
     {
@@ -14695,6 +20543,10 @@ const DADOS_IG = {
      "data": "2025-11-08T18:38:13+0000",
      "curtidas": 8,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 687,
+     "views": 5238,
      "link": "https://www.instagram.com/p/DQzknUrEUSt/"
     },
     {
@@ -14705,6 +20557,10 @@ const DADOS_IG = {
      "data": "2025-11-07T23:21:16+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 613,
+     "views": 942,
      "link": "https://www.instagram.com/reel/DQxgCeWjbsR/"
     },
     {
@@ -14715,6 +20571,10 @@ const DADOS_IG = {
      "data": "2025-11-07T16:18:12+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 674,
+     "views": 4893,
      "link": "https://www.instagram.com/p/DQwvzC-jVoX/"
     },
     {
@@ -14725,6 +20585,10 @@ const DADOS_IG = {
      "data": "2025-11-06T18:53:54+0000",
      "curtidas": 21,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 1103,
+     "views": 1476,
      "link": "https://www.instagram.com/reel/DQucyIeEw3x/"
     },
     {
@@ -14735,6 +20599,10 @@ const DADOS_IG = {
      "data": "2025-10-29T22:07:15+0000",
      "curtidas": 23,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 4,
+     "alcance": 1820,
+     "views": 8482,
      "link": "https://www.instagram.com/p/DQaMlnWElMz/"
     },
     {
@@ -14745,6 +20613,10 @@ const DADOS_IG = {
      "data": "2025-10-27T15:00:40+0000",
      "curtidas": 27,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 1646,
+     "views": 2012,
      "link": "https://www.instagram.com/reel/DQUQGR0jbSY/"
     },
     {
@@ -14755,6 +20627,10 @@ const DADOS_IG = {
      "data": "2025-10-27T13:43:10+0000",
      "curtidas": 37,
      "comentarios": 5,
+     "salvos": 0,
+     "compartilhamentos": 20,
+     "alcance": 1507,
+     "views": 8793,
      "link": "https://www.instagram.com/p/DQUJT6MjZRA/"
     },
     {
@@ -14765,6 +20641,10 @@ const DADOS_IG = {
      "data": "2025-09-23T13:55:11+0000",
      "curtidas": 38,
      "comentarios": 4,
+     "salvos": 6,
+     "compartilhamentos": 6,
+     "alcance": 1565,
+     "views": 2026,
      "link": "https://www.instagram.com/reel/DO8mVzyjW3A/"
     },
     {
@@ -14775,6 +20655,10 @@ const DADOS_IG = {
      "data": "2025-09-19T12:09:48+0000",
      "curtidas": 21,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 1121,
+     "views": 1349,
      "link": "https://www.instagram.com/reel/DOyG9W7DdwD/"
     },
     {
@@ -14785,6 +20669,10 @@ const DADOS_IG = {
      "data": "2025-09-10T12:32:18+0000",
      "curtidas": 94,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 3,
+     "alcance": 3488,
+     "views": 6011,
      "link": "https://www.instagram.com/reel/DOa_KyIDVB8/"
     },
     {
@@ -14795,6 +20683,10 @@ const DADOS_IG = {
      "data": "2025-09-08T18:36:38+0000",
      "curtidas": 4,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 803,
+     "views": 10663,
      "link": "https://www.instagram.com/p/DOWf8agkb3D/"
     },
     {
@@ -14805,6 +20697,10 @@ const DADOS_IG = {
      "data": "2025-09-06T14:55:41+0000",
      "curtidas": 25,
      "comentarios": 3,
+     "salvos": 2,
+     "compartilhamentos": 1,
+     "alcance": 1897,
+     "views": 2590,
      "link": "https://www.instagram.com/reel/DOQ5ur8jRE7/"
     },
     {
@@ -14815,6 +20711,10 @@ const DADOS_IG = {
      "data": "2025-09-04T18:51:54+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 5,
+     "alcance": 1341,
+     "views": 1837,
      "link": "https://www.instagram.com/reel/DOMNfnKkRdy/"
     },
     {
@@ -14825,6 +20725,10 @@ const DADOS_IG = {
      "data": "2025-09-01T17:04:27+0000",
      "curtidas": 54,
      "comentarios": 6,
+     "salvos": 2,
+     "compartilhamentos": 4,
+     "alcance": 1682,
+     "views": 2305,
      "link": "https://www.instagram.com/reel/DOETldZjc6O/"
     },
     {
@@ -14835,6 +20739,10 @@ const DADOS_IG = {
      "data": "2025-08-08T14:16:10+0000",
      "curtidas": 12,
      "comentarios": 0,
+     "salvos": 5,
+     "compartilhamentos": 3,
+     "alcance": 1129,
+     "views": 13242,
      "link": "https://www.instagram.com/p/DNGNflUu6Fd/"
     },
     {
@@ -14845,6 +20753,10 @@ const DADOS_IG = {
      "data": "2025-08-08T14:00:22+0000",
      "curtidas": 34,
      "comentarios": 5,
+     "salvos": 1,
+     "compartilhamentos": 28,
+     "alcance": 1460,
+     "views": 1753,
      "link": "https://www.instagram.com/reel/DNGLdxdxfVO/"
     },
     {
@@ -14855,6 +20767,10 @@ const DADOS_IG = {
      "data": "2025-08-06T13:26:27+0000",
      "curtidas": 63,
      "comentarios": 31,
+     "salvos": 2,
+     "compartilhamentos": 101,
+     "alcance": 2980,
+     "views": 4133,
      "link": "https://www.instagram.com/reel/DNA9omvRrV3/"
     },
     {
@@ -14865,6 +20781,10 @@ const DADOS_IG = {
      "data": "2025-08-04T20:48:08+0000",
      "curtidas": 22,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 6,
+     "alcance": 1026,
+     "views": 1263,
      "link": "https://www.instagram.com/reel/DM8mphRREUo/"
     },
     {
@@ -14875,6 +20795,10 @@ const DADOS_IG = {
      "data": "2025-08-04T13:48:12+0000",
      "curtidas": 22,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 7,
+     "alcance": 1341,
+     "views": 1766,
      "link": "https://www.instagram.com/reel/DM72_0MxwRa/"
     },
     {
@@ -14885,6 +20809,10 @@ const DADOS_IG = {
      "data": "2025-08-02T00:09:11+0000",
      "curtidas": 193,
      "comentarios": 3,
+     "salvos": 3,
+     "compartilhamentos": 5,
+     "alcance": 3996,
+     "views": 6718,
      "link": "https://www.instagram.com/reel/DM1PDJPRDce/"
     },
     {
@@ -14895,6 +20823,10 @@ const DADOS_IG = {
      "data": "2025-08-01T20:57:34+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 1,
+     "alcance": 1464,
+     "views": 1808,
      "link": "https://www.instagram.com/reel/DM05Y4_RPR_/"
     },
     {
@@ -14905,6 +20837,10 @@ const DADOS_IG = {
      "data": "2025-08-01T20:45:21+0000",
      "curtidas": 14,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 1324,
+     "views": 1676,
      "link": "https://www.instagram.com/reel/DM03i_tRUla/"
     },
     {
@@ -14915,6 +20851,10 @@ const DADOS_IG = {
      "data": "2025-07-30T13:59:46+0000",
      "curtidas": 22,
      "comentarios": 1,
+     "salvos": 3,
+     "compartilhamentos": 2,
+     "alcance": 1394,
+     "views": 1761,
      "link": "https://www.instagram.com/reel/DMvAattxqy0/"
     },
     {
@@ -14925,6 +20865,10 @@ const DADOS_IG = {
      "data": "2025-07-30T12:05:21+0000",
      "curtidas": 15,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 1462,
+     "views": 1769,
      "link": "https://www.instagram.com/reel/DMuzIt5R60K/"
     },
     {
@@ -14935,6 +20879,10 @@ const DADOS_IG = {
      "data": "2025-07-30T03:03:17+0000",
      "curtidas": 18,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 2,
+     "alcance": 1264,
+     "views": 1588,
      "link": "https://www.instagram.com/reel/DMt1OrYOsu2/"
     },
     {
@@ -14945,6 +20893,10 @@ const DADOS_IG = {
      "data": "2025-07-30T02:48:08+0000",
      "curtidas": 19,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 3,
+     "alcance": 1218,
+     "views": 1417,
      "link": "https://www.instagram.com/reel/DMtzexBuiA-/"
     },
     {
@@ -14955,6 +20907,10 @@ const DADOS_IG = {
      "data": "2025-07-24T13:19:45+0000",
      "curtidas": 20,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 1288,
+     "views": 7857,
      "link": "https://www.instagram.com/p/DMffHMhRNof/"
     },
     {
@@ -14965,6 +20921,10 @@ const DADOS_IG = {
      "data": "2025-07-24T13:14:11+0000",
      "curtidas": 13,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 1279,
+     "views": 7468,
      "link": "https://www.instagram.com/p/DMfeecKRjK-/"
     },
     {
@@ -14975,6 +20935,10 @@ const DADOS_IG = {
      "data": "2025-07-24T12:45:05+0000",
      "curtidas": 15,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 2,
+     "alcance": 1444,
+     "views": 1610,
      "link": "https://www.instagram.com/reel/DMfaW9YxWuE/"
     },
     {
@@ -14985,6 +20949,10 @@ const DADOS_IG = {
      "data": "2025-07-14T13:41:48+0000",
      "curtidas": 31,
      "comentarios": 4,
+     "salvos": 4,
+     "compartilhamentos": 6,
+     "alcance": 2298,
+     "views": 3340,
      "link": "https://www.instagram.com/reel/DMFxG7jxEKq/"
     },
     {
@@ -14995,6 +20963,10 @@ const DADOS_IG = {
      "data": "2025-07-02T13:43:22+0000",
      "curtidas": 24,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 5,
+     "alcance": 1799,
+     "views": 2289,
      "link": "https://www.instagram.com/reel/DLm4CBrxA5M/"
     },
     {
@@ -15005,6 +20977,10 @@ const DADOS_IG = {
      "data": "2025-06-23T19:55:24+0000",
      "curtidas": 22,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1309,
+     "views": 9846,
      "link": "https://www.instagram.com/p/DLQXv79vLgA/"
     },
     {
@@ -15015,6 +20991,10 @@ const DADOS_IG = {
      "data": "2025-06-19T13:00:30+0000",
      "curtidas": 29,
      "comentarios": 1,
+     "salvos": 4,
+     "compartilhamentos": 5,
+     "alcance": 2127,
+     "views": 3036,
      "link": "https://www.instagram.com/reel/DLFVDrRAJgI/"
     },
     {
@@ -15025,6 +21005,10 @@ const DADOS_IG = {
      "data": "2025-06-18T13:59:46+0000",
      "curtidas": 38,
      "comentarios": 3,
+     "salvos": 3,
+     "compartilhamentos": 5,
+     "alcance": 1815,
+     "views": 2624,
      "link": "https://www.instagram.com/reel/DLC2TEJR1nU/"
     },
     {
@@ -15035,6 +21019,10 @@ const DADOS_IG = {
      "data": "2025-06-11T16:28:37+0000",
      "curtidas": 51,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 5,
+     "alcance": 1948,
+     "views": 2755,
      "link": "https://www.instagram.com/reel/DKxFwtWRPbq/"
     },
     {
@@ -15045,6 +21033,10 @@ const DADOS_IG = {
      "data": "2025-06-10T13:32:25+0000",
      "curtidas": 22,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 16,
+     "alcance": 1322,
+     "views": 1519,
      "link": "https://www.instagram.com/reel/DKuNM9zx-ti/"
     },
     {
@@ -15055,6 +21047,10 @@ const DADOS_IG = {
      "data": "2025-06-09T13:05:07+0000",
      "curtidas": 18,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 5,
+     "alcance": 1414,
+     "views": 1777,
      "link": "https://www.instagram.com/reel/DKrlcMXRjFE/"
     },
     {
@@ -15065,6 +21061,10 @@ const DADOS_IG = {
      "data": "2025-06-07T14:45:36+0000",
      "curtidas": 17,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 1297,
+     "views": 1443,
      "link": "https://www.instagram.com/reel/DKmnJ6iRRkh/"
     },
     {
@@ -15075,6 +21075,10 @@ const DADOS_IG = {
      "data": "2025-06-04T13:22:53+0000",
      "curtidas": 20,
      "comentarios": 3,
+     "salvos": 4,
+     "compartilhamentos": 1,
+     "alcance": 1476,
+     "views": 1776,
      "link": "https://www.instagram.com/reel/DKevQ8sRpD9/"
     },
     {
@@ -15085,6 +21089,10 @@ const DADOS_IG = {
      "data": "2025-06-03T18:48:06+0000",
      "curtidas": 17,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 5,
+     "alcance": 1430,
+     "views": 1779,
      "link": "https://www.instagram.com/reel/DKcwCzlxtfi/"
     },
     {
@@ -15095,6 +21103,10 @@ const DADOS_IG = {
      "data": "2025-06-02T12:20:21+0000",
      "curtidas": 40,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 8,
+     "alcance": 2382,
+     "views": 2866,
      "link": "https://www.instagram.com/reel/DKZe03BNPDV/"
     },
     {
@@ -15105,6 +21117,10 @@ const DADOS_IG = {
      "data": "2025-05-19T18:22:07+0000",
      "curtidas": 17,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 2,
+     "alcance": 1803,
+     "views": 2352,
      "link": "https://www.instagram.com/reel/DJ2EjFQyLvq/"
     },
     {
@@ -15115,6 +21131,10 @@ const DADOS_IG = {
      "data": "2025-05-19T12:00:15+0000",
      "curtidas": 74,
      "comentarios": 6,
+     "salvos": 4,
+     "compartilhamentos": 3,
+     "alcance": 3225,
+     "views": 4796,
      "link": "https://www.instagram.com/reel/DJ1Y8UgtrjI/"
     },
     {
@@ -15125,6 +21145,10 @@ const DADOS_IG = {
      "data": "2025-05-16T18:37:42+0000",
      "curtidas": 54,
      "comentarios": 10,
+     "salvos": 5,
+     "compartilhamentos": 10,
+     "alcance": 2800,
+     "views": 4251,
      "link": "https://www.instagram.com/reel/DJuX_NdSzFN/"
     },
     {
@@ -15135,6 +21159,10 @@ const DADOS_IG = {
      "data": "2025-05-11T19:53:53+0000",
      "curtidas": 44,
      "comentarios": 4,
+     "salvos": 2,
+     "compartilhamentos": 2,
+     "alcance": 2057,
+     "views": 2854,
      "link": "https://www.instagram.com/reel/DJhpTc_SyFf/"
     },
     {
@@ -15145,6 +21173,10 @@ const DADOS_IG = {
      "data": "2025-05-10T17:13:22+0000",
      "curtidas": 53,
      "comentarios": 6,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 2038,
+     "views": 2518,
      "link": "https://www.instagram.com/reel/DJexPBUt9YL/"
     },
     {
@@ -15155,6 +21187,10 @@ const DADOS_IG = {
      "data": "2025-05-09T21:30:08+0000",
      "curtidas": 30,
      "comentarios": 1,
+     "salvos": 4,
+     "compartilhamentos": 5,
+     "alcance": 1789,
+     "views": 2155,
      "link": "https://www.instagram.com/reel/DJco7aryJt1/"
     },
     {
@@ -15165,6 +21201,10 @@ const DADOS_IG = {
      "data": "2025-05-09T13:46:26+0000",
      "curtidas": 34,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 17,
+     "alcance": 2360,
+     "views": 2848,
      "link": "https://www.instagram.com/reel/DJb061uNkui/"
     },
     {
@@ -15175,6 +21215,10 @@ const DADOS_IG = {
      "data": "2025-05-08T13:22:54+0000",
      "curtidas": 23,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 27,
+     "alcance": 1815,
+     "views": 2333,
      "link": "https://www.instagram.com/reel/DJZN-I3NHJo/"
     },
     {
@@ -15185,6 +21229,10 @@ const DADOS_IG = {
      "data": "2025-05-07T22:38:29+0000",
      "curtidas": 42,
      "comentarios": 14,
+     "salvos": 0,
+     "compartilhamentos": 5,
+     "alcance": 2379,
+     "views": 3624,
      "link": "https://www.instagram.com/reel/DJXo54USXNO/"
     },
     {
@@ -15195,6 +21243,10 @@ const DADOS_IG = {
      "data": "2025-05-07T14:27:18+0000",
      "curtidas": 19,
      "comentarios": 3,
+     "salvos": 0,
+     "compartilhamentos": 8,
+     "alcance": 1460,
+     "views": 1760,
      "link": "https://www.instagram.com/reel/DJWwj79t9iv/"
     },
     {
@@ -15205,6 +21257,10 @@ const DADOS_IG = {
      "data": "2025-05-05T15:20:00+0000",
      "curtidas": 40,
      "comentarios": 1,
+     "salvos": 6,
+     "compartilhamentos": 2,
+     "alcance": 2344,
+     "views": 2875,
      "link": "https://www.instagram.com/reel/DJRtARit4gh/"
     },
     {
@@ -15215,6 +21271,10 @@ const DADOS_IG = {
      "data": "2025-05-04T15:54:57+0000",
      "curtidas": 134,
      "comentarios": 29,
+     "salvos": 2,
+     "compartilhamentos": 56,
+     "alcance": 3941,
+     "views": 6028,
      "link": "https://www.instagram.com/reel/DJPMPq-NnkE/"
     },
     {
@@ -15225,6 +21285,10 @@ const DADOS_IG = {
      "data": "2025-04-30T23:11:47+0000",
      "curtidas": 41,
      "comentarios": 4,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 2347,
+     "views": 3116,
      "link": "https://www.instagram.com/reel/DJFrEWkyuXC/"
     },
     {
@@ -15235,6 +21299,10 @@ const DADOS_IG = {
      "data": "2025-04-30T17:17:27+0000",
      "curtidas": 83,
      "comentarios": 38,
+     "salvos": 3,
+     "compartilhamentos": 6,
+     "alcance": 2237,
+     "views": 3141,
      "link": "https://www.instagram.com/reel/DJFBeykRh4w/"
     },
     {
@@ -15245,6 +21313,10 @@ const DADOS_IG = {
      "data": "2025-04-25T15:15:15+0000",
      "curtidas": 115,
      "comentarios": 8,
+     "salvos": 2,
+     "compartilhamentos": 23,
+     "alcance": 6013,
+     "views": 8636,
      "link": "https://www.instagram.com/reel/DI38dqzN0-q/"
     },
     {
@@ -15255,6 +21327,10 @@ const DADOS_IG = {
      "data": "2025-04-24T21:14:32+0000",
      "curtidas": 19,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 1349,
+     "views": 1835,
      "link": "https://www.instagram.com/reel/DI2Av9np2HV/"
     },
     {
@@ -15265,6 +21341,10 @@ const DADOS_IG = {
      "data": "2025-04-16T23:02:26+0000",
      "curtidas": 66,
      "comentarios": 9,
+     "salvos": 2,
+     "compartilhamentos": 11,
+     "alcance": 2584,
+     "views": 3631,
      "link": "https://www.instagram.com/reel/DIhmXWESt2C/"
     },
     {
@@ -15275,6 +21355,10 @@ const DADOS_IG = {
      "data": "2025-04-10T17:14:04+0000",
      "curtidas": 29,
      "comentarios": 3,
+     "salvos": 2,
+     "compartilhamentos": 3,
+     "alcance": 1974,
+     "views": 2341,
      "link": "https://www.instagram.com/reel/DIRhAE-Rq2-/"
     },
     {
@@ -15285,6 +21369,10 @@ const DADOS_IG = {
      "data": "2025-04-09T22:53:28+0000",
      "curtidas": 38,
      "comentarios": 4,
+     "salvos": 2,
+     "compartilhamentos": 5,
+     "alcance": 2594,
+     "views": 3599,
      "link": "https://www.instagram.com/reel/DIPjX6TSi8s/"
     },
     {
@@ -15295,6 +21383,10 @@ const DADOS_IG = {
      "data": "2025-04-04T22:19:33+0000",
      "curtidas": 224,
      "comentarios": 111,
+     "salvos": 4,
+     "compartilhamentos": 24,
+     "alcance": 6686,
+     "views": 10591,
      "link": "https://www.instagram.com/reel/DICoB3oy_30/"
     },
     {
@@ -15305,6 +21397,10 @@ const DADOS_IG = {
      "data": "2025-04-03T22:22:34+0000",
      "curtidas": 74,
      "comentarios": 7,
+     "salvos": 2,
+     "compartilhamentos": 8,
+     "alcance": 2780,
+     "views": 3998,
      "link": "https://www.instagram.com/reel/DIADdFryF3A/"
     },
     {
@@ -15315,6 +21411,10 @@ const DADOS_IG = {
      "data": "2025-04-02T14:37:36+0000",
      "curtidas": 15,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 1286,
+     "views": 3776,
      "link": "https://www.instagram.com/p/DH8qMhoJzLw/"
     },
     {
@@ -15325,6 +21425,10 @@ const DADOS_IG = {
      "data": "2025-04-01T21:32:24+0000",
      "curtidas": 53,
      "comentarios": 12,
+     "salvos": 1,
+     "compartilhamentos": 4,
+     "alcance": 2946,
+     "views": 4642,
      "link": "https://www.instagram.com/reel/DH60nWMyukZ/"
     },
     {
@@ -15335,6 +21439,10 @@ const DADOS_IG = {
      "data": "2025-04-01T17:12:52+0000",
      "curtidas": 55,
      "comentarios": 8,
+     "salvos": 1,
+     "compartilhamentos": 18,
+     "alcance": 3178,
+     "views": 6781,
      "link": "https://www.instagram.com/p/DH6XK5hRrw9/"
     },
     {
@@ -15345,6 +21453,10 @@ const DADOS_IG = {
      "data": "2025-03-31T21:15:45+0000",
      "curtidas": 113,
      "comentarios": 74,
+     "salvos": 3,
+     "compartilhamentos": 83,
+     "alcance": 3279,
+     "views": 6161,
      "link": "https://www.instagram.com/reel/DH4N946SdX8/"
     },
     {
@@ -15355,6 +21467,10 @@ const DADOS_IG = {
      "data": "2025-03-31T21:14:23+0000",
      "curtidas": 61,
      "comentarios": 39,
+     "salvos": 0,
+     "compartilhamentos": 4,
+     "alcance": 2207,
+     "views": 4156,
      "link": "https://www.instagram.com/reel/DH4N4U_ySSn/"
     },
     {
@@ -15365,6 +21481,10 @@ const DADOS_IG = {
      "data": "2025-03-31T21:13:21+0000",
      "curtidas": 116,
      "comentarios": 143,
+     "salvos": 2,
+     "compartilhamentos": 139,
+     "alcance": 2693,
+     "views": 4727,
      "link": "https://www.instagram.com/reel/DH4NwkUyJNU/"
     },
     {
@@ -15375,6 +21495,10 @@ const DADOS_IG = {
      "data": "2025-03-29T17:31:15+0000",
      "curtidas": 39,
      "comentarios": 6,
+     "salvos": 1,
+     "compartilhamentos": 1,
+     "alcance": 1823,
+     "views": 2292,
      "link": "https://www.instagram.com/reel/DHyqoSzRgBa/"
     },
     {
@@ -15385,6 +21509,10 @@ const DADOS_IG = {
      "data": "2025-03-27T15:22:33+0000",
      "curtidas": 46,
      "comentarios": 6,
+     "salvos": 1,
+     "compartilhamentos": 8,
+     "alcance": 2036,
+     "views": 3312,
      "link": "https://www.instagram.com/reel/DHtR11lx0QB/"
     },
     {
@@ -15395,6 +21523,10 @@ const DADOS_IG = {
      "data": "2025-03-24T21:31:52+0000",
      "curtidas": 94,
      "comentarios": 133,
+     "salvos": 1,
+     "compartilhamentos": 1244,
+     "alcance": 1877,
+     "views": 3295,
      "link": "https://www.instagram.com/reel/DHmN_W5SrMl/"
     },
     {
@@ -15405,6 +21537,10 @@ const DADOS_IG = {
      "data": "2025-03-24T21:23:55+0000",
      "curtidas": 93,
      "comentarios": 138,
+     "salvos": 1,
+     "compartilhamentos": 50,
+     "alcance": 2474,
+     "views": 3727,
      "link": "https://www.instagram.com/reel/DHmNL1GSiPW/"
     },
     {
@@ -15415,6 +21551,10 @@ const DADOS_IG = {
      "data": "2025-03-24T21:20:13+0000",
      "curtidas": 36,
      "comentarios": 32,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 1049,
+     "views": 1629,
      "link": "https://www.instagram.com/reel/DHmMNTJSGWr/"
     },
     {
@@ -15425,6 +21565,10 @@ const DADOS_IG = {
      "data": "2025-03-20T21:07:18+0000",
      "curtidas": 57,
      "comentarios": 4,
+     "salvos": 5,
+     "compartilhamentos": 11,
+     "alcance": 2158,
+     "views": 2853,
      "link": "https://www.instagram.com/reel/DHb4WmpSfSI/"
     },
     {
@@ -15435,6 +21579,10 @@ const DADOS_IG = {
      "data": "2025-03-15T17:42:13+0000",
      "curtidas": 51,
      "comentarios": 32,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 1292,
+     "views": 2167,
      "link": "https://www.instagram.com/reel/DHOovtoxcrZ/"
     },
     {
@@ -15445,6 +21593,10 @@ const DADOS_IG = {
      "data": "2025-03-15T17:39:01+0000",
      "curtidas": 63,
      "comentarios": 112,
+     "salvos": 0,
+     "compartilhamentos": 61,
+     "alcance": 1818,
+     "views": 2818,
      "link": "https://www.instagram.com/reel/DHOoF59Rh_Y/"
     },
     {
@@ -15455,6 +21607,10 @@ const DADOS_IG = {
      "data": "2025-03-15T17:33:36+0000",
      "curtidas": 171,
      "comentarios": 142,
+     "salvos": 13,
+     "compartilhamentos": 113,
+     "alcance": 4032,
+     "views": 6426,
      "link": "https://www.instagram.com/reel/DHOnS5KxBvO/"
     },
     {
@@ -15465,6 +21621,10 @@ const DADOS_IG = {
      "data": "2025-03-08T17:29:11+0000",
      "curtidas": 84,
      "comentarios": 133,
+     "salvos": 2,
+     "compartilhamentos": 50,
+     "alcance": 2001,
+     "views": 3430,
      "link": "https://www.instagram.com/reel/DG8ltLJxQxF/"
     },
     {
@@ -15475,6 +21635,10 @@ const DADOS_IG = {
      "data": "2025-03-08T17:23:31+0000",
      "curtidas": 116,
      "comentarios": 106,
+     "salvos": 1,
+     "compartilhamentos": 66,
+     "alcance": 1948,
+     "views": 4173,
      "link": "https://www.instagram.com/reel/DG8huXFxXFY/"
     },
     {
@@ -15485,6 +21649,10 @@ const DADOS_IG = {
      "data": "2025-03-08T16:56:21+0000",
      "curtidas": 34,
      "comentarios": 28,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 1086,
+     "views": 1470,
      "link": "https://www.instagram.com/reel/DG8hX6uRZoD/"
     },
     {
@@ -15495,6 +21663,10 @@ const DADOS_IG = {
      "data": "2025-03-07T19:04:10+0000",
      "curtidas": 65,
      "comentarios": 6,
+     "salvos": 7,
+     "compartilhamentos": 1,
+     "alcance": 2545,
+     "views": 3570,
      "link": "https://www.instagram.com/reel/DG6LyNDpg5s/"
     },
     {
@@ -15505,6 +21677,10 @@ const DADOS_IG = {
      "data": "2025-03-01T20:32:55+0000",
      "curtidas": 114,
      "comentarios": 107,
+     "salvos": 0,
+     "compartilhamentos": 81,
+     "alcance": 1749,
+     "views": 2735,
      "link": "https://www.instagram.com/reel/DGq3077pPfi/"
     },
     {
@@ -15515,6 +21691,10 @@ const DADOS_IG = {
      "data": "2025-03-01T20:17:44+0000",
      "curtidas": 48,
      "comentarios": 46,
+     "salvos": 0,
+     "compartilhamentos": 7,
+     "alcance": 1347,
+     "views": 2092,
      "link": "https://www.instagram.com/reel/DGq2rsqJ1VE/"
     },
     {
@@ -15525,6 +21705,10 @@ const DADOS_IG = {
      "data": "2025-03-01T20:04:49+0000",
      "curtidas": 116,
      "comentarios": 74,
+     "salvos": 4,
+     "compartilhamentos": 20,
+     "alcance": 2552,
+     "views": 3970,
      "link": "https://www.instagram.com/reel/DGq0yByp8C0/"
     },
     {
@@ -15535,6 +21719,10 @@ const DADOS_IG = {
      "data": "2025-02-24T14:09:30+0000",
      "curtidas": 59,
      "comentarios": 7,
+     "salvos": 2,
+     "compartilhamentos": 2,
+     "alcance": 2988,
+     "views": 4391,
      "link": "https://www.instagram.com/reel/DGdVezaxwfo/"
     },
     {
@@ -15545,6 +21733,10 @@ const DADOS_IG = {
      "data": "2025-02-18T21:48:02+0000",
      "curtidas": 156,
      "comentarios": 69,
+     "salvos": 5,
+     "compartilhamentos": 15,
+     "alcance": 9222,
+     "views": 13225,
      "link": "https://www.instagram.com/reel/DGOs8RtyPta/"
     },
     {
@@ -15555,6 +21747,10 @@ const DADOS_IG = {
      "data": "2025-02-13T23:08:13+0000",
      "curtidas": 63,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 3,
+     "alcance": 2652,
+     "views": 3536,
      "link": "https://www.instagram.com/reel/DGB-ZibSQlX/"
     },
     {
@@ -15565,6 +21761,10 @@ const DADOS_IG = {
      "data": "2025-02-12T16:35:46+0000",
      "curtidas": 35,
      "comentarios": 3,
+     "salvos": 2,
+     "compartilhamentos": 12,
+     "alcance": 6223,
+     "views": 7843,
      "link": "https://www.instagram.com/reel/DF-rWNbxVkt/"
     },
     {
@@ -15575,6 +21775,10 @@ const DADOS_IG = {
      "data": "2025-02-10T21:15:17+0000",
      "curtidas": 38,
      "comentarios": 4,
+     "salvos": 4,
+     "compartilhamentos": 17,
+     "alcance": 3578,
+     "views": 4454,
      "link": "https://www.instagram.com/reel/DF6BtXaSGdV/"
     },
     {
@@ -15585,6 +21789,10 @@ const DADOS_IG = {
      "data": "2025-02-08T23:25:03+0000",
      "curtidas": 67,
      "comentarios": 5,
+     "salvos": 3,
+     "compartilhamentos": 20,
+     "alcance": 4408,
+     "views": 5966,
      "link": "https://www.instagram.com/reel/DF1IDLSSBVK/"
     },
     {
@@ -15595,6 +21803,10 @@ const DADOS_IG = {
      "data": "2025-02-06T15:04:13+0000",
      "curtidas": 34,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 5,
+     "alcance": 2421,
+     "views": 2498,
      "link": "https://www.instagram.com/reel/DFvExjvxLFs/"
     },
     {
@@ -15605,6 +21817,10 @@ const DADOS_IG = {
      "data": "2025-02-04T17:52:47+0000",
      "curtidas": 37,
      "comentarios": 2,
+     "salvos": 5,
+     "compartilhamentos": 4,
+     "alcance": 2427,
+     "views": 2785,
      "link": "https://www.instagram.com/reel/DFqPJFLRdHo/"
     },
     {
@@ -15615,6 +21831,10 @@ const DADOS_IG = {
      "data": "2025-01-31T13:51:46+0000",
      "curtidas": 56,
      "comentarios": 11,
+     "salvos": 6,
+     "compartilhamentos": 19,
+     "alcance": 3264,
+     "views": 3917,
      "link": "https://www.instagram.com/reel/DFfgNtlR4JQ/"
     },
     {
@@ -15625,6 +21845,10 @@ const DADOS_IG = {
      "data": "2025-01-29T16:15:13+0000",
      "curtidas": 63,
      "comentarios": 8,
+     "salvos": 7,
+     "compartilhamentos": 11,
+     "alcance": 3334,
+     "views": 4499,
      "link": "https://www.instagram.com/reel/DFame-cxkey/"
     },
     {
@@ -15635,6 +21859,10 @@ const DADOS_IG = {
      "data": "2025-01-15T16:35:19+0000",
      "curtidas": 35,
      "comentarios": 3,
+     "salvos": 5,
+     "compartilhamentos": 3,
+     "alcance": 2634,
+     "views": 2693,
      "link": "https://www.instagram.com/reel/DE2lu7dJcKi/"
     },
     {
@@ -15645,6 +21873,10 @@ const DADOS_IG = {
      "data": "2025-01-11T16:32:16+0000",
      "curtidas": 30,
      "comentarios": 0,
+     "salvos": 4,
+     "compartilhamentos": 9,
+     "alcance": 2441,
+     "views": 2717,
      "link": "https://www.instagram.com/reel/DEsSyEoJEUU/"
     },
     {
@@ -15655,6 +21887,10 @@ const DADOS_IG = {
      "data": "2024-12-24T17:59:28+0000",
      "curtidas": 31,
      "comentarios": 1,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 2366,
+     "views": 2545,
      "link": "https://www.instagram.com/reel/DD-GeZIpyHz/"
     },
     {
@@ -15665,6 +21901,10 @@ const DADOS_IG = {
      "data": "2024-12-23T12:19:15+0000",
      "curtidas": 36,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 5,
+     "alcance": 2549,
+     "views": 3095,
      "link": "https://www.instagram.com/reel/DD66Ffnp2cy/"
     },
     {
@@ -15675,6 +21915,10 @@ const DADOS_IG = {
      "data": "2024-12-21T18:36:22+0000",
      "curtidas": 37,
      "comentarios": 3,
+     "salvos": 3,
+     "compartilhamentos": 2,
+     "alcance": 2719,
+     "views": 2641,
      "link": "https://www.instagram.com/reel/DD2cCcdpOPC/"
     },
     {
@@ -15685,6 +21929,10 @@ const DADOS_IG = {
      "data": "2024-12-20T20:33:12+0000",
      "curtidas": 50,
      "comentarios": 4,
+     "salvos": 7,
+     "compartilhamentos": 2,
+     "alcance": 3250,
+     "views": 3817,
      "link": "https://www.instagram.com/reel/DD0EBT9JoYz/"
     },
     {
@@ -15695,6 +21943,10 @@ const DADOS_IG = {
      "data": "2024-09-24T13:30:00+0000",
      "curtidas": 59,
      "comentarios": 3,
+     "salvos": 9,
+     "compartilhamentos": 11,
+     "alcance": 2470,
+     "views": 3125,
      "link": "https://www.instagram.com/reel/DATTb3qpBTE/"
     },
     {
@@ -15705,6 +21957,10 @@ const DADOS_IG = {
      "data": "2024-09-21T17:28:49+0000",
      "curtidas": 41,
      "comentarios": 2,
+     "salvos": 0,
+     "compartilhamentos": 3,
+     "alcance": 2207,
+     "views": 2638,
      "link": "https://www.instagram.com/reel/DAMARXUp6XB/"
     },
     {
@@ -15715,6 +21971,10 @@ const DADOS_IG = {
      "data": "2024-09-18T22:06:00+0000",
      "curtidas": 22,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 4,
+     "alcance": 1808,
+     "views": 2139,
      "link": "https://www.instagram.com/reel/DAExjjAJ01g/"
     },
     {
@@ -15725,6 +21985,10 @@ const DADOS_IG = {
      "data": "2024-09-15T16:38:55+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 1,
+     "alcance": 1870,
+     "views": 3390,
      "link": "https://www.instagram.com/p/C_8d4-CJv_O/"
     },
     {
@@ -15735,6 +21999,10 @@ const DADOS_IG = {
      "data": "2024-09-12T14:42:22+0000",
      "curtidas": 35,
      "comentarios": 3,
+     "salvos": 1,
+     "compartilhamentos": 4,
+     "alcance": 2082,
+     "views": 2722,
      "link": "https://www.instagram.com/reel/C_0guYnpDTY/"
     },
     {
@@ -15745,6 +22013,10 @@ const DADOS_IG = {
      "data": "2024-08-21T15:32:38+0000",
      "curtidas": 37,
      "comentarios": 3,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 1604,
+     "views": 2039,
      "link": "https://www.instagram.com/reel/C-7-F-vJXD3/"
     },
     {
@@ -15755,6 +22027,10 @@ const DADOS_IG = {
      "data": "2024-08-19T23:05:46+0000",
      "curtidas": 29,
      "comentarios": 3,
+     "salvos": 4,
+     "compartilhamentos": 5,
+     "alcance": 2301,
+     "views": 3068,
      "link": "https://www.instagram.com/reel/C-3oYcxJbhS/"
     },
     {
@@ -15765,6 +22041,10 @@ const DADOS_IG = {
      "data": "2024-08-12T22:18:11+0000",
      "curtidas": 65,
      "comentarios": 4,
+     "salvos": 1,
+     "compartilhamentos": 11,
+     "alcance": 2285,
+     "views": 3897,
      "link": "https://www.instagram.com/reel/C-lffZ4p2VI/"
     },
     {
@@ -15775,6 +22055,10 @@ const DADOS_IG = {
      "data": "2024-08-11T20:27:46+0000",
      "curtidas": 9,
      "comentarios": 0,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 1489,
+     "views": 2905,
      "link": "https://www.instagram.com/p/C-iwQjbJyIG/"
     },
     {
@@ -15785,6 +22069,10 @@ const DADOS_IG = {
      "data": "2024-08-08T13:00:50+0000",
      "curtidas": 13,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 2,
+     "alcance": 1562,
+     "views": 2327,
      "link": "https://www.instagram.com/reel/C-aOn2TpmzT/"
     },
     {
@@ -15795,6 +22083,10 @@ const DADOS_IG = {
      "data": "2024-08-04T15:00:00+0000",
      "curtidas": 11,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 1314,
+     "views": 2778,
      "link": "https://www.instagram.com/p/C-QJRzPOi7n/"
     },
     {
@@ -15805,6 +22097,10 @@ const DADOS_IG = {
      "data": "2024-08-03T23:27:13+0000",
      "curtidas": 47,
      "comentarios": 18,
+     "salvos": 0,
+     "compartilhamentos": 14,
+     "alcance": 2193,
+     "views": 3024,
      "link": "https://www.instagram.com/reel/C-Odn-1phsO/"
     },
     {
@@ -15815,6 +22111,10 @@ const DADOS_IG = {
      "data": "2024-07-30T15:56:24+0000",
      "curtidas": 26,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 2,
+     "alcance": 1440,
+     "views": 2929,
      "link": "https://www.instagram.com/reel/C-DTenCpChQ/"
     },
     {
@@ -15825,6 +22125,10 @@ const DADOS_IG = {
      "data": "2024-07-26T15:55:53+0000",
      "curtidas": 86,
      "comentarios": 11,
+     "salvos": 6,
+     "compartilhamentos": 0,
+     "alcance": 982,
+     "views": 4320,
      "link": "https://www.instagram.com/reel/C95ESJ7pdEI/"
     },
     {
@@ -15835,6 +22139,10 @@ const DADOS_IG = {
      "data": "2024-07-10T22:57:46+0000",
      "curtidas": 39,
      "comentarios": 0,
+     "salvos": 7,
+     "compartilhamentos": 0,
+     "alcance": 1068,
+     "views": 2530,
      "link": "https://www.instagram.com/reel/C9Qn3W9Jg7K/"
     },
     {
@@ -15845,6 +22153,10 @@ const DADOS_IG = {
      "data": "2024-07-02T11:53:33+0000",
      "curtidas": 42,
      "comentarios": 3,
+     "salvos": 4,
+     "compartilhamentos": 2,
+     "alcance": 1068,
+     "views": 3826,
      "link": "https://www.instagram.com/reel/C86zeZkuA_7/"
     },
     {
@@ -15855,6 +22167,10 @@ const DADOS_IG = {
      "data": "2024-06-25T22:05:46+0000",
      "curtidas": 13,
      "comentarios": 0,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 1316,
+     "views": 0,
      "link": "https://www.instagram.com/p/C8p6HJvpOl0/"
     },
     {
@@ -15865,6 +22181,10 @@ const DADOS_IG = {
      "data": "2024-06-24T17:06:17+0000",
      "curtidas": 52,
      "comentarios": 6,
+     "salvos": 11,
+     "compartilhamentos": 4,
+     "alcance": 1833,
+     "views": 5056,
      "link": "https://www.instagram.com/reel/C8myyUpJqXp/"
     },
     {
@@ -15875,6 +22195,10 @@ const DADOS_IG = {
      "data": "2024-06-20T01:41:04+0000",
      "curtidas": 31,
      "comentarios": 1,
+     "salvos": 4,
+     "compartilhamentos": 0,
+     "alcance": 1368,
+     "views": 0,
      "link": "https://www.instagram.com/p/C8a1-13JFHH/"
     },
     {
@@ -15885,6 +22209,10 @@ const DADOS_IG = {
      "data": "2024-06-17T14:58:13+0000",
      "curtidas": 66,
      "comentarios": 6,
+     "salvos": 2,
+     "compartilhamentos": 1,
+     "alcance": 1362,
+     "views": 4898,
      "link": "https://www.instagram.com/reel/C8Uix3sJWMF/"
     },
     {
@@ -15895,6 +22223,10 @@ const DADOS_IG = {
      "data": "2024-06-14T18:01:55+0000",
      "curtidas": 119,
      "comentarios": 1711,
+     "salvos": 10,
+     "compartilhamentos": 5,
+     "alcance": 1074,
+     "views": 7418,
      "link": "https://www.instagram.com/reel/C8NJUzKpyN9/"
     },
     {
@@ -15905,6 +22237,10 @@ const DADOS_IG = {
      "data": "2024-06-11T01:31:33+0000",
      "curtidas": 36,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 785,
+     "views": 0,
      "link": "https://www.instagram.com/p/C8DpvNUJSpG/"
     },
     {
@@ -15915,6 +22251,10 @@ const DADOS_IG = {
      "data": "2024-06-07T22:13:06+0000",
      "curtidas": 38,
      "comentarios": 2,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 937,
+     "views": 2884,
      "link": "https://www.instagram.com/reel/C77kbc9pGk3/"
     },
     {
@@ -15925,6 +22265,10 @@ const DADOS_IG = {
      "data": "2024-06-05T11:55:41+0000",
      "curtidas": 19,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 740,
+     "views": 0,
      "link": "https://www.instagram.com/p/C71UZRlOn61/"
     },
     {
@@ -15935,6 +22279,10 @@ const DADOS_IG = {
      "data": "2024-06-01T12:31:51+0000",
      "curtidas": 30,
      "comentarios": 1,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 726,
+     "views": 0,
      "link": "https://www.instagram.com/p/C7rFWoWOSJ_/"
     },
     {
@@ -15945,6 +22293,10 @@ const DADOS_IG = {
      "data": "2024-05-29T12:14:47+0000",
      "curtidas": 104,
      "comentarios": 33,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 893,
+     "views": 4852,
      "link": "https://www.instagram.com/reel/C7jUAcsOKUT/"
     },
     {
@@ -15955,6 +22307,10 @@ const DADOS_IG = {
      "data": "2024-05-27T12:26:45+0000",
      "curtidas": 24,
      "comentarios": 2,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 854,
+     "views": 0,
      "link": "https://www.instagram.com/p/C7eMy3cuQ-L/"
     },
     {
@@ -15965,6 +22321,10 @@ const DADOS_IG = {
      "data": "2024-05-24T15:05:22+0000",
      "curtidas": 75,
      "comentarios": 5,
+     "salvos": 6,
+     "compartilhamentos": 1,
+     "alcance": 1044,
+     "views": 0,
      "link": "https://www.instagram.com/p/C7WwkF0uoVr/"
     },
     {
@@ -15975,6 +22335,10 @@ const DADOS_IG = {
      "data": "2024-05-23T16:03:11+0000",
      "curtidas": 64,
      "comentarios": 18,
+     "salvos": 8,
+     "compartilhamentos": 1,
+     "alcance": 1168,
+     "views": 4972,
      "link": "https://www.instagram.com/reel/C7USWjUOX1F/"
     },
     {
@@ -15985,6 +22349,10 @@ const DADOS_IG = {
      "data": "2024-05-16T11:03:02+0000",
      "curtidas": 64,
      "comentarios": 7,
+     "salvos": 4,
+     "compartilhamentos": 1,
+     "alcance": 1076,
+     "views": 4879,
      "link": "https://www.instagram.com/reel/C7BuOs-Og19/"
     },
     {
@@ -15995,6 +22363,10 @@ const DADOS_IG = {
      "data": "2024-05-15T11:42:16+0000",
      "curtidas": 192,
      "comentarios": 20,
+     "salvos": 14,
+     "compartilhamentos": 7,
+     "alcance": 1225,
+     "views": 8855,
      "link": "https://www.instagram.com/reel/C6_N0TwuI5d/"
     },
     {
@@ -16005,6 +22377,10 @@ const DADOS_IG = {
      "data": "2024-05-14T11:04:54+0000",
      "curtidas": 86,
      "comentarios": 0,
+     "salvos": 11,
+     "compartilhamentos": 1,
+     "alcance": 1495,
+     "views": 6204,
      "link": "https://www.instagram.com/reel/C68k_f6ux91/"
     },
     {
@@ -16015,6 +22391,10 @@ const DADOS_IG = {
      "data": "2024-05-07T14:47:27+0000",
      "curtidas": 59,
      "comentarios": 1,
+     "salvos": 6,
+     "compartilhamentos": 1,
+     "alcance": 1650,
+     "views": 5419,
      "link": "https://www.instagram.com/reel/C6q85VZOc9t/"
     },
     {
@@ -16025,6 +22405,10 @@ const DADOS_IG = {
      "data": "2024-05-03T12:58:24+0000",
      "curtidas": 89,
      "comentarios": 0,
+     "salvos": 12,
+     "compartilhamentos": 0,
+     "alcance": 1408,
+     "views": 6309,
      "link": "https://www.instagram.com/reel/C6gdHC1u01V/"
     },
     {
@@ -16035,6 +22419,10 @@ const DADOS_IG = {
      "data": "2024-05-01T23:13:28+0000",
      "curtidas": 222,
      "comentarios": 7,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 1200,
+     "views": 9481,
      "link": "https://www.instagram.com/reel/C6cZtMCJ2tI/"
     },
     {
@@ -16045,6 +22433,10 @@ const DADOS_IG = {
      "data": "2024-04-27T12:15:26+0000",
      "curtidas": 19,
      "comentarios": 3,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 795,
+     "views": 0,
      "link": "https://www.instagram.com/p/C6Q7pu6uoK-/"
     },
     {
@@ -16055,6 +22447,10 @@ const DADOS_IG = {
      "data": "2024-04-25T11:48:14+0000",
      "curtidas": 139,
      "comentarios": 13,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 1290,
+     "views": 7985,
      "link": "https://www.instagram.com/reel/C6Lum06O1AG/"
     },
     {
@@ -16065,6 +22461,10 @@ const DADOS_IG = {
      "data": "2024-04-20T14:43:11+0000",
      "curtidas": 143,
      "comentarios": 0,
+     "salvos": 6,
+     "compartilhamentos": 0,
+     "alcance": 1335,
+     "views": 11333,
      "link": "https://www.instagram.com/reel/C5_K1n7OlTs/"
     },
     {
@@ -16075,6 +22475,10 @@ const DADOS_IG = {
      "data": "2024-04-17T18:36:44+0000",
      "curtidas": 24,
      "comentarios": 2,
+     "salvos": 2,
+     "compartilhamentos": 0,
+     "alcance": 552,
+     "views": 0,
      "link": "https://www.instagram.com/p/C533VvBpxcZ/"
     },
     {
@@ -16085,6 +22489,10 @@ const DADOS_IG = {
      "data": "2024-04-17T12:07:43+0000",
      "curtidas": 21,
      "comentarios": 1,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 668,
+     "views": 0,
      "link": "https://www.instagram.com/p/C53K0eQuj12/"
     },
     {
@@ -16095,6 +22503,10 @@ const DADOS_IG = {
      "data": "2024-04-09T12:26:09+0000",
      "curtidas": 117,
      "comentarios": 3,
+     "salvos": 8,
+     "compartilhamentos": 0,
+     "alcance": 1145,
+     "views": 8402,
      "link": "https://www.instagram.com/reel/C5imMqvujTi/"
     },
     {
@@ -16105,6 +22517,10 @@ const DADOS_IG = {
      "data": "2024-04-07T00:00:48+0000",
      "curtidas": 259,
      "comentarios": 11,
+     "salvos": 8,
+     "compartilhamentos": 0,
+     "alcance": 2255,
+     "views": 14776,
      "link": "https://www.instagram.com/reel/C5cHpT9px_h/"
     },
     {
@@ -16115,6 +22531,10 @@ const DADOS_IG = {
      "data": "2024-04-05T13:07:48+0000",
      "curtidas": 245,
      "comentarios": 16,
+     "salvos": 11,
+     "compartilhamentos": 1,
+     "alcance": 875,
+     "views": 9412,
      "link": "https://www.instagram.com/reel/C5YX2OtuDj6/"
     },
     {
@@ -16125,6 +22545,10 @@ const DADOS_IG = {
      "data": "2024-04-02T11:10:39+0000",
      "curtidas": 253,
      "comentarios": 3,
+     "salvos": 5,
+     "compartilhamentos": 0,
+     "alcance": 759,
+     "views": 12002,
      "link": "https://www.instagram.com/reel/C5QcT8_OFRQ/"
     },
     {
@@ -16135,6 +22559,10 @@ const DADOS_IG = {
      "data": "2024-04-01T14:41:27+0000",
      "curtidas": 45,
      "comentarios": 0,
+     "salvos": 3,
+     "compartilhamentos": 0,
+     "alcance": 438,
+     "views": 0,
      "link": "https://www.instagram.com/p/C5OPsiYuBnr/"
     },
     {
@@ -16145,6 +22573,10 @@ const DADOS_IG = {
      "data": "2024-03-31T14:53:29+0000",
      "curtidas": 29,
      "comentarios": 0,
+     "salvos": 6,
+     "compartilhamentos": 0,
+     "alcance": 412,
+     "views": 0,
      "link": "https://www.instagram.com/p/C5LsRyhu6hf/"
     },
     {
@@ -16155,6 +22587,10 @@ const DADOS_IG = {
      "data": "2024-03-30T14:48:15+0000",
      "curtidas": 38,
      "comentarios": 0,
+     "salvos": 1,
+     "compartilhamentos": 0,
+     "alcance": 459,
+     "views": 0,
      "link": "https://www.instagram.com/p/C5JG4m-ugYK/"
     },
     {
@@ -16165,6 +22601,10 @@ const DADOS_IG = {
      "data": "2024-03-29T15:45:12+0000",
      "curtidas": 703,
      "comentarios": 72,
+     "salvos": 17,
+     "compartilhamentos": 2,
+     "alcance": 1090,
+     "views": 15190,
      "link": "https://www.instagram.com/reel/C5GoNjXOdp2/"
     },
     {
@@ -16175,6 +22615,10 @@ const DADOS_IG = {
      "data": "2024-03-27T22:28:28+0000",
      "curtidas": 431,
      "comentarios": 42,
+     "salvos": 15,
+     "compartilhamentos": 2,
+     "alcance": 1013,
+     "views": 16951,
      "link": "https://www.instagram.com/reel/C5CMAODJDiM/"
     },
     {
@@ -16185,6 +22629,10 @@ const DADOS_IG = {
      "data": "2024-03-27T15:51:04+0000",
      "curtidas": 84,
      "comentarios": 1,
+     "salvos": 4,
+     "compartilhamentos": 0,
+     "alcance": 661,
+     "views": 0,
      "link": "https://www.instagram.com/p/C5Bfr_bOK_5/"
     },
     {
@@ -16195,6 +22643,10 @@ const DADOS_IG = {
      "data": "2024-03-23T17:02:27+0000",
      "curtidas": 75,
      "comentarios": 10,
+     "salvos": 0,
+     "compartilhamentos": 0,
+     "alcance": 344,
+     "views": 4625,
      "link": "https://www.instagram.com/reel/C43UJPkuvss/"
     },
     {
@@ -16205,6 +22657,10 @@ const DADOS_IG = {
      "data": "2024-03-07T18:07:25+0000",
      "curtidas": 139,
      "comentarios": 6,
+     "salvos": 4,
+     "compartilhamentos": 0,
+     "alcance": 82,
+     "views": 2854,
      "link": "https://www.instagram.com/reel/C4OOjVoRcgo/"
     }
    ],
@@ -16303,17 +22759,47 @@ const DADOS_IG = {
  },
  "concorrentes": {
   "atualizadoEm": "2026-07-05",
-  "observacao": "Monitoramento manual/via Claude (Instagram não tem API pública de concorrentes). Atualizar quinzenalmente pedindo ao Claude: 'atualize o monitoramento de concorrentes do dashboard Instagram'.",
+  "observacao": "Levantamento via pesquisa web (Instagram não expõe dados de terceiros via API). Atualizar quinzenalmente pedindo ao Claude: 'atualize o monitoramento de concorrentes do dashboard Instagram'.",
   "santarem": [
    {
-    "perfil": "(preencher — ex.: perfumaria/cosméticos concorrente em Santarém)",
+    "perfil": "@lovemake.stm",
+    "seguidores": 20000,
+    "postsUltimos30d": null,
+    "formatoDominante": "Feed de produto com preço",
+    "observacoes": "Maior audiência da praça (20k, 1.196 posts). Posicionamento agressivo de preço: 'TUDO ATÉ R$ 10,00'. Duas lojas em Santarém. Compete no público de maquiagem barata."
+   },
+   {
+    "perfil": "@mundodabeleza_stm",
+    "seguidores": 12400,
+    "postsUltimos30d": null,
+    "formatoDominante": "Carrossel + Reels",
+    "observacoes": "Concorrente mais parecido com a Miss Beleza (cosméticos + atendimento personalizado). Destaques organizados por MARCA (Impala, Borabella, Lola, Fox for Men) — boa prática a copiar. Ativo em reels."
+   },
+   {
+    "perfil": "@casadabeleza_stm",
+    "seguidores": 6341,
+    "postsUltimos30d": null,
+    "formatoDominante": "",
+    "observacoes": "Atenção: usa nome 'Casa da Beleza' igual à nossa marca de Altamira/Itaituba, mas é concorrente de Santarém. Menor que a Miss Beleza STM."
+   },
+   {
+    "perfil": "@emporio_da_beleza_stm",
+    "seguidores": null,
+    "postsUltimos30d": null,
+    "formatoDominante": "Reels de perfume",
+    "observacoes": "Foco em perfumaria. Números não públicos via busca — verificar manualmente no app."
+   },
+   {
+    "perfil": "@distribuidoradoscosmeticosstm",
     "seguidores": null,
     "postsUltimos30d": null,
     "formatoDominante": "",
-    "observacoes": "Aguardando primeiro levantamento"
+    "observacoes": "Distribuidora (atacado) — compete no B2B/revenda. Números não públicos via busca."
    }
   ],
+  "resumo_competitivo_santarem": "A @missbelezastm (13,6k) é a 2ª maior audiência da praça, atrás só da @lovemake.stm (20k, nicho preço-baixo). O concorrente direto em proposta é o @mundodabeleza_stm (12,4k) — está a menos de 1,2k seguidores de nós e posta ativamente enquanto estamos parados. Diferenciais a explorar: variedade de marcas premium (Wella, Kérastase) que o público de R$10 não encontra, e atendimento no direct.",
   "altamira": [],
   "itaituba": []
- }
+ },
+ "historicoStories": []
 };
