@@ -40,19 +40,21 @@ Fluxo: `coleta_instagram.mjs` (Graph API → dados.js com timestamp REAL) → gi
 
 | Loja | Conta | Status |
 |---|---|---|
-| **L4 MissBeleza Altamira** | @missbelezaoficial (IG 17841408856810548, Page FB "MissBeleza" 2152437001676475) | ✅ conectada |
-| L5 MissBeleza Santarém | Página FB: **"Miss Beleza store \| Cosméticos \| Loja \| Beleza"** | 🔌 pendente |
-| L1 / L3 Casa da Beleza | — | 🔌 pendente |
+| **L1 Casa da Beleza Altamira** | @casadabelezaaltamira (IG 17841403942947039, Page 271167596379346) | ✅ conectada 05/07 |
+| **L4 MissBeleza Altamira** | @missbelezaoficial (IG 17841408856810548, Page "MissBeleza" 2152437001676475) | ✅ conectada 05/07 |
+| **L5 MissBeleza Santarém** | @missbelezastm (IG 17841463963553956, Page "Miss Beleza Stm" 432919069914495) | ✅ conectada 05/07 |
+| L3 Casa da Beleza Itaituba | — | ❌ SEM Página FB na conta do Athila (não apareceu no OAuth) |
 
-⚠️ CORREÇÃO 05/07/2026: @missbelezaoficial é a **L4** (não L5 — confirmado pelo Athila).
-A memória `analise_l5_jun2026` cita @missbelezastm para a L5.
+⚠️ @missbelezaoficial é a **L4**, não L5 (confirmado pelo Athila 05/07). Existe também uma Página
+"Miss Beleza" (2105506966128429) SEM Instagram vinculado — ignorar (antiga/duplicada).
 
-Para conectar as demais: Graph API Explorer → Generate Access Token → na tela OAuth do Facebook,
-**marcar TODAS as Páginas** (o /me/accounts atual só devolve "MissBeleza") → obter page token
-permanente de cada uma (exchange long-lived) → salvar `L5_PAGE_ID`, `L5_IG_ID`, `L5_PAGE_TOKEN`
-(etc.) no `.env`. O coletor lê essas chaves e o dashboard mostra a aba automaticamente.
-Se as Páginas das outras lojas não aparecerem no OAuth, elas não são administradas pela conta
-FB do Athila — dar acesso via Business Manager (portfólio MISS BELEZA) antes.
+Como foi conectado (se precisar repetir/adicionar loja): o OAuth "já autorizado" mantém a seleção
+antiga de Páginas. Caminho que funcionou: usuário edita as Páginas do app em
+facebook.com/settings?tab=business_tools → "AMGomes Social Analytics" → marca todas → na tela de
+reconexão do OAuth, clicar em **"Editar configurações"** (NUNCA "Reconectar" direto, que restaura a
+seleção antiga) → Generate Access Token no Explorer → exchange short→long→page tokens (permanentes)
+→ salvar `L{n}_PAGE_ID/_IG_ID/_PAGE_TOKEN` no `.env`. O coletor lê as chaves automaticamente.
+Para a L3: criar Página FB + IG business da loja (ou obter admin da existente) e repetir o fluxo.
 
 ## Arquivos
 
