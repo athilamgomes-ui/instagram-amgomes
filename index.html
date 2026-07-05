@@ -31,11 +31,11 @@ header .sub { font-size: .85rem; opacity: .9; margin-top: 4px; }
 .tabs { display: flex; gap: 8px; margin: 0 0 20px; flex-wrap: wrap; }
 .tab { background: var(--card); border: 1px solid var(--border); color: var(--muted); padding: 8px 18px; border-radius: 10px; cursor: pointer; font-size: .9rem; font-weight: 600; }
 .tab.ativa { background: var(--accent); color: #fff; border-color: var(--accent); }
-.tab.off { opacity: .45; cursor: default; }
+.tab.off { opacity: .45; }
 .tab.off::after { content: " 🔌"; font-size: .75rem; }
 
 .alertas { display: flex; flex-direction: column; gap: 8px; margin-bottom: 20px; }
-.alerta { border-radius: 10px; padding: 12px 16px; font-size: .9rem; font-weight: 500; display: flex; align-items: center; gap: 10px; }
+.alerta { border-radius: 10px; padding: 12px 16px; font-size: .9rem; font-weight: 500; }
 .alerta.vermelho { background: rgba(231,76,60,.15); border: 1px solid rgba(231,76,60,.4); }
 .alerta.amarelo { background: rgba(241,196,15,.12); border: 1px solid rgba(241,196,15,.35); }
 .alerta.verde { background: rgba(46,204,113,.12); border: 1px solid rgba(46,204,113,.35); }
@@ -48,7 +48,8 @@ header .sub { font-size: .85rem; opacity: .9; margin-top: 4px; }
 .delta.pos { color: var(--green); } .delta.neg { color: var(--red); } .delta.neutro { color: var(--muted); }
 
 section { margin-bottom: 28px; }
-h2 { font-size: 1.1rem; font-weight: 700; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
+h2 { font-size: 1.1rem; font-weight: 700; margin-bottom: 12px; }
+h3.sub { font-size: .9rem; margin-bottom: 10px; color: var(--muted); font-weight: 600; }
 .card { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 18px; }
 
 .metas-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
@@ -82,17 +83,27 @@ td a { color: var(--accent); text-decoration: none; }
 .stat-linha:last-child { border-bottom: none; }
 .stat-linha .v { font-weight: 700; }
 
-.grafico-dias { display: flex; align-items: flex-end; gap: 6px; height: 120px; padding-top: 10px; }
-.gd-col { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 4px; height: 100%; justify-content: flex-end; }
-.gd-barra { width: 100%; max-width: 46px; background: linear-gradient(180deg, var(--accent2), var(--accent)); border-radius: 5px 5px 0 0; min-height: 4px; }
-.gd-rotulo { font-size: .7rem; color: var(--muted); }
-.gd-valor { font-size: .72rem; font-weight: 700; }
+.grafico-barras { display: flex; align-items: flex-end; gap: 4px; height: 130px; padding-top: 24px; }
+.gb-col { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 4px; height: 100%; justify-content: flex-end; position: relative; }
+.gb-barra { width: 100%; max-width: 46px; background: linear-gradient(180deg, var(--accent2), var(--accent)); border-radius: 5px 5px 0 0; min-height: 3px; }
+.gb-barra.azul { background: linear-gradient(180deg, #5dade2, var(--blue)); }
+.gb-rotulo { font-size: .68rem; color: var(--muted); white-space: nowrap; }
+.gb-valor { font-size: .7rem; font-weight: 700; }
+.gb-extra { position: absolute; top: -20px; font-size: .66rem; color: var(--yellow); font-weight: 700; }
 
 .tema-tag { display: inline-flex; align-items: center; gap: 6px; background: var(--card2); border: 1px solid var(--border); border-radius: 20px; padding: 6px 14px; margin: 4px 4px 4px 0; font-size: .82rem; }
 .tema-tag b { color: var(--accent2); }
 
+.comp-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; }
+.comp-item { background: var(--card2); border-radius: 10px; padding: 14px; text-align: center; }
+.comp-item .rotulo { font-size: .76rem; color: var(--muted); }
+.comp-item .valores { font-size: 1.05rem; font-weight: 800; margin: 6px 0 2px; }
+.comp-item .valores .antes { color: var(--muted); font-weight: 600; font-size: .85rem; }
+.comp-item .var { font-size: .8rem; font-weight: 700; }
+
 footer { text-align: center; color: var(--muted); font-size: .75rem; margin-top: 30px; }
 .vazio { color: var(--muted); font-size: .85rem; font-style: italic; }
+.nota { font-size: .78rem; color: var(--muted); margin-top: 10px; }
 </style>
 </head>
 <body>
@@ -100,7 +111,7 @@ footer { text-align: center; color: var(--muted); font-size: .75rem; margin-top:
 <header>
   <div class="container">
     <h1>📱 Instagram — Grupo A.M. Gomes</h1>
-    <div class="sub">Análise de conteúdo, plano de postagem e metas — para execução de marketing</div>
+    <div class="sub">Análise de conteúdo e vendas online · gestão + execução de marketing</div>
     <div class="selo" id="seloColeta">Carregando…</div>
   </div>
 </header>
@@ -116,8 +127,10 @@ footer { text-align: center; color: var(--muted); font-size: .75rem; margin-top:
 // ─── Utilidades ───────────────────────────────────────────────────────────────
 const DIAS_PT = ['domingo','segunda','terça','quarta','quinta','sexta','sábado'];
 const DIAS_ABREV = ['dom','seg','ter','qua','qui','sex','sáb'];
+const MESES_ABREV = ['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'];
 const fmt = n => (n ?? 0).toLocaleString('pt-BR');
 const fmtData = iso => new Date(iso).toLocaleDateString('pt-BR');
+const pct = (novo, antigo) => antigo > 0 ? ((novo - antigo) / antigo * 100) : null;
 
 const TEMAS = [
   { chave: 'sorteio',      nome: '🎁 Sorteio',            regex: /sorteio|sorteando|concorr[ae]/i },
@@ -128,113 +141,245 @@ const TEMAS = [
   { chave: 'produto',      nome: '🧴 Produto/Marca',       regex: /shampoo|condicionador|m[áa]scara|creme|perfume|maquiagem|batom|sombra|primer|wella|loreal|kerastase|truss|taiff/i },
   { chave: 'institucional',nome: '🏪 Institucional/Equipe',regex: /equipe|loja|hor[áa]rio|funcionamento|gratid[ãa]o|obrigad|cliente/i },
 ];
-
 function classificarTema(legenda) {
   for (const t of TEMAS) if (t.regex.test(legenda || '')) return t;
   return { chave: 'outro', nome: '📌 Outros' };
 }
-
 function engaj(p) { return (p.curtidas || 0) + (p.comentarios || 0) * 3; }
+
+// Estatísticas de uma loja (compartilhado entre Visão Geral e aba da loja)
+function calcularStats(loja) {
+  const posts = loja.posts || [];
+  const agora = new Date();
+  const d = n => new Date(agora - n * 864e5);
+  const posts30 = posts.filter(p => new Date(p.data) >= d(30));
+  const posts90 = posts.filter(p => new Date(p.data) >= d(90));
+  const posts90ant = posts.filter(p => { const t = new Date(p.data); return t >= d(180) && t < d(90); });
+  const ultimoPost = posts[0];
+  const diasSemPostar = ultimoPost ? Math.floor((agora - new Date(ultimoPost.data)) / 864e5) : null;
+  const baseEng = posts90.length >= 3 ? posts90 : posts.slice(0, 10);
+  const engMedio = baseEng.length ? baseEng.reduce((s,p) => s + p.curtidas + p.comentarios, 0) / baseEng.length : 0;
+  const engRate = loja.perfil?.seguidores ? (engMedio / loja.perfil.seguidores * 100) : 0;
+  const media = arr => arr.length ? arr.reduce((s,p) => s + p.curtidas + p.comentarios, 0) / arr.length : 0;
+  return { posts, posts30, posts90, posts90ant, ultimoPost, diasSemPostar, engRate,
+           mediaEng90: media(posts90), mediaEng90ant: media(posts90ant) };
+}
+
+// ─── Visão Geral (gestão) ────────────────────────────────────────────────────
+function renderVisaoGeral(lojas) {
+  const el = document.getElementById('conteudo');
+  const conectadas = lojas.filter(l => l.conectada);
+  const pendentes = lojas.filter(l => !l.conectada);
+
+  let html = '';
+
+  // Alertas consolidados
+  const alertas = [];
+  for (const l of conectadas) {
+    const s = calcularStats(l);
+    if (s.diasSemPostar > 14) alertas.push(['vermelho', `🚨 <b>${l.codigo}</b>: ${s.diasSemPostar} dias sem publicar (último post ${fmtData(s.ultimoPost.data)})`]);
+    if (l.dms?.naoLidas > 0) alertas.push(['vermelho', `📬 <b>${l.codigo}</b>: ${l.dms.naoLidas} DM(s) não lida(s)`]);
+    const varEng = pct(s.mediaEng90, s.mediaEng90ant);
+    if (varEng !== null && varEng < -25 && s.posts90.length >= 3)
+      alertas.push(['amarelo', `📉 <b>${l.codigo}</b>: engajamento caiu ${Math.abs(varEng).toFixed(0)}% vs trimestre anterior`]);
+  }
+  if (pendentes.length) alertas.push(['amarelo', `🔌 ${pendentes.length} loja(s) ainda sem conexão à API: ${pendentes.map(l => l.codigo).join(', ')} — comparação entre lojas fica completa quando conectarem`]);
+  if (alertas.length) html += '<div class="alertas">' + alertas.map(([c,t]) => `<div class="alerta ${c}">${t}</div>`).join('') + '</div>';
+
+  // Tabela comparativa
+  html += `<section><h2>🏪 Comparação entre lojas</h2><div class="card">
+    <table><thead><tr><th>Loja</th><th>Conta</th><th class="num">Seguidores</th><th class="num">Posts 30d</th><th class="num">Engaj. médio</th><th class="num">Dias sem postar</th><th class="num">DMs não lidas</th></tr></thead><tbody>`;
+  for (const l of lojas) {
+    if (!l.conectada) {
+      html += `<tr style="opacity:.5"><td><b>${l.codigo}</b> ${l.nome}</td><td colspan="6" class="vazio">não conectada — pedir ao Claude: "conectar Instagram da ${l.codigo}"</td></tr>`;
+      continue;
+    }
+    const s = calcularStats(l);
+    const corDias = s.diasSemPostar <= 3 ? 'var(--green)' : s.diasSemPostar <= 7 ? 'var(--yellow)' : 'var(--red)';
+    html += `<tr>
+      <td><b>${l.codigo}</b> ${l.nome}</td>
+      <td>@${l.perfil.username}</td>
+      <td class="num"><b>${fmt(l.perfil.seguidores)}</b></td>
+      <td class="num">${s.posts30.length}</td>
+      <td class="num">${s.engRate.toFixed(2)}%</td>
+      <td class="num" style="color:${corDias};font-weight:700">${s.diasSemPostar ?? '—'}</td>
+      <td class="num">${l.dms?.naoLidas ?? 0}</td>
+    </tr>`;
+  }
+  html += `</tbody></table>
+    <p class="nota">Engajamento médio = (curtidas + comentários por post dos últimos 90 dias) ÷ seguidores. Referência do varejo: 1–3% é saudável.</p>
+  </div></section>`;
+
+  // Tendência consolidada por loja (12 meses, posts/mês)
+  html += `<section><h2>📈 Ritmo de publicação — últimos 12 meses</h2>`;
+  for (const l of conectadas) {
+    const meses = tendenciaMensal(l.posts || []);
+    const maxN = Math.max(...meses.map(m => m.n), 1);
+    html += `<div class="card" style="margin-bottom:12px"><h3 class="sub">${l.codigo} · @${l.perfil.username} — barras: posts/mês · número amarelo: média de curtidas</h3>
+      <div class="grafico-barras">${meses.map(m => `
+        <div class="gb-col">
+          ${m.n > 0 ? `<div class="gb-extra">${m.mediaCur.toFixed(0)}❤</div>` : ''}
+          <div class="gb-valor">${m.n}</div>
+          <div class="gb-barra" style="height:${m.n/maxN*70}%"></div>
+          <div class="gb-rotulo">${m.rotulo}</div>
+        </div>`).join('')}
+      </div></div>`;
+  }
+  html += `</section>`;
+
+  el.innerHTML = html;
+}
+
+function tendenciaMensal(posts) {
+  const agora = new Date();
+  const meses = [];
+  for (let i = 11; i >= 0; i--) {
+    const ref = new Date(agora.getFullYear(), agora.getMonth() - i, 1);
+    const chave = ref.getFullYear() + '-' + String(ref.getMonth() + 1).padStart(2, '0');
+    meses.push({ chave, rotulo: MESES_ABREV[ref.getMonth()] + (ref.getMonth() === 0 ? '/' + String(ref.getFullYear()).slice(2) : ''), n: 0, cur: 0, mediaCur: 0 });
+  }
+  for (const p of posts) {
+    const chave = p.data.slice(0, 7);
+    const m = meses.find(x => x.chave === chave);
+    if (m) { m.n++; m.cur += p.curtidas; }
+  }
+  meses.forEach(m => m.mediaCur = m.n ? m.cur / m.n : 0);
+  return meses;
+}
 
 // ─── Render por loja ──────────────────────────────────────────────────────────
 function renderLoja(loja) {
   const el = document.getElementById('conteudo');
   if (!loja.conectada) {
-    el.innerHTML = `<div class="card"><p class="vazio">🔌 Conta da ${loja.nome} ainda não conectada à API. Peça ao Claude: "conectar Instagram da ${loja.codigo}".</p></div>`;
+    const pagina = loja.codigo === 'L5' ? ' (Página do Facebook: "Miss Beleza store | Cosméticos | Loja | Beleza")' : '';
+    el.innerHTML = `<div class="card"><p class="vazio">🔌 Conta da ${loja.nome}${pagina} ainda não conectada à API. Peça ao Claude: "conectar Instagram da ${loja.codigo}".</p></div>`;
     return;
   }
 
-  const posts = loja.posts || [];
+  const s = calcularStats(loja);
+  const posts = s.posts;
   const agora = new Date();
-  const d30 = new Date(agora - 30 * 864e5);
-  const d90 = new Date(agora - 90 * 864e5);
   const d365 = new Date(agora - 365 * 864e5);
-
-  const posts30 = posts.filter(p => new Date(p.data) >= d30);
-  const posts90 = posts.filter(p => new Date(p.data) >= d90);
   const posts365 = posts.filter(p => new Date(p.data) >= d365);
-
-  const ultimoPost = posts[0];
-  const diasSemPostar = ultimoPost ? Math.floor((agora - new Date(ultimoPost.data)) / 864e5) : null;
-
-  // Engajamento recente (últimos 90d, ou últimos 10 posts se não houver)
-  const baseEng = posts90.length >= 3 ? posts90 : posts.slice(0, 10);
-  const engMedio = baseEng.length ? baseEng.reduce((s,p) => s + p.curtidas + p.comentarios, 0) / baseEng.length : 0;
-  const engRate = loja.perfil.seguidores ? (engMedio / loja.perfil.seguidores * 100) : 0;
-
-  // Metas
   const metas = (DADOS_IG.metas?.porLoja || {})[loja.codigo];
 
-  // ── Alertas ──
+  // ── Alertas (com tendência) ──
   const alertas = [];
-  if (diasSemPostar !== null && diasSemPostar > 14)
-    alertas.push(['vermelho', `🚨 <b>${diasSemPostar} dias sem publicar!</b> Último post em ${fmtData(ultimoPost.data)}. Prioridade máxima: retomar presença.`]);
-  else if (diasSemPostar !== null && diasSemPostar > 7)
-    alertas.push(['amarelo', `⚠️ ${diasSemPostar} dias sem publicar. Programar post para esta semana.`]);
+  if (s.diasSemPostar !== null && s.diasSemPostar > 14)
+    alertas.push(['vermelho', `🚨 <b>${s.diasSemPostar} dias sem publicar!</b> Último post em ${fmtData(s.ultimoPost.data)}. Prioridade máxima: retomar presença.`]);
+  else if (s.diasSemPostar !== null && s.diasSemPostar > 7)
+    alertas.push(['amarelo', `⚠️ ${s.diasSemPostar} dias sem publicar. Programar post para esta semana.`]);
+  const varEng = pct(s.mediaEng90, s.mediaEng90ant);
+  if (varEng !== null && varEng < -25 && s.posts90.length >= 3)
+    alertas.push(['amarelo', `📉 Engajamento médio caiu <b>${Math.abs(varEng).toFixed(0)}%</b> vs trimestre anterior (${s.mediaEng90ant.toFixed(0)} → ${s.mediaEng90.toFixed(0)} interações/post).`]);
+  if (varEng !== null && varEng > 25 && s.posts90.length >= 3)
+    alertas.push(['verde', `📈 Engajamento médio subiu <b>${varEng.toFixed(0)}%</b> vs trimestre anterior. O que mudou está funcionando — ver seção "O que funcionou".`]);
   if ((loja.stories || []).length === 0)
     alertas.push(['amarelo', `📖 Nenhum story ativo agora. Stories diários mantêm a loja visível sem depender do algoritmo do feed.`]);
   if (loja.dms?.naoLidas > 0)
     alertas.push(['vermelho', `📬 <b>${loja.dms.naoLidas} conversa(s) com DM não lida.</b> Responder rápido melhora alcance e converte venda.`]);
-  if (engRate >= 1.5)
-    alertas.push(['verde', `🌟 Engajamento recente saudável (${engRate.toFixed(2)}%). Manter o ritmo.`]);
+  if (s.engRate >= 1.5)
+    alertas.push(['verde', `🌟 Engajamento recente saudável (${s.engRate.toFixed(2)}%). Manter o ritmo.`]);
 
-  // ── Análise por dia da semana (histórico completo) ──
+  // ── Análises ──
   const porDia = Array.from({length:7}, () => ({ n: 0, eng: 0 }));
   posts.forEach(p => { const d = new Date(p.data).getDay(); porDia[d].n++; porDia[d].eng += p.curtidas; });
   const mediaDia = porDia.map(d => d.n ? d.eng / d.n : 0);
-  const maxMedia = Math.max(...mediaDia);
+  const maxMediaDia = Math.max(...mediaDia);
   const melhoresDias = mediaDia.map((m,i) => ({ i, m })).sort((a,b) => b.m - a.m).slice(0,3).map(x => x.i);
 
-  // ── Análise por formato ──
+  // Por horário (fuso Belém = UTC-3; timestamps vêm em UTC)
+  const FAIXAS = [ {nome:'Madrugada (0–6h)', ini:0, fim:6}, {nome:'Manhã (6–12h)', ini:6, fim:12}, {nome:'Tarde (12–18h)', ini:12, fim:18}, {nome:'Noite (18–24h)', ini:18, fim:24} ];
+  const porHora = FAIXAS.map(f => ({ ...f, n: 0, eng: 0 }));
+  posts.forEach(p => {
+    const h = (new Date(p.data).getUTCHours() - 3 + 24) % 24;
+    const fx = porHora.find(f => h >= f.ini && h < f.fim);
+    if (fx) { fx.n++; fx.eng += p.curtidas + p.comentarios; }
+  });
+
+  const basePeriodo = posts365.length >= 10 ? posts365 : posts.slice(0, 100);
   const porFormato = {};
-  posts365.length >= 10 ? posts365 : posts.slice(0, 100);
-  (posts365.length >= 10 ? posts365 : posts.slice(0, 100)).forEach(p => {
+  basePeriodo.forEach(p => {
     const k = p.produto === 'REELS' ? 'Reels' : 'Feed (foto/carrossel)';
     porFormato[k] = porFormato[k] || { n: 0, cur: 0, com: 0 };
     porFormato[k].n++; porFormato[k].cur += p.curtidas; porFormato[k].com += p.comentarios;
   });
 
-  // ── Temas que funcionaram (posts acima da média, histórico) ──
-  const mediaGeral = posts.length ? posts.reduce((s,p) => s + engaj(p), 0) / posts.length : 0;
-  const temasContagem = {};
-  posts.filter(p => engaj(p) > mediaGeral * 1.3).forEach(p => {
-    const t = classificarTema(p.legenda);
-    temasContagem[t.nome] = (temasContagem[t.nome] || 0) + 1;
+  // Engajamento médio por tema (histórico, temas com ≥5 posts)
+  const porTema = {};
+  posts.forEach(p => {
+    const t = classificarTema(p.legenda).nome;
+    porTema[t] = porTema[t] || { n: 0, eng: 0 };
+    porTema[t].n++; porTema[t].eng += p.curtidas + p.comentarios;
   });
-  const temasTop = Object.entries(temasContagem).sort((a,b) => b[1] - a[1]).slice(0, 6);
+  const temasRank = Object.entries(porTema)
+    .filter(([,v]) => v.n >= 5)
+    .map(([nome, v]) => ({ nome, n: v.n, media: v.eng / v.n }))
+    .sort((a,b) => b.media - a.media);
 
-  // ── Top posts (12 meses e all-time) ──
   const top12m = [...posts365].sort((a,b) => engaj(b) - engaj(a)).slice(0, 5);
   const topAll = [...posts].sort((a,b) => engaj(b) - engaj(a)).slice(0, 5);
-
-  // ── Plano semanal sugerido ──
+  const temasTop = temasRank.slice(0, 6).map(t => [t.nome, t.n]);
   const plano = gerarPlano(melhoresDias, temasTop, metas);
 
-  // ── Crescimento de seguidores (histórico próprio) ──
   const hist = (DADOS_IG.historicoSeguidores || []).filter(h => h.loja === loja.codigo).sort((a,b) => a.data.localeCompare(b.data));
   let deltaSeguidores = null;
   if (hist.length >= 2) deltaSeguidores = hist[hist.length-1].seguidores - hist[0].seguidores;
 
+  const meses = tendenciaMensal(posts);
+  const maxN = Math.max(...meses.map(m => m.n), 1);
+
   // ── HTML ──
   let html = '';
-
-  if (alertas.length) {
-    html += '<div class="alertas">' + alertas.map(([cor, txt]) => `<div class="alerta ${cor}">${txt}</div>`).join('') + '</div>';
-  }
+  if (alertas.length) html += '<div class="alertas">' + alertas.map(([c,t]) => `<div class="alerta ${c}">${t}</div>`).join('') + '</div>';
 
   html += `<div class="kpis">
     <div class="kpi"><div class="valor">${fmt(loja.perfil.seguidores)}</div><div class="rotulo">Seguidores @${loja.perfil.username}</div>
       ${deltaSeguidores !== null ? `<div class="delta ${deltaSeguidores >= 0 ? 'pos' : 'neg'}">${deltaSeguidores >= 0 ? '+' : ''}${deltaSeguidores} desde ${fmtData(hist[0].data)}</div>` : '<div class="delta neutro">acompanhando desde hoje</div>'}</div>
-    <div class="kpi"><div class="valor">${posts30.length}</div><div class="rotulo">Posts últimos 30 dias</div>
-      <div class="delta ${posts30.length >= (metas?.postsPorSemana?.meta || 3) * 4 ? 'pos' : 'neg'}">meta: ${(metas?.postsPorSemana?.meta || 3) * 4}/mês</div></div>
-    <div class="kpi"><div class="valor">${engRate.toFixed(2)}%</div><div class="rotulo">Engajamento médio recente</div>
-      <div class="delta ${engRate >= (metas?.engajamentoMedio?.metaPct || 1.5) ? 'pos' : 'neg'}">meta: ${metas?.engajamentoMedio?.metaPct || 1.5}%</div></div>
-    <div class="kpi"><div class="valor">${diasSemPostar ?? '—'}</div><div class="rotulo">Dias desde o último post</div>
-      <div class="delta ${diasSemPostar <= 3 ? 'pos' : diasSemPostar <= 7 ? 'neutro' : 'neg'}">ideal: ≤ 3 dias</div></div>
+    <div class="kpi"><div class="valor">${s.posts30.length}</div><div class="rotulo">Posts últimos 30 dias</div>
+      <div class="delta ${s.posts30.length >= (metas?.postsPorSemana?.meta || 3) * 4 ? 'pos' : 'neg'}">meta: ${(metas?.postsPorSemana?.meta || 3) * 4}/mês</div></div>
+    <div class="kpi"><div class="valor">${s.engRate.toFixed(2)}%</div><div class="rotulo">Engajamento médio recente</div>
+      <div class="delta ${s.engRate >= (metas?.engajamentoMedio?.metaPct || 1.5) ? 'pos' : 'neg'}">meta: ${metas?.engajamentoMedio?.metaPct || 1.5}%</div></div>
+    <div class="kpi"><div class="valor">${s.diasSemPostar ?? '—'}</div><div class="rotulo">Dias desde o último post</div>
+      <div class="delta ${s.diasSemPostar <= 3 ? 'pos' : s.diasSemPostar <= 7 ? 'neutro' : 'neg'}">ideal: ≤ 3 dias</div></div>
     <div class="kpi"><div class="valor">${(loja.stories||[]).length}</div><div class="rotulo">Stories ativos agora</div></div>
     <div class="kpi"><div class="valor">${loja.dms?.naoLidas ?? 0}</div><div class="rotulo">DMs não lidas</div>
       <div class="delta ${(loja.dms?.naoLidas ?? 0) === 0 ? 'pos' : 'neg'}">${(loja.dms?.naoLidas ?? 0) === 0 ? 'em dia ✓' : 'responder hoje!'}</div></div>
   </div>`;
+
+  // Tendência 12 meses
+  html += `<section><h2>📈 Tendência — últimos 12 meses</h2><div class="card">
+    <h3 class="sub">Barras: posts publicados por mês · número amarelo: média de curtidas dos posts do mês</h3>
+    <div class="grafico-barras">${meses.map(m => `
+      <div class="gb-col">
+        ${m.n > 0 ? `<div class="gb-extra">${m.mediaCur.toFixed(0)}❤</div>` : ''}
+        <div class="gb-valor">${m.n}</div>
+        <div class="gb-barra" style="height:${m.n/maxN*70}%"></div>
+        <div class="gb-rotulo">${m.rotulo}</div>
+      </div>`).join('')}
+    </div>
+    <p class="nota">Leitura de gestão: frequência constante alimenta o algoritmo — vales prolongados derrubam o alcance dos posts seguintes.</p>
+  </div></section>`;
+
+  // Comparativo de períodos
+  const compItens = [
+    { rotulo: 'Posts publicados', novo: s.posts90.length, antigo: s.posts90ant.length, fmt: v => v },
+    { rotulo: 'Interações médias/post', novo: s.mediaEng90, antigo: s.mediaEng90ant, fmt: v => v.toFixed(1) },
+    { rotulo: 'Curtidas totais', novo: s.posts90.reduce((x,p)=>x+p.curtidas,0), antigo: s.posts90ant.reduce((x,p)=>x+p.curtidas,0), fmt: v => fmt(v) },
+    { rotulo: 'Comentários totais', novo: s.posts90.reduce((x,p)=>x+p.comentarios,0), antigo: s.posts90ant.reduce((x,p)=>x+p.comentarios,0), fmt: v => fmt(v) },
+  ];
+  html += `<section><h2>🔁 Últimos 90 dias vs 90 anteriores</h2><div class="card"><div class="comp-grid">
+    ${compItens.map(c => {
+      const v = pct(c.novo, c.antigo);
+      const cor = v === null ? 'neutro' : v >= 0 ? 'pos' : 'neg';
+      const seta = v === null ? '' : v >= 0 ? '▲' : '▼';
+      return `<div class="comp-item">
+        <div class="rotulo">${c.rotulo}</div>
+        <div class="valores">${c.fmt(c.novo)} <span class="antes">← ${c.fmt(c.antigo)}</span></div>
+        <div class="var delta ${cor}">${v === null ? 'sem base' : seta + ' ' + Math.abs(v).toFixed(0) + '%'}</div>
+      </div>`;
+    }).join('')}
+  </div><p class="nota">Compara o trimestre atual com o anterior — é o termômetro de tendência da conta.</p></div></section>`;
 
   // Metas
   if (metas) {
@@ -242,22 +387,22 @@ function renderLoja(loja) {
     const segMeta90 = metas.seguidores.meta90d;
     const segBase = metas.seguidores.baseline;
     const progSeg = Math.min(100, Math.max(0, (segAtual - segBase) / (segMeta90 - segBase) * 100));
-    const progPosts = Math.min(100, posts30.length / ((metas.postsPorSemana.meta) * 4) * 100);
-    const progEng = Math.min(100, engRate / metas.engajamentoMedio.metaPct * 100);
+    const progPosts = Math.min(100, s.posts30.length / ((metas.postsPorSemana.meta) * 4) * 100);
+    const progEng = Math.min(100, s.engRate / metas.engajamentoMedio.metaPct * 100);
     html += `<section><h2>🎯 Metas de crescimento</h2><div class="card"><div class="metas-grid">
       <div class="meta-item"><div class="titulo">Seguidores → ${fmt(segMeta90)} em 90 dias</div>
         <div class="barra"><div style="width:${progSeg}%"></div></div>
         <div class="prog">${fmt(segAtual)} de ${fmt(segMeta90)} (${progSeg.toFixed(0)}%)</div></div>
       <div class="meta-item"><div class="titulo">Frequência → ${metas.postsPorSemana.meta} posts/semana</div>
         <div class="barra"><div style="width:${progPosts}%"></div></div>
-        <div class="prog">${posts30.length} posts em 30d (${progPosts.toFixed(0)}% da meta mensal)</div></div>
+        <div class="prog">${s.posts30.length} posts em 30d (${progPosts.toFixed(0)}% da meta mensal)</div></div>
       <div class="meta-item"><div class="titulo">Engajamento → ${metas.engajamentoMedio.metaPct}%</div>
         <div class="barra"><div style="width:${progEng}%"></div></div>
-        <div class="prog">${engRate.toFixed(2)}% atual (${progEng.toFixed(0)}%)</div></div>
+        <div class="prog">${s.engRate.toFixed(2)}% atual (${progEng.toFixed(0)}%)</div></div>
     </div></div></section>`;
   }
 
-  // Plano de postagem semanal
+  // Plano de postagem
   html += `<section><h2>📅 Plano de postagem da semana</h2><div class="card">
     <p style="font-size:.83rem;color:var(--muted);margin-bottom:12px">Gerado a partir do desempenho histórico da conta: melhores dias são <b>${melhoresDias.map(i => DIAS_PT[i]).join(', ')}</b>. Dias com borda rosa = prioridade.</p>
     <div class="plano">${plano.map(d => `
@@ -271,21 +416,23 @@ function renderLoja(loja) {
   // O que funcionou
   html += `<section><h2>🏆 O que funcionou nesta conta</h2><div class="duas-colunas">
     <div class="card">
-      <h3 style="font-size:.9rem;margin-bottom:10px;color:var(--muted)">TEMAS DOS POSTS DE MAIOR ENGAJAMENTO</h3>
-      ${temasTop.length ? temasTop.map(([nome, n]) => `<span class="tema-tag">${nome} <b>${n}×</b></span>`).join('') : '<p class="vazio">Dados insuficientes</p>'}
-      <h3 style="font-size:.9rem;margin:16px 0 10px;color:var(--muted)">DESEMPENHO POR FORMATO (últimos 12 meses)</h3>
+      <h3 class="sub">ENGAJAMENTO MÉDIO POR TEMA (histórico, temas com ≥5 posts)</h3>
+      ${temasRank.length ? `<table><thead><tr><th>Tema</th><th class="num">Posts</th><th class="num">Interações médias</th></tr></thead><tbody>
+        ${temasRank.map(t => `<tr><td>${t.nome}</td><td class="num">${t.n}</td><td class="num"><b>${t.media.toFixed(1)}</b></td></tr>`).join('')}</tbody></table>` : '<p class="vazio">Dados insuficientes</p>'}
+      <h3 class="sub" style="margin-top:16px">DESEMPENHO POR FORMATO (últimos 12 meses)</h3>
       ${Object.entries(porFormato).map(([k,v]) => `<div class="stat-linha"><span>${k} (${v.n} posts)</span><span class="v">${(v.cur/v.n).toFixed(0)} ❤️ · ${(v.com/v.n).toFixed(1)} 💬 por post</span></div>`).join('')}
     </div>
     <div class="card">
-      <h3 style="font-size:.9rem;margin-bottom:10px;color:var(--muted)">ENGAJAMENTO MÉDIO POR DIA DA SEMANA (histórico)</h3>
-      <div class="grafico-dias">${mediaDia.map((m,i) => `
-        <div class="gd-col">
-          <div class="gd-valor">${m.toFixed(0)}</div>
-          <div class="gd-barra" style="height:${maxMedia ? (m/maxMedia*80) : 4}%"></div>
-          <div class="gd-rotulo">${DIAS_ABREV[i]}</div>
+      <h3 class="sub">ENGAJAMENTO MÉDIO POR DIA DA SEMANA (histórico)</h3>
+      <div class="grafico-barras" style="height:110px">${mediaDia.map((m,i) => `
+        <div class="gb-col">
+          <div class="gb-valor">${m.toFixed(0)}</div>
+          <div class="gb-barra" style="height:${maxMediaDia ? (m/maxMediaDia*72) : 4}%"></div>
+          <div class="gb-rotulo">${DIAS_ABREV[i]}</div>
         </div>`).join('')}
       </div>
-      <p style="font-size:.78rem;color:var(--muted);margin-top:10px">Curtidas médias por post publicado em cada dia. Priorize os dias mais altos.</p>
+      <h3 class="sub" style="margin-top:16px">MELHOR HORÁRIO PARA POSTAR (histórico, hora de Belém)</h3>
+      ${porHora.filter(f => f.n >= 3).sort((a,b) => b.eng/b.n - a.eng/a.n).map((f,i) => `<div class="stat-linha"><span>${i === 0 ? '🥇 ' : ''}${f.nome} (${f.n} posts)</span><span class="v">${(f.eng/f.n).toFixed(1)} interações/post</span></div>`).join('') || '<p class="vazio">Dados insuficientes</p>'}
     </div>
   </div></section>`;
 
@@ -301,13 +448,11 @@ function renderLoja(loja) {
     </tr>`).join('')}</tbody></table>`;
 
   html += `<section><h2>⭐ Top posts</h2><div class="duas-colunas">
-    <div class="card"><h3 style="font-size:.9rem;margin-bottom:10px;color:var(--muted)">ÚLTIMOS 12 MESES</h3>${top12m.length ? tabelaPosts(top12m) : '<p class="vazio">Nenhum post no período</p>'}</div>
-    <div class="card"><h3 style="font-size:.9rem;margin-bottom:10px;color:var(--muted)">TODOS OS TEMPOS</h3>${tabelaPosts(topAll)}</div>
+    <div class="card"><h3 class="sub">ÚLTIMOS 12 MESES</h3>${top12m.length ? tabelaPosts(top12m) : '<p class="vazio">Nenhum post no período</p>'}</div>
+    <div class="card"><h3 class="sub">TODOS OS TEMPOS</h3>${tabelaPosts(topAll)}</div>
   </div></section>`;
 
-  // Posts recentes
-  const recentes = posts.slice(0, 15);
-  html += `<section><h2>🕓 Últimos posts publicados</h2><div class="card">${recentes.length ? tabelaPosts(recentes) : '<p class="vazio">Nenhum post</p>'}</div></section>`;
+  html += `<section><h2>🕓 Últimos posts publicados</h2><div class="card">${posts.length ? tabelaPosts(posts.slice(0, 15)) : '<p class="vazio">Nenhum post</p>'}</div></section>`;
 
   // Concorrentes
   const conc = DADOS_IG.concorrentes;
@@ -317,7 +462,7 @@ function renderLoja(loja) {
   if (listaConc.length && listaConc[0].seguidores !== null) {
     html += `<table><thead><tr><th>Perfil</th><th class="num">Seguidores</th><th class="num">Posts/30d</th><th>Formato dominante</th><th>Observações</th></tr></thead><tbody>
       ${listaConc.map(c => `<tr><td><b>${c.perfil}</b></td><td class="num">${fmt(c.seguidores)}</td><td class="num">${c.postsUltimos30d ?? '—'}</td><td>${c.formatoDominante || '—'}</td><td style="font-size:.8rem">${c.observacoes || ''}</td></tr>`).join('')}</tbody></table>
-      <p style="font-size:.75rem;color:var(--muted);margin-top:10px">Atualizado em ${conc.atualizadoEm} (levantamento manual — Instagram não expõe dados de terceiros via API)</p>`;
+      <p class="nota">Atualizado em ${conc.atualizadoEm} (levantamento manual — Instagram não expõe dados de terceiros via API)</p>`;
   } else {
     html += `<p class="vazio">Primeiro levantamento ainda não realizado. Peça ao Claude: <b>"atualize o monitoramento de concorrentes do dashboard Instagram"</b> — ele pesquisa os perfis da região e preenche esta seção.</p>`;
   }
@@ -329,7 +474,6 @@ function renderLoja(loja) {
 // ─── Gerador do plano semanal ─────────────────────────────────────────────────
 function gerarPlano(melhoresDias, temasTop, metas) {
   const postsMeta = metas?.postsPorSemana?.meta || 3;
-  // Sugestões de conteúdo por posição (rotação de temas fortes)
   const temaNomes = temasTop.map(t => t[0]);
   const sugestoesPost = [
     temaNomes.includes('🎁 Sorteio') ? 'Sorteio ou enquete de produto (conteúdo nº1 da conta!)' : 'Post de produto em destaque com preço/oferta',
@@ -337,9 +481,8 @@ function gerarPlano(melhoresDias, temasTop, metas) {
     temaNomes.includes('💡 Dica/Tutorial') ? 'Dica rápida de uso (cabelo/pele) — gera salvamentos' : 'Antes e depois ou depoimento de cliente',
     'Kit/combo sugerido da semana com CTA "chama no direct"',
   ];
-
   const plano = [];
-  const ordemDias = [1, 2, 3, 4, 5, 6, 0]; // seg → dom
+  const ordemDias = [1, 2, 3, 4, 5, 6, 0];
   let idxSug = 0;
   for (const d of ordemDias) {
     const forte = melhoresDias.includes(d);
@@ -363,16 +506,26 @@ function gerarPlano(melhoresDias, temasTop, metas) {
 
 // ─── Inicialização ────────────────────────────────────────────────────────────
 function init() {
-  const selo = document.getElementById('seloColeta');
-  selo.textContent = '📡 Dados coletados em ' + DADOS_IG.coletadoEmBR;
+  document.getElementById('seloColeta').textContent = '📡 Dados coletados em ' + DADOS_IG.coletadoEmBR;
 
   const tabs = document.getElementById('tabs');
-  const ordem = ['L5', 'L1', 'L3', 'L4'];
+  const ordem = ['L1', 'L3', 'L4', 'L5'];
   const lojas = ordem.map(c => DADOS_IG.lojas.find(l => l.codigo === c)).filter(Boolean);
 
-  lojas.forEach((l, i) => {
+  // Aba Visão Geral
+  const btnGeral = document.createElement('button');
+  btnGeral.className = 'tab ativa';
+  btnGeral.textContent = '📊 Visão Geral';
+  btnGeral.onclick = () => {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('ativa'));
+    btnGeral.classList.add('ativa');
+    renderVisaoGeral(lojas);
+  };
+  tabs.appendChild(btnGeral);
+
+  lojas.forEach(l => {
     const btn = document.createElement('button');
-    btn.className = 'tab' + (l.conectada ? '' : ' off') + (i === 0 ? ' ativa' : '');
+    btn.className = 'tab' + (l.conectada ? '' : ' off');
     btn.textContent = `${l.codigo} · ${l.nome.replace('Casa da Beleza','CB').replace('MissBeleza','MB')}`;
     btn.onclick = () => {
       document.querySelectorAll('.tab').forEach(t => t.classList.remove('ativa'));
@@ -382,7 +535,7 @@ function init() {
     tabs.appendChild(btn);
   });
 
-  renderLoja(lojas[0]);
+  renderVisaoGeral(lojas);
   document.getElementById('rodape').innerHTML =
     `Painel gerado pelo pipeline <code>atualizar_instagram.sh</code> · dados via Instagram Graph API · coleta: ${DADOS_IG.coletadoEmBR}`;
 }

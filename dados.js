@@ -1,11 +1,21 @@
 // Gerado automaticamente por coleta_instagram.mjs — NÃO EDITAR NA MÃO
 const DADOS_IG = {
- "coletadoEm": "2026-07-05T17:15:08.339Z",
- "coletadoEmBR": "05/07/2026, 14:15:08",
+ "coletadoEm": "2026-07-05T17:29:47.701Z",
+ "coletadoEmBR": "05/07/2026, 14:29:47",
  "lojas": [
   {
-   "codigo": "L5",
-   "nome": "MissBeleza Santarém",
+   "codigo": "L1",
+   "nome": "Casa da Beleza Altamira",
+   "conectada": false
+  },
+  {
+   "codigo": "L3",
+   "nome": "Casa da Beleza Itaituba",
+   "conectada": false
+  },
+  {
+   "codigo": "L4",
+   "nome": "MissBeleza Altamira",
    "conectada": true,
    "perfil": {
     "username": "missbelezaoficial",
@@ -6226,34 +6236,24 @@ const DADOS_IG = {
    }
   },
   {
-   "codigo": "L1",
-   "nome": "Casa da Beleza Altamira",
-   "conectada": false
-  },
-  {
-   "codigo": "L3",
-   "nome": "Casa da Beleza Itaituba",
-   "conectada": false
-  },
-  {
-   "codigo": "L4",
-   "nome": "MissBeleza Altamira",
+   "codigo": "L5",
+   "nome": "MissBeleza Santarém",
    "conectada": false
   }
  ],
  "historicoSeguidores": [
   {
    "data": "2026-07-05",
-   "loja": "L5",
+   "loja": "L4",
    "seguidores": 8545,
    "posts": 616
   }
  ],
  "metas": {
   "definidoEm": "2026-07-05",
-  "observacao": "Metas iniciais de reativação — editar conforme evolução. Baseline: 8.545 seguidores em 05/07/2026.",
+  "observacao": "Metas iniciais de reativação — editar conforme evolução. Baseline L4: 8.545 seguidores em 05/07/2026.",
   "porLoja": {
-   "L5": {
+   "L4": {
     "seguidores": {
      "baseline": 8545,
      "meta30d": 8700,

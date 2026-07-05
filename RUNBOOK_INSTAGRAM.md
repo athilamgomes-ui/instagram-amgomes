@@ -4,8 +4,10 @@
 
 ## O que é
 
-Dashboard de análise de Instagram das 4 lojas, focado em **execução de marketing (Ana Lídia)**:
-plano de postagem semanal, o que funcionou historicamente, metas de crescimento, concorrentes.
+Dashboard de análise de Instagram das 4 lojas para a **Ana Lídia**, com dois papéis:
+**gestão** (aba Visão Geral: comparação entre lojas, tendência 12 meses, 90d vs 90d, alertas)
+e **execução de marketing** (por loja: plano de postagem, o que funcionou por tema/formato/dia/horário,
+metas, concorrentes).
 
 - **URL:** https://athilamgomes-ui.github.io/instagram-amgomes/ (usar `?v=<n>` após deploy — cache 10 min)
 - **Repo:** https://github.com/athilamgomes-ui/instagram-amgomes (público — NUNCA commitar .env)
@@ -38,12 +40,19 @@ Fluxo: `coleta_instagram.mjs` (Graph API → dados.js com timestamp REAL) → gi
 
 | Loja | Conta | Status |
 |---|---|---|
-| L5 MissBeleza Santarém | @missbelezaoficial (IG 17841408856810548, Page 2152437001676475) | ✅ conectada |
-| L1 / L3 / L4 | — | 🔌 pendente: refazer OAuth marcando as outras Páginas (só "MissBeleza" foi concedida) |
+| **L4 MissBeleza Altamira** | @missbelezaoficial (IG 17841408856810548, Page FB "MissBeleza" 2152437001676475) | ✅ conectada |
+| L5 MissBeleza Santarém | Página FB: **"Miss Beleza store \| Cosméticos \| Loja \| Beleza"** | 🔌 pendente |
+| L1 / L3 Casa da Beleza | — | 🔌 pendente |
 
-Para conectar as demais: Graph API Explorer → Generate Access Token → na tela do Facebook,
-**marcar TODAS as Páginas** → salvar `L1_PAGE_ID`, `L1_IG_ID`, `L1_PAGE_TOKEN` (etc.) no `.env`.
-O coletor já lê essas chaves e o dashboard mostra a aba automaticamente.
+⚠️ CORREÇÃO 05/07/2026: @missbelezaoficial é a **L4** (não L5 — confirmado pelo Athila).
+A memória `analise_l5_jun2026` cita @missbelezastm para a L5.
+
+Para conectar as demais: Graph API Explorer → Generate Access Token → na tela OAuth do Facebook,
+**marcar TODAS as Páginas** (o /me/accounts atual só devolve "MissBeleza") → obter page token
+permanente de cada uma (exchange long-lived) → salvar `L5_PAGE_ID`, `L5_IG_ID`, `L5_PAGE_TOKEN`
+(etc.) no `.env`. O coletor lê essas chaves e o dashboard mostra a aba automaticamente.
+Se as Páginas das outras lojas não aparecerem no OAuth, elas não são administradas pela conta
+FB do Athila — dar acesso via Business Manager (portfólio MISS BELEZA) antes.
 
 ## Arquivos
 

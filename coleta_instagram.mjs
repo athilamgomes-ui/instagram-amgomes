@@ -28,13 +28,19 @@ function loadEnv() {
 const env = loadEnv();
 const BASE = 'https://graph.facebook.com/v25.0';
 
-// Lojas: L5 ativa; demais aguardando conexão (page_id/ig_id nulos)
-const LOJAS = [
-  { codigo: 'L5', nome: 'MissBeleza Santarém', pageId: env.FB_PAGE_ID, igId: env.IG_BUSINESS_ID, token: env.FB_PAGE_TOKEN },
-  { codigo: 'L1', nome: 'Casa da Beleza Altamira', pageId: env.L1_PAGE_ID || null, igId: env.L1_IG_ID || null, token: env.L1_PAGE_TOKEN || null },
-  { codigo: 'L3', nome: 'Casa da Beleza Itaituba', pageId: env.L3_PAGE_ID || null, igId: env.L3_IG_ID || null, token: env.L3_PAGE_TOKEN || null },
-  { codigo: 'L4', nome: 'MissBeleza Altamira', pageId: env.L4_PAGE_ID || null, igId: env.L4_IG_ID || null, token: env.L4_PAGE_TOKEN || null },
+// Cada loja lê L{n}_PAGE_ID / L{n}_IG_ID / L{n}_PAGE_TOKEN do .env; sem chaves = não conectada
+const DEF_LOJAS = [
+  { codigo: 'L1', nome: 'Casa da Beleza Altamira' },
+  { codigo: 'L3', nome: 'Casa da Beleza Itaituba' },
+  { codigo: 'L4', nome: 'MissBeleza Altamira' },
+  { codigo: 'L5', nome: 'MissBeleza Santarém' },
 ];
+const LOJAS = DEF_LOJAS.map(l => ({
+  ...l,
+  pageId: env[`${l.codigo}_PAGE_ID`] || null,
+  igId: env[`${l.codigo}_IG_ID`] || null,
+  token: env[`${l.codigo}_PAGE_TOKEN`] || null,
+}));
 
 async function apiGet(pathOrUrl, params = {}, token) {
   const url = pathOrUrl.startsWith('http') ? new URL(pathOrUrl) : new URL(`${BASE}/${pathOrUrl}`);

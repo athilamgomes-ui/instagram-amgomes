@@ -1,8 +1,8 @@
 {
   "definidoEm": "2026-07-05",
-  "observacao": "Metas iniciais de reativação — editar conforme evolução. Baseline: 8.545 seguidores em 05/07/2026.",
+  "observacao": "Metas iniciais de reativação — editar conforme evolução. Baseline L4: 8.545 seguidores em 05/07/2026.",
   "porLoja": {
-    "L5": {
+    "L4": {
       "seguidores": { "baseline": 8545, "meta30d": 8700, "meta90d": 9200 },
       "postsPorSemana": { "meta": 3 },
       "storiesPorSemana": { "meta": 10 },
