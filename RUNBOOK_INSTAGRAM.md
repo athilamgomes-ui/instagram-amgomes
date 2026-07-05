@@ -82,3 +82,13 @@ Para a L3: criar Página FB + IG business da loja (ou obter admin da existente) 
 - Após deploy, entregar URL com `?v=<número>` (cache GitHub Pages de 10 min).
 - Nunca duas sessões editando ao mesmo tempo; lock em `/tmp/instagram_update.lock`.
 - Repo público: `.env` no `.gitignore` — conferir antes de qualquer `git add -A` fora do pipeline.
+
+## Verificação da empresa (em andamento desde 05/07/2026)
+
+Athila enviou os documentos do CNPJ no Business Manager em 05/07/2026 (status API: pending).
+Vigia: `verificar_empresa.mjs` via launchd `com.amgomes.meta.verificacao` (8h30/12h30/16h30/20h30)
+— notifica no macOS quando mudar e se descarrega sozinho em status final.
+Consulta manual: `GET /241132993237012?fields=verification_status` com o LONG_LIVED_USER_TOKEN.
+Quando `verified`: retestar `node coleta_direct.mjs L5 40`; se liberou, rodar a análise completa
+do atendimento (perguntas/produtos/tempos/script Helena IA). NÃO virar Tech Provider sem decisão
+explícita do Athila (irreversível).
