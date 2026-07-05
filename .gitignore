@@ -4,3 +4,4 @@ ultima_execucao.log
 .claude/
 direct_*.json
 insights_cache.json
+verificacao_status.txt
