@@ -1,12 +1,26 @@
 {
   "definidoEm": "2026-07-05",
-  "observacao": "Metas iniciais de reativação — editar conforme evolução. Baseline L4: 8.545 seguidores em 05/07/2026.",
+  "observacao": "Metas iniciais de reativação — editar conforme evolução. Baselines de 05/07/2026: L1 10.652, L4 8.545, L5 13.627.",
   "porLoja": {
+    "L1": {
+      "seguidores": { "baseline": 10652, "meta30d": 10850, "meta90d": 11300 },
+      "postsPorSemana": { "meta": 3 },
+      "storiesPorSemana": { "meta": 10 },
+      "engajamentoMedio": { "baselinePct": null, "metaPct": 1.5 },
+      "dmsRespondidas": { "metaHoras": 24 }
+    },
     "L4": {
       "seguidores": { "baseline": 8545, "meta30d": 8700, "meta90d": 9200 },
       "postsPorSemana": { "meta": 3 },
       "storiesPorSemana": { "meta": 10 },
-      "engajamentoMedio": { "baselinePct": 0.49, "metaPct": 1.5 },
+      "engajamentoMedio": { "baselinePct": 0.34, "metaPct": 1.5 },
+      "dmsRespondidas": { "metaHoras": 24 }
+    },
+    "L5": {
+      "seguidores": { "baseline": 13627, "meta30d": 13850, "meta90d": 14400 },
+      "postsPorSemana": { "meta": 3 },
+      "storiesPorSemana": { "meta": 10 },
+      "engajamentoMedio": { "baselinePct": null, "metaPct": 1.5 },
       "dmsRespondidas": { "metaHoras": 24 }
     }
   }
