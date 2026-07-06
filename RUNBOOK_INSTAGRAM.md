@@ -106,12 +106,21 @@ reduza o número de tópicos... com usuários sem função no app". Ou seja: ver
 verificada, o **App Review aprovado** especificamente para `instagram_manage_messages` (Acesso
 Avançado da permissão, não só do portfólio).
 
-**Situação em 05/07 (ver `app_review_justificativa.md`):** ao tentar adicionar essa permissão à
-análise do app, a Meta ofereceu virar "Tech Provider" (status IRREVERSÍVEL, para quem atende
-terceiros — não é o nosso caso). Não concluímos aquele fluxo. Com a empresa agora verificada,
-**precisa testar de novo** se o caminho de App Review "normal" (sem Tech Provider) está disponível —
-pode ser que a verificação destrave uma rota diferente na tela de Permissões e recursos.
-Pré-requisitos já prontos: política de privacidade, URL de exclusão de dados, categoria do app.
-Falta: ícone do app (upload manual pendente) e o formulário + screencast do App Review.
-NÃO virar Tech Provider sem decisão explícita do Athila (irreversível) — se a única rota disponível
-for essa, voltar a perguntar antes de prosseguir.
+**RETESTADO 06/07/2026 após a empresa verificada — CONFIRMADO: não existe rota sem Tech Provider.**
+Fui em Casos de uso → API do Instagram → Permissões e recursos → `instagram_manage_messages` →
+Ações → "Adicionar à análise do app". Apareceu de novo o modal "To add a permission or feature to
+App Review, become a Tech Provider", agora com 3 sub-requisitos explícitos: (1) Verificação da
+empresa, (2) Verificação de acesso, (3) Análise do app. **A verificação da empresa que o Athila já
+fez é só o 1º dos 3 passos PARA virar Tech Provider — não é uma alternativa a ele.** Ou seja: para
+este app, qualquer Acesso Avançado via App Review (incluindo `instagram_manage_messages`) exige
+virar Tech Provider, mesmo sendo um app de negócio próprio sem atender terceiros. Cliquei em
+"Go back" — não confirmei nada.
+
+**Decisão pendente do Athila:** virar Tech Provider é IRREVERSÍVEL. Prós: libera o inbox completo
+do Direct via API (base pra Helena IA). Contras: status muda o perfil de compliance/revisão do app
+para sempre, mesmo o app nunca tendo servido terceiros. Pré-requisitos de envio já prontos:
+política de privacidade, URL de exclusão de dados, categoria do app. Falta: ícone do app (upload
+manual pendente) e o formulário + screencast do App Review (textos em `app_review_justificativa.md`).
+Alternativa sem depender da Meta: atendimento por Direct continua manual pelas vendedoras; a
+"Helena IA" pode nascer primeiro em outro canal (ex. WhatsApp Business API) enquanto o Direct não
+é decidido.
