@@ -93,12 +93,25 @@ Fase 2 possível: publicar direto pelo painel via `instagram_content_publish` (n
 - Nunca duas sessões editando ao mesmo tempo; lock em `/tmp/instagram_update.lock`.
 - Repo público: `.env` no `.gitignore` — conferir antes de qualquer `git add -A` fora do pipeline.
 
-## Verificação da empresa (em andamento desde 05/07/2026)
+## Verificação da empresa — CONCLUÍDA 06/07/2026, mas NÃO liberou o Direct sozinha
 
-Athila enviou os documentos do CNPJ no Business Manager em 05/07/2026 (status API: pending).
-Vigia: `verificar_empresa.mjs` via launchd `com.amgomes.meta.verificacao` (8h30/12h30/16h30/20h30)
-— notifica no macOS quando mudar e se descarrega sozinho em status final.
-Consulta manual: `GET /241132993237012?fields=verification_status` com o LONG_LIVED_USER_TOKEN.
-Quando `verified`: retestar `node coleta_direct.mjs L5 40`; se liberou, rodar a análise completa
-do atendimento (perguntas/produtos/tempos/script Helena IA). NÃO virar Tech Provider sem decisão
-explícita do Athila (irreversível).
+Athila enviou os documentos do CNPJ no Business Manager em 05/07/2026. Vigia (`verificar_empresa.mjs`,
+launchd `com.amgomes.meta.verificacao`) detectou `verified` em 06/07 08:39, notificou e se descarregou
+sozinho, como previsto.
+
+**Retestado `node coleta_direct.mjs L5 40` em 06/07/2026 — MESMO erro de antes:**
+Timeout / subcode 2534084 / "Solicite acesso avançado à permissão instagram_manage_messages ou
+reduza o número de tópicos... com usuários sem função no app". Ou seja: verificação de negócio era
+**pré-requisito, não a solução** — o inbox completo do Direct via API exige, além da empresa
+verificada, o **App Review aprovado** especificamente para `instagram_manage_messages` (Acesso
+Avançado da permissão, não só do portfólio).
+
+**Situação em 05/07 (ver `app_review_justificativa.md`):** ao tentar adicionar essa permissão à
+análise do app, a Meta ofereceu virar "Tech Provider" (status IRREVERSÍVEL, para quem atende
+terceiros — não é o nosso caso). Não concluímos aquele fluxo. Com a empresa agora verificada,
+**precisa testar de novo** se o caminho de App Review "normal" (sem Tech Provider) está disponível —
+pode ser que a verificação destrave uma rota diferente na tela de Permissões e recursos.
+Pré-requisitos já prontos: política de privacidade, URL de exclusão de dados, categoria do app.
+Falta: ícone do app (upload manual pendente) e o formulário + screencast do App Review.
+NÃO virar Tech Provider sem decisão explícita do Athila (irreversível) — se a única rota disponível
+for essa, voltar a perguntar antes de prosseguir.
