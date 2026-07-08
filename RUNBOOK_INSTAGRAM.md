@@ -22,7 +22,9 @@ bash /Users/elkgomes/Desktop/claude/instagram-analytics/atualizar_instagram.sh
 Exit: 0=ok · 10=coleta falhou (dados.js anterior preservado + notificação macOS) · 30=lock (`/tmp/instagram_update.lock`).
 Fluxo: `coleta_instagram.mjs` (Graph API → dados.js com timestamp REAL) → git commit/push → Pages.
 
-**Agendamento:** launchd `com.amgomes.instagram` — **sábado 16:30** (logs em `/tmp/com.amgomes.instagram.{out,err}`).
+**Agendamento:** launchd `com.amgomes.instagram` — **todo dia às 18:30** (mudado de sábado 16:30
+para diário em 08/07/2026, a pedido do Athila — alinhado com Vendas/Compras).
+Logs em `/tmp/com.amgomes.instagram.{out,err}`.
 
 ## Credenciais e API
 
