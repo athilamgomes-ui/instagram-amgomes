@@ -22,9 +22,20 @@ bash /Users/elkgomes/Desktop/claude/instagram-analytics/atualizar_instagram.sh
 Exit: 0=ok · 10=coleta falhou (dados.js anterior preservado + notificação macOS) · 30=lock (`/tmp/instagram_update.lock`).
 Fluxo: `coleta_instagram.mjs` (Graph API → dados.js com timestamp REAL) → git commit/push → Pages.
 
-**Agendamento:** launchd `com.amgomes.instagram` — **todo dia às 18:30** (mudado de sábado 16:30
-para diário em 08/07/2026, a pedido do Athila — alinhado com Vendas/Compras).
-Logs em `/tmp/com.amgomes.instagram.{out,err}`.
+**Agendamento:** Task MCP `dashboard-instagram-update` (18:30 todo dia) — **NÃO é launchd bash direto.**
+⚠️ Corrigido em 09/07/2026: o launchd antigo `com.amgomes.instagram` chamava `/bin/bash` direto pra
+rodar o script dentro de `~/Desktop/...` e falhava sempre com **"Operation not permitted"**
+(`/tmp/com.amgomes.instagram.err`) — o Desktop é pasta protegida por TCC no macOS e um processo
+em background do launchd sem GUI não tem essa permissão (por isso NUNCA atualizava sozinho, só
+quando eu rodava manual via Bash). Curiosamente `com.amgomes.instagram.stories` (que chama
+`node script.mjs` direto, sem passar por `/bin/bash` executando o arquivo) funcionava normalmente —
+a trava do TCC é por processo/binário responsável, não só por pasta. Fix: plist antigo desligado e
+renomeado `com.amgomes.instagram.plist.disabled-2026-07-09` (não apagado). A execução real agora
+acontece dentro do Claude Desktop via Task MCP (que já tem a permissão), acordado pelo launchd
+`com.amgomes.dashboard` que já dispara `open -a Claude` às 18:30 todo dia — mesmo padrão de
+Vendas/Compras. **Nunca mais criar launchd que chame `/bin/bash <script em ~/Desktop>` direto —
+sempre Task MCP.** Logs do pipeline: `/tmp/com.amgomes.instagram.{out,err}` (ainda escritos pelo
+script quando rodado manual; a Task MCP reporta no chat, não nesses arquivos).
 
 ## Credenciais e API
 
