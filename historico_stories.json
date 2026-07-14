@@ -2911,8 +2911,8 @@
   "data": "2026-07-13T13:48:31+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 153,
-  "views": 171,
+  "alcance": 199,
+  "views": 221,
   "respostas": 2,
   "interacoes": 2,
   "navegacao": 152
@@ -2923,8 +2923,8 @@
   "data": "2026-07-13T12:10:49+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 160,
-  "views": 181,
+  "alcance": 205,
+  "views": 226,
   "respostas": 0,
   "interacoes": 0,
   "navegacao": 158
@@ -2935,8 +2935,8 @@
   "data": "2026-07-13T12:07:46+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 166,
-  "views": 190,
+  "alcance": 208,
+  "views": 232,
   "respostas": 0,
   "interacoes": 0,
   "navegacao": 60
@@ -2947,8 +2947,8 @@
   "data": "2026-07-13T12:05:01+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 166,
-  "views": 194,
+  "alcance": 209,
+  "views": 236,
   "respostas": 0,
   "interacoes": 0,
   "navegacao": 175
@@ -2959,8 +2959,8 @@
   "data": "2026-07-13T12:03:15+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 169,
-  "views": 197,
+  "alcance": 213,
+  "views": 241,
   "respostas": 0,
   "interacoes": 0,
   "navegacao": 176
@@ -3088,8 +3088,8 @@
   "id": "18082789031649423",
   "tipo": "VIDEO",
   "data": "2026-07-13T15:02:10+0000",
-  "alcance": 210,
-  "views": 239,
+  "alcance": 293,
+  "views": 352,
   "respostas": 0,
   "interacoes": 0,
   "loja": "L5",
@@ -3102,10 +3102,10 @@
   "data": "2026-07-13T19:38:27+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 152,
-  "views": 173,
+  "alcance": 229,
+  "views": 256,
   "respostas": 0,
-  "interacoes": 1,
+  "interacoes": 2,
   "navegacao": 148
  },
  {
@@ -3114,10 +3114,10 @@
   "data": "2026-07-13T19:38:25+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 156,
-  "views": 169,
+  "alcance": 234,
+  "views": 257,
   "respostas": 0,
-  "interacoes": 0,
+  "interacoes": 2,
   "navegacao": 141
  },
  {
@@ -3126,10 +3126,10 @@
   "data": "2026-07-13T19:38:24+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 167,
-  "views": 189,
+  "alcance": 245,
+  "views": 279,
   "respostas": 0,
-  "interacoes": 0,
+  "interacoes": 1,
   "navegacao": 157
  },
  {
@@ -3138,10 +3138,10 @@
   "data": "2026-07-13T19:36:00+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 174,
-  "views": 203,
+  "alcance": 257,
+  "views": 304,
   "respostas": 1,
-  "interacoes": 1,
+  "interacoes": 3,
   "navegacao": 161
  },
  {
@@ -3150,8 +3150,8 @@
   "data": "2026-07-13T20:27:05+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 114,
-  "views": 125,
+  "alcance": 221,
+  "views": 258,
   "respostas": 0,
   "interacoes": 0,
   "navegacao": 100
@@ -3162,10 +3162,80 @@
   "data": "2026-07-13T19:56:35+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 131,
-  "views": 141,
+  "alcance": 244,
+  "views": 289,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 122
+ },
+ {
+  "id": "18001583393951201",
+  "tipo": "VIDEO",
+  "data": "2026-07-14T11:58:00+0000",
+  "alcance": null,
+  "views": null,
+  "respostas": null,
+  "interacoes": null,
+  "loja": "L5"
+ },
+ {
+  "id": "17911190082246039",
+  "tipo": "VIDEO",
+  "data": "2026-07-14T11:53:23+0000",
+  "alcance": null,
+  "views": null,
+  "respostas": null,
+  "interacoes": null,
+  "loja": "L5"
+ },
+ {
+  "id": "18147620563509109",
+  "tipo": "VIDEO",
+  "data": "2026-07-14T11:48:49+0000",
+  "alcance": null,
+  "views": null,
+  "respostas": null,
+  "interacoes": null,
+  "loja": "L5"
+ },
+ {
+  "id": "18607389070012114",
+  "tipo": "VIDEO",
+  "data": "2026-07-14T11:43:06+0000",
+  "alcance": null,
+  "views": null,
+  "respostas": null,
+  "interacoes": null,
+  "loja": "L5"
+ },
+ {
+  "id": "17868790938690920",
+  "tipo": "VIDEO",
+  "data": "2026-07-14T11:40:20+0000",
+  "alcance": null,
+  "views": null,
+  "respostas": null,
+  "interacoes": null,
+  "loja": "L5"
+ },
+ {
+  "id": "18079768424281990",
+  "tipo": "VIDEO",
+  "data": "2026-07-14T11:32:28+0000",
+  "alcance": 18,
+  "views": 45,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 122
+  "loja": "L5"
+ },
+ {
+  "id": "17935708656283432",
+  "tipo": "VIDEO",
+  "data": "2026-07-14T11:31:04+0000",
+  "alcance": 24,
+  "views": 52,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
  }
 ]
