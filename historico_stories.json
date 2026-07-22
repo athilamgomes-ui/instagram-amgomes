@@ -6786,11 +6786,11 @@
   "data": "2026-07-21T20:58:06+0000",
   "loja": "L1",
   "legenda": "@casadabelezaaltamira",
-  "alcance": 85,
-  "views": 96,
+  "alcance": 168,
+  "views": 186,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 75
+  "navegacao": 171
  },
  {
   "id": "18210456046347693",
@@ -6798,11 +6798,11 @@
   "data": "2026-07-21T20:52:58+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 88,
-  "views": 96,
+  "alcance": 177,
+  "views": 181,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 82
+  "navegacao": 183
  },
  {
   "id": "18423515764198797",
@@ -6810,11 +6810,11 @@
   "data": "2026-07-21T20:52:40+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 93,
-  "views": 109,
+  "alcance": 186,
+  "views": 202,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 94
+  "navegacao": 204
  },
  {
   "id": "18065929889487579",
@@ -6822,11 +6822,11 @@
   "data": "2026-07-21T19:06:15+0000",
   "loja": "L4",
   "legenda": "😍😍😍",
-  "alcance": 144,
-  "views": 166,
+  "alcance": 240,
+  "views": 265,
   "respostas": 0,
-  "interacoes": 0,
-  "navegacao": 151
+  "interacoes": 1,
+  "navegacao": 252
  },
  {
   "id": "18608075407044504",
@@ -6834,11 +6834,11 @@
   "data": "2026-07-21T15:58:28+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 159,
-  "views": 188,
+  "alcance": 227,
+  "views": 264,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 172
+  "navegacao": 248
  },
  {
   "id": "18132617167617181",
@@ -6882,5 +6882,405 @@
   "respostas": 0,
   "interacoes": 0,
   "navegacao": 211
+ },
+ {
+  "id": "18086800808449248",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T11:49:43+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 198,
+  "views": 237,
+  "respostas": 3,
+  "interacoes": 3,
+  "navegacao": 42
+ },
+ {
+  "id": "18121422934695353",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T11:45:38+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 209,
+  "views": 222,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 48
+ },
+ {
+  "id": "18102344213266302",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T11:44:04+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 214,
+  "views": 241,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 54
+ },
+ {
+  "id": "17935768335338440",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T13:00:10+0000",
+  "loja": "L4",
+  "legenda": "Defrizantes: Teremos nesses 3 tamanhos. 36,90 30,90 22,90",
+  "alcance": 134,
+  "views": 166,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 33
+ },
+ {
+  "id": "18071243717455828",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T12:43:58+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 142,
+  "views": 170,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 42
+ },
+ {
+  "id": "18074973356377673",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T11:44:36+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 148,
+  "views": 170,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 60
+ },
+ {
+  "id": "18147555322523140",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T11:42:47+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 149,
+  "views": 166,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 35
+ },
+ {
+  "id": "18108176372008061",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T11:41:38+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 153,
+  "views": 169,
+  "respostas": 0,
+  "interacoes": 2,
+  "navegacao": 69
+ },
+ {
+  "id": "18126189421736690",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T11:39:09+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 161,
+  "views": 188,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 74
+ },
+ {
+  "id": "18336758080265595",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T14:42:29+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 194,
+  "views": 232,
+  "respostas": 0,
+  "interacoes": 0
+ },
+ {
+  "id": "18097089656256801",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T14:23:57+0000",
+  "loja": "L5",
+  "legenda": "Kit shampoo +Condicionador ✔️1-Litro  Por Apenas:R$:70.90💰 ✅️Crespo Barbosa\n✔️Limpeza suave \n✔️Mais Hidratação",
+  "alcance": 204,
+  "views": 235,
+  "respostas": 0,
+  "interacoes": 0
+ },
+ {
+  "id": "18124962766663409",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T14:18:34+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 201,
+  "views": 229,
+  "respostas": 0,
+  "interacoes": 1
+ },
+ {
+  "id": "18105594407017689",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T12:27:24+0000",
+  "loja": "L5",
+  "legenda": "Creme de massagem corporal 🧖‍♀️ Promo especial😍",
+  "alcance": 230,
+  "views": 260,
+  "respostas": 0,
+  "interacoes": 0
+ },
+ {
+  "id": "18127287775659630",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T12:22:43+0000",
+  "loja": "L5",
+  "legenda": "Creme de massagem da Labotrat",
+  "alcance": 233,
+  "views": 301,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 64
+ },
+ {
+  "id": "18106504448028067",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T12:19:49+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 238,
+  "views": 311,
+  "respostas": 0,
+  "interacoes": 1
+ },
+ {
+  "id": "18100763228191966",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T12:18:22+0000",
+  "loja": "L5",
+  "legenda": "Limpa os fios, remove resíduos de outros produtos que se acumulam e possui carga de aminoácidos.😍✨",
+  "alcance": 243,
+  "views": 285,
+  "respostas": 1,
+  "interacoes": 3,
+  "navegacao": 63
+ },
+ {
+  "id": "18157213924468774",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T12:14:14+0000",
+  "loja": "L5",
+  "legenda": "Hidratante corporal Hidramais ✨ Apenas R$14,90",
+  "alcance": 238,
+  "views": 284,
+  "respostas": 0,
+  "interacoes": 2,
+  "navegacao": 69
+ },
+ {
+  "id": "18328403470258952",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T12:05:57+0000",
+  "loja": "L5",
+  "legenda": "Probelle  Apenas R$33💰 Mais crescimento 😍",
+  "alcance": 251,
+  "views": 293,
+  "respostas": 2,
+  "interacoes": 4
+ },
+ {
+  "id": "17956060083188960",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T11:59:32+0000",
+  "loja": "L5",
+  "legenda": "Repositor de carbono",
+  "alcance": 258,
+  "views": 293,
+  "respostas": 0,
+  "interacoes": 2,
+  "navegacao": 80
+ },
+ {
+  "id": "18099333097965970",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T11:54:21+0000",
+  "loja": "L5",
+  "legenda": "Atua na cutícula, melhora a elasticidade dos fios e protege a fibra das agressões externas",
+  "alcance": 264,
+  "views": 311,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 86
+ },
+ {
+  "id": "18047222297795379",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T11:50:59+0000",
+  "loja": "L5",
+  "legenda": "Kit C.P.R Apenas R$1.420😮😍 Aproveita a promoção",
+  "alcance": 265,
+  "views": 331,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 90
+ },
+ {
+  "id": "17987307918035957",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T11:42:59+0000",
+  "loja": "L5",
+  "legenda": "Selagem FELPS  Reduz volume, alinha os fios, deixando-os lisos e bonitos de forma natural 😍",
+  "alcance": 280,
+  "views": 321,
+  "respostas": 2,
+  "interacoes": 3,
+  "navegacao": 85
+ },
+ {
+  "id": "18107442772840548",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T11:38:21+0000",
+  "loja": "L5",
+  "legenda": "Bom dia 🌞 🩷 Horário de funcionamento: \n8h às 18h",
+  "alcance": 285,
+  "views": 333,
+  "respostas": 0,
+  "interacoes": 4,
+  "navegacao": 90
+ },
+ {
+  "id": "17905959525452775",
+  "tipo": "IMAGE",
+  "data": "2026-07-22T17:56:18+0000",
+  "alcance": 126,
+  "views": 153,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "17897522712356398",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T19:02:04+0000",
+  "alcance": 78,
+  "views": 85,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "18094506902620257",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T18:54:19+0000",
+  "alcance": 82,
+  "views": 86,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L4"
+ },
+ {
+  "id": "17893077504569896",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T16:36:19+0000",
+  "alcance": 111,
+  "views": 132,
+  "respostas": 2,
+  "interacoes": 2,
+  "loja": "L4"
+ },
+ {
+  "id": "18199697692324496",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T21:41:32+0000",
+  "alcance": 22,
+  "views": 58,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
+ },
+ {
+  "id": "18096033716629369",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T21:41:19+0000",
+  "alcance": 26,
+  "views": 55,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
+ },
+ {
+  "id": "17878118634503772",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T21:41:11+0000",
+  "alcance": 17,
+  "views": 51,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
+ },
+ {
+  "id": "18097344041606726",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T19:03:08+0000",
+  "alcance": 111,
+  "views": 138,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
+ },
+ {
+  "id": "18133619836719827",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T18:50:58+0000",
+  "alcance": 121,
+  "views": 140,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
+ },
+ {
+  "id": "18149811895514046",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T18:45:36+0000",
+  "alcance": 125,
+  "views": 153,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L5"
+ },
+ {
+  "id": "18106325636466850",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T18:38:11+0000",
+  "alcance": 131,
+  "views": 158,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
+ },
+ {
+  "id": "17899085775539186",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T18:35:24+0000",
+  "alcance": 138,
+  "views": 164,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L5"
+ },
+ {
+  "id": "18114058778511414",
+  "tipo": "VIDEO",
+  "data": "2026-07-22T12:10:39+0000",
+  "alcance": null,
+  "views": null,
+  "respostas": null,
+  "interacoes": null,
+  "loja": "L5"
  }
 ]
