@@ -6889,11 +6889,11 @@
   "data": "2026-07-22T11:49:43+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 198,
-  "views": 237,
+  "alcance": 208,
+  "views": 247,
   "respostas": 3,
   "interacoes": 3,
-  "navegacao": 42
+  "navegacao": 221
  },
  {
   "id": "18121422934695353",
@@ -6901,11 +6901,11 @@
   "data": "2026-07-22T11:45:38+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 209,
-  "views": 222,
+  "alcance": 217,
+  "views": 231,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 48
+  "navegacao": 218
  },
  {
   "id": "18102344213266302",
@@ -6913,11 +6913,11 @@
   "data": "2026-07-22T11:44:04+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 214,
-  "views": 241,
+  "alcance": 222,
+  "views": 253,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 54
+  "navegacao": 229
  },
  {
   "id": "17935768335338440",
@@ -6925,11 +6925,11 @@
   "data": "2026-07-22T13:00:10+0000",
   "loja": "L4",
   "legenda": "Defrizantes: Teremos nesses 3 tamanhos. 36,90 30,90 22,90",
-  "alcance": 134,
-  "views": 166,
+  "alcance": 139,
+  "views": 172,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 33
+  "navegacao": 169
  },
  {
   "id": "18071243717455828",
@@ -6937,11 +6937,11 @@
   "data": "2026-07-22T12:43:58+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 142,
-  "views": 170,
+  "alcance": 147,
+  "views": 175,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 42
+  "navegacao": 165
  },
  {
   "id": "18074973356377673",
@@ -6949,11 +6949,11 @@
   "data": "2026-07-22T11:44:36+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 148,
-  "views": 170,
+  "alcance": 155,
+  "views": 175,
   "respostas": 1,
   "interacoes": 1,
-  "navegacao": 60
+  "navegacao": 168
  },
  {
   "id": "18147555322523140",
@@ -6961,11 +6961,11 @@
   "data": "2026-07-22T11:42:47+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 149,
-  "views": 166,
+  "alcance": 154,
+  "views": 172,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 35
+  "navegacao": 157
  },
  {
   "id": "18108176372008061",
@@ -6973,11 +6973,11 @@
   "data": "2026-07-22T11:41:38+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 153,
-  "views": 169,
+  "alcance": 159,
+  "views": 176,
   "respostas": 0,
   "interacoes": 2,
-  "navegacao": 69
+  "navegacao": 168
  },
  {
   "id": "18126189421736690",
@@ -6985,11 +6985,11 @@
   "data": "2026-07-22T11:39:09+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 161,
-  "views": 188,
+  "alcance": 168,
+  "views": 197,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 74
+  "navegacao": 179
  },
  {
   "id": "18336758080265595",
@@ -6997,10 +6997,11 @@
   "data": "2026-07-22T14:42:29+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 194,
-  "views": 232,
+  "alcance": 206,
+  "views": 247,
   "respostas": 0,
-  "interacoes": 0
+  "interacoes": 0,
+  "navegacao": 233
  },
  {
   "id": "18097089656256801",
@@ -7008,10 +7009,11 @@
   "data": "2026-07-22T14:23:57+0000",
   "loja": "L5",
   "legenda": "Kit shampoo +Condicionador ✔️1-Litro  Por Apenas:R$:70.90💰 ✅️Crespo Barbosa\n✔️Limpeza suave \n✔️Mais Hidratação",
-  "alcance": 204,
-  "views": 235,
+  "alcance": 212,
+  "views": 250,
   "respostas": 0,
-  "interacoes": 0
+  "interacoes": 0,
+  "navegacao": 235
  },
  {
   "id": "18124962766663409",
@@ -7019,10 +7021,11 @@
   "data": "2026-07-22T14:18:34+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 201,
-  "views": 229,
+  "alcance": 214,
+  "views": 246,
   "respostas": 0,
-  "interacoes": 1
+  "interacoes": 1,
+  "navegacao": 232
  },
  {
   "id": "18105594407017689",
@@ -7030,10 +7033,11 @@
   "data": "2026-07-22T12:27:24+0000",
   "loja": "L5",
   "legenda": "Creme de massagem corporal 🧖‍♀️ Promo especial😍",
-  "alcance": 230,
-  "views": 260,
+  "alcance": 239,
+  "views": 278,
   "respostas": 0,
-  "interacoes": 0
+  "interacoes": 0,
+  "navegacao": 262
  },
  {
   "id": "18127287775659630",
@@ -7041,11 +7045,11 @@
   "data": "2026-07-22T12:22:43+0000",
   "loja": "L5",
   "legenda": "Creme de massagem da Labotrat",
-  "alcance": 233,
-  "views": 301,
+  "alcance": 245,
+  "views": 318,
   "respostas": 1,
   "interacoes": 1,
-  "navegacao": 64
+  "navegacao": 313
  },
  {
   "id": "18106504448028067",
@@ -7053,10 +7057,11 @@
   "data": "2026-07-22T12:19:49+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 238,
-  "views": 311,
+  "alcance": 253,
+  "views": 327,
   "respostas": 0,
-  "interacoes": 1
+  "interacoes": 1,
+  "navegacao": 170
  },
  {
   "id": "18100763228191966",
@@ -7064,11 +7069,11 @@
   "data": "2026-07-22T12:18:22+0000",
   "loja": "L5",
   "legenda": "Limpa os fios, remove resíduos de outros produtos que se acumulam e possui carga de aminoácidos.😍✨",
-  "alcance": 243,
-  "views": 285,
+  "alcance": 251,
+  "views": 300,
   "respostas": 1,
   "interacoes": 3,
-  "navegacao": 63
+  "navegacao": 284
  },
  {
   "id": "18157213924468774",
@@ -7076,11 +7081,11 @@
   "data": "2026-07-22T12:14:14+0000",
   "loja": "L5",
   "legenda": "Hidratante corporal Hidramais ✨ Apenas R$14,90",
-  "alcance": 238,
-  "views": 284,
+  "alcance": 249,
+  "views": 298,
   "respostas": 0,
   "interacoes": 2,
-  "navegacao": 69
+  "navegacao": 285
  },
  {
   "id": "18328403470258952",
@@ -7088,10 +7093,11 @@
   "data": "2026-07-22T12:05:57+0000",
   "loja": "L5",
   "legenda": "Probelle  Apenas R$33💰 Mais crescimento 😍",
-  "alcance": 251,
-  "views": 293,
+  "alcance": 265,
+  "views": 308,
   "respostas": 2,
-  "interacoes": 4
+  "interacoes": 4,
+  "navegacao": 296
  },
  {
   "id": "17956060083188960",
@@ -7099,11 +7105,11 @@
   "data": "2026-07-22T11:59:32+0000",
   "loja": "L5",
   "legenda": "Repositor de carbono",
-  "alcance": 258,
-  "views": 293,
+  "alcance": 265,
+  "views": 308,
   "respostas": 0,
   "interacoes": 2,
-  "navegacao": 80
+  "navegacao": 295
  },
  {
   "id": "18099333097965970",
@@ -7111,11 +7117,11 @@
   "data": "2026-07-22T11:54:21+0000",
   "loja": "L5",
   "legenda": "Atua na cutícula, melhora a elasticidade dos fios e protege a fibra das agressões externas",
-  "alcance": 264,
-  "views": 311,
+  "alcance": 277,
+  "views": 329,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 86
+  "navegacao": 306
  },
  {
   "id": "18047222297795379",
@@ -7123,11 +7129,11 @@
   "data": "2026-07-22T11:50:59+0000",
   "loja": "L5",
   "legenda": "Kit C.P.R Apenas R$1.420😮😍 Aproveita a promoção",
-  "alcance": 265,
-  "views": 331,
+  "alcance": 277,
+  "views": 349,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 90
+  "navegacao": 340
  },
  {
   "id": "17987307918035957",
@@ -7135,11 +7141,11 @@
   "data": "2026-07-22T11:42:59+0000",
   "loja": "L5",
   "legenda": "Selagem FELPS  Reduz volume, alinha os fios, deixando-os lisos e bonitos de forma natural 😍",
-  "alcance": 280,
-  "views": 321,
-  "respostas": 2,
-  "interacoes": 3,
-  "navegacao": 85
+  "alcance": 295,
+  "views": 338,
+  "respostas": 3,
+  "interacoes": 4,
+  "navegacao": 310
  },
  {
   "id": "18107442772840548",
@@ -7147,140 +7153,712 @@
   "data": "2026-07-22T11:38:21+0000",
   "loja": "L5",
   "legenda": "Bom dia 🌞 🩷 Horário de funcionamento: \n8h às 18h",
-  "alcance": 285,
-  "views": 333,
+  "alcance": 292,
+  "views": 352,
   "respostas": 0,
   "interacoes": 4,
-  "navegacao": 90
+  "navegacao": 317
  },
  {
   "id": "17905959525452775",
   "tipo": "IMAGE",
   "data": "2026-07-22T17:56:18+0000",
-  "alcance": 126,
-  "views": 153,
+  "alcance": 139,
+  "views": 168,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L1"
+  "loja": "L1",
+  "legenda": "",
+  "navegacao": 154
  },
  {
   "id": "17897522712356398",
   "tipo": "VIDEO",
   "data": "2026-07-22T19:02:04+0000",
-  "alcance": 78,
-  "views": 85,
+  "alcance": 163,
+  "views": 189,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L4"
+  "loja": "L4",
+  "legenda": "",
+  "navegacao": 184
  },
  {
   "id": "18094506902620257",
   "tipo": "VIDEO",
   "data": "2026-07-22T18:54:19+0000",
-  "alcance": 82,
-  "views": 86,
+  "alcance": 170,
+  "views": 190,
   "respostas": 0,
   "interacoes": 1,
-  "loja": "L4"
+  "loja": "L4",
+  "legenda": "500ml 82,90",
+  "navegacao": 184
  },
  {
   "id": "17893077504569896",
   "tipo": "VIDEO",
   "data": "2026-07-22T16:36:19+0000",
-  "alcance": 111,
-  "views": 132,
+  "alcance": 190,
+  "views": 231,
   "respostas": 2,
   "interacoes": 2,
-  "loja": "L4"
+  "loja": "L4",
+  "legenda": "Reposição LET ME BE",
+  "navegacao": 222
  },
  {
   "id": "18199697692324496",
   "tipo": "VIDEO",
   "data": "2026-07-22T21:41:32+0000",
-  "alcance": 22,
-  "views": 58,
+  "alcance": 208,
+  "views": 272,
   "respostas": 0,
-  "interacoes": 0,
-  "loja": "L5"
+  "interacoes": 1,
+  "loja": "L5",
+  "legenda": "",
+  "navegacao": 257
  },
  {
   "id": "18096033716629369",
   "tipo": "VIDEO",
   "data": "2026-07-22T21:41:19+0000",
-  "alcance": 26,
-  "views": 55,
+  "alcance": 218,
+  "views": 267,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "",
+  "navegacao": 250
  },
  {
   "id": "17878118634503772",
   "tipo": "VIDEO",
   "data": "2026-07-22T21:41:11+0000",
-  "alcance": 17,
-  "views": 51,
+  "alcance": 219,
+  "views": 255,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "",
+  "navegacao": 237
  },
  {
   "id": "18097344041606726",
   "tipo": "VIDEO",
   "data": "2026-07-22T19:03:08+0000",
-  "alcance": 111,
-  "views": 138,
+  "alcance": 241,
+  "views": 280,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "~Kit completo softhair ~ Por $:86,90💰",
+  "navegacao": 264
  },
  {
   "id": "18133619836719827",
   "tipo": "VIDEO",
   "data": "2026-07-22T18:50:58+0000",
-  "alcance": 121,
-  "views": 140,
+  "alcance": 245,
+  "views": 284,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "Shampoo Protetor térmico  Power Dose Por $:18,90💰 Por $:19,90💰 Por $:14,90💰",
+  "navegacao": 271
  },
  {
   "id": "18149811895514046",
   "tipo": "VIDEO",
   "data": "2026-07-22T18:45:36+0000",
-  "alcance": 125,
-  "views": 153,
+  "alcance": 255,
+  "views": 297,
   "respostas": 0,
   "interacoes": 1,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "~Kit Pós Progressiva ~ Por $:93,70💰 ✅️Recupera Danos, Protege, Fortalece,  Condiciona e nutre sem sal!",
+  "navegacao": 282
  },
  {
   "id": "18106325636466850",
   "tipo": "VIDEO",
   "data": "2026-07-22T18:38:11+0000",
-  "alcance": 131,
-  "views": 158,
+  "alcance": 257,
+  "views": 301,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "~Shampoo + Condicionador ~ Por $:21,90💰",
+  "navegacao": 292
  },
  {
   "id": "17899085775539186",
   "tipo": "VIDEO",
   "data": "2026-07-22T18:35:24+0000",
-  "alcance": 138,
-  "views": 164,
+  "alcance": 264,
+  "views": 303,
   "respostas": 0,
   "interacoes": 1,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "~Gelatina ~ ~Gelatina ~",
+  "navegacao": 287
  },
  {
   "id": "18114058778511414",
   "tipo": "VIDEO",
   "data": "2026-07-22T12:10:39+0000",
-  "alcance": null,
-  "views": null,
-  "respostas": null,
-  "interacoes": null,
+  "alcance": 10,
+  "views": 14,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5",
+  "legenda": "Banho de ouro 😍 Limpa suavemente os fios deixando-os com brilho intenso.\nPossui proteína e colágenos✨",
+  "navegacao": 10
+ },
+ {
+  "id": "17865305970646390",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T13:29:18+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 137,
+  "views": 152,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 45
+ },
+ {
+  "id": "17918042346201363",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T13:29:17+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 138,
+  "views": 143,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 43
+ },
+ {
+  "id": "18624531037011155",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T13:29:16+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 140,
+  "views": 146,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 43
+ },
+ {
+  "id": "18045364535797728",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T13:29:15+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 139,
+  "views": 148,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 44
+ },
+ {
+  "id": "18061187231583711",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T13:29:14+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 142,
+  "views": 150,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 42
+ },
+ {
+  "id": "18114842894488008",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T13:29:13+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 144,
+  "views": 155,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 45
+ },
+ {
+  "id": "18016084829863355",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T13:20:06+0000",
+  "loja": "L1",
+  "legenda": "1. Máscara reconstrutora para cabelos finos e quebradiços \n2. Com colágeno, proteína vegana e ácido hialurônico\n3. Reconstrói a fibra, dá brilho espelhado e não pesa\n4. Efeito salão com nutrição leve e toque sedoso Perfect Mask",
+  "alcance": 148,
+  "views": 167,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 54
+ },
+ {
+  "id": "18229025833328643",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T13:18:06+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 151,
+  "views": 169,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 58
+ },
+ {
+  "id": "17999739452979583",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T13:18:05+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 151,
+  "views": 166,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 52
+ },
+ {
+  "id": "17979230283060653",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T13:18:04+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 157,
+  "views": 170,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 57
+ },
+ {
+  "id": "18046677311602652",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T13:18:03+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 155,
+  "views": 169,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 52
+ },
+ {
+  "id": "17883547914454713",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T12:11:19+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 181,
+  "views": 205,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 82
+ },
+ {
+  "id": "18080200208306950",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T14:28:35+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 111,
+  "views": 126,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 7
+ },
+ {
+  "id": "18160444273480592",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T12:09:54+0000",
+  "loja": "L4",
+  "legenda": "👏",
+  "alcance": 124,
+  "views": 140,
+  "respostas": 1,
+  "interacoes": 3,
+  "navegacao": 62
+ },
+ {
+  "id": "18106237784039129",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T12:07:33+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 126,
+  "views": 136,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 59
+ },
+ {
+  "id": "18113356807963562",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T12:06:53+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 128,
+  "views": 142,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 66
+ },
+ {
+  "id": "18129267457649495",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T12:06:01+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 131,
+  "views": 146,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 69
+ },
+ {
+  "id": "18166301836456151",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T12:04:36+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 134,
+  "views": 149,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 68
+ },
+ {
+  "id": "18191658349376103",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T11:53:16+0000",
+  "loja": "L4",
+  "legenda": "Chegou Reposição  máscara  desemareladora",
+  "alcance": 141,
+  "views": 158,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 78
+ },
+ {
+  "id": "17947654398229703",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T11:51:12+0000",
+  "loja": "L4",
+  "legenda": "Chegou Reposição  máscara  matizadora",
+  "alcance": 140,
+  "views": 161,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 82
+ },
+ {
+  "id": "18127551283661692",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T11:50:33+0000",
+  "loja": "L4",
+  "legenda": "Máscara  liquida",
+  "alcance": 143,
+  "views": 159,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 80
+ },
+ {
+  "id": "18473455711110021",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T11:48:41+0000",
+  "loja": "L4",
+  "legenda": "Cronograma capilar",
+  "alcance": 143,
+  "views": 157,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 76
+ },
+ {
+  "id": "18013720337920524",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T11:46:31+0000",
+  "loja": "L4",
+  "legenda": "Reposição",
+  "alcance": 145,
+  "views": 156,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 77
+ },
+ {
+  "id": "18054871994530449",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T11:45:17+0000",
+  "loja": "L4",
+  "legenda": "Reposição",
+  "alcance": 148,
+  "views": 164,
+  "respostas": 2,
+  "interacoes": 2,
+  "navegacao": 81
+ },
+ {
+  "id": "18117438691672241",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T11:44:27+0000",
+  "loja": "L4",
+  "legenda": "Reposição",
+  "alcance": 149,
+  "views": 172,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 91
+ },
+ {
+  "id": "17902952082308077",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T11:43:11+0000",
+  "loja": "L4",
+  "legenda": "Reposição",
+  "alcance": 152,
+  "views": 169,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 87
+ },
+ {
+  "id": "18060718607751789",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T11:41:54+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 152,
+  "views": 175,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 96
+ },
+ {
+  "id": "18109680172800747",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T11:41:38+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 155,
+  "views": 191,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 103
+ },
+ {
+  "id": "18114274406513759",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T11:41:13+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 158,
+  "views": 196,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 100
+ },
+ {
+  "id": "18149316166508031",
+  "tipo": "IMAGE",
+  "data": "2026-07-23T11:40:53+0000",
+  "loja": "L4",
+  "legenda": "Reposição  da letmebe",
+  "alcance": 160,
+  "views": 185,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 96
+ },
+ {
+  "id": "18084833159196174",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T11:38:02+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 164,
+  "views": 183,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 96
+ },
+ {
+  "id": "18023547500851268",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T14:58:58+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 147,
+  "views": 175,
+  "respostas": 0,
+  "interacoes": 0
+ },
+ {
+  "id": "18118446701486798",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T14:52:46+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 156,
+  "views": 181,
+  "respostas": 0,
+  "interacoes": 0
+ },
+ {
+  "id": "17881092597674295",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T12:33:52+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 177,
+  "views": 204,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 83
+ },
+ {
+  "id": "18461919850114699",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T12:26:36+0000",
+  "loja": "L5",
+  "legenda": "Bomba de crescimento \nCabelo e barba 🧔",
+  "alcance": 182,
+  "views": 215,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 87
+ },
+ {
+  "id": "18115137797490002",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T12:18:51+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 192,
+  "views": 214,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 94
+ },
+ {
+  "id": "17915385966225445",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T11:52:39+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 194,
+  "views": 218,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 116
+ },
+ {
+  "id": "17969405726931512",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T11:52:03+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 201,
+  "views": 231,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 104
+ },
+ {
+  "id": "18223838524322278",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T11:46:50+0000",
+  "loja": "L5",
+  "legenda": "Protetor facial  Protetor labial",
+  "alcance": 201,
+  "views": 235,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 121
+ },
+ {
+  "id": "18121101559770225",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T11:37:13+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 206,
+  "views": 239,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 123
+ },
+ {
+  "id": "18045166988641326",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T11:30:15+0000",
+  "loja": "L5",
+  "legenda": "Anasol,antioleosidade",
+  "alcance": 211,
+  "views": 248,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 126
+ },
+ {
+  "id": "18086506637234065",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T11:25:48+0000",
+  "loja": "L5",
+  "legenda": "Pinça mundial",
+  "alcance": 214,
+  "views": 261,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 135
+ },
+ {
+  "id": "18126488821735717",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T11:21:58+0000",
+  "loja": "L5",
+  "legenda": "Kit pincel 🖌️",
+  "alcance": 217,
+  "views": 259,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 133
+ },
+ {
+  "id": "17911213083438959",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T11:19:53+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 221,
+  "views": 259,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 128
+ },
+ {
+  "id": "18383324119202347",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T15:09:04+0000",
+  "alcance": 145,
+  "views": 162,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
+ },
+ {
+  "id": "17926413873390444",
+  "tipo": "VIDEO",
+  "data": "2026-07-23T15:02:19+0000",
+  "alcance": 146,
+  "views": 168,
+  "respostas": 1,
+  "interacoes": 1,
   "loja": "L5"
  }
 ]
