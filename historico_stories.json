@@ -20029,11 +20029,11 @@
   "data": "2026-08-22T12:14:25+0000",
   "loja": "L1",
   "legenda": "@casadabelezaaltamira",
-  "alcance": 54,
-  "views": 60,
+  "alcance": 137,
+  "views": 150,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 55
+  "navegacao": 140
  },
  {
   "id": "18100152020255166",
@@ -20041,11 +20041,11 @@
   "data": "2026-08-22T11:49:28+0000",
   "loja": "L1",
   "legenda": "@casadabelezaaltamira",
-  "alcance": 59,
-  "views": 65,
+  "alcance": 144,
+  "views": 154,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 61
+  "navegacao": 145
  },
  {
   "id": "18350574892172766",
@@ -20053,11 +20053,11 @@
   "data": "2026-08-22T11:46:45+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 64,
-  "views": 70,
+  "alcance": 147,
+  "views": 162,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 68
+  "navegacao": 159
  },
  {
   "id": "18420062134144814",
@@ -20065,11 +20065,11 @@
   "data": "2026-08-22T11:43:37+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 59,
-  "views": 82,
+  "alcance": 148,
+  "views": 177,
   "respostas": 0,
-  "interacoes": 1,
-  "navegacao": 75
+  "interacoes": 2,
+  "navegacao": 171
  },
  {
   "id": "18112327559057529",
@@ -20077,11 +20077,11 @@
   "data": "2026-08-22T11:40:30+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 61,
-  "views": 79,
+  "alcance": 151,
+  "views": 173,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 74
+  "navegacao": 163
  },
  {
   "id": "17929057671142240",
@@ -20089,11 +20089,11 @@
   "data": "2026-08-22T11:36:37+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 66,
-  "views": 83,
+  "alcance": 156,
+  "views": 173,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 76
+  "navegacao": 163
  },
  {
   "id": "17982930201062322",
@@ -20101,18 +20101,23 @@
   "data": "2026-08-22T14:15:17+0000",
   "loja": "L4",
   "legenda": "Chegou Reposição  da wella aqui  miss beleza 👏 👏 👏",
-  "alcance": 16,
-  "views": 20,
+  "alcance": 98,
+  "views": 115,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 18
+  "navegacao": 108
  },
  {
   "id": "18428017612179020",
   "tipo": "VIDEO",
   "data": "2026-08-22T12:46:59+0000",
   "loja": "L4",
-  "legenda": ""
+  "legenda": "",
+  "alcance": 109,
+  "views": 115,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 110
  },
  {
   "id": "18111339623084385",
@@ -20132,11 +20137,11 @@
   "data": "2026-08-22T12:39:00+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 40,
-  "views": 47,
+  "alcance": 113,
+  "views": 122,
   "respostas": 0,
-  "interacoes": 0,
-  "navegacao": 39
+  "interacoes": 1,
+  "navegacao": 114
  },
  {
   "id": "17936985339355285",
@@ -20144,11 +20149,11 @@
   "data": "2026-08-22T11:55:56+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 52,
-  "views": 59,
+  "alcance": 116,
+  "views": 123,
   "respostas": 0,
-  "interacoes": 0,
-  "navegacao": 50
+  "interacoes": 1,
+  "navegacao": 111
  },
  {
   "id": "18106785527136308",
@@ -20156,11 +20161,11 @@
   "data": "2026-08-22T11:52:46+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 54,
-  "views": 59,
+  "alcance": 119,
+  "views": 127,
   "respostas": 0,
-  "interacoes": 0,
-  "navegacao": 52
+  "interacoes": 1,
+  "navegacao": 116
  },
  {
   "id": "18140493073600889",
@@ -20168,11 +20173,11 @@
   "data": "2026-08-22T11:48:47+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 58,
-  "views": 62,
+  "alcance": 122,
+  "views": 128,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 53
+  "navegacao": 112
  },
  {
   "id": "17927266095401793",
@@ -20180,11 +20185,11 @@
   "data": "2026-08-22T11:41:27+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 64,
-  "views": 69,
+  "alcance": 129,
+  "views": 135,
   "respostas": 0,
-  "interacoes": 0,
-  "navegacao": 65
+  "interacoes": 1,
+  "navegacao": 130
  },
  {
   "id": "18064965020754357",
@@ -20192,18 +20197,23 @@
   "data": "2026-08-22T11:35:04+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 64,
-  "views": 71,
+  "alcance": 128,
+  "views": 134,
   "respostas": 0,
-  "interacoes": 0,
-  "navegacao": 66
+  "interacoes": 1,
+  "navegacao": 129
  },
  {
   "id": "18101872430244652",
   "tipo": "VIDEO",
   "data": "2026-08-22T11:33:06+0000",
   "loja": "L4",
-  "legenda": ""
+  "legenda": "",
+  "alcance": 137,
+  "views": 150,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 144
  },
  {
   "id": "18118402036849146",
@@ -20211,11 +20221,11 @@
   "data": "2026-08-22T11:30:07+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 73,
-  "views": 82,
+  "alcance": 140,
+  "views": 153,
   "respostas": 0,
   "interacoes": 2,
-  "navegacao": 76
+  "navegacao": 143
  },
  {
   "id": "18173647405430089",
@@ -20223,11 +20233,11 @@
   "data": "2026-08-22T11:27:30+0000",
   "loja": "L4",
   "legenda": "👏",
-  "alcance": 77,
-  "views": 88,
+  "alcance": 157,
+  "views": 176,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 80
+  "navegacao": 162
  },
  {
   "id": "17870724258585121",
@@ -20239,7 +20249,7 @@
   "views": 226,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 86
+  "navegacao": 221
  },
  {
   "id": "17886170625459225",
@@ -20251,7 +20261,7 @@
   "views": 227,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 88
+  "navegacao": 215
  },
  {
   "id": "17971248068934451",
@@ -20259,8 +20269,8 @@
   "data": "2026-08-22T13:05:04+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 205,
-  "views": 218,
+  "alcance": 74,
+  "views": 84,
   "respostas": 0,
   "interacoes": 0,
   "navegacao": 78
@@ -20272,10 +20282,10 @@
   "loja": "L5",
   "legenda": "",
   "alcance": 208,
-  "views": 226,
+  "views": 227,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 80
+  "navegacao": 211
  },
  {
   "id": "18113864996064120",
@@ -20283,11 +20293,11 @@
   "data": "2026-08-22T13:04:52+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 206,
-  "views": 243,
+  "alcance": 210,
+  "views": 244,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 86
+  "navegacao": 227
  },
  {
   "id": "18064256765758358",
@@ -20296,9 +20306,10 @@
   "loja": "L5",
   "legenda": "",
   "alcance": 210,
-  "views": 258,
+  "views": 259,
   "respostas": 0,
-  "interacoes": 0
+  "interacoes": 0,
+  "navegacao": 246
  },
  {
   "id": "18096203834306913",
@@ -20306,11 +20317,11 @@
   "data": "2026-08-22T13:04:38+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 208,
-  "views": 274,
+  "alcance": 211,
+  "views": 275,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 107
+  "navegacao": 258
  },
  {
   "id": "17915462112434350",
@@ -20319,10 +20330,10 @@
   "loja": "L5",
   "legenda": "",
   "alcance": 209,
-  "views": 279,
+  "views": 280,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 110
+  "navegacao": 273
  },
  {
   "id": "18100190219362939",
@@ -20330,11 +20341,11 @@
   "data": "2026-08-22T13:04:24+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 214,
-  "views": 260,
+  "alcance": 216,
+  "views": 261,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 106
+  "navegacao": 251
  },
  {
   "id": "17956675043997509",
@@ -20343,10 +20354,10 @@
   "loja": "L5",
   "legenda": "",
   "alcance": 215,
-  "views": 248,
+  "views": 249,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 99
+  "navegacao": 237
  },
  {
   "id": "18132726109711891",
@@ -20354,11 +20365,11 @@
   "data": "2026-08-22T13:04:12+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 214,
-  "views": 239,
+  "alcance": 217,
+  "views": 240,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 93
+  "navegacao": 225
  },
  {
   "id": "18338608531268615",
@@ -20366,10 +20377,11 @@
   "data": "2026-08-22T13:04:06+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": null,
-  "views": null,
-  "respostas": null,
-  "interacoes": null
+  "alcance": 215,
+  "views": 232,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 225
  },
  {
   "id": "18351121963223644",
@@ -20381,7 +20393,7 @@
   "views": 254,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 108
+  "navegacao": 242
  },
  {
   "id": "18102552242199544",
@@ -20393,7 +20405,7 @@
   "views": 266,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 113
+  "navegacao": 258
  },
  {
   "id": "18091802879649767",
@@ -20405,7 +20417,7 @@
   "views": 257,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 107
+  "navegacao": 249
  },
  {
   "id": "17945719107281942",
@@ -20417,7 +20429,7 @@
   "views": 254,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 104
+  "navegacao": 246
  },
  {
   "id": "18107859680133652",
@@ -20429,7 +20441,7 @@
   "views": 249,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 106
+  "navegacao": 244
  },
  {
   "id": "18012191846748071",
@@ -20441,7 +20453,7 @@
   "views": 248,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 98
+  "navegacao": 237
  },
  {
   "id": "18107876200877019",
@@ -20453,7 +20465,7 @@
   "views": 254,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 102
+  "navegacao": 237
  },
  {
   "id": "18030172775667645",
@@ -20462,9 +20474,10 @@
   "loja": "L5",
   "legenda": "",
   "alcance": 227,
-  "views": 249,
+  "views": 250,
   "respostas": 0,
-  "interacoes": 0
+  "interacoes": 0,
+  "navegacao": 238
  },
  {
   "id": "18006361883978186",
@@ -20476,7 +20489,7 @@
   "views": 254,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 116
+  "navegacao": 249
  },
  {
   "id": "18009079211759554",
@@ -20488,7 +20501,7 @@
   "views": 266,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 114
+  "navegacao": 254
  },
  {
   "id": "18099814031238952",
@@ -20500,7 +20513,7 @@
   "views": 286,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 124
+  "navegacao": 274
  },
  {
   "id": "18120964762847056",
@@ -20512,7 +20525,7 @@
   "views": 292,
   "respostas": 1,
   "interacoes": 1,
-  "navegacao": 128
+  "navegacao": 280
  },
  {
   "id": "17959961334191328",
@@ -20524,6 +20537,246 @@
   "views": 296,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 128
+  "navegacao": 281
+ },
+ {
+  "id": "18089489477405699",
+  "tipo": "VIDEO",
+  "data": "2026-08-23T13:06:01+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 188,
+  "views": 225,
+  "respostas": 0,
+  "interacoes": 6,
+  "navegacao": 213
+ },
+ {
+  "id": "18482004868106658",
+  "tipo": "VIDEO",
+  "data": "2026-08-23T12:57:13+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 193,
+  "views": 229,
+  "respostas": 0,
+  "interacoes": 2,
+  "navegacao": 217
+ },
+ {
+  "id": "18134109640550959",
+  "tipo": "VIDEO",
+  "data": "2026-08-23T12:56:20+0000",
+  "loja": "L1",
+  "legenda": "******************",
+  "alcance": 196,
+  "views": 236,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 222
+ },
+ {
+  "id": "18110815796041269",
+  "tipo": "VIDEO",
+  "data": "2026-08-23T12:50:15+0000",
+  "loja": "L1",
+  "legenda": "@casadabelezaaltamira",
+  "alcance": 202,
+  "views": 234,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 230
+ },
+ {
+  "id": "18143821000564165",
+  "tipo": "VIDEO",
+  "data": "2026-08-23T12:49:23+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 214,
+  "views": 241,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 222
+ },
+ {
+  "id": "17953019715210473",
+  "tipo": "IMAGE",
+  "data": "2026-08-24T13:04:23+0000",
+  "alcance": 150,
+  "views": 213,
+  "respostas": 1,
+  "interacoes": 2,
+  "loja": "L1"
+ },
+ {
+  "id": "18113689600980195",
+  "tipo": "IMAGE",
+  "data": "2026-08-24T12:15:57+0000",
+  "alcance": 171,
+  "views": 235,
+  "respostas": 3,
+  "interacoes": 3,
+  "loja": "L1"
+ },
+ {
+  "id": "18130549993575989",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T12:14:55+0000",
+  "alcance": 171,
+  "views": 245,
+  "respostas": 2,
+  "interacoes": 4,
+  "loja": "L1"
+ },
+ {
+  "id": "17943772776337119",
+  "tipo": "IMAGE",
+  "data": "2026-08-24T12:11:52+0000",
+  "alcance": 184,
+  "views": 239,
+  "respostas": 4,
+  "interacoes": 5,
+  "loja": "L1"
+ },
+ {
+  "id": "18485481082102133",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T12:10:48+0000",
+  "alcance": 195,
+  "views": 239,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "17942865348319571",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T16:40:09+0000",
+  "alcance": null,
+  "views": null,
+  "respostas": null,
+  "interacoes": null,
+  "loja": "L4"
+ },
+ {
+  "id": "17957224464206798",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T12:43:42+0000",
+  "alcance": 70,
+  "views": 86,
+  "respostas": 1,
+  "interacoes": 1,
+  "loja": "L4"
+ },
+ {
+  "id": "18014082173935381",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T12:18:53+0000",
+  "alcance": 79,
+  "views": 91,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "17956842404996547",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T11:31:57+0000",
+  "alcance": 90,
+  "views": 109,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "17876702328689193",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T13:02:17+0000",
+  "alcance": 310,
+  "views": 388,
+  "respostas": 2,
+  "interacoes": 6,
+  "loja": "L5"
+ },
+ {
+  "id": "18067104833724077",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T13:00:16+0000",
+  "alcance": 309,
+  "views": 403,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L5"
+ },
+ {
+  "id": "18116892445821460",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T12:41:14+0000",
+  "alcance": 347,
+  "views": 436,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
+ },
+ {
+  "id": "18392613712160996",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T12:19:49+0000",
+  "alcance": 379,
+  "views": 484,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
+ },
+ {
+  "id": "18098573393362340",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T12:14:35+0000",
+  "alcance": 403,
+  "views": 508,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
+ },
+ {
+  "id": "18127246624682891",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T12:12:35+0000",
+  "alcance": 422,
+  "views": 542,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
+ },
+ {
+  "id": "18075946760372296",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T12:00:58+0000",
+  "alcance": 469,
+  "views": 601,
+  "respostas": 1,
+  "interacoes": 4,
+  "loja": "L5"
+ },
+ {
+  "id": "18110487470033519",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T11:58:44+0000",
+  "alcance": 483,
+  "views": 586,
+  "respostas": 1,
+  "interacoes": 1,
+  "loja": "L5"
+ },
+ {
+  "id": "18100403177343942",
+  "tipo": "VIDEO",
+  "data": "2026-08-24T11:48:53+0000",
+  "alcance": 524,
+  "views": 652,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
  }
 ]
