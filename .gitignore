@@ -5,3 +5,4 @@ ultima_execucao.log
 direct_*.json
 insights_cache.json
 verificacao_status.txt
+*.bak-*

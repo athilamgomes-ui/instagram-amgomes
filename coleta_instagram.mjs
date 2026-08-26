@@ -261,7 +261,10 @@ async function main() {
   if (existsSync(histPath)) {
     try { historico = JSON.parse(readFileSync(histPath, 'utf8')); } catch { historico = []; }
   }
-  const hoje = new Date().toISOString().slice(0, 10);
+  // Data em America/Belem, NAO em UTC: run depois das 21h BRT ja e o dia seguinte em UTC e
+  // gravava a linha no dia errado, deixando buraco no dia certo e travando o dia seguinte
+  // (o push e pulado quando ja existe linha com aquela data). Incidentes 07/08 e 25/08/2026.
+  const hoje = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Belem' });
   for (const l of resultado.lojas) {
     if (!l.conectada) continue;
     const jaTem = historico.find(h => h.data === hoje && h.loja === l.codigo);
