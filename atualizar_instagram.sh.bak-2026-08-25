@@ -51,7 +51,4 @@ cd "$DIR" || exit 10
   echo "✅ Concluído $(date '+%H:%M:%S')"
 } 2>&1 | tee "$LOG"
 
-# PIPESTATUS[0] = status do bloco acima. Sem isso o `exit 10` da coleta morre no
-# subshell do pipe e o `exit 0` final mentia: run morta/travada reportava sucesso.
-STATUS=${PIPESTATUS[0]}
-exit "$STATUS"
+exit 0

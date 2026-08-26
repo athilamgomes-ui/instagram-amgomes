@@ -42,33 +42,16 @@ const LOJAS = DEF_LOJAS.map(l => ({
   token: env[`${l.codigo}_PAGE_TOKEN`] || null,
 }));
 
-const FETCH_TIMEOUT_MS = 30000;   // nenhuma chamada da Graph API pode passar disso
-const MAX_TENTATIVAS = 3;
-
 async function apiGet(pathOrUrl, params = {}, token) {
   const url = pathOrUrl.startsWith('http') ? new URL(pathOrUrl) : new URL(`${BASE}/${pathOrUrl}`);
   if (!pathOrUrl.startsWith('http')) {
     url.searchParams.set('access_token', token);
     for (const [k, v] of Object.entries(params)) url.searchParams.set(k, v);
   }
-  // Timeout + retry: sem AbortSignal um fetch pendurado trava o pipeline por horas
-  // (incidentes 07/08 e 25/08/2026). Erro da Graph API nao e repetido — e deterministico.
-  let ultimoErro;
-  for (let tentativa = 1; tentativa <= MAX_TENTATIVAS; tentativa++) {
-    try {
-      const resp = await fetch(url.toString(), { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) });
-      const data = await resp.json();
-      if (data.error) { const e = new Error(data.error.message); e.daApi = true; throw e; }
-      return data;
-    } catch (err) {
-      if (err.daApi) throw err;
-      ultimoErro = err;
-      if (tentativa < MAX_TENTATIVAS) {
-        await new Promise(r => setTimeout(r, 2000 * tentativa));
-      }
-    }
-  }
-  throw new Error(`rede falhou apos ${MAX_TENTATIVAS} tentativas: ${ultimoErro.message}`);
+  const resp = await fetch(url.toString());
+  const data = await resp.json();
+  if (data.error) throw new Error(data.error.message);
+  return data;
 }
 
 // Cache incremental de insights por mídia (posts antigos são imutáveis)
@@ -229,29 +212,6 @@ async function main() {
 
   if (!algumaOk) {
     console.error('\n❌ Nenhuma loja coletada com sucesso. dados.js preservado.');
-    process.exit(10);
-  }
-
-  // Regressao de loja: conectada ontem, desconectada hoje = falha parcial silenciosa
-  // (incidente 07/08/2026, L1 sumiu do painel e o pipeline saiu 0). Falhar alto.
-  const regrediram = [];
-  try {
-    const antigo = readFileSync(join(__dir, 'dados.js'), 'utf8');
-    const mAnt = antigo.match(/const DADOS_IG = ([\s\S]*);\s*$/);
-    if (mAnt) {
-      const prev = JSON.parse(mAnt[1]);
-      for (const lj of resultado.lojas) {
-        const antes = (prev.lojas || []).find(x => x.codigo === lj.codigo);
-        if (antes && antes.conectada && !lj.conectada) {
-          regrediram.push(`${lj.codigo} (${lj.erro || 'sem erro reportado'})`);
-        }
-      }
-    }
-  } catch { /* sem dados.js anterior ou ilegivel: nada a comparar */ }
-
-  if (regrediram.length) {
-    console.error(`\n❌ Loja(s) que funcionavam pararam de coletar: ${regrediram.join(', ')}`);
-    console.error('   dados.js PRESERVADO — melhor dado de ontem inteiro que painel com loja faltando.');
     process.exit(10);
   }
 
