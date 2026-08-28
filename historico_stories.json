@@ -22117,11 +22117,11 @@
   "data": "2026-08-27T13:48:00+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 81,
-  "views": 96,
+  "alcance": 84,
+  "views": 100,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 14
+  "navegacao": 99
  },
  {
   "id": "18112403093060024",
@@ -22129,11 +22129,11 @@
   "data": "2026-08-27T13:47:59+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 81,
-  "views": 93,
+  "alcance": 86,
+  "views": 95,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 17
+  "navegacao": 95
  },
  {
   "id": "18118181645313084",
@@ -22141,11 +22141,11 @@
   "data": "2026-08-27T13:47:58+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 84,
-  "views": 91,
+  "alcance": 87,
+  "views": 93,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 14
+  "navegacao": 92
  },
  {
   "id": "18071701985475638",
@@ -22153,11 +22153,11 @@
   "data": "2026-08-27T13:47:57+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 81,
-  "views": 87,
+  "alcance": 86,
+  "views": 89,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 15
+  "navegacao": 88
  },
  {
   "id": "18412687249159609",
@@ -22165,11 +22165,11 @@
   "data": "2026-08-27T13:47:56+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 85,
-  "views": 89,
+  "alcance": 87,
+  "views": 91,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 15
+  "navegacao": 88
  },
  {
   "id": "18073402331436239",
@@ -22177,11 +22177,11 @@
   "data": "2026-08-27T12:50:47+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 91,
-  "views": 99,
+  "alcance": 94,
+  "views": 101,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 37
+  "navegacao": 100
  },
  {
   "id": "18129045148662583",
@@ -22189,11 +22189,11 @@
   "data": "2026-08-27T12:50:46+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 89,
-  "views": 98,
+  "alcance": 94,
+  "views": 100,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 37
+  "navegacao": 100
  },
  {
   "id": "18019129751877194",
@@ -22201,11 +22201,11 @@
   "data": "2026-08-27T12:50:45+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 90,
-  "views": 100,
+  "alcance": 95,
+  "views": 102,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 36
+  "navegacao": 101
  },
  {
   "id": "18103645481167671",
@@ -22213,11 +22213,11 @@
   "data": "2026-08-27T12:50:44+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 92,
-  "views": 103,
+  "alcance": 96,
+  "views": 106,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 39
+  "navegacao": 107
  },
  {
   "id": "18111368426099301",
@@ -22225,11 +22225,11 @@
   "data": "2026-08-27T12:50:43+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 91,
-  "views": 106,
+  "alcance": 98,
+  "views": 109,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 36
+  "navegacao": 109
  },
  {
   "id": "18109480361325969",
@@ -22237,11 +22237,11 @@
   "data": "2026-08-27T12:50:42+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 93,
-  "views": 103,
+  "alcance": 97,
+  "views": 106,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 35
+  "navegacao": 107
  },
  {
   "id": "18108789161520121",
@@ -22249,11 +22249,11 @@
   "data": "2026-08-27T12:50:41+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 92,
-  "views": 97,
+  "alcance": 96,
+  "views": 101,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 36
+  "navegacao": 100
  },
  {
   "id": "18008392892763062",
@@ -22261,11 +22261,11 @@
   "data": "2026-08-27T12:50:40+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 90,
-  "views": 96,
+  "alcance": 97,
+  "views": 99,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 35
+  "navegacao": 98
  },
  {
   "id": "17915307933439302",
@@ -22273,11 +22273,11 @@
   "data": "2026-08-27T12:50:38+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 91,
-  "views": 99,
+  "alcance": 98,
+  "views": 102,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 33
+  "navegacao": 102
  },
  {
   "id": "18142306789603548",
@@ -22285,11 +22285,11 @@
   "data": "2026-08-27T12:50:37+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 92,
-  "views": 98,
+  "alcance": 97,
+  "views": 102,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 39
+  "navegacao": 101
  },
  {
   "id": "17943293733070560",
@@ -22297,11 +22297,11 @@
   "data": "2026-08-27T12:49:45+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 93,
-  "views": 97,
+  "alcance": 97,
+  "views": 100,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 36
+  "navegacao": 101
  },
  {
   "id": "18014820761946414",
@@ -22309,11 +22309,11 @@
   "data": "2026-08-27T12:49:44+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 91,
-  "views": 100,
+  "alcance": 98,
+  "views": 103,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 38
+  "navegacao": 103
  },
  {
   "id": "18333777016276798",
@@ -22321,11 +22321,11 @@
   "data": "2026-08-27T12:49:43+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 94,
-  "views": 102,
+  "alcance": 98,
+  "views": 105,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 39
+  "navegacao": 106
  },
  {
   "id": "18122367340871260",
@@ -22333,11 +22333,11 @@
   "data": "2026-08-27T12:49:42+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 95,
-  "views": 100,
+  "alcance": 99,
+  "views": 104,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 33
+  "navegacao": 104
  },
  {
   "id": "17964895094963404",
@@ -22345,11 +22345,11 @@
   "data": "2026-08-27T12:49:41+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 92,
-  "views": 101,
+  "alcance": 99,
+  "views": 104,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 34
+  "navegacao": 103
  },
  {
   "id": "18111181019323333",
@@ -22357,11 +22357,11 @@
   "data": "2026-08-27T12:49:40+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 95,
-  "views": 102,
+  "alcance": 99,
+  "views": 104,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 33
+  "navegacao": 104
  },
  {
   "id": "18114239594284726",
@@ -22369,11 +22369,11 @@
   "data": "2026-08-27T12:49:39+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 97,
-  "views": 103,
+  "alcance": 101,
+  "views": 105,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 37
+  "navegacao": 105
  },
  {
   "id": "17871376047634802",
@@ -22381,11 +22381,11 @@
   "data": "2026-08-27T12:49:38+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 98,
-  "views": 105,
+  "alcance": 102,
+  "views": 107,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 38
+  "navegacao": 107
  },
  {
   "id": "17958719403010386",
@@ -22393,11 +22393,11 @@
   "data": "2026-08-27T12:49:37+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 95,
-  "views": 108,
+  "alcance": 101,
+  "views": 110,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 38
+  "navegacao": 108
  },
  {
   "id": "17956854588218507",
@@ -22405,11 +22405,11 @@
   "data": "2026-08-27T12:49:36+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 99,
-  "views": 107,
+  "alcance": 102,
+  "views": 109,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 35
+  "navegacao": 109
  },
  {
   "id": "18432988798135447",
@@ -22417,11 +22417,11 @@
   "data": "2026-08-27T12:53:00+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 101,
-  "views": 121,
+  "alcance": 114,
+  "views": 134,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 51
+  "navegacao": 125
  },
  {
   "id": "18044013458810628",
@@ -22429,11 +22429,11 @@
   "data": "2026-08-27T12:52:18+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 101,
-  "views": 120,
+  "alcance": 117,
+  "views": 133,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 54
+  "navegacao": 129
  },
  {
   "id": "18151958242519181",
@@ -22441,11 +22441,11 @@
   "data": "2026-08-27T12:49:21+0000",
   "loja": "L4",
   "legenda": "19.90",
-  "alcance": 102,
-  "views": 119,
+  "alcance": 118,
+  "views": 130,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 53
+  "navegacao": 127
  },
  {
   "id": "18110132738151436",
@@ -22453,11 +22453,11 @@
   "data": "2026-08-27T12:48:44+0000",
   "loja": "L4",
   "legenda": "5.90",
-  "alcance": 106,
-  "views": 124,
+  "alcance": 122,
+  "views": 138,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 55
+  "navegacao": 136
  },
  {
   "id": "18105894245159641",
@@ -22465,11 +22465,11 @@
   "data": "2026-08-27T12:47:57+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 107,
-  "views": 128,
+  "alcance": 123,
+  "views": 141,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 53
+  "navegacao": 131
  },
  {
   "id": "17945481099285468",
@@ -22477,11 +22477,11 @@
   "data": "2026-08-27T12:43:02+0000",
   "loja": "L4",
   "legenda": "15.90",
-  "alcance": 110,
-  "views": 133,
+  "alcance": 122,
+  "views": 146,
   "respostas": 0,
   "interacoes": 2,
-  "navegacao": 58
+  "navegacao": 142
  },
  {
   "id": "18378115465225879",
@@ -22489,11 +22489,11 @@
   "data": "2026-08-27T12:32:41+0000",
   "loja": "L4",
   "legenda": "379 379.90",
-  "alcance": 109,
-  "views": 131,
+  "alcance": 123,
+  "views": 144,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 62
+  "navegacao": 139
  },
  {
   "id": "18061855016598493",
@@ -22501,11 +22501,11 @@
   "data": "2026-08-27T12:27:17+0000",
   "loja": "L4",
   "legenda": "Refil  de lixa para  os pés  15.90",
-  "alcance": 108,
-  "views": 121,
+  "alcance": 122,
+  "views": 134,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 54
+  "navegacao": 132
  },
  {
   "id": "18119996314910568",
@@ -22513,11 +22513,11 @@
   "data": "2026-08-27T12:25:10+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 109,
-  "views": 123,
+  "alcance": 127,
+  "views": 141,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 57
+  "navegacao": 139
  },
  {
   "id": "18127060249689669",
@@ -22525,11 +22525,11 @@
   "data": "2026-08-27T12:24:27+0000",
   "loja": "L4",
   "legenda": "15.90",
-  "alcance": 109,
-  "views": 124,
+  "alcance": 126,
+  "views": 142,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 55
+  "navegacao": 140
  },
  {
   "id": "18426451681199120",
@@ -22537,11 +22537,11 @@
   "data": "2026-08-27T12:23:48+0000",
   "loja": "L4",
   "legenda": "12.90",
-  "alcance": 110,
-  "views": 126,
+  "alcance": 128,
+  "views": 142,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 56
+  "navegacao": 140
  },
  {
   "id": "18110608454022944",
@@ -22549,11 +22549,11 @@
   "data": "2026-08-27T12:23:19+0000",
   "loja": "L4",
   "legenda": "13.90",
-  "alcance": 110,
-  "views": 132,
+  "alcance": 125,
+  "views": 147,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 59
+  "navegacao": 144
  },
  {
   "id": "17915808996440381",
@@ -22561,11 +22561,11 @@
   "data": "2026-08-27T12:17:21+0000",
   "loja": "L4",
   "legenda": "15.90",
-  "alcance": 112,
-  "views": 140,
+  "alcance": 126,
+  "views": 156,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 61
+  "navegacao": 151
  },
  {
   "id": "18384478057230514",
@@ -22573,11 +22573,11 @@
   "data": "2026-08-27T12:16:19+0000",
   "loja": "L4",
   "legenda": "12.90",
-  "alcance": 107,
-  "views": 143,
+  "alcance": 125,
+  "views": 159,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 60
+  "navegacao": 151
  },
  {
   "id": "18101078657619029",
@@ -22585,11 +22585,11 @@
   "data": "2026-08-27T12:12:11+0000",
   "loja": "L4",
   "legenda": "42.90",
-  "alcance": 111,
-  "views": 139,
+  "alcance": 126,
+  "views": 156,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 58
+  "navegacao": 154
  },
  {
   "id": "18164801251463461",
@@ -22597,11 +22597,11 @@
   "data": "2026-08-27T12:07:47+0000",
   "loja": "L4",
   "legenda": "53.90 30.90",
-  "alcance": 114,
-  "views": 139,
+  "alcance": 131,
+  "views": 157,
   "respostas": 1,
   "interacoes": 2,
-  "navegacao": 65
+  "navegacao": 150
  },
  {
   "id": "17960875590186175",
@@ -22609,11 +22609,11 @@
   "data": "2026-08-27T11:55:49+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 117,
-  "views": 137,
+  "alcance": 134,
+  "views": 155,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 59
+  "navegacao": 139
  },
  {
   "id": "18118608787923994",
@@ -22621,11 +22621,11 @@
   "data": "2026-08-27T11:54:37+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 118,
-  "views": 137,
+  "alcance": 137,
+  "views": 154,
   "respostas": 0,
-  "interacoes": 1,
-  "navegacao": 61
+  "interacoes": 2,
+  "navegacao": 146
  },
  {
   "id": "18120201725316193",
@@ -22633,11 +22633,11 @@
   "data": "2026-08-27T11:52:09+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 118,
-  "views": 135,
+  "alcance": 136,
+  "views": 153,
   "respostas": 0,
-  "interacoes": 1,
-  "navegacao": 59
+  "interacoes": 2,
+  "navegacao": 143
  },
  {
   "id": "18131586781647895",
@@ -22657,10 +22657,11 @@
   "data": "2026-08-27T14:59:34+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 163,
-  "views": 194,
+  "alcance": 172,
+  "views": 203,
   "respostas": 1,
-  "interacoes": 1
+  "interacoes": 1,
+  "navegacao": 199
  },
  {
   "id": "18014043515947873",
@@ -22668,11 +22669,11 @@
   "data": "2026-08-27T13:00:41+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 180,
-  "views": 205,
+  "alcance": 190,
+  "views": 213,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 49
+  "navegacao": 201
  },
  {
   "id": "18374631175234317",
@@ -22680,11 +22681,11 @@
   "data": "2026-08-27T12:54:17+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 182,
-  "views": 204,
+  "alcance": 192,
+  "views": 214,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 65
+  "navegacao": 213
  },
  {
   "id": "17986397370111878",
@@ -22692,11 +22693,11 @@
   "data": "2026-08-27T12:52:15+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 184,
-  "views": 211,
+  "alcance": 195,
+  "views": 222,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 66
+  "navegacao": 209
  },
  {
   "id": "17898694089590311",
@@ -22704,11 +22705,11 @@
   "data": "2026-08-27T12:51:31+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 185,
-  "views": 224,
+  "alcance": 196,
+  "views": 234,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 73
+  "navegacao": 232
  },
  {
   "id": "17934080829364053",
@@ -22716,11 +22717,11 @@
   "data": "2026-08-27T12:48:34+0000",
   "loja": "L5",
   "legenda": "Corretivo Stick  Por $:54,90💰",
-  "alcance": 189,
-  "views": 238,
+  "alcance": 199,
+  "views": 247,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 87
+  "navegacao": 244
  },
  {
   "id": "18338476099281757",
@@ -22728,11 +22729,11 @@
   "data": "2026-08-27T12:47:13+0000",
   "loja": "L5",
   "legenda": "✨Base franciny M-01✨ Por $:65,90💰",
-  "alcance": 192,
-  "views": 243,
+  "alcance": 204,
+  "views": 253,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 83
+  "navegacao": 247
  },
  {
   "id": "18114024769764975",
@@ -22740,11 +22741,11 @@
   "data": "2026-08-27T12:42:04+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 193,
-  "views": 239,
+  "alcance": 205,
+  "views": 249,
   "respostas": 1,
   "interacoes": 1,
-  "navegacao": 91
+  "navegacao": 241
  },
  {
   "id": "18111240010832724",
@@ -22752,11 +22753,11 @@
   "data": "2026-08-27T12:41:00+0000",
   "loja": "L5",
   "legenda": "✨Spray colorido ✨",
-  "alcance": 195,
-  "views": 236,
+  "alcance": 204,
+  "views": 247,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 93
+  "navegacao": 240
  },
  {
   "id": "17898535530583571",
@@ -22764,11 +22765,11 @@
   "data": "2026-08-27T12:38:34+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 202,
-  "views": 239,
+  "alcance": 212,
+  "views": 250,
   "respostas": 0,
   "interacoes": 2,
-  "navegacao": 86
+  "navegacao": 239
  },
  {
   "id": "18099392102018022",
@@ -22776,11 +22777,11 @@
   "data": "2026-08-27T12:37:38+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 202,
-  "views": 225,
+  "alcance": 211,
+  "views": 234,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 84
+  "navegacao": 231
  },
  {
   "id": "18138898294606360",
@@ -22788,11 +22789,11 @@
   "data": "2026-08-27T12:35:51+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 207,
-  "views": 239,
+  "alcance": 216,
+  "views": 249,
   "respostas": 1,
   "interacoes": 1,
-  "navegacao": 90
+  "navegacao": 244
  },
  {
   "id": "18023798813883839",
@@ -22800,11 +22801,11 @@
   "data": "2026-08-27T12:33:55+0000",
   "loja": "L5",
   "legenda": "disponivel em nossa loja!",
-  "alcance": 213,
-  "views": 244,
+  "alcance": 224,
+  "views": 255,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 95
+  "navegacao": 245
  },
  {
   "id": "18361578829246486",
@@ -22812,11 +22813,11 @@
   "data": "2026-08-27T12:06:13+0000",
   "loja": "L5",
   "legenda": "Por $:14,50💰",
-  "alcance": 228,
-  "views": 257,
+  "alcance": 240,
+  "views": 269,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 106
+  "navegacao": 255
  },
  {
   "id": "17918343303221662",
@@ -22824,11 +22825,11 @@
   "data": "2026-08-27T12:05:18+0000",
   "loja": "L5",
   "legenda": "Protetor solar 🧴",
-  "alcance": 229,
-  "views": 266,
+  "alcance": 240,
+  "views": 278,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 116
+  "navegacao": 271
  },
  {
   "id": "17952445482229948",
@@ -22836,11 +22837,11 @@
   "data": "2026-08-27T11:56:47+0000",
   "loja": "L5",
   "legenda": "Por $:19,99💰 Demakilante  Por $:24,90💰",
-  "alcance": 235,
-  "views": 278,
+  "alcance": 248,
+  "views": 289,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 122
+  "navegacao": 275
  },
  {
   "id": "18171468346443487",
@@ -22848,11 +22849,11 @@
   "data": "2026-08-27T11:53:45+0000",
   "loja": "L5",
   "legenda": "Por $:9,90💰",
-  "alcance": 242,
-  "views": 273,
+  "alcance": 254,
+  "views": 285,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 129
+  "navegacao": 283
  },
  {
   "id": "17908086648466929",
@@ -22860,11 +22861,11 @@
   "data": "2026-08-27T11:52:32+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 247,
-  "views": 280,
+  "alcance": 261,
+  "views": 292,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 135
+  "navegacao": 284
  },
  {
   "id": "18150530044525878",
@@ -22872,11 +22873,11 @@
   "data": "2026-08-27T11:46:52+0000",
   "loja": "L5",
   "legenda": "Bom Dia clientes!✨🥰",
-  "alcance": 250,
-  "views": 281,
+  "alcance": 267,
+  "views": 294,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 130
+  "navegacao": 285
  },
  {
   "id": "18165320842463575",
@@ -22894,120 +22895,386 @@
   "id": "17906502471489904",
   "tipo": "VIDEO",
   "data": "2026-08-27T19:35:00+0000",
-  "alcance": 47,
-  "views": 67,
+  "alcance": 149,
+  "views": 196,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L4"
+  "loja": "L4",
+  "legenda": "",
+  "navegacao": 190
  },
  {
   "id": "18136130512618945",
   "tipo": "VIDEO",
   "data": "2026-08-27T19:33:18+0000",
-  "alcance": 49,
-  "views": 64,
+  "alcance": 154,
+  "views": 201,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L4"
+  "loja": "L4",
+  "legenda": "",
+  "navegacao": 177
  },
  {
   "id": "18552134431074469",
   "tipo": "VIDEO",
   "data": "2026-08-27T18:43:19+0000",
-  "alcance": 62,
-  "views": 82,
+  "alcance": 160,
+  "views": 198,
   "respostas": 1,
   "interacoes": 1,
-  "loja": "L4"
+  "loja": "L4",
+  "legenda": "Chegou Reposição  na Nátum  reparador  de pontas",
+  "navegacao": 166
  },
  {
   "id": "18386687323163488",
   "tipo": "VIDEO",
   "data": "2026-08-27T18:40:06+0000",
-  "alcance": 62,
-  "views": 77,
+  "alcance": 163,
+  "views": 182,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L4"
+  "loja": "L4",
+  "legenda": "👏",
+  "navegacao": 167
  },
  {
   "id": "18196785706379936",
   "tipo": "VIDEO",
   "data": "2026-08-27T18:35:03+0000",
-  "alcance": 64,
-  "views": 78,
+  "alcance": 166,
+  "views": 186,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L4"
+  "loja": "L4",
+  "legenda": "Chegou  Reposição  da natum",
+  "navegacao": 181
  },
  {
   "id": "18164464258470569",
   "tipo": "VIDEO",
   "data": "2026-08-27T18:27:11+0000",
-  "alcance": 68,
-  "views": 82,
+  "alcance": 171,
+  "views": 191,
   "respostas": 0,
   "interacoes": 1,
-  "loja": "L4"
+  "loja": "L4",
+  "legenda": "",
+  "navegacao": 176
  },
  {
   "id": "17877666984626902",
   "tipo": "VIDEO",
   "data": "2026-08-27T21:05:01+0000",
-  "alcance": 16,
-  "views": 41,
+  "alcance": 235,
+  "views": 295,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "",
+  "navegacao": 276
  },
  {
   "id": "17904490245518347",
   "tipo": "VIDEO",
   "data": "2026-08-27T15:44:38+0000",
-  "alcance": 147,
-  "views": 177,
+  "alcance": 281,
+  "views": 345,
   "respostas": 0,
   "interacoes": 1,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "✨️Compre 2 e ganhe 1 de brinde✨️ Esmaltes linha da nathy",
+  "navegacao": 336
  },
  {
   "id": "18093203633430925",
   "tipo": "VIDEO",
   "data": "2026-08-27T15:37:28+0000",
-  "alcance": 148,
-  "views": 183,
+  "alcance": 292,
+  "views": 359,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "",
+  "navegacao": 330
  },
  {
   "id": "18344649688265032",
   "tipo": "VIDEO",
   "data": "2026-08-27T15:28:37+0000",
-  "alcance": 155,
-  "views": 190,
+  "alcance": 296,
+  "views": 379,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "De: R$:48,90❌️ Por $:41,50 Máscara \nHidratante",
+  "navegacao": 368
  },
  {
   "id": "18090177695414954",
   "tipo": "VIDEO",
   "data": "2026-08-27T15:23:24+0000",
-  "alcance": 153,
-  "views": 185,
-  "respostas": 0,
-  "interacoes": 0,
-  "loja": "L5"
+  "alcance": 295,
+  "views": 370,
+  "respostas": 1,
+  "interacoes": 1,
+  "loja": "L5",
+  "legenda": "Shampoo +Leavin +máscara",
+  "navegacao": 360
  },
  {
   "id": "18102645317194579",
   "tipo": "VIDEO",
   "data": "2026-08-27T15:17:11+0000",
-  "alcance": 166,
-  "views": 204,
+  "alcance": 174,
+  "views": 215,
   "respostas": 0,
   "interacoes": 1,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "Leavin-Crescimento fortalecimento  De-R$:39,90❌️ Por $:27,90",
+  "navegacao": 201
+ },
+ {
+  "id": "18190146343400362",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T11:49:49+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 202,
+  "views": 230,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 69
+ },
+ {
+  "id": "18119645728907907",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T13:07:47+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 127,
+  "views": 136,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 53
+ },
+ {
+  "id": "17953573410239566",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T12:28:40+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 139,
+  "views": 150,
+  "respostas": 0,
+  "interacoes": 2,
+  "navegacao": 64
+ },
+ {
+  "id": "18125454841876914",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T11:17:24+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 141,
+  "views": 158,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 79
+ },
+ {
+  "id": "17927024913165895",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T13:46:01+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 245,
+  "views": 291,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 69
+ },
+ {
+  "id": "18109298909036288",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T12:34:21+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 271,
+  "views": 332,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 136
+ },
+ {
+  "id": "17867392995640812",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T12:25:54+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 276,
+  "views": 338,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 109
+ },
+ {
+  "id": "18087579320212073",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T12:22:59+0000",
+  "loja": "L5",
+  "legenda": "Amino liponutriente Proteção térmica",
+  "alcance": 286,
+  "views": 334,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 143
+ },
+ {
+  "id": "17977363599082230",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T12:15:21+0000",
+  "loja": "L5",
+  "legenda": "Achadinhos 🥰 •Auxilia no crescimento \n•fortalece  Apenas R$32",
+  "alcance": 291,
+  "views": 329,
+  "respostas": 1,
+  "interacoes": 2,
+  "navegacao": 149
+ },
+ {
+  "id": "17884792857616544",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T12:08:06+0000",
+  "loja": "L5",
+  "legenda": "Cera depilatória em tabletes  Apenas R$38 und",
+  "alcance": 298,
+  "views": 326,
+  "respostas": 0,
+  "interacoes": 2,
+  "navegacao": 146
+ },
+ {
+  "id": "18146304796545263",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T12:03:54+0000",
+  "loja": "L5",
+  "legenda": "Cera depolatoria  Apenas R$16,90",
+  "alcance": 306,
+  "views": 359,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 162
+ },
+ {
+  "id": "18624259723036619",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T11:59:25+0000",
+  "loja": "L5",
+  "legenda": "Keratina líquida",
+  "alcance": 314,
+  "views": 392,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 185
+ },
+ {
+  "id": "17927475843404496",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T11:55:45+0000",
+  "loja": "L5",
+  "legenda": "Óleo de argan Inoar  60ml",
+  "alcance": 317,
+  "views": 392,
+  "respostas": 4,
+  "interacoes": 4,
+  "navegacao": 181
+ },
+ {
+  "id": "18104511716591930",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T11:51:51+0000",
+  "loja": "L5",
+  "legenda": "Fecha mês 😍😍😍",
+  "alcance": 321,
+  "views": 377,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 159
+ },
+ {
+  "id": "17868375753639251",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T11:44:52+0000",
+  "loja": "L5",
+  "legenda": "Protetor solar Anasol  14h controle de oleosidade e brilho 😲😍 Facial",
+  "alcance": 326,
+  "views": 389,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 181
+ },
+ {
+  "id": "18111308480006687",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T11:42:08+0000",
+  "loja": "L5",
+  "legenda": "Horário de funcionamento 8h às 18h",
+  "alcance": 332,
+  "views": 372,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 174
+ },
+ {
+  "id": "18061434707771924",
+  "tipo": "IMAGE",
+  "data": "2026-08-28T17:45:04+0000",
+  "alcance": 139,
+  "views": 171,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L1"
+ },
+ {
+  "id": "18026667563890915",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T17:37:16+0000",
+  "alcance": 147,
+  "views": 168,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "17905154448507368",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T17:35:27+0000",
+  "alcance": 154,
+  "views": 170,
+  "respostas": 2,
+  "interacoes": 2,
+  "loja": "L1"
+ },
+ {
+  "id": "18115270105947308",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T17:41:52+0000",
+  "alcance": 71,
+  "views": 83,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "18142829170562931",
+  "tipo": "VIDEO",
+  "data": "2026-08-28T17:01:48+0000",
+  "alcance": 80,
+  "views": 88,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
  }
 ]
