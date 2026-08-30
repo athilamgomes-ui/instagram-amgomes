@@ -23540,30 +23540,36 @@
   "id": "18130425703735918",
   "tipo": "VIDEO",
   "data": "2026-08-29T15:11:39+0000",
-  "alcance": 105,
-  "views": 123,
-  "respostas": 0,
-  "interacoes": 0,
-  "loja": "L1"
+  "alcance": 190,
+  "views": 235,
+  "respostas": 1,
+  "interacoes": 2,
+  "loja": "L1",
+  "legenda": "",
+  "navegacao": 229
  },
  {
   "id": "18108968033002245",
   "tipo": "VIDEO",
   "data": "2026-08-29T15:10:40+0000",
-  "alcance": 118,
-  "views": 131,
+  "alcance": 211,
+  "views": 244,
   "respostas": 0,
   "interacoes": 1,
-  "loja": "L1"
+  "loja": "L1",
+  "legenda": "",
+  "navegacao": 228
  },
  {
   "id": "18111217670104285",
   "tipo": "VIDEO",
   "data": "2026-08-29T17:04:16+0000",
-  "alcance": 112,
-  "views": 140,
+  "alcance": 218,
+  "views": 256,
   "respostas": 0,
   "interacoes": 1,
-  "loja": "L5"
+  "loja": "L5",
+  "legenda": "",
+  "navegacao": 234
  }
 ]
