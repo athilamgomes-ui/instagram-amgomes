@@ -27716,11 +27716,11 @@
   "data": "2026-09-10T13:47:31+0000",
   "loja": "L1",
   "legenda": "",
-  "alcance": 200,
-  "views": 240,
+  "alcance": 222,
+  "views": 258,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 29
+  "navegacao": 253
  },
  {
   "id": "18477876112106588",
@@ -27728,11 +27728,11 @@
   "data": "2026-09-10T11:41:45+0000",
   "loja": "L1",
   "legenda": "Cabeleireiro Jorge atendendo o pedido de sua cliente deixando ela com a cor desejada usando kc color na cor magenta (Pônei ) @salao_do_jorge",
-  "alcance": 264,
-  "views": 343,
+  "alcance": 288,
+  "views": 365,
   "respostas": 0,
   "interacoes": 5,
-  "navegacao": 86
+  "navegacao": 280
  },
  {
   "id": "18112332941042744",
@@ -27740,11 +27740,11 @@
   "data": "2026-09-10T12:40:51+0000",
   "loja": "L4",
   "legenda": "Cuide-se por inteiro!✨️ Seu momento de autocuidado começa aqui.\n Roll-on Facial + Gua Sha Ideal para uma massagem facial, relaxante, ajudando a deixar aquele momento de autocuidado ainda mais gostoso.",
-  "alcance": 148,
-  "views": 174,
+  "alcance": 166,
+  "views": 195,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 59
+  "navegacao": 189
  },
  {
   "id": "18183921769416161",
@@ -27752,11 +27752,11 @@
   "data": "2026-09-10T11:51:19+0000",
   "loja": "L4",
   "legenda": "✨️Cuidar da pele ficou ainda melhor!  Nossos kits de cuidados com a pele. Práticos e completos 🧡",
-  "alcance": 155,
-  "views": 176,
+  "alcance": 174,
+  "views": 198,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 66
+  "navegacao": 188
  },
  {
   "id": "18472656790119269",
@@ -27764,11 +27764,11 @@
   "data": "2026-09-10T11:26:53+0000",
   "loja": "L4",
   "legenda": "",
-  "alcance": 163,
-  "views": 187,
+  "alcance": 180,
+  "views": 210,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 71
+  "navegacao": 189
  },
  {
   "id": "18115473287006159",
@@ -27776,11 +27776,11 @@
   "data": "2026-09-10T13:12:01+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 236,
-  "views": 270,
+  "alcance": 275,
+  "views": 305,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 67
+  "navegacao": 280
  },
  {
   "id": "18120652528910895",
@@ -27788,11 +27788,11 @@
   "data": "2026-09-10T12:08:01+0000",
   "loja": "L5",
   "legenda": "Probelle -Mais Crecimento-",
-  "alcance": 247,
-  "views": 289,
+  "alcance": 290,
+  "views": 324,
   "respostas": 0,
   "interacoes": 0,
-  "navegacao": 97
+  "navegacao": 317
  },
  {
   "id": "17874892083562733",
@@ -27800,11 +27800,11 @@
   "data": "2026-09-10T12:01:38+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 250,
-  "views": 293,
+  "alcance": 291,
+  "views": 330,
   "respostas": 1,
   "interacoes": 2,
-  "navegacao": 99
+  "navegacao": 313
  },
  {
   "id": "17956982796234277",
@@ -27812,11 +27812,11 @@
   "data": "2026-09-10T11:53:09+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 262,
-  "views": 296,
+  "alcance": 307,
+  "views": 335,
   "respostas": 1,
   "interacoes": 2,
-  "navegacao": 108
+  "navegacao": 324
  },
  {
   "id": "18309060820303775",
@@ -27824,11 +27824,11 @@
   "data": "2026-09-10T11:35:18+0000",
   "loja": "L5",
   "legenda": "Para todas as curvaturas!",
-  "alcance": 266,
-  "views": 311,
+  "alcance": 310,
+  "views": 346,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 117
+  "navegacao": 333
  },
  {
   "id": "18352015471172479",
@@ -27836,11 +27836,11 @@
   "data": "2026-09-10T11:29:00+0000",
   "loja": "L5",
   "legenda": "Super perfumado😍",
-  "alcance": 279,
-  "views": 319,
+  "alcance": 323,
+  "views": 355,
   "respostas": 2,
   "interacoes": 4,
-  "navegacao": 123
+  "navegacao": 346
  },
  {
   "id": "17990113815043310",
@@ -27848,11 +27848,11 @@
   "data": "2026-09-10T11:21:45+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 301,
-  "views": 334,
+  "alcance": 331,
+  "views": 371,
   "respostas": 1,
   "interacoes": 2,
-  "navegacao": 126
+  "navegacao": 349
  },
  {
   "id": "17934716451123302",
@@ -27860,130 +27860,656 @@
   "data": "2026-09-10T11:16:36+0000",
   "loja": "L5",
   "legenda": "",
-  "alcance": 311,
-  "views": 341,
+  "alcance": 352,
+  "views": 381,
   "respostas": 0,
   "interacoes": 1,
-  "navegacao": 136
+  "navegacao": 355
  },
  {
   "id": "18063335219785268",
   "tipo": "VIDEO",
   "data": "2026-09-10T16:24:03+0000",
-  "alcance": 143,
-  "views": 173,
+  "alcance": 270,
+  "views": 315,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L1"
+  "loja": "L1",
+  "legenda": "",
+  "navegacao": 308
  },
  {
   "id": "18158592727438342",
   "tipo": "IMAGE",
   "data": "2026-09-10T16:22:13+0000",
-  "alcance": 149,
-  "views": 174,
-  "respostas": 0,
-  "interacoes": 0,
-  "loja": "L1"
+  "alcance": 273,
+  "views": 305,
+  "respostas": 1,
+  "interacoes": 1,
+  "loja": "L1",
+  "legenda": "Cronograma Nathidras \nPor 106,90",
+  "navegacao": 295
  },
  {
   "id": "18115437928984692",
   "tipo": "VIDEO",
   "data": "2026-09-10T16:21:48+0000",
-  "alcance": 153,
-  "views": 181,
+  "alcance": 276,
+  "views": 310,
   "respostas": 0,
   "interacoes": 0,
-  "loja": "L1"
+  "loja": "L1",
+  "legenda": "Testura e cheiro super agradável , máscaras de tratamento Cadiveu 🥰",
+  "navegacao": 298
  },
  {
   "id": "18428321011195586",
   "tipo": "IMAGE",
   "data": "2026-09-10T16:19:13+0000",
-  "alcance": 157,
-  "views": 184,
+  "alcance": 280,
+  "views": 314,
   "respostas": 0,
   "interacoes": 1,
-  "loja": "L1"
+  "loja": "L1",
+  "legenda": "",
+  "navegacao": 311
  },
  {
   "id": "18027857825683905",
   "tipo": "IMAGE",
   "data": "2026-09-10T16:18:33+0000",
-  "alcance": 158,
-  "views": 191,
+  "alcance": 287,
+  "views": 330,
   "respostas": 0,
   "interacoes": 2,
-  "loja": "L1"
+  "loja": "L1",
+  "legenda": "",
+  "navegacao": 325
  },
  {
   "id": "18009162458970938",
   "tipo": "IMAGE",
   "data": "2026-09-10T16:18:33+0000",
-  "alcance": 160,
-  "views": 198,
+  "alcance": 296,
+  "views": 347,
   "respostas": 0,
   "interacoes": 1,
-  "loja": "L1"
+  "loja": "L1",
+  "legenda": "",
+  "navegacao": 341
  },
  {
   "id": "18096688904383918",
   "tipo": "VIDEO",
   "data": "2026-09-10T16:18:13+0000",
-  "alcance": 170,
-  "views": 216,
+  "alcance": 302,
+  "views": 362,
   "respostas": 0,
-  "interacoes": 1,
-  "loja": "L1"
+  "interacoes": 2,
+  "loja": "L1",
+  "legenda": "",
+  "navegacao": 359
  },
  {
   "id": "18216211885346679",
   "tipo": "VIDEO",
   "data": "2026-09-10T16:15:33+0000",
-  "alcance": 176,
-  "views": 222,
+  "alcance": 310,
+  "views": 375,
   "respostas": 1,
-  "interacoes": 1,
-  "loja": "L1"
+  "interacoes": 3,
+  "loja": "L1",
+  "legenda": "",
+  "navegacao": 374
  },
  {
   "id": "18419007823155442",
   "tipo": "VIDEO",
   "data": "2026-09-10T16:14:31+0000",
-  "alcance": 177,
-  "views": 210,
-  "respostas": 0,
-  "interacoes": 3,
-  "loja": "L1"
+  "alcance": 319,
+  "views": 372,
+  "respostas": 1,
+  "interacoes": 4,
+  "loja": "L1",
+  "legenda": "",
+  "navegacao": 362
  },
  {
   "id": "17939554167357027",
   "tipo": "VIDEO",
   "data": "2026-09-10T17:57:10+0000",
-  "alcance": 105,
-  "views": 140,
+  "alcance": 253,
+  "views": 297,
   "respostas": 1,
   "interacoes": 2,
-  "loja": "L4"
+  "loja": "L4",
+  "legenda": "",
+  "navegacao": 284
  },
  {
   "id": "18587690785066820",
   "tipo": "VIDEO",
   "data": "2026-09-10T16:02:10+0000",
-  "alcance": 194,
-  "views": 236,
-  "respostas": 0,
-  "interacoes": 4,
-  "loja": "L5"
+  "alcance": 411,
+  "views": 502,
+  "respostas": 2,
+  "interacoes": 6,
+  "loja": "L5",
+  "legenda": "",
+  "navegacao": 465
  },
  {
   "id": "18158709886501125",
   "tipo": "VIDEO",
   "data": "2026-09-10T15:28:40+0000",
-  "alcance": 216,
-  "views": 248,
+  "alcance": 436,
+  "views": 513,
+  "respostas": 0,
+  "interacoes": 4,
+  "loja": "L5",
+  "legenda": "Ruivos Alaranjados  Ruivos Marros Ruivos Avermelhado",
+  "navegacao": 482
+ },
+ {
+  "id": "17873826123633294",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T14:46:08+0000",
+  "loja": "L1",
+  "legenda": "Por 125,90 Por 120,90 Máquinas de corte",
+  "alcance": 196,
+  "views": 215,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 14
+ },
+ {
+  "id": "17956329522227404",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T14:42:55+0000",
+  "loja": "L1",
+  "legenda": "",
+  "alcance": 201,
+  "views": 229,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 28
+ },
+ {
+  "id": "18114539953795636",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T13:26:09+0000",
+  "loja": "L1",
+  "legenda": "Lixadeira elétrica para unhas por 47,90 Cabine por 92,90",
+  "alcance": 223,
+  "views": 269,
   "respostas": 0,
   "interacoes": 3,
+  "navegacao": 90
+ },
+ {
+  "id": "18134400263508158",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T13:21:44+0000",
+  "loja": "L1",
+  "legenda": "Bom dia !😃",
+  "alcance": 236,
+  "views": 273,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 96
+ },
+ {
+  "id": "17910229617495836",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:30:45+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 134,
+  "views": 149,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 82
+ },
+ {
+  "id": "17985885849064635",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:28:43+0000",
+  "loja": "L4",
+  "legenda": "@elkgomes_",
+  "alcance": 135,
+  "views": 144,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 82
+ },
+ {
+  "id": "18097970633176574",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:27:35+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 134,
+  "views": 144,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 78
+ },
+ {
+  "id": "17973148631934016",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:26:58+0000",
+  "loja": "L4",
+  "legenda": "@elkgomes_",
+  "alcance": 142,
+  "views": 153,
+  "respostas": 0,
+  "interacoes": 0
+ },
+ {
+  "id": "18389047657206405",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:26:04+0000",
+  "loja": "L4",
+  "legenda": "@elkgomes_",
+  "alcance": 141,
+  "views": 154,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 84
+ },
+ {
+  "id": "18100696232201518",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:24:38+0000",
+  "loja": "L4",
+  "legenda": "@elkgomes_",
+  "alcance": 147,
+  "views": 158,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 90
+ },
+ {
+  "id": "18129491863665776",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:24:15+0000",
+  "loja": "L4",
+  "legenda": "@elkgomes_",
+  "alcance": 144,
+  "views": 155,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 84
+ },
+ {
+  "id": "18173975767386670",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:23:21+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 146,
+  "views": 157,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 87
+ },
+ {
+  "id": "17966122574964029",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:22:54+0000",
+  "loja": "L4",
+  "legenda": "@elkgomes_",
+  "alcance": 154,
+  "views": 168,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 96
+ },
+ {
+  "id": "18163479847481376",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:22:05+0000",
+  "loja": "L4",
+  "legenda": "@elkgomes_",
+  "alcance": 152,
+  "views": 171,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 94
+ },
+ {
+  "id": "18115884454998236",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:18:21+0000",
+  "loja": "L4",
+  "legenda": "@elkgomes_",
+  "alcance": 155,
+  "views": 170,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 99
+ },
+ {
+  "id": "17998933970990735",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:17:35+0000",
+  "loja": "L4",
+  "legenda": "@elkgomes_",
+  "alcance": 156,
+  "views": 184,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 109
+ },
+ {
+  "id": "18097320257531247",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:16:47+0000",
+  "loja": "L4",
+  "legenda": "@elkgomes_",
+  "alcance": 159,
+  "views": 178,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 107
+ },
+ {
+  "id": "17955551130250216",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:14:26+0000",
+  "loja": "L4",
+  "legenda": "@elkgomes_",
+  "alcance": 159,
+  "views": 177,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 99
+ },
+ {
+  "id": "18110745761018204",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:13:18+0000",
+  "loja": "L4",
+  "legenda": "@elkgomes_",
+  "alcance": 164,
+  "views": 176,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 101
+ },
+ {
+  "id": "18140245309591809",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:10:17+0000",
+  "loja": "L4",
+  "legenda": "",
+  "alcance": 172,
+  "views": 190,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 100
+ },
+ {
+  "id": "18630757477021887",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T15:03:50+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 167,
+  "views": 212,
+  "respostas": 0,
+  "interacoes": 0
+ },
+ {
+  "id": "17956024884229288",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T13:45:02+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 213,
+  "views": 266,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 77
+ },
+ {
+  "id": "18127878019745552",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T12:49:50+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 236,
+  "views": 275,
+  "respostas": 2,
+  "interacoes": 2,
+  "navegacao": 113
+ },
+ {
+  "id": "18120384955714025",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T12:48:52+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 247,
+  "views": 282,
+  "respostas": 0,
+  "interacoes": 1,
+  "navegacao": 133
+ },
+ {
+  "id": "18183637750412569",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T12:48:39+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 257,
+  "views": 297,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 141
+ },
+ {
+  "id": "18097472783387113",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T12:48:22+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 262,
+  "views": 301,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 138
+ },
+ {
+  "id": "18036685919832152",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T12:48:11+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 263,
+  "views": 301,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 138
+ },
+ {
+  "id": "17962087215188698",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T12:16:58+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 291,
+  "views": 320,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 160
+ },
+ {
+  "id": "18131470655507842",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T12:08:21+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 311,
+  "views": 344,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 186
+ },
+ {
+  "id": "18096186665422387",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T12:07:57+0000",
+  "loja": "L5",
+  "legenda": "",
+  "alcance": 317,
+  "views": 350,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 188
+ },
+ {
+  "id": "18116375549094521",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:47:03+0000",
+  "loja": "L5",
+  "legenda": "Keratina Natum",
+  "alcance": 335,
+  "views": 370,
+  "respostas": 1,
+  "interacoes": 1,
+  "navegacao": 210
+ },
+ {
+  "id": "18343689964271959",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T11:39:06+0000",
+  "loja": "L5",
+  "legenda": "Horário de funcionamento \ndas 8h às 18h Bom dia Sexta feira",
+  "alcance": 354,
+  "views": 391,
+  "respostas": 0,
+  "interacoes": 0,
+  "navegacao": 225
+ },
+ {
+  "id": "18437137165179325",
+  "tipo": "IMAGE",
+  "data": "2026-09-11T15:59:54+0000",
+  "alcance": 158,
+  "views": 196,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L1"
+ },
+ {
+  "id": "18062213030610709",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T15:57:13+0000",
+  "alcance": 162,
+  "views": 209,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L1"
+ },
+ {
+  "id": "18389074819207205",
+  "tipo": "IMAGE",
+  "data": "2026-09-11T15:55:08+0000",
+  "alcance": 164,
+  "views": 206,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L1"
+ },
+ {
+  "id": "18123297673905326",
+  "tipo": "IMAGE",
+  "data": "2026-09-11T15:53:08+0000",
+  "alcance": 165,
+  "views": 188,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "18007409543993108",
+  "tipo": "IMAGE",
+  "data": "2026-09-11T15:48:53+0000",
+  "alcance": 170,
+  "views": 187,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "17902220979580018",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T15:48:14+0000",
+  "alcance": 173,
+  "views": 184,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "17913849306262871",
+  "tipo": "IMAGE",
+  "data": "2026-09-11T15:38:32+0000",
+  "alcance": 175,
+  "views": 188,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "18429532129145303",
+  "tipo": "IMAGE",
+  "data": "2026-09-11T15:37:18+0000",
+  "alcance": 181,
+  "views": 196,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "18459752968187570",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T15:37:00+0000",
+  "alcance": 181,
+  "views": 198,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "18123967078878618",
+  "tipo": "IMAGE",
+  "data": "2026-09-11T15:34:53+0000",
+  "alcance": 187,
+  "views": 202,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "17961761253187752",
+  "tipo": "IMAGE",
+  "data": "2026-09-11T15:32:02+0000",
+  "alcance": 187,
+  "views": 204,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "18100864538572497",
+  "tipo": "VIDEO",
+  "data": "2026-09-11T21:26:13+0000",
+  "alcance": null,
+  "views": null,
+  "respostas": null,
+  "interacoes": null,
   "loja": "L5"
  }
 ]
