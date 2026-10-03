@@ -1,7 +1,7 @@
 // Gerado automaticamente por coleta_instagram.mjs — NÃO EDITAR NA MÃO
 const DADOS_IG = {
- "coletadoEm": "2026-10-02T21:41:22.388Z",
- "coletadoEmBR": "02/10/2026, 18:41:22",
+ "coletadoEm": "2026-10-03T21:41:25.529Z",
+ "coletadoEmBR": "03/10/2026, 18:41:25",
  "lojas": [
   {
    "codigo": "L1",
@@ -10,12 +10,12 @@ const DADOS_IG = {
    "perfil": {
     "username": "casadabelezaaltamira",
     "nome": "Loja Casa da Beleza | Cosméticos | Cabelos | Profissional",
-    "seguidores": 10822,
-    "seguindo": 1501,
+    "seguidores": 10830,
+    "seguindo": 1500,
     "totalPosts": 800,
     "bio": "✨Facilitando sua conexão com marcas  \n⚜️Somos líderes em cosméticos, maquiagens e produtos para salão. \n💡Novidade nos Stories \n📱WhatsApp no Link 👇🏽",
     "website": "http://wa.me/5593991550606",
-    "foto": "https://scontent.fatm1-1.fna.fbcdn.net/v/t51.2885-15/323793468_5633950376700244_8818905859412746088_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=G4ItyteumhkQ7kNvwG8btdu&_nc_oc=Adp44ajoiVQhKgRRxhOmhtUvbvWk7ZpJFFV6ba02Q5o_erQVNblfaaodhDLFNlBFYp9LfnE7PZaeRaPNAYA6ZBjM&_nc_zt=23&_nc_ht=scontent.fatm1-1.fna&edm=AJ-jyNUEAAAA&oh=00_AQM93CuzDD_QYSkGRmV4tg522WSLX18Mjfv-vLqYSxnWrg&oe=6AC5DF00"
+    "foto": "https://scontent.fatm1-1.fna.fbcdn.net/v/t51.2885-15/323793468_5633950376700244_8818905859412746088_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=G4ItyteumhkQ7kNvwG8btdu&_nc_oc=Adp44ajoiVQhKgRRxhOmhtUvbvWk7ZpJFFV6ba02Q5o_erQVNblfaaodhDLFNlBFYp9LfnE7PZaeRaPNAYA6ZBjM&_nc_zt=23&_nc_ht=scontent.fatm1-1.fna&edm=AJ-jyNUEAAAA&oh=00_AQP_gaccJMUXvp1RZKTwdqZ3u5baGCiJ-ZHH0LaSApRQ3w&oe=6AC73080"
    },
    "posts": [
     {
@@ -24,12 +24,12 @@ const DADOS_IG = {
      "tipo": "VIDEO",
      "produto": "REELS",
      "data": "2026-09-30T21:44:08+0000",
-     "curtidas": 23,
+     "curtidas": 26,
      "comentarios": 3,
      "salvos": 0,
      "compartilhamentos": 2,
-     "alcance": 515,
-     "views": 829,
+     "alcance": 552,
+     "views": 885,
      "link": "https://www.instagram.com/reel/Dd7UyWEvQlW/"
     },
     {
@@ -42,8 +42,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 1,
      "compartilhamentos": 3,
-     "alcance": 682,
-     "views": 939,
+     "alcance": 686,
+     "views": 944,
      "link": "https://www.instagram.com/reel/DdbU-DFx4RY/"
     },
     {
@@ -56,8 +56,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 1,
      "compartilhamentos": 1,
-     "alcance": 239,
-     "views": 407,
+     "alcance": 242,
+     "views": 411,
      "link": "https://www.instagram.com/reel/DdFJewHPv4G/"
     },
     {
@@ -70,8 +70,8 @@ const DADOS_IG = {
      "comentarios": 2,
      "salvos": 0,
      "compartilhamentos": 2,
-     "alcance": 544,
-     "views": 994,
+     "alcance": 547,
+     "views": 998,
      "link": "https://www.instagram.com/p/Dc6JIijERJe/"
     },
     {
@@ -85,7 +85,7 @@ const DADOS_IG = {
      "salvos": 2,
      "compartilhamentos": 4,
      "alcance": 741,
-     "views": 985,
+     "views": 986,
      "link": "https://www.instagram.com/reel/DbyAmuNR88f/"
     },
     {
@@ -10871,193 +10871,148 @@ const DADOS_IG = {
    ],
    "stories": [
     {
-     "id": "18430399465196345",
+     "id": "18106125293618901",
      "tipo": "VIDEO",
-     "data": "2026-10-02T19:25:09+0000",
-     "alcance": 64,
-     "views": 80,
+     "data": "2026-10-03T14:47:03+0000",
+     "alcance": 117,
+     "views": 139,
      "respostas": 0,
      "interacoes": 0
     },
     {
-     "id": "18104515574252463",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T16:15:40+0000",
-     "alcance": 127,
-     "views": 145,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "18116848901062852",
+     "id": "18113926172041174",
      "tipo": "IMAGE",
-     "data": "2026-10-02T16:13:55+0000",
-     "alcance": 131,
-     "views": 150,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "18121313561292404",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T16:12:47+0000",
-     "alcance": 131,
-     "views": 150,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "18134901814733264",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T16:11:23+0000",
-     "alcance": 138,
+     "data": "2026-10-03T13:18:49+0000",
+     "alcance": 132,
      "views": 161,
      "respostas": 0,
      "interacoes": 0
     },
     {
-     "id": "18119109440065642",
+     "id": "18032957348672359",
      "tipo": "IMAGE",
-     "data": "2026-10-02T16:10:30+0000",
-     "alcance": 140,
-     "views": 183,
+     "data": "2026-10-03T13:18:48+0000",
+     "alcance": 135,
+     "views": 150,
+     "respostas": 0,
+     "interacoes": 1
+    },
+    {
+     "id": "18115918954821160",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T13:18:47+0000",
+     "alcance": 137,
+     "views": 152,
+     "respostas": 0,
+     "interacoes": 1
+    },
+    {
+     "id": "17885142657498505",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T13:18:46+0000",
+     "alcance": 137,
+     "views": 154,
      "respostas": 0,
      "interacoes": 0
     },
     {
-     "id": "18123230902933193",
+     "id": "17953494885035256",
      "tipo": "IMAGE",
-     "data": "2026-10-02T16:08:25+0000",
+     "data": "2026-10-03T13:18:45+0000",
      "alcance": 139,
-     "views": 186,
+     "views": 157,
      "respostas": 0,
      "interacoes": 0
     },
     {
-     "id": "18015192005746858",
+     "id": "18069963851776748",
      "tipo": "IMAGE",
-     "data": "2026-10-02T16:05:12+0000",
+     "data": "2026-10-03T13:18:44+0000",
+     "alcance": 144,
+     "views": 159,
+     "respostas": 0,
+     "interacoes": 1
+    },
+    {
+     "id": "17870417058644240",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T13:18:43+0000",
+     "alcance": 144,
+     "views": 157,
+     "respostas": 0,
+     "interacoes": 0
+    },
+    {
+     "id": "18100978205527719",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T13:18:42+0000",
      "alcance": 147,
-     "views": 185,
+     "views": 160,
      "respostas": 0,
      "interacoes": 0
     },
     {
-     "id": "18331439290274468",
+     "id": "18354374248222826",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T12:54:09+0000",
+     "alcance": 153,
+     "views": 170,
+     "respostas": 0,
+     "interacoes": 0
+    },
+    {
+     "id": "18117048106995658",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T12:45:19+0000",
+     "alcance": 159,
+     "views": 184,
+     "respostas": 0,
+     "interacoes": 1
+    },
+    {
+     "id": "18434897503181429",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T12:44:57+0000",
+     "alcance": 163,
+     "views": 203,
+     "respostas": 0,
+     "interacoes": 1
+    },
+    {
+     "id": "18096610163437432",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T12:44:46+0000",
+     "alcance": 162,
+     "views": 204,
+     "respostas": 0,
+     "interacoes": 5
+    },
+    {
+     "id": "17918344392444199",
      "tipo": "VIDEO",
-     "data": "2026-10-02T15:25:06+0000",
-     "alcance": 150,
-     "views": 180,
+     "data": "2026-10-03T12:44:06+0000",
+     "alcance": 162,
+     "views": 179,
      "respostas": 0,
-     "interacoes": 0
+     "interacoes": 1
     },
     {
-     "id": "18150629299558902",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T13:19:56+0000",
-     "alcance": 169,
-     "views": 189,
+     "id": "18075284918465263",
+     "tipo": "VIDEO",
+     "data": "2026-10-03T12:17:18+0000",
+     "alcance": 177,
+     "views": 200,
      "respostas": 0,
-     "interacoes": 0
+     "interacoes": 1
     },
     {
-     "id": "18132444802588326",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T13:17:01+0000",
-     "alcance": 173,
-     "views": 188,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "17898660936604501",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T13:11:22+0000",
-     "alcance": 172,
-     "views": 191,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "18109013276333625",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T13:10:42+0000",
-     "alcance": 179,
-     "views": 199,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "18115594100280918",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T13:08:12+0000",
-     "alcance": 183,
-     "views": 204,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "18628980928058233",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T13:04:40+0000",
-     "alcance": 179,
-     "views": 204,
+     "id": "18162442924497115",
+     "tipo": "VIDEO",
+     "data": "2026-10-03T00:25:08+0000",
+     "alcance": 238,
+     "views": 270,
      "respostas": 0,
      "interacoes": 2
-    },
-    {
-     "id": "17974441580938561",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T13:00:07+0000",
-     "alcance": 185,
-     "views": 208,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "17886376800485709",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T12:55:54+0000",
-     "alcance": 193,
-     "views": 214,
-     "respostas": 1,
-     "interacoes": 1
-    },
-    {
-     "id": "18122618884901127",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T12:46:39+0000",
-     "alcance": 188,
-     "views": 209,
-     "respostas": 1,
-     "interacoes": 1
-    },
-    {
-     "id": "18411236959082851",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T12:39:17+0000",
-     "alcance": 191,
-     "views": 230,
-     "respostas": 1,
-     "interacoes": 1
-    },
-    {
-     "id": "18633726280059590",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T12:30:27+0000",
-     "alcance": 200,
-     "views": 251,
-     "respostas": 0,
-     "interacoes": 1
-    },
-    {
-     "id": "18143742307583633",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T12:09:11+0000",
-     "alcance": 212,
-     "views": 243,
-     "respostas": 1,
-     "interacoes": 1
     }
    ],
    "dms": {
@@ -11077,12 +11032,12 @@ const DADOS_IG = {
    "perfil": {
     "username": "missbelezaoficial",
     "nome": "Loja Miss Beleza | Cabelos | Pele | Cosméticos",
-    "seguidores": 8527,
+    "seguidores": 8529,
     "seguindo": 2824,
     "totalPosts": 623,
     "bio": "✨| Aqui a estrela é você!\n🏆| Somos referência em produtos para cuidar da sua beleza \n📱| Novidades nos Stories\n🗣️| Fale conosco clica no Link👇🏽",
     "website": "https://sandwiche.me/missbeleza",
-    "foto": "https://scontent.fatm1-1.fna.fbcdn.net/v/t51.2885-15/323722390_215950447492119_1743567769454295806_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=_HE6TE2KIuAQ7kNvwHiJMbr&_nc_oc=AdppYo1a9ZUe-pGdNNgOTVd26vvq1hIifbw04XWqmimSip51rZtFsCLPxfQPDCgaYKurx8l7OGYxsBnmVSIoXtpI&_nc_zt=23&_nc_ht=scontent.fatm1-1.fna&edm=AJ-jyNUEAAAA&oh=00_AQPZo56Jz6-ARFW5EkDTQTkn-FWMr7jbzTMPFShvUvOg1g&oe=6AC6127E"
+    "foto": "https://scontent.fatm1-1.fna.fbcdn.net/v/t51.2885-15/323722390_215950447492119_1743567769454295806_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=J4RFVR6_EiEQ7kNvwFCN1rU&_nc_oc=Adp2ajQaGkT-wjv-jPpDqqVgixcJopmHFLKdYAHgEg3npUgua2D9QswTc_BE6aqR-cv3u0WwIqeLDWA3AfyvMBEv&_nc_zt=23&_nc_ht=scontent.fatm1-1.fna&edm=AJ-jyNUEAAAA&oh=00_AQNMXW-m9vcAzbmkqKImlRWtWrqhqGqTA8ImEcL2vKD_aQ&oe=6AC763FE"
    },
    "posts": [
     {
@@ -11095,8 +11050,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 1,
-     "alcance": 395,
-     "views": 683,
+     "alcance": 400,
+     "views": 698,
      "link": "https://www.instagram.com/p/Dd9TnN2llRp/"
     },
     {
@@ -19852,29 +19807,56 @@ const DADOS_IG = {
    ],
    "stories": [
     {
-     "id": "18420370882152107",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T14:18:08+0000",
-     "alcance": 70,
-     "views": 79,
+     "id": "18141397477614203",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T11:38:44+0000",
+     "alcance": 148,
+     "views": 157,
+     "respostas": 0,
+     "interacoes": 1
+    },
+    {
+     "id": "18105372652961972",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T11:38:22+0000",
+     "alcance": 148,
+     "views": 150,
      "respostas": 0,
      "interacoes": 0
     },
     {
-     "id": "18148504615480861",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T14:06:50+0000",
-     "alcance": 75,
-     "views": 85,
+     "id": "17946575769335077",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T11:38:11+0000",
+     "alcance": 156,
+     "views": 169,
      "respostas": 0,
      "interacoes": 0
     },
     {
-     "id": "17987485785077158",
+     "id": "18074454572472438",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T11:37:30+0000",
+     "alcance": 161,
+     "views": 182,
+     "respostas": 0,
+     "interacoes": 0
+    },
+    {
+     "id": "18111106241160185",
+     "tipo": "IMAGE",
+     "data": "2026-10-03T11:37:02+0000",
+     "alcance": 161,
+     "views": 180,
+     "respostas": 0,
+     "interacoes": 0
+    },
+    {
+     "id": "18355690960173927",
      "tipo": "VIDEO",
-     "data": "2026-10-02T11:11:31+0000",
-     "alcance": 91,
-     "views": 105,
+     "data": "2026-10-03T11:36:20+0000",
+     "alcance": 171,
+     "views": 184,
      "respostas": 0,
      "interacoes": 0
     }
@@ -19891,12 +19873,12 @@ const DADOS_IG = {
    "perfil": {
     "username": "missbelezastm",
     "nome": "Miss Beleza Store | Cosméticos",
-    "seguidores": 14169,
-    "seguindo": 551,
+    "seguidores": 14174,
+    "seguindo": 552,
     "totalPosts": 278,
     "bio": "🛍️ Há 20 anos no mercado da beleza, trazendo inovação e qualidade!\n💥Marcas Renomadas\nJoico, Keunê, Natum 💫\nAtendemos Cidades Vizinhas 📦\n👀Stories",
     "website": "http://wa.me/93992014888",
-    "foto": "https://scontent.fatm1-1.fna.fbcdn.net/v/t51.2885-15/412707031_1159724648323811_2319485761958677852_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=Wd1yBC19lXsQ7kNvwFI-Kgw&_nc_oc=AdoxmsiikqVfCN0SUUfMTSgoc93xVemzs-i2OId2Yue0sMQBBzZd2VQuZA_4dVvab0MU8UizvqKbw_ncSxH_b49Y&_nc_zt=23&_nc_ht=scontent.fatm1-1.fna&edm=AJ-jyNUEAAAA&oh=00_AQMgFCSE3qkieKa62o7kgKaRSwVi9pm8vRe4TiJjz2bf0w&oe=6AC5F37C"
+    "foto": "https://scontent.fatm1-1.fna.fbcdn.net/v/t51.2885-15/412707031_1159724648323811_2319485761958677852_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=Wd1yBC19lXsQ7kNvwFI-Kgw&_nc_oc=AdoxmsiikqVfCN0SUUfMTSgoc93xVemzs-i2OId2Yue0sMQBBzZd2VQuZA_4dVvab0MU8UizvqKbw_ncSxH_b49Y&_nc_zt=23&_nc_ht=scontent.fatm1-1.fna&edm=AJ-jyNUEAAAA&oh=00_AQOKMSqysOmq-_N2a4QBKJuvMJPRULehAm6-B72Y2Iwnwg&oe=6AC744FC"
    },
    "posts": [
     {
@@ -19905,12 +19887,12 @@ const DADOS_IG = {
      "tipo": "VIDEO",
      "produto": "REELS",
      "data": "2026-10-02T12:10:58+0000",
-     "curtidas": 11,
+     "curtidas": 12,
      "comentarios": 3,
      "salvos": 0,
      "compartilhamentos": 1,
-     "alcance": 583,
-     "views": 722,
+     "alcance": 757,
+     "views": 916,
      "link": "https://www.instagram.com/reel/Dd_cWFyxM3M/"
     },
     {
@@ -19919,12 +19901,12 @@ const DADOS_IG = {
      "tipo": "CAROUSEL_ALBUM",
      "produto": "FEED",
      "data": "2026-09-30T20:46:24+0000",
-     "curtidas": 8,
+     "curtidas": 9,
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 1,
-     "alcance": 320,
-     "views": 670,
+     "alcance": 343,
+     "views": 720,
      "link": "https://www.instagram.com/p/Dd7ObbTErP8/"
     },
     {
@@ -19937,8 +19919,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 2,
-     "alcance": 912,
-     "views": 1138,
+     "alcance": 1103,
+     "views": 1501,
      "link": "https://www.instagram.com/reel/DdwEyrBxteO/"
     },
     {
@@ -19951,8 +19933,8 @@ const DADOS_IG = {
      "comentarios": 6,
      "salvos": 0,
      "compartilhamentos": 3,
-     "alcance": 1085,
-     "views": 1462,
+     "alcance": 1093,
+     "views": 1481,
      "link": "https://www.instagram.com/reel/Ddoc-OBRSk7/"
     },
     {
@@ -19965,8 +19947,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 1,
-     "alcance": 736,
-     "views": 1022,
+     "alcance": 749,
+     "views": 1032,
      "link": "https://www.instagram.com/reel/DdWf04bAAac/"
     },
     {
@@ -19979,8 +19961,8 @@ const DADOS_IG = {
      "comentarios": 1,
      "salvos": 0,
      "compartilhamentos": 2,
-     "alcance": 674,
-     "views": 871,
+     "alcance": 683,
+     "views": 886,
      "link": "https://www.instagram.com/reel/DdUio7tSoKV/"
     },
     {
@@ -19993,8 +19975,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 2,
-     "alcance": 724,
-     "views": 1202,
+     "alcance": 730,
+     "views": 1213,
      "link": "https://www.instagram.com/p/DdUZvARBDUe/"
     },
     {
@@ -20007,8 +19989,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 2,
      "compartilhamentos": 1,
-     "alcance": 895,
-     "views": 1243,
+     "alcance": 904,
+     "views": 1251,
      "link": "https://www.instagram.com/reel/DdTmJJKx_Fm/"
     },
     {
@@ -20021,8 +20003,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 1,
      "compartilhamentos": 4,
-     "alcance": 1264,
-     "views": 1754,
+     "alcance": 1271,
+     "views": 1762,
      "link": "https://www.instagram.com/reel/DdKXqyiyNrX/"
     },
     {
@@ -20035,8 +20017,8 @@ const DADOS_IG = {
      "comentarios": 19,
      "salvos": 0,
      "compartilhamentos": 3,
-     "alcance": 1466,
-     "views": 2056,
+     "alcance": 1470,
+     "views": 2061,
      "link": "https://www.instagram.com/reel/DdHpTf5TKVY/"
     },
     {
@@ -20049,8 +20031,8 @@ const DADOS_IG = {
      "comentarios": 5,
      "salvos": 1,
      "compartilhamentos": 3,
-     "alcance": 1010,
-     "views": 1314,
+     "alcance": 1014,
+     "views": 1320,
      "link": "https://www.instagram.com/reel/DdFGLFzz_E_/"
     },
     {
@@ -20063,8 +20045,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 2,
      "compartilhamentos": 2,
-     "alcance": 697,
-     "views": 963,
+     "alcance": 702,
+     "views": 968,
      "link": "https://www.instagram.com/reel/DcyHXW_h1sX/"
     },
     {
@@ -20077,8 +20059,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 3,
-     "alcance": 1081,
-     "views": 1370,
+     "alcance": 1086,
+     "views": 1376,
      "link": "https://www.instagram.com/reel/DctWXOoRMcC/"
     },
     {
@@ -20091,8 +20073,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 1,
-     "alcance": 811,
-     "views": 986,
+     "alcance": 816,
+     "views": 992,
      "link": "https://www.instagram.com/reel/DcdqCYoRbpX/"
     },
     {
@@ -20101,12 +20083,12 @@ const DADOS_IG = {
      "tipo": "VIDEO",
      "produto": "REELS",
      "data": "2026-08-20T14:39:15+0000",
-     "curtidas": 26,
+     "curtidas": 27,
      "comentarios": 1,
      "salvos": 7,
      "compartilhamentos": 7,
-     "alcance": 1126,
-     "views": 1446,
+     "alcance": 1136,
+     "views": 1457,
      "link": "https://www.instagram.com/reel/DcQ_tOdRf5Y/"
     },
     {
@@ -20119,8 +20101,8 @@ const DADOS_IG = {
      "comentarios": 5,
      "salvos": 2,
      "compartilhamentos": 5,
-     "alcance": 1264,
-     "views": 1531,
+     "alcance": 1271,
+     "views": 1539,
      "link": "https://www.instagram.com/reel/DcO8MDlp1CH/"
     },
     {
@@ -20133,8 +20115,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 4,
-     "alcance": 1539,
-     "views": 2004,
+     "alcance": 1550,
+     "views": 2013,
      "link": "https://www.instagram.com/reel/DcMBEbOxyRa/"
     },
     {
@@ -20147,8 +20129,8 @@ const DADOS_IG = {
      "comentarios": 5,
      "salvos": 0,
      "compartilhamentos": 1,
-     "alcance": 1112,
-     "views": 1656,
+     "alcance": 1117,
+     "views": 1664,
      "link": "https://www.instagram.com/reel/Db8L1AbRXyI/"
     },
     {
@@ -20161,8 +20143,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 1,
-     "alcance": 420,
-     "views": 692,
+     "alcance": 424,
+     "views": 701,
      "link": "https://www.instagram.com/p/DbzmEZuNL4S/"
     },
     {
@@ -20175,8 +20157,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 1,
-     "alcance": 727,
-     "views": 891,
+     "alcance": 731,
+     "views": 898,
      "link": "https://www.instagram.com/reel/DbtShV7xtoa/"
     },
     {
@@ -20189,8 +20171,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 7,
-     "alcance": 766,
-     "views": 1255,
+     "alcance": 770,
+     "views": 1261,
      "link": "https://www.instagram.com/p/Dbs-DBwkZ6z/"
     },
     {
@@ -20203,8 +20185,8 @@ const DADOS_IG = {
      "comentarios": 2,
      "salvos": 0,
      "compartilhamentos": 2,
-     "alcance": 912,
-     "views": 1096,
+     "alcance": 918,
+     "views": 1101,
      "link": "https://www.instagram.com/reel/DbszK6DR35J/"
     },
     {
@@ -20217,8 +20199,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 1,
-     "alcance": 480,
-     "views": 683,
+     "alcance": 484,
+     "views": 687,
      "link": "https://www.instagram.com/p/Dbq5GzjprRn/"
     },
     {
@@ -20231,8 +20213,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 0,
-     "alcance": 371,
-     "views": 600,
+     "alcance": 373,
+     "views": 604,
      "link": "https://www.instagram.com/p/Dbq44j5pk0g/"
     },
     {
@@ -20245,8 +20227,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 0,
-     "alcance": 348,
-     "views": 560,
+     "alcance": 350,
+     "views": 563,
      "link": "https://www.instagram.com/p/Dbq2vuZJygM/"
     },
     {
@@ -20259,8 +20241,8 @@ const DADOS_IG = {
      "comentarios": 5,
      "salvos": 1,
      "compartilhamentos": 4,
-     "alcance": 1588,
-     "views": 2185,
+     "alcance": 1591,
+     "views": 2188,
      "link": "https://www.instagram.com/reel/Dbn-UgTxhT-/"
     },
     {
@@ -20273,8 +20255,8 @@ const DADOS_IG = {
      "comentarios": 1,
      "salvos": 1,
      "compartilhamentos": 0,
-     "alcance": 287,
-     "views": 641,
+     "alcance": 290,
+     "views": 644,
      "link": "https://www.instagram.com/p/DbnvHtIEYRN/"
     },
     {
@@ -20287,8 +20269,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 0,
-     "alcance": 591,
-     "views": 798,
+     "alcance": 592,
+     "views": 801,
      "link": "https://www.instagram.com/p/DbnpvAZRmCV/"
     },
     {
@@ -20301,8 +20283,8 @@ const DADOS_IG = {
      "comentarios": 0,
      "salvos": 0,
      "compartilhamentos": 0,
-     "alcance": 600,
-     "views": 1369,
+     "alcance": 601,
+     "views": 1372,
      "link": "https://www.instagram.com/p/DbnpkV0EWKC/"
     },
     {
@@ -20311,7 +20293,7 @@ const DADOS_IG = {
      "tipo": "VIDEO",
      "produto": "REELS",
      "data": "2026-07-31T17:26:45+0000",
-     "curtidas": 121,
+     "curtidas": 120,
      "comentarios": 18,
      "salvos": 0,
      "compartilhamentos": 6,
@@ -20330,7 +20312,7 @@ const DADOS_IG = {
      "salvos": 0,
      "compartilhamentos": 1,
      "alcance": 726,
-     "views": 1301,
+     "views": 1304,
      "link": "https://www.instagram.com/p/DbdXDo5kVB9/"
     },
     {
@@ -20344,7 +20326,7 @@ const DADOS_IG = {
      "salvos": 0,
      "compartilhamentos": 6,
      "alcance": 1571,
-     "views": 1977,
+     "views": 1978,
      "link": "https://www.instagram.com/reel/DbbAi08xlkA/"
     },
     {
@@ -20358,7 +20340,7 @@ const DADOS_IG = {
      "salvos": 0,
      "compartilhamentos": 2,
      "alcance": 521,
-     "views": 1022,
+     "views": 1025,
      "link": "https://www.instagram.com/p/DbTNr4uEQ1U/"
     },
     {
@@ -20372,7 +20354,7 @@ const DADOS_IG = {
      "salvos": 0,
      "compartilhamentos": 0,
      "alcance": 1021,
-     "views": 1346,
+     "views": 1348,
      "link": "https://www.instagram.com/reel/DbI6zJdtaPq/"
     },
     {
@@ -20385,8 +20367,8 @@ const DADOS_IG = {
      "comentarios": 4,
      "salvos": 1,
      "compartilhamentos": 4,
-     "alcance": 1148,
-     "views": 1483,
+     "alcance": 1150,
+     "views": 1485,
      "link": "https://www.instagram.com/reel/Da52s4mJ4cG/"
     },
     {
@@ -20400,7 +20382,7 @@ const DADOS_IG = {
      "salvos": 1,
      "compartilhamentos": 1,
      "alcance": 1053,
-     "views": 1852,
+     "views": 1856,
      "link": "https://www.instagram.com/p/DavxIOpiW9E/"
     },
     {
@@ -20413,8 +20395,8 @@ const DADOS_IG = {
      "comentarios": 3,
      "salvos": 2,
      "compartilhamentos": 4,
-     "alcance": 1256,
-     "views": 1541,
+     "alcance": 1260,
+     "views": 1542,
      "link": "https://www.instagram.com/reel/DaqKfScRbUb/"
     },
     {
@@ -20427,8 +20409,8 @@ const DADOS_IG = {
      "comentarios": 3,
      "salvos": 3,
      "compartilhamentos": 4,
-     "alcance": 1398,
-     "views": 1934,
+     "alcance": 1402,
+     "views": 1936,
      "link": "https://www.instagram.com/reel/Dan6eg7pD5T/"
     },
     {
@@ -20442,7 +20424,7 @@ const DADOS_IG = {
      "salvos": 0,
      "compartilhamentos": 3,
      "alcance": 1275,
-     "views": 1703,
+     "views": 1705,
      "link": "https://www.instagram.com/reel/DanIhhuxqZp/"
     },
     {
@@ -20591,7 +20573,7 @@ const DADOS_IG = {
      "tipo": "VIDEO",
      "produto": "REELS",
      "data": "2026-05-30T17:10:17+0000",
-     "curtidas": 38,
+     "curtidas": 39,
      "comentarios": 9,
      "salvos": 3,
      "compartilhamentos": 8,
@@ -22411,7 +22393,7 @@ const DADOS_IG = {
      "tipo": "VIDEO",
      "produto": "REELS",
      "data": "2025-03-31T21:13:21+0000",
-     "curtidas": 116,
+     "curtidas": 115,
      "comentarios": 140,
      "salvos": 2,
      "compartilhamentos": 139,
@@ -22467,7 +22449,7 @@ const DADOS_IG = {
      "tipo": "VIDEO",
      "produto": "REELS",
      "data": "2025-03-24T21:23:55+0000",
-     "curtidas": 93,
+     "curtidas": 92,
      "comentarios": 137,
      "salvos": 1,
      "compartilhamentos": 50,
@@ -22523,7 +22505,7 @@ const DADOS_IG = {
      "tipo": "VIDEO",
      "produto": "REELS",
      "data": "2025-03-15T17:39:01+0000",
-     "curtidas": 63,
+     "curtidas": 62,
      "comentarios": 110,
      "salvos": 0,
      "compartilhamentos": 61,
@@ -22551,7 +22533,7 @@ const DADOS_IG = {
      "tipo": "VIDEO",
      "produto": "REELS",
      "data": "2025-03-08T17:29:11+0000",
-     "curtidas": 84,
+     "curtidas": 83,
      "comentarios": 132,
      "salvos": 2,
      "compartilhamentos": 50,
@@ -22635,7 +22617,7 @@ const DADOS_IG = {
      "tipo": "VIDEO",
      "produto": "REELS",
      "data": "2025-03-01T20:04:49+0000",
-     "curtidas": 116,
+     "curtidas": 115,
      "comentarios": 73,
      "salvos": 4,
      "compartilhamentos": 20,
@@ -23598,184 +23580,121 @@ const DADOS_IG = {
    ],
    "stories": [
     {
-     "id": "18106329824598635",
+     "id": "17909421930310506",
      "tipo": "VIDEO",
-     "data": "2026-10-02T15:29:17+0000",
-     "alcance": 203,
-     "views": 249,
+     "data": "2026-10-03T14:34:27+0000",
+     "alcance": 234,
+     "views": 284,
      "respostas": 0,
      "interacoes": 1
     },
     {
-     "id": "17899154190600636",
+     "id": "18023479241870780",
      "tipo": "VIDEO",
-     "data": "2026-10-02T15:28:17+0000",
-     "alcance": 207,
-     "views": 239,
-     "respostas": 0,
-     "interacoes": 1
-    },
-    {
-     "id": "18095462366431119",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T13:09:21+0000",
-     "alcance": 263,
-     "views": 290,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "17877140886562896",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T13:06:40+0000",
+     "data": "2026-10-03T12:45:12+0000",
      "alcance": 281,
-     "views": 310,
+     "views": 313,
      "respostas": 0,
      "interacoes": 0
     },
     {
-     "id": "18120162421890880",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T13:01:56+0000",
-     "alcance": 277,
-     "views": 316,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "18107462519606585",
+     "id": "17873584491594917",
      "tipo": "VIDEO",
-     "data": "2026-10-02T12:53:57+0000",
-     "alcance": 291,
+     "data": "2026-10-03T12:45:05+0000",
+     "alcance": 290,
+     "views": 311,
+     "respostas": 0,
+     "interacoes": 0
+    },
+    {
+     "id": "18079126043710250",
+     "tipo": "VIDEO",
+     "data": "2026-10-03T12:44:59+0000",
+     "alcance": 283,
      "views": 320,
      "respostas": 0,
      "interacoes": 0
     },
     {
-     "id": "18100929968643794",
+     "id": "18151424011541791",
      "tipo": "VIDEO",
-     "data": "2026-10-02T12:52:46+0000",
-     "alcance": 296,
-     "views": 329,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "18117958711768736",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T12:51:40+0000",
-     "alcance": 298,
-     "views": 334,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "18467468740138791",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T12:28:53+0000",
-     "alcance": 301,
-     "views": 355,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "18075960281432063",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T12:24:33+0000",
-     "alcance": 315,
-     "views": 385,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "17871657828602091",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T12:19:33+0000",
-     "alcance": 320,
-     "views": 373,
-     "respostas": 1,
-     "interacoes": 1
-    },
-    {
-     "id": "18098697701552176",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T12:11:08+0000",
-     "alcance": 324,
-     "views": 378,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "18105583526363857",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T11:47:20+0000",
-     "alcance": 336,
-     "views": 399,
+     "data": "2026-10-03T12:44:43+0000",
+     "alcance": 292,
+     "views": 361,
      "respostas": 0,
      "interacoes": 2
     },
     {
-     "id": "18108883520155593",
+     "id": "17950786419298172",
      "tipo": "VIDEO",
-     "data": "2026-10-02T11:44:28+0000",
-     "alcance": 338,
-     "views": 405,
+     "data": "2026-10-03T12:35:28+0000",
+     "alcance": 301,
+     "views": 379,
      "respostas": 0,
-     "interacoes": 0
+     "interacoes": 2
     },
     {
-     "id": "18114854018021234",
-     "tipo": "IMAGE",
-     "data": "2026-10-02T11:42:48+0000",
-     "alcance": 340,
-     "views": 421,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "18080292254354946",
+     "id": "18020285363947322",
      "tipo": "VIDEO",
-     "data": "2026-10-02T11:42:13+0000",
-     "alcance": 348,
-     "views": 418,
-     "respostas": 0,
-     "interacoes": 0
-    },
-    {
-     "id": "17896167336673707",
-     "tipo": "VIDEO",
-     "data": "2026-10-02T11:39:53+0000",
-     "alcance": 362,
-     "views": 399,
+     "data": "2026-10-03T12:31:25+0000",
+     "alcance": 300,
+     "views": 364,
      "respostas": 0,
      "interacoes": 1
     },
     {
-     "id": "18561637348072271",
+     "id": "18131512117742928",
      "tipo": "VIDEO",
-     "data": "2026-10-02T11:34:10+0000",
-     "alcance": 374,
-     "views": 426,
+     "data": "2026-10-03T12:27:25+0000",
+     "alcance": 314,
+     "views": 357,
      "respostas": 0,
-     "interacoes": 0
+     "interacoes": 1
     },
     {
-     "id": "18114557369012086",
+     "id": "17985314283064480",
      "tipo": "VIDEO",
-     "data": "2026-10-02T11:33:43+0000",
-     "alcance": 378,
-     "views": 442,
+     "data": "2026-10-03T12:24:31+0000",
+     "alcance": 319,
+     "views": 374,
+     "respostas": 0,
+     "interacoes": 1
+    },
+    {
+     "id": "18143284921510182",
+     "tipo": "VIDEO",
+     "data": "2026-10-03T12:21:18+0000",
+     "alcance": 324,
+     "views": 382,
      "respostas": 1,
-     "interacoes": 3
+     "interacoes": 2
     },
     {
-     "id": "18095834219428183",
+     "id": "18090389672230595",
      "tipo": "VIDEO",
-     "data": "2026-10-02T11:28:45+0000",
-     "alcance": 396,
-     "views": 467,
+     "data": "2026-10-03T12:18:48+0000",
+     "alcance": 333,
+     "views": 377,
+     "respostas": 1,
+     "interacoes": 2
+    },
+    {
+     "id": "18092766431390262",
+     "tipo": "VIDEO",
+     "data": "2026-10-03T12:06:54+0000",
+     "alcance": 336,
+     "views": 373,
      "respostas": 0,
-     "interacoes": 0
+     "interacoes": 1
+    },
+    {
+     "id": "18494863042099097",
+     "tipo": "VIDEO",
+     "data": "2026-10-03T12:05:08+0000",
+     "alcance": 366,
+     "views": 425,
+     "respostas": 0,
+     "interacoes": 1
     }
    ],
    "dms": {
@@ -25091,6 +25010,24 @@ const DADOS_IG = {
    "data": "2026-10-02",
    "loja": "L5",
    "seguidores": 14169,
+   "posts": 278
+  },
+  {
+   "data": "2026-10-03",
+   "loja": "L1",
+   "seguidores": 10830,
+   "posts": 800
+  },
+  {
+   "data": "2026-10-03",
+   "loja": "L4",
+   "seguidores": 8529,
+   "posts": 623
+  },
+  {
+   "data": "2026-10-03",
+   "loja": "L5",
+   "seguidores": 14174,
    "posts": 278
   }
  ],
@@ -61651,11 +61588,11 @@ const DADOS_IG = {
    "data": "2026-10-02T13:19:56+0000",
    "loja": "L1",
    "legenda": "Kit por R$ 150,90 Kit por R$ 128,90",
-   "alcance": 169,
-   "views": 189,
+   "alcance": 181,
+   "views": 195,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 59
+   "navegacao": 188
   },
   {
    "id": "18132444802588326",
@@ -61663,11 +61600,11 @@ const DADOS_IG = {
    "data": "2026-10-02T13:17:01+0000",
    "loja": "L1",
    "legenda": "Máscara matize  Por R$ 76,90",
-   "alcance": 173,
-   "views": 188,
+   "alcance": 181,
+   "views": 192,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 60
+   "navegacao": 187
   },
   {
    "id": "17898660936604501",
@@ -61675,11 +61612,11 @@ const DADOS_IG = {
    "data": "2026-10-02T13:11:22+0000",
    "loja": "L1",
    "legenda": "R$ 45,90 R$ 49,90",
-   "alcance": 172,
-   "views": 191,
+   "alcance": 183,
+   "views": 195,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 66
+   "navegacao": 189
   },
   {
    "id": "18109013276333625",
@@ -61687,11 +61624,11 @@ const DADOS_IG = {
    "data": "2026-10-02T13:10:42+0000",
    "loja": "L1",
    "legenda": "R$ 40,90 R$ 45,90 R$ 45,90",
-   "alcance": 179,
-   "views": 199,
+   "alcance": 190,
+   "views": 204,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 71
+   "navegacao": 201
   },
   {
    "id": "18115594100280918",
@@ -61699,11 +61636,11 @@ const DADOS_IG = {
    "data": "2026-10-02T13:08:12+0000",
    "loja": "L1",
    "legenda": "Máscara de reconstrução capilar para todos os tipos de cabelo 500g  R$ 70,90cd",
-   "alcance": 183,
-   "views": 204,
+   "alcance": 190,
+   "views": 210,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 74
+   "navegacao": 205
   },
   {
    "id": "18628980928058233",
@@ -61711,11 +61648,11 @@ const DADOS_IG = {
    "data": "2026-10-02T13:04:40+0000",
    "loja": "L1",
    "legenda": "Kit cronograma  Por R$ 106,90 Reconstrução fortalecimento \nHidratação e nutrição \nReparação é cauterização \n\nPara todos os tipos de cabelo",
-   "alcance": 179,
-   "views": 204,
+   "alcance": 190,
+   "views": 209,
    "respostas": 0,
    "interacoes": 2,
-   "navegacao": 71
+   "navegacao": 201
   },
   {
    "id": "17974441580938561",
@@ -61723,11 +61660,11 @@ const DADOS_IG = {
    "data": "2026-10-02T13:00:07+0000",
    "loja": "L1",
    "legenda": "Kit 145,90 Kit 119,90",
-   "alcance": 185,
-   "views": 208,
+   "alcance": 197,
+   "views": 219,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 74
+   "navegacao": 214
   },
   {
    "id": "17886376800485709",
@@ -61735,11 +61672,11 @@ const DADOS_IG = {
    "data": "2026-10-02T12:55:54+0000",
    "loja": "L1",
    "legenda": "Reparação, cauterização e fortalecimento da raiz as pontas para todo tipo de cabelo Therapy \nReparação cauterização e fortalecimento com extrato de alho desodorizado que tina colágeno e bio tina Kit por 119,90",
-   "alcance": 193,
-   "views": 214,
+   "alcance": 207,
+   "views": 225,
    "respostas": 1,
    "interacoes": 1,
-   "navegacao": 78
+   "navegacao": 222
   },
   {
    "id": "18122618884901127",
@@ -61747,11 +61684,11 @@ const DADOS_IG = {
    "data": "2026-10-02T12:46:39+0000",
    "loja": "L1",
    "legenda": "",
-   "alcance": 188,
-   "views": 209,
+   "alcance": 203,
+   "views": 219,
    "respostas": 1,
    "interacoes": 1,
-   "navegacao": 75
+   "navegacao": 220
   },
   {
    "id": "18411236959082851",
@@ -61759,11 +61696,11 @@ const DADOS_IG = {
    "data": "2026-10-02T12:39:17+0000",
    "loja": "L1",
    "legenda": "",
-   "alcance": 191,
-   "views": 230,
+   "alcance": 204,
+   "views": 241,
    "respostas": 1,
    "interacoes": 1,
-   "navegacao": 80
+   "navegacao": 236
   },
   {
    "id": "18633726280059590",
@@ -61771,11 +61708,11 @@ const DADOS_IG = {
    "data": "2026-10-02T12:30:27+0000",
    "loja": "L1",
    "legenda": "Kit de tratamento \nShampoo, Hidratante creme reconstrução, inversor . 132,90  184,90 279,90 158,90",
-   "alcance": 200,
-   "views": 251,
+   "alcance": 216,
+   "views": 264,
    "respostas": 0,
    "interacoes": 1,
-   "navegacao": 102
+   "navegacao": 247
   },
   {
    "id": "18143742307583633",
@@ -61783,11 +61720,11 @@ const DADOS_IG = {
    "data": "2026-10-02T12:09:11+0000",
    "loja": "L1",
    "legenda": "",
-   "alcance": 212,
-   "views": 243,
+   "alcance": 229,
+   "views": 258,
    "respostas": 1,
    "interacoes": 1,
-   "navegacao": 100
+   "navegacao": 251
   },
   {
    "id": "18420370882152107",
@@ -61795,11 +61732,11 @@ const DADOS_IG = {
    "data": "2026-10-02T14:18:08+0000",
    "loja": "L4",
    "legenda": "D",
-   "alcance": 70,
-   "views": 79,
+   "alcance": 78,
+   "views": 85,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 10
+   "navegacao": 82
   },
   {
    "id": "18148504615480861",
@@ -61807,11 +61744,11 @@ const DADOS_IG = {
    "data": "2026-10-02T14:06:50+0000",
    "loja": "L4",
    "legenda": "",
-   "alcance": 75,
-   "views": 85,
+   "alcance": 83,
+   "views": 90,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 14
+   "navegacao": 84
   },
   {
    "id": "17987485785077158",
@@ -61819,11 +61756,11 @@ const DADOS_IG = {
    "data": "2026-10-02T11:11:31+0000",
    "loja": "L4",
    "legenda": "",
-   "alcance": 91,
-   "views": 105,
+   "alcance": 97,
+   "views": 112,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 45
+   "navegacao": 104
   },
   {
    "id": "18095462366431119",
@@ -61831,11 +61768,11 @@ const DADOS_IG = {
    "data": "2026-10-02T13:09:21+0000",
    "loja": "L5",
    "legenda": "",
-   "alcance": 263,
-   "views": 290,
+   "alcance": 284,
+   "views": 310,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 89
+   "navegacao": 301
   },
   {
    "id": "17877140886562896",
@@ -61843,11 +61780,11 @@ const DADOS_IG = {
    "data": "2026-10-02T13:06:40+0000",
    "loja": "L5",
    "legenda": "🤎 Bolsa marrom: transmite elegância, sofisticação, segurança e versatilidade. É uma cor clássica e fácil de combinar.✨🛍️💕 🎀Usaria super 😉",
-   "alcance": 281,
-   "views": 310,
+   "alcance": 293,
+   "views": 332,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 104
+   "navegacao": 317
   },
   {
    "id": "18120162421890880",
@@ -61855,11 +61792,11 @@ const DADOS_IG = {
    "data": "2026-10-02T13:01:56+0000",
    "loja": "L5",
    "legenda": "",
-   "alcance": 277,
-   "views": 316,
+   "alcance": 295,
+   "views": 336,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 109
+   "navegacao": 318
   },
   {
    "id": "18107462519606585",
@@ -61867,11 +61804,11 @@ const DADOS_IG = {
    "data": "2026-10-02T12:53:57+0000",
    "loja": "L5",
    "legenda": "Meninas chegou mais Novidades na loja!!",
-   "alcance": 291,
-   "views": 320,
+   "alcance": 303,
+   "views": 338,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 117
+   "navegacao": 327
   },
   {
    "id": "18100929968643794",
@@ -61879,11 +61816,11 @@ const DADOS_IG = {
    "data": "2026-10-02T12:52:46+0000",
    "loja": "L5",
    "legenda": "",
-   "alcance": 296,
-   "views": 329,
+   "alcance": 312,
+   "views": 348,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 116
+   "navegacao": 320
   },
   {
    "id": "18117958711768736",
@@ -61891,11 +61828,11 @@ const DADOS_IG = {
    "data": "2026-10-02T12:51:40+0000",
    "loja": "L5",
    "legenda": "💍Porta joias 💎",
-   "alcance": 298,
-   "views": 334,
+   "alcance": 312,
+   "views": 352,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 129
+   "navegacao": 339
   },
   {
    "id": "18467468740138791",
@@ -61903,11 +61840,11 @@ const DADOS_IG = {
    "data": "2026-10-02T12:28:53+0000",
    "loja": "L5",
    "legenda": "🎨 Muitas opções de máscaras pigmentantes em refil da Kamaleão Color! 💜\n Já aproveita e garanta a sua unidade antes que acabe! ✨",
-   "alcance": 301,
-   "views": 355,
+   "alcance": 320,
+   "views": 373,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 159
+   "navegacao": 361
   },
   {
    "id": "18075960281432063",
@@ -61915,11 +61852,11 @@ const DADOS_IG = {
    "data": "2026-10-02T12:24:33+0000",
    "loja": "L5",
    "legenda": "✨Camaleão color✨ 🎀Todos a pronta entrega!🎀",
-   "alcance": 315,
-   "views": 385,
+   "alcance": 324,
+   "views": 403,
    "respostas": 0,
-   "interacoes": 0,
-   "navegacao": 166
+   "interacoes": 1,
+   "navegacao": 380
   },
   {
    "id": "17871657828602091",
@@ -61927,11 +61864,11 @@ const DADOS_IG = {
    "data": "2026-10-02T12:19:33+0000",
    "loja": "L5",
    "legenda": "Aparador facial",
-   "alcance": 320,
-   "views": 373,
+   "alcance": 333,
+   "views": 391,
    "respostas": 1,
    "interacoes": 1,
-   "navegacao": 164
+   "navegacao": 367
   },
   {
    "id": "18098697701552176",
@@ -61939,11 +61876,11 @@ const DADOS_IG = {
    "data": "2026-10-02T12:11:08+0000",
    "loja": "L5",
    "legenda": "",
-   "alcance": 324,
-   "views": 378,
+   "alcance": 336,
+   "views": 394,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 181
+   "navegacao": 386
   },
   {
    "id": "18105583526363857",
@@ -61951,11 +61888,11 @@ const DADOS_IG = {
    "data": "2026-10-02T11:47:20+0000",
    "loja": "L5",
    "legenda": "",
-   "alcance": 336,
-   "views": 399,
+   "alcance": 354,
+   "views": 417,
    "respostas": 0,
    "interacoes": 2,
-   "navegacao": 189
+   "navegacao": 386
   },
   {
    "id": "18108883520155593",
@@ -61963,11 +61900,11 @@ const DADOS_IG = {
    "data": "2026-10-02T11:44:28+0000",
    "loja": "L5",
    "legenda": "Beautycolor",
-   "alcance": 338,
-   "views": 405,
+   "alcance": 348,
+   "views": 425,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 203
+   "navegacao": 404
   },
   {
    "id": "18114854018021234",
@@ -61975,11 +61912,11 @@ const DADOS_IG = {
    "data": "2026-10-02T11:42:48+0000",
    "loja": "L5",
    "legenda": "",
-   "alcance": 340,
-   "views": 421,
+   "alcance": 353,
+   "views": 440,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 211
+   "navegacao": 425
   },
   {
    "id": "18080292254354946",
@@ -61987,11 +61924,11 @@ const DADOS_IG = {
    "data": "2026-10-02T11:42:13+0000",
    "loja": "L5",
    "legenda": "-Yamasterol- $:12,90💰 $:13,90💰",
-   "alcance": 348,
-   "views": 418,
+   "alcance": 361,
+   "views": 436,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 197
+   "navegacao": 408
   },
   {
    "id": "17896167336673707",
@@ -61999,11 +61936,11 @@ const DADOS_IG = {
    "data": "2026-10-02T11:39:53+0000",
    "loja": "L5",
    "legenda": "",
-   "alcance": 362,
-   "views": 399,
+   "alcance": 377,
+   "views": 417,
    "respostas": 0,
    "interacoes": 1,
-   "navegacao": 199
+   "navegacao": 405
   },
   {
    "id": "18561637348072271",
@@ -62011,11 +61948,11 @@ const DADOS_IG = {
    "data": "2026-10-02T11:34:10+0000",
    "loja": "L5",
    "legenda": "",
-   "alcance": 374,
-   "views": 426,
+   "alcance": 390,
+   "views": 443,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 215
+   "navegacao": 420
   },
   {
    "id": "18114557369012086",
@@ -62023,11 +61960,11 @@ const DADOS_IG = {
    "data": "2026-10-02T11:33:43+0000",
    "loja": "L5",
    "legenda": "Spray temporário disponível na loja!✅✨",
-   "alcance": 378,
-   "views": 442,
+   "alcance": 389,
+   "views": 458,
    "respostas": 1,
    "interacoes": 3,
-   "navegacao": 220
+   "navegacao": 428
   },
   {
    "id": "18095834219428183",
@@ -62035,121 +61972,562 @@ const DADOS_IG = {
    "data": "2026-10-02T11:28:45+0000",
    "loja": "L5",
    "legenda": "",
-   "alcance": 396,
-   "views": 467,
+   "alcance": 411,
+   "views": 484,
    "respostas": 0,
    "interacoes": 0,
-   "navegacao": 232
+   "navegacao": 454
   },
   {
    "id": "18430399465196345",
    "tipo": "VIDEO",
    "data": "2026-10-02T19:25:09+0000",
-   "alcance": 64,
-   "views": 80,
+   "alcance": 202,
+   "views": 229,
    "respostas": 0,
-   "interacoes": 0,
-   "loja": "L1"
+   "interacoes": 1,
+   "loja": "L1",
+   "legenda": "Chegou novidade 🥰 Payot",
+   "navegacao": 203
   },
   {
    "id": "18104515574252463",
    "tipo": "VIDEO",
    "data": "2026-10-02T16:15:40+0000",
-   "alcance": 127,
-   "views": 145,
+   "alcance": 232,
+   "views": 261,
    "respostas": 0,
    "interacoes": 0,
-   "loja": "L1"
+   "loja": "L1",
+   "legenda": "",
+   "navegacao": 251
   },
   {
    "id": "18116848901062852",
    "tipo": "IMAGE",
    "data": "2026-10-02T16:13:55+0000",
-   "alcance": 131,
-   "views": 150,
+   "alcance": 237,
+   "views": 269,
    "respostas": 0,
    "interacoes": 0,
-   "loja": "L1"
+   "loja": "L1",
+   "legenda": "Shampoo 140,90\nMáscara 174,90\nCondicionador 142,90",
+   "navegacao": 260
   },
   {
    "id": "18121313561292404",
    "tipo": "IMAGE",
    "data": "2026-10-02T16:12:47+0000",
-   "alcance": 131,
-   "views": 150,
+   "alcance": 239,
+   "views": 271,
    "respostas": 0,
    "interacoes": 0,
-   "loja": "L1"
+   "loja": "L1",
+   "legenda": "Shampoo 129,90\nMáscara 183,90\nProtetor 194,90",
+   "navegacao": 260
   },
   {
    "id": "18134901814733264",
    "tipo": "IMAGE",
    "data": "2026-10-02T16:11:23+0000",
-   "alcance": 138,
-   "views": 161,
+   "alcance": 248,
+   "views": 290,
    "respostas": 0,
    "interacoes": 0,
-   "loja": "L1"
+   "loja": "L1",
+   "legenda": "Máscara teia reconstrução \nPor 334,90",
+   "navegacao": 282
   },
   {
    "id": "18119109440065642",
    "tipo": "IMAGE",
    "data": "2026-10-02T16:10:30+0000",
-   "alcance": 140,
-   "views": 183,
+   "alcance": 253,
+   "views": 321,
    "respostas": 0,
    "interacoes": 0,
-   "loja": "L1"
+   "loja": "L1",
+   "legenda": "Shampoo 136,90\nCond 139,90\nScalp mask 236,90",
+   "navegacao": 298
   },
   {
    "id": "18123230902933193",
    "tipo": "IMAGE",
    "data": "2026-10-02T16:08:25+0000",
-   "alcance": 139,
-   "views": 186,
+   "alcance": 259,
+   "views": 327,
    "respostas": 0,
    "interacoes": 0,
-   "loja": "L1"
+   "loja": "L1",
+   "legenda": "Shampoo 140,90\nMáscara 185,99\nCondicionador 142,90\nAmpola 60,90\nRepardor de 60ml 152,90\nRepardor 30ml 82,90",
+   "navegacao": 311
   },
   {
    "id": "18015192005746858",
    "tipo": "IMAGE",
    "data": "2026-10-02T16:05:12+0000",
-   "alcance": 147,
-   "views": 185,
+   "alcance": 264,
+   "views": 333,
    "respostas": 0,
-   "interacoes": 0,
-   "loja": "L1"
+   "interacoes": 1,
+   "loja": "L1",
+   "legenda": "122,90 184,90",
+   "navegacao": 306
   },
   {
    "id": "18331439290274468",
    "tipo": "VIDEO",
    "data": "2026-10-02T15:25:06+0000",
-   "alcance": 150,
-   "views": 180,
-   "respostas": 0,
-   "interacoes": 0,
-   "loja": "L1"
+   "alcance": 269,
+   "views": 323,
+   "respostas": 1,
+   "interacoes": 1,
+   "loja": "L1",
+   "legenda": "",
+   "navegacao": 295
   },
   {
    "id": "18106329824598635",
    "tipo": "VIDEO",
    "data": "2026-10-02T15:29:17+0000",
-   "alcance": 203,
-   "views": 249,
+   "alcance": 374,
+   "views": 441,
    "respostas": 0,
    "interacoes": 1,
-   "loja": "L5"
+   "loja": "L5",
+   "legenda": "",
+   "navegacao": 429
   },
   {
    "id": "17899154190600636",
    "tipo": "VIDEO",
    "data": "2026-10-02T15:28:17+0000",
-   "alcance": 207,
-   "views": 239,
+   "alcance": 383,
+   "views": 426,
    "respostas": 0,
    "interacoes": 1,
-   "loja": "L5"
+   "loja": "L5",
+   "legenda": "",
+   "navegacao": 408
+  },
+  {
+   "id": "18106125293618901",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T14:47:03+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 117,
+   "views": 139,
+   "respostas": 0,
+   "interacoes": 0
+  },
+  {
+   "id": "18113926172041174",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T13:18:49+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 132,
+   "views": 161,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 52
+  },
+  {
+   "id": "18032957348672359",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T13:18:48+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 135,
+   "views": 150,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 46
+  },
+  {
+   "id": "18115918954821160",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T13:18:47+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 137,
+   "views": 152,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 47
+  },
+  {
+   "id": "17885142657498505",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T13:18:46+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 137,
+   "views": 154,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 50
+  },
+  {
+   "id": "17953494885035256",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T13:18:45+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 139,
+   "views": 157,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 51
+  },
+  {
+   "id": "18069963851776748",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T13:18:44+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 144,
+   "views": 159,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 56
+  },
+  {
+   "id": "17870417058644240",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T13:18:43+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 144,
+   "views": 157,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 59
+  },
+  {
+   "id": "18100978205527719",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T13:18:42+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 147,
+   "views": 160,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 56
+  },
+  {
+   "id": "18354374248222826",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T12:54:09+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 153,
+   "views": 170,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 67
+  },
+  {
+   "id": "18117048106995658",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T12:45:19+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 159,
+   "views": 184,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 68
+  },
+  {
+   "id": "18434897503181429",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T12:44:57+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 163,
+   "views": 203,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 81
+  },
+  {
+   "id": "18096610163437432",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T12:44:46+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 162,
+   "views": 204,
+   "respostas": 0,
+   "interacoes": 5,
+   "navegacao": 88
+  },
+  {
+   "id": "17918344392444199",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:44:06+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 162,
+   "views": 179,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 57
+  },
+  {
+   "id": "18075284918465263",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:17:18+0000",
+   "loja": "L1",
+   "legenda": "",
+   "alcance": 177,
+   "views": 200,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 88
+  },
+  {
+   "id": "18162442924497115",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T00:25:08+0000",
+   "loja": "L1",
+   "legenda": "Chegou aqui na",
+   "alcance": 238,
+   "views": 270,
+   "respostas": 0,
+   "interacoes": 2,
+   "navegacao": 172
+  },
+  {
+   "id": "18141397477614203",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T11:38:44+0000",
+   "loja": "L4",
+   "legenda": "",
+   "alcance": 148,
+   "views": 157,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 74
+  },
+  {
+   "id": "18105372652961972",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T11:38:22+0000",
+   "loja": "L4",
+   "legenda": "",
+   "alcance": 148,
+   "views": 150,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 74
+  },
+  {
+   "id": "17946575769335077",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T11:38:11+0000",
+   "loja": "L4",
+   "legenda": "",
+   "alcance": 156,
+   "views": 169,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 78
+  },
+  {
+   "id": "18074454572472438",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T11:37:30+0000",
+   "loja": "L4",
+   "legenda": "",
+   "alcance": 161,
+   "views": 182,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 87
+  },
+  {
+   "id": "18111106241160185",
+   "tipo": "IMAGE",
+   "data": "2026-10-03T11:37:02+0000",
+   "loja": "L4",
+   "legenda": "",
+   "alcance": 161,
+   "views": 180,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 84
+  },
+  {
+   "id": "18355690960173927",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T11:36:20+0000",
+   "loja": "L4",
+   "legenda": "",
+   "alcance": 171,
+   "views": 184,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 88
+  },
+  {
+   "id": "17909421930310506",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T14:34:27+0000",
+   "loja": "L5",
+   "legenda": "🎁✨ Uma cesta linda montada com carinho para presentear alguém especial! 💕\nAqui na Miss Beleza, você escolhe os produtos e a gente monta o seu kit do jeitinho que você quiser. 🩷",
+   "alcance": 234,
+   "views": 284,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 12
+  },
+  {
+   "id": "18023479241870780",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:45:12+0000",
+   "loja": "L5",
+   "legenda": "",
+   "alcance": 281,
+   "views": 313,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 101
+  },
+  {
+   "id": "17873584491594917",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:45:05+0000",
+   "loja": "L5",
+   "legenda": "",
+   "alcance": 290,
+   "views": 311,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 103
+  },
+  {
+   "id": "18079126043710250",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:44:59+0000",
+   "loja": "L5",
+   "legenda": "",
+   "alcance": 283,
+   "views": 320,
+   "respostas": 0,
+   "interacoes": 0,
+   "navegacao": 115
+  },
+  {
+   "id": "18151424011541791",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:44:43+0000",
+   "loja": "L5",
+   "legenda": "",
+   "alcance": 292,
+   "views": 361,
+   "respostas": 0,
+   "interacoes": 2,
+   "navegacao": 124
+  },
+  {
+   "id": "17950786419298172",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:35:28+0000",
+   "loja": "L5",
+   "legenda": "LetemeBe",
+   "alcance": 301,
+   "views": 379,
+   "respostas": 0,
+   "interacoes": 2,
+   "navegacao": 130
+  },
+  {
+   "id": "18020285363947322",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:31:25+0000",
+   "loja": "L5",
+   "legenda": "3unidade por 10$",
+   "alcance": 300,
+   "views": 364,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 123
+  },
+  {
+   "id": "18131512117742928",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:27:25+0000",
+   "loja": "L5",
+   "legenda": "Della&Delle",
+   "alcance": 314,
+   "views": 357,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 132
+  },
+  {
+   "id": "17985314283064480",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:24:31+0000",
+   "loja": "L5",
+   "legenda": "Acessórios indispensável!",
+   "alcance": 319,
+   "views": 374,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 137
+  },
+  {
+   "id": "18143284921510182",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:21:18+0000",
+   "loja": "L5",
+   "legenda": "Cílios magnéticos",
+   "alcance": 324,
+   "views": 382,
+   "respostas": 1,
+   "interacoes": 2,
+   "navegacao": 139
+  },
+  {
+   "id": "18090389672230595",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:18:48+0000",
+   "loja": "L5",
+   "legenda": "",
+   "alcance": 333,
+   "views": 377,
+   "respostas": 1,
+   "interacoes": 2,
+   "navegacao": 143
+  },
+  {
+   "id": "18092766431390262",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:06:54+0000",
+   "loja": "L5",
+   "legenda": "",
+   "alcance": 336,
+   "views": 373,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 151
+  },
+  {
+   "id": "18494863042099097",
+   "tipo": "VIDEO",
+   "data": "2026-10-03T12:05:08+0000",
+   "loja": "L5",
+   "legenda": "",
+   "alcance": 366,
+   "views": 425,
+   "respostas": 0,
+   "interacoes": 1,
+   "navegacao": 159
   }
  ]
 };
