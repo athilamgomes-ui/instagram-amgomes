@@ -21,13 +21,29 @@ const LOJAS = ['L1', 'L4', 'L5']
   .filter(l => l.igId && l.token);
 
 const BASE = 'https://graph.facebook.com/v25.0';
+// ⚠️ 31/10/2026 (auditoria): este fetch era de UMA tentativa só. A coleta das 20:00 cai na janela
+// em que o Mac cochila e a rede oscila, e qualquer ConnectTimeoutError para graph.facebook.com
+// derrubava a loja inteira ("L4: fetch failed") sem nova tentativa. Stories expiram em 24h, então
+// o ciclo perdido não volta: agora são 3 tentativas com espera crescente, e só erro de verdade da
+// API (token, permissão) sai na primeira — repetir não conserta token.
 async function api(path, params, token) {
   const url = new URL(`${BASE}/${path}`);
   url.searchParams.set('access_token', token);
   for (const [k, v] of Object.entries(params || {})) url.searchParams.set(k, v);
-  const d = await (await fetch(url)).json();
-  if (d.error) throw new Error(d.error.message);
-  return d;
+  let ultimo;
+  for (let t = 1; t <= 3; t++) {
+    try {
+      const r = await fetch(url, { signal: AbortSignal.timeout(25000) });
+      const d = await r.json();
+      if (d.error) throw new Error(`API: ${d.error.message}`);
+      return d;
+    } catch (e) {
+      ultimo = e;
+      if (String(e.message || '').startsWith('API: ')) throw e;   // erro de token/permissão: não insiste
+      if (t < 3) { process.stderr.write(`  rede falhou (tentativa ${t}/3: ${e.message}) — repetindo em ${t * 10}s\n`); await new Promise(r => setTimeout(r, t * 10000)); }
+    }
+  }
+  throw ultimo;
 }
 
 const histPath = join(__dir, 'historico_stories.json');
