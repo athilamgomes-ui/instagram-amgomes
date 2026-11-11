@@ -54809,10 +54809,10 @@
   "id": "18110778083222244",
   "tipo": "VIDEO",
   "data": "2026-11-11T00:48:11+0000",
-  "alcance": null,
-  "views": null,
-  "respostas": null,
-  "interacoes": null,
+  "alcance": 241,
+  "views": 284,
+  "respostas": 0,
+  "interacoes": 1,
   "loja": "L1"
  },
  {
@@ -55003,6 +55003,416 @@
   "views": 287,
   "respostas": 0,
   "interacoes": 1,
+  "loja": "L5"
+ },
+ {
+  "id": "18010669562826421",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T12:33:12+0000",
+  "alcance": 149,
+  "views": 165,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "17967588504230319",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T12:25:07+0000",
+  "alcance": 162,
+  "views": 182,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "18016850012968284",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T12:23:57+0000",
+  "alcance": 162,
+  "views": 192,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "18097912064447364",
+  "tipo": "IMAGE",
+  "data": "2026-11-11T12:17:19+0000",
+  "alcance": 165,
+  "views": 203,
+  "respostas": 1,
+  "interacoes": 1,
+  "loja": "L1"
+ },
+ {
+  "id": "17998767464834123",
+  "tipo": "IMAGE",
+  "data": "2026-11-11T11:58:06+0000",
+  "alcance": 171,
+  "views": 201,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "18090755351285614",
+  "tipo": "IMAGE",
+  "data": "2026-11-11T11:47:51+0000",
+  "alcance": 177,
+  "views": 186,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "18077868722742258",
+  "tipo": "IMAGE",
+  "data": "2026-11-11T11:47:34+0000",
+  "alcance": 179,
+  "views": 193,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "17965704717035259",
+  "tipo": "IMAGE",
+  "data": "2026-11-11T11:45:49+0000",
+  "alcance": 185,
+  "views": 203,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "18118397264119296",
+  "tipo": "IMAGE",
+  "data": "2026-11-11T11:45:41+0000",
+  "alcance": 188,
+  "views": 212,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "17884536489534346",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T11:40:54+0000",
+  "alcance": 189,
+  "views": 206,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L1"
+ },
+ {
+  "id": "17916741759515202",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T11:38:52+0000",
+  "alcance": 193,
+  "views": 205,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "17939046825399804",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T11:31:45+0000",
+  "alcance": 194,
+  "views": 208,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "18164045080444741",
+  "tipo": "IMAGE",
+  "data": "2026-11-11T11:30:05+0000",
+  "alcance": 197,
+  "views": 215,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "17999190522046441",
+  "tipo": "IMAGE",
+  "data": "2026-11-11T11:24:13+0000",
+  "alcance": 203,
+  "views": 233,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L1"
+ },
+ {
+  "id": "18083089790549977",
+  "tipo": "IMAGE",
+  "data": "2026-11-11T11:24:05+0000",
+  "alcance": 206,
+  "views": 246,
+  "respostas": 1,
+  "interacoes": 1,
+  "loja": "L1"
+ },
+ {
+  "id": "18100043663441054",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T11:13:36+0000",
+  "alcance": 216,
+  "views": 244,
+  "respostas": 0,
+  "interacoes": 2,
+  "loja": "L1"
+ },
+ {
+  "id": "18031430495913224",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T19:48:22+0000",
+  "alcance": 41,
+  "views": 49,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "18108403181360547",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T13:33:31+0000",
+  "alcance": 116,
+  "views": 129,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "18641011225025558",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T13:31:19+0000",
+  "alcance": 120,
+  "views": 142,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "17880752670564259",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T13:28:16+0000",
+  "alcance": 120,
+  "views": 153,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L4"
+ },
+ {
+  "id": "17893744674686131",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T13:27:27+0000",
+  "alcance": 124,
+  "views": 153,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "18316721116303835",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T13:07:55+0000",
+  "alcance": 129,
+  "views": 146,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "17993421972098404",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T12:59:42+0000",
+  "alcance": 131,
+  "views": 135,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "17897907474682580",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T12:56:11+0000",
+  "alcance": 135,
+  "views": 142,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "18226387312337682",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T12:51:04+0000",
+  "alcance": 139,
+  "views": 147,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "18026144888715202",
+  "tipo": "IMAGE",
+  "data": "2026-11-11T12:44:24+0000",
+  "alcance": 143,
+  "views": 149,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "18210991240371117",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T12:35:51+0000",
+  "alcance": 153,
+  "views": 166,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "18205725340391472",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T12:32:22+0000",
+  "alcance": 154,
+  "views": 170,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "18114404960161211",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T12:22:30+0000",
+  "alcance": 159,
+  "views": 171,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L4"
+ },
+ {
+  "id": "18127195801925400",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T12:17:17+0000",
+  "alcance": 161,
+  "views": 173,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L4"
+ },
+ {
+  "id": "18087041930326822",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T12:02:49+0000",
+  "alcance": 170,
+  "views": 191,
+  "respostas": 1,
+  "interacoes": 5,
+  "loja": "L4"
+ },
+ {
+  "id": "17913173577307757",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T19:00:31+0000",
+  "alcance": 205,
+  "views": 242,
+  "respostas": 0,
+  "interacoes": 3,
+  "loja": "L5"
+ },
+ {
+  "id": "18143697949614531",
+  "tipo": "IMAGE",
+  "data": "2026-11-11T18:51:33+0000",
+  "alcance": 216,
+  "views": 247,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L5"
+ },
+ {
+  "id": "17968313009984761",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T18:51:20+0000",
+  "alcance": 225,
+  "views": 257,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L5"
+ },
+ {
+  "id": "17949927939358833",
+  "tipo": "IMAGE",
+  "data": "2026-11-11T18:51:09+0000",
+  "alcance": 217,
+  "views": 261,
+  "respostas": 0,
+  "interacoes": 0,
+  "loja": "L5"
+ },
+ {
+  "id": "17966971878232579",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T18:51:00+0000",
+  "alcance": 218,
+  "views": 278,
+  "respostas": 0,
+  "interacoes": 2,
+  "loja": "L5"
+ },
+ {
+  "id": "18148038229598356",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T18:50:49+0000",
+  "alcance": 230,
+  "views": 292,
+  "respostas": 4,
+  "interacoes": 6,
+  "loja": "L5"
+ },
+ {
+  "id": "17992683885118707",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T18:50:36+0000",
+  "alcance": 228,
+  "views": 282,
+  "respostas": 3,
+  "interacoes": 5,
+  "loja": "L5"
+ },
+ {
+  "id": "17916149010556205",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T17:25:51+0000",
+  "alcance": 260,
+  "views": 312,
+  "respostas": 0,
+  "interacoes": 1,
+  "loja": "L5"
+ },
+ {
+  "id": "18100835369422617",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T17:25:32+0000",
+  "alcance": 267,
+  "views": 313,
+  "respostas": 2,
+  "interacoes": 5,
+  "loja": "L5"
+ },
+ {
+  "id": "18031808564879673",
+  "tipo": "VIDEO",
+  "data": "2026-11-11T12:26:37+0000",
+  "alcance": 327,
+  "views": 389,
+  "respostas": 0,
+  "interacoes": 2,
   "loja": "L5"
  }
 ]
